@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Adversarial moral-legal code system — stress-test ethical principles through adversarial AI agents"
 requires-python = ">=3.12"
 dependencies = [
+    "anthropic>=0.50.0",
     "venice-sdk @ git+https://github.com/actuallyrizzn/Venice-AI-SDK.git",
     "pydantic>=2.0",
     "rich>=13.0",

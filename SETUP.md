@@ -3,10 +3,10 @@
 ## What you need
 
 | Requirement | Notes |
-|---------------|--------|
+|-------------|-------|
 | **Python** | 3.12 or newer (`requires-python = ">=3.12"` in `pyproject.toml`; `.python-version` pins `3.12`) |
 | **uv** | Recommended by upstream: installs locked deps from `uv.lock` (`uv sync`) |
-| **Venice API key** | Runtime: set `VENICE_API_KEY` so the Venice SDK can call the API for all agents (create a key in [Venice API settings](https://venice.ai/settings/api)) |
+| **API key** | Either `ANTHROPIC_API_KEY` (for Claude) or `VENICE_API_KEY` (for Venice) depending on which provider you use |
 | **Network** | For `uv sync` / package install and for API calls at run time |
 
 ## Install
@@ -14,10 +14,51 @@
 ```bash
 cd /path/to/loophole   # e.g. /workspace/projects/loophole
 uv sync
-export VENICE_API_KEY="..."   # required; from https://venice.ai/settings/api
 ```
 
 If `uv` is missing: `pip install uv` (or see [astral.sh/uv](https://github.com/astral-sh/uv)).
+
+## Choose your provider
+
+Loophole supports two LLM backends:
+
+### Option 1: Anthropic (default)
+
+```bash
+export ANTHROPIC_API_KEY="sk-ant-..."
+uv run python -m loophole.main
+```
+
+### Option 2: Venice AI
+
+```bash
+export VENICE_API_KEY="..."  # from https://venice.ai/settings/api
+export LOOPHOLE_PROVIDER="venice"
+uv run python -m loophole.main
+```
+
+You can also set the provider in `config.yaml`:
+
+```yaml
+model:
+  provider: "venice"  # or "anthropic"
+  default: "minimax-m25"  # venice model name
+```
+
+## Provider selection priority
+
+1. `LOOPHOLE_PROVIDER` environment variable
+2. `model.provider` in `config.yaml`
+3. Default: `"anthropic"`
+
+## Default models
+
+| Provider | Default model |
+|----------|---------------|
+| Anthropic | `claude-sonnet-4-20250514` |
+| Venice | `llama-3.3-70b` |
+
+Override with `model.default` in `config.yaml`.
 
 ## Run
 
@@ -29,7 +70,7 @@ uv run python -m loophole.main new --domain privacy -p examples/privacy_principl
 
 ## Optional: tune behavior
 
-Edit `config.yaml` (model name, temperatures, loop limits, `session_dir`).
+Edit `config.yaml` (provider, model name, temperatures, loop limits, `session_dir`).
 
 ## Pip-only note
 

@@ -1,5 +1,6 @@
 model:
-  default: "minimax-m25"
+  provider: "anthropic"  # "anthropic" or "venice" (or set LOOPHOLE_PROVIDER env var)
+  default: "claude-sonnet-4-20250514"  # anthropic: claude-sonnet-4-20250514, venice: llama-3.3-70b, minimax-m25, etc.
   max_tokens: 4096
 
 temperatures:
