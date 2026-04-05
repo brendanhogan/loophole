@@ -1,0 +1,110 @@
+/* ==========================================================================
+   Theme switcher — a small dropdown in the header
+   ========================================================================== */
+
+.theme-switch { position: relative; }
+
+.theme-switch__trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.375rem 0.625rem;
+  font-family: var(--font-body);
+  font-size: var(--fs-small);
+  color: var(--ink-soft);
+  background: var(--bg-deep);
+  border: 1px solid var(--ink-ghost);
+  transition: all 0.15s ease;
+}
+.theme-switch__trigger:hover {
+  color: var(--ink);
+  border-color: var(--ink);
+}
+
+/* Swatches — each theme's color signature in a tiny circle pair */
+.theme-switch__swatch {
+  width: 14px; height: 14px;
+  border-radius: 50%;
+  position: relative;
+  flex-shrink: 0;
+  border: 1px solid var(--ink-ghost);
+}
+.theme-switch__swatch::after {
+  content: '';
+  position: absolute;
+  inset: 3px 0 3px 50%;
+  border-radius: 0 7px 7px 0;
+}
+
+.theme-switch__swatch--court { background: #f2ebdf; }
+.theme-switch__swatch--court::after { background: #5c1a1a; }
+
+.theme-switch__swatch--terminal { background: #0d0e0a; border-color: #4a4e3c; }
+.theme-switch__swatch--terminal::after { background: #e8a33d; }
+
+.theme-switch__swatch--lab { background: #fafaf7; }
+.theme-switch__swatch--lab::after { background: #0047ab; }
+
+.theme-switch__name {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 0.9375rem;
+  color: var(--ink);
+}
+.theme-switch__caret {
+  font-size: 0.625rem;
+  color: var(--ink-faint);
+  margin-left: 0.125rem;
+}
+
+/* ----- Dropdown menu --------------------------------------------------- */
+.theme-switch__menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  min-width: 220px;
+  background: var(--surface, var(--bg));
+  border: 1px solid var(--ink);
+  box-shadow: 4px 4px 0 var(--ink);
+  z-index: 50;
+  animation: fade-up 0.15s ease-out;
+}
+
+.theme-switch__option {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+  padding: 0.75rem 0.875rem;
+  text-align: left;
+  transition: background 0.1s;
+  border-bottom: 1px solid var(--ink-ghost);
+}
+.theme-switch__option:last-child { border-bottom: none; }
+.theme-switch__option:hover { background: var(--bg-deep); }
+.theme-switch__option--active { background: var(--bg-deep); }
+
+.theme-switch__info { display: flex; flex-direction: column; gap: 1px; flex: 1; }
+.theme-switch__option-name {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 0.9375rem;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.theme-switch__option-desc {
+  font-family: var(--font-body);
+  font-size: var(--fs-small);
+  color: var(--ink-faint);
+  font-style: italic;
+}
+.theme-switch__check {
+  font-family: var(--font-display);
+  color: var(--brand);
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/* Terminal doesn't italicize */
+[data-theme="terminal"] .theme-switch__option-desc { font-style: normal; }
+[data-theme="lab"] .theme-switch__option-desc { font-style: normal; }

@@ -1,0 +1,30 @@
+/* ==========================================================================
+   App-level styles — error banner
+   ========================================================================== */
+
+.error-banner {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  gap: 0.875rem;
+  padding: 0.625rem 1.5rem;
+  background: var(--brand);
+  color: var(--bg);
+  font-size: var(--fs-small);
+  animation: fade-up 0.3s ease-out;
+}
+.error-banner__label {
+  font-family: var(--font-display);
+  font-weight: 600;
+  color: var(--accent);
+}
+.error-banner__msg { flex: 1; }
+.error-banner button {
+  font-family: var(--font-body);
+  font-size: var(--fs-small);
+  color: var(--accent);
+  text-decoration: underline;
+}
+.error-banner button:hover { color: var(--bg); }

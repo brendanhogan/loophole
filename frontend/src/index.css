@@ -1,0 +1,298 @@
+/* ==========================================================================
+   LOOPHOLE — Multi-theme design system
+   Each theme fully reskins colors + typography.
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,200..900,0..100,0..1;1,9..144,200..900,0..100,0..1&family=Crimson+Pro:ital,wght@0,200..900;1,200..900&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Space+Grotesk:wght@300..700&family=Instrument+Serif:ital@0;1&family=Manrope:wght@200..800&display=swap');
+
+/* =========================================================================
+   THEME: Court (default) — warm paper, oxblood, gold, serif
+   ========================================================================= */
+:root,
+[data-theme="court"] {
+  /* Palette */
+  --bg:            #f2ebdf;
+  --bg-deep:       #eadfcc;
+  --bg-fold:       #dfd2ba;
+  --surface:       #ffffff;
+  --ink:           #1a1612;
+  --ink-soft:      #2d2721;
+  --ink-faint:     #6b5d4d;
+  --ink-ghost:     #9c8d76;
+
+  /* Brand */
+  --brand:         #5c1a1a;      /* oxblood */
+  --brand-deep:    #3d1010;
+  --accent:        #b8924a;      /* gold */
+  --accent-deep:   #8a6a2e;
+
+  /* Semantic */
+  --loophole:      #8f1228;      /* legal-immoral red */
+  --overreach:     #6b4a1e;      /* illegal-moral umber */
+  --resolved:      #3d5c2e;
+  --signal:        #c41e3a;
+  --signal-deep:   #8f1228;
+
+  /* Typography */
+  --font-display:  'Fraunces', 'Times New Roman', serif;
+  --font-body:     'Crimson Pro', Georgia, serif;
+  --font-mono:     'JetBrains Mono', 'Courier New', monospace;
+  --title-style:   italic;
+  --title-variation: "SOFT" 50, "WONK" 1, "opsz" 144;
+
+  /* Scale */
+  --fs-micro:   0.6875rem;
+  --fs-small:   0.8125rem;
+  --fs-body:    1.0625rem;
+  --fs-lead:    1.1875rem;
+  --fs-h5:      1.25rem;
+  --fs-h4:      1.5rem;
+  --fs-h3:      2rem;
+  --fs-h2:      2.75rem;
+  --fs-h1:      4.25rem;
+
+  /* Background texture */
+  --bg-texture:
+    radial-gradient(circle at 20% 30%, rgba(139,106,46,0.04) 0%, transparent 40%),
+    radial-gradient(circle at 80% 70%, rgba(92,26,26,0.03) 0%, transparent 40%);
+
+  /* Rules / borders (universal, use ink color) */
+  --rule-hair:  0.5px solid var(--ink);
+  --rule-thin:  1px solid var(--ink);
+  --rule-med:   2px solid var(--ink);
+  --rule-thick: 4px solid var(--ink);
+  --rule-ghost: 1px solid var(--ink-ghost);
+}
+
+/* =========================================================================
+   THEME: Terminal — dark, amber/green, monospace
+   ========================================================================= */
+[data-theme="terminal"] {
+  --bg:            #0d0e0a;
+  --bg-deep:       #14150f;
+  --bg-fold:       #1c1d16;
+  --surface:       #1a1b14;
+  --ink:           #d8d4c4;       /* inverted: "ink" is the text on dark */
+  --ink-soft:      #b8b4a4;
+  --ink-faint:     #8a8674;
+  --ink-ghost:     #4a4e3c;
+
+  --brand:         #e8a33d;       /* amber */
+  --brand-deep:    #c48429;
+  --accent:        #8fbc47;       /* terminal green */
+  --accent-deep:   #6e9634;
+
+  --loophole:      #ff5f56;       /* bright red alert */
+  --overreach:     #e8a33d;       /* amber warning */
+  --resolved:      #8fbc47;       /* green OK */
+  --signal:        #ff5f56;
+  --signal-deep:   #c43f38;
+
+  --font-display:  'Space Grotesk', 'Inter', sans-serif;
+  --font-body:     'JetBrains Mono', 'Courier New', monospace;
+  --font-mono:     'JetBrains Mono', 'Courier New', monospace;
+  --title-style:   normal;
+  --title-variation: "normal";
+
+  --fs-micro:   0.6875rem;
+  --fs-small:   0.8125rem;
+  --fs-body:    0.9375rem;         /* mono reads smaller */
+  --fs-lead:    1.0625rem;
+  --fs-h5:      1.125rem;
+  --fs-h4:      1.375rem;
+  --fs-h3:      1.75rem;
+  --fs-h2:      2.25rem;
+  --fs-h1:      3.5rem;
+
+  --bg-texture:
+    linear-gradient(rgba(232,163,61,0.015) 0%, transparent 2px),
+    radial-gradient(circle at 50% 50%, rgba(143,188,71,0.02) 0%, transparent 60%);
+}
+
+[data-theme="terminal"] body {
+  background-size: 100% 3px, 100% 100%;
+  background-attachment: fixed;
+}
+
+/* =========================================================================
+   THEME: Lab — clinical, cool, serif+sans
+   ========================================================================= */
+[data-theme="lab"] {
+  --bg:            #fafaf7;
+  --bg-deep:       #f0f0ec;
+  --bg-fold:       #e5e5e0;
+  --surface:       #ffffff;
+  --ink:           #0a1220;
+  --ink-soft:      #2a3340;
+  --ink-faint:     #6a7280;
+  --ink-ghost:     #a8b0b8;
+
+  --brand:         #0047ab;       /* cobalt blue */
+  --brand-deep:    #003280;
+  --accent:        #d4621a;       /* lab orange */
+  --accent-deep:   #a44d14;
+
+  --loophole:      #c9243c;
+  --overreach:     #a04d00;
+  --resolved:      #2d7a2d;
+  --signal:        #c9243c;
+  --signal-deep:   #8e1828;
+
+  --font-display:  'Instrument Serif', Georgia, serif;
+  --font-body:     'Manrope', -apple-system, sans-serif;
+  --font-mono:     'JetBrains Mono', 'Courier New', monospace;
+  --title-style:   normal;
+  --title-variation: "normal";
+
+  --fs-micro:   0.6875rem;
+  --fs-small:   0.8125rem;
+  --fs-body:    0.9375rem;
+  --fs-lead:    1.125rem;
+  --fs-h5:      1.125rem;
+  --fs-h4:      1.375rem;
+  --fs-h3:      1.75rem;
+  --fs-h2:      2.5rem;
+  --fs-h1:      3.75rem;
+
+  --bg-texture: none;
+}
+
+/* =========================================================================
+   Base styles — using theme variables
+   ========================================================================= */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body, #root { height: 100%; }
+
+body {
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  line-height: 1.55;
+  color: var(--ink);
+  background-color: var(--bg);
+  background-image: var(--bg-texture);
+  font-feature-settings: "kern" 1;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  overflow: hidden;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+[data-theme="court"] body { font-feature-settings: "onum" 1, "liga" 1, "kern" 1; }
+[data-theme="lab"] body { font-feature-settings: "ss01" 1, "kern" 1; }
+
+#root { height: 100vh; overflow: hidden; }
+
+h1, h2, h3, h4, h5 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+[data-theme="court"] h1 { font-variation-settings: var(--title-variation); letter-spacing: -0.025em; font-weight: 400; }
+[data-theme="terminal"] h1, [data-theme="terminal"] h2, [data-theme="terminal"] h3 { letter-spacing: -0.02em; font-weight: 500; }
+[data-theme="lab"] h1, [data-theme="lab"] h2 { letter-spacing: -0.02em; font-weight: 400; }
+
+p { margin: 0 0 1em 0; }
+em { font-style: italic; }
+strong { font-weight: 600; }
+
+/* Scrollbars */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--bg-deep); }
+::-webkit-scrollbar-thumb { background: var(--ink-ghost); border: 2px solid var(--bg-deep); }
+::-webkit-scrollbar-thumb:hover { background: var(--ink-faint); }
+
+/* Selection */
+::selection { background: var(--accent); color: var(--ink); }
+[data-theme="terminal"] ::selection { background: var(--accent); color: var(--bg); }
+
+/* Form elements */
+input, textarea, button, select {
+  font-family: inherit; font-size: inherit; color: inherit;
+}
+button { cursor: pointer; border: none; background: none; }
+button:disabled { cursor: not-allowed; opacity: 0.4; }
+input:focus, textarea:focus { outline: none; }
+
+/* Keyframes */
+@keyframes fade-up { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes inkwell { 0% { opacity: 0; transform: scale(0.98); filter: blur(2px); } 100% { opacity: 1; transform: scale(1); filter: blur(0); } }
+@keyframes rule-draw { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@keyframes pulse-ink { 0%, 100% { opacity: 0.5; } 50% { opacity: 1; } }
+@keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+
+/* =========================================================================
+   Theme-specific overrides
+   ========================================================================= */
+
+/* Terminal — sharper, no italic, monospace aesthetic */
+[data-theme="terminal"] em { font-style: normal; color: var(--accent); }
+[data-theme="terminal"] .exhibit__subtype,
+[data-theme="terminal"] .exhibit__resolved-by,
+[data-theme="terminal"] .docket__subtitle,
+[data-theme="terminal"] .legislation__subtitle,
+[data-theme="terminal"] .field__hint,
+[data-theme="terminal"] .choice__meta,
+[data-theme="terminal"] .field__link,
+[data-theme="terminal"] .exhibit__suggest-actions button,
+[data-theme="terminal"] .exhibit__suggest-trigger,
+[data-theme="terminal"] .exhibit__vote,
+[data-theme="terminal"] .exhibit__submit,
+[data-theme="terminal"] .docket__begin,
+[data-theme="terminal"] .docket__begin-working,
+[data-theme="terminal"] .docket__empty-cta,
+[data-theme="terminal"] .docket__filter,
+[data-theme="terminal"] .court__brand-word,
+[data-theme="terminal"] .legislation__version-label,
+[data-theme="terminal"] .court__meta-label,
+[data-theme="terminal"] .theme-switch__option-desc,
+[data-theme="terminal"] .error-banner button,
+[data-theme="terminal"] .setup__back { font-style: normal; }
+
+[data-theme="terminal"] .court__brand-word::before { content: '_'; color: var(--accent); margin-right: 2px; }
+[data-theme="terminal"] .court__brand-mark::after { content: '.exe'; font-size: 0.5em; color: var(--ink-faint); margin-left: 2px; vertical-align: text-top; }
+
+[data-theme="terminal"] .court__meta-label::after,
+[data-theme="terminal"] .field label::after { content: ':'; color: var(--accent); margin-left: 1px; }
+[data-theme="terminal"] .field__hint::before,
+[data-theme="terminal"] .docket__subtitle::before,
+[data-theme="terminal"] .legislation__subtitle::before { content: '// '; color: var(--ink-faint); }
+
+[data-theme="terminal"] .exhibit,
+[data-theme="terminal"] .choice,
+[data-theme="terminal"] .setup__submit,
+[data-theme="terminal"] .theme-switch__menu { border-radius: 2px; }
+[data-theme="terminal"] .exhibit::before { display: none; }
+
+[data-theme="terminal"] .docket__empty-title::before { content: '> '; color: var(--accent); }
+
+/* Lab — clean, subtle rounded corners, underline accents */
+[data-theme="lab"] .exhibit,
+[data-theme="lab"] .choice,
+[data-theme="lab"] .setup__submit,
+[data-theme="lab"] .docket__begin,
+[data-theme="lab"] .docket__empty-cta,
+[data-theme="lab"] .exhibit__submit,
+[data-theme="lab"] .theme-switch__trigger,
+[data-theme="lab"] .theme-switch__menu,
+[data-theme="lab"] .field input,
+[data-theme="lab"] .field textarea,
+[data-theme="lab"] .exhibit__decision,
+[data-theme="lab"] .exhibit__vote,
+[data-theme="lab"] .status-pulse,
+[data-theme="lab"] .legislation__version { border-radius: 3px; }
+
+[data-theme="lab"] .court__brand-mark { font-style: italic; font-weight: 500; }
+[data-theme="lab"] .court__brand-word { font-style: normal; font-weight: 500; }
+
+[data-theme="lab"] .exhibit__subtype,
+[data-theme="lab"] .exhibit__resolved-by,
+[data-theme="lab"] .docket__subtitle,
+[data-theme="lab"] .legislation__subtitle { font-style: italic; }
+
+/* Terminal: docket head "cases" label gets a prompt */
+[data-theme="terminal"] .docket__title::before { content: '$ '; color: var(--accent); font-weight: 500; }
+[data-theme="terminal"] .legislation__title::before { content: '# '; color: var(--accent); font-weight: 500; }

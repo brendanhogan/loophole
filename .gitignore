@@ -14,3 +14,9 @@ sessions/*/
 
 # Local drafts
 tweet*.md
+
+# Frontend (web UI)
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+frontend/npm-debug.log*

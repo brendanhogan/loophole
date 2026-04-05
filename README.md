@@ -126,6 +126,25 @@ This creates a `report.html` in the session directory with:
 uv run python -m loophole.main list
 ```
 
+### Web UI (optional)
+
+A web interface is available for watching rounds unfold interactively. It wraps the same adversarial loop as the CLI, streams updates over WebSocket, and offers three visual themes (court, terminal, lab).
+
+```bash
+# Install web dependencies
+uv sync --extra web
+
+# Start the FastAPI backend
+uv run uvicorn web_api:app --port 8001
+
+# In another terminal, start the React frontend
+cd frontend
+npm install
+npm start
+```
+
+Then open <http://localhost:3000>. The "Try the demo" button loads a pre-baked session with sample cases — no API key required.
+
 ## Configuration
 
 Edit `config.yaml` to tune the system:
