@@ -9,6 +9,7 @@ dependencies = [
     "rich>=13.0",
     "typer>=0.9",
     "pyyaml>=6.0",
+    "openai>=2.30.0",
 ]
 
 [project.scripts]

@@ -67,7 +67,7 @@ Each resolved case — whether by the Judge or by you — becomes binding preced
 
 ## Setup
 
-Requires Python 3.12+ and an Anthropic API key.
+Requires Python 3.12+ and an Anthropic API key, OpenRouter API key, or OpenAI API key.
 
 ```bash
 # Clone and install
@@ -75,8 +75,12 @@ git clone <repo-url>
 cd law
 uv sync
 
-# Set your API key
+# Set your API key (Choose one)
 export ANTHROPIC_API_KEY="sk-ant-..."
+# or
+export OPENROUTER_API_KEY="sk-or-v1-..."
+# or
+export OPENAI_API_KEY="sk-proj-..."
 ```
 
 ## Usage
@@ -132,7 +136,7 @@ Edit `config.yaml` to tune the system:
 
 ```yaml
 model:
-  default: "claude-sonnet-4-20250514"   # Which Claude model to use
+  default: "anthropic/claude-3.5-sonnet"  # Or "openai/gpt-4o", "meta-llama/llama-3-70b-instruct", etc. if using OpenRouter
   max_tokens: 4096
 
 temperatures:

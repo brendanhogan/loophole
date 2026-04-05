@@ -1,5 +1,5 @@
 model:
-  default: "claude-sonnet-4-20250514"
+  default: "anthropic/claude-3.5-haiku"  # Or "openai/gpt-4o", "x-ai/grok-4.1-fast", "meta-llama/llama-3-70b-instruct", etc. if using OpenRouter
   max_tokens: 4096
 
 temperatures:
