@@ -1,0 +1,301 @@
+/* ==========================================================================
+   Legislation panel — the evolving legal code, as a living document
+   ========================================================================== */
+
+.legislation {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+/* ----- Running head ----------------------------------------------------- */
+.legislation__head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 2rem 2.5rem 1.25rem;
+  border-bottom: var(--rule-hair);
+  border-color: var(--ink-ghost);
+}
+.legislation__head-left { flex: 1; }
+.legislation__title {
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  font-weight: 500;
+  font-variation-settings: "WONK" 1, "opsz" 48;
+  line-height: 1.1;
+  color: var(--ink);
+}
+.legislation__subtitle {
+  margin: 0.25rem 0 0;
+  font-family: var(--font-body);
+  font-size: var(--fs-small);
+  color: var(--ink-faint);
+  font-style: italic;
+}
+.legislation__head-right { padding-left: 2rem; }
+.legislation__version {
+  display: flex;
+  align-items: baseline;
+  gap: 0.375rem;
+  padding: 0.5rem 0.875rem;
+  border: 1.5px solid var(--ink);
+  background: var(--bg);
+}
+.legislation__version-label {
+  font-family: var(--font-body);
+  font-size: var(--fs-small);
+  color: var(--ink-faint);
+  font-style: italic;
+}
+.legislation__version-num {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1;
+  color: var(--brand);
+  font-variant-numeric: oldstyle-nums;
+}
+
+/* ----- Tabs ------------------------------------------------------------- */
+.legislation__tabs {
+  display: flex;
+  border-bottom: var(--rule-thin);
+  background: var(--bg);
+}
+.legislation__tab {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.875rem 1rem;
+  font-family: var(--font-display);
+  font-size: 0.9375rem;
+  font-weight: 500;
+  color: var(--ink-faint);
+  border-bottom: 2px solid transparent;
+  border-right: var(--rule-hair);
+  border-color: var(--ink-ghost);
+  transition: all 0.2s ease;
+}
+.legislation__tab:last-child { border-right: none; }
+.legislation__tab:hover { color: var(--ink); background: var(--bg-deep); }
+.legislation__tab--active {
+  color: var(--brand);
+  border-bottom-color: var(--brand);
+  background: var(--bg-deep);
+}
+.legislation__tab-count {
+  font-family: var(--font-display);
+  font-size: 0.6875rem;
+  background: var(--ink);
+  color: var(--bg);
+  padding: 2px 7px;
+  border-radius: 10px;
+  font-variant-numeric: oldstyle-nums;
+  font-weight: 500;
+}
+
+/* ----- Content area ----------------------------------------------------- */
+.legislation__content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 2rem 2.5rem 4rem;
+}
+
+/* ----- Changelog banner ------------------------------------------------- */
+.legislation__changelog {
+  padding: 0.875rem 1rem;
+  background: rgba(184, 146, 74, 0.1);
+  border-left: 3px solid var(--accent);
+  margin-bottom: 2rem;
+  animation: fade-up 0.4s ease-out;
+}
+.legislation__changelog-meta {
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent-deep);
+  margin-bottom: 0.25rem;
+}
+.amendment__label {
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+.legislation__changelog p {
+  margin: 0.25rem 0 0;
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: var(--fs-small);
+  color: var(--ink-soft);
+  line-height: 1.5;
+}
+
+/* ----- Code text rendering ---------------------------------------------- */
+.code-text { font-family: var(--font-body); }
+.code-text__raw {
+  font-family: var(--font-mono);
+  font-size: var(--fs-small);
+  white-space: pre-wrap;
+  color: var(--ink);
+}
+
+.code-text__article {
+  margin-bottom: 2.5rem;
+  animation: fade-up 0.5s ease-out both;
+}
+.code-text__article-title {
+  font-family: var(--font-display);
+  font-size: var(--fs-small);
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--brand);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+  border-bottom: var(--rule-hair);
+  border-color: var(--ink);
+}
+
+.code-text__sections {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.code-text__section {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.875rem;
+  padding: 0.625rem 0;
+  font-size: var(--fs-body);
+  line-height: 1.55;
+  color: var(--ink);
+  border-bottom: var(--rule-hair);
+  border-color: rgba(156, 141, 118, 0.3);
+  position: relative;
+  transition: background 0.2s;
+}
+.code-text__section:hover { background: rgba(184,146,74,0.05); padding-inline: 0.5rem; margin-inline: -0.5rem; }
+.code-text__section:last-child { border-bottom: none; }
+
+.code-text__marker {
+  font-family: var(--font-display);
+  font-weight: 500;
+  color: var(--brand);
+  font-variant-numeric: oldstyle-nums;
+  min-width: 3rem;
+  flex-shrink: 0;
+}
+.code-text__body {
+  flex: 1;
+  font-family: var(--font-body);
+}
+
+.code-text__section--new {
+  background: rgba(184, 146, 74, 0.08);
+  margin-inline: -0.75rem;
+  padding-inline: 0.75rem;
+  border-left: 2px solid var(--accent);
+  animation: inkwell 0.6s ease-out both;
+}
+.code-text__section--new:hover { background: rgba(184, 146, 74, 0.15); }
+
+.code-text__badge {
+  font-family: var(--font-display);
+  font-size: 0.625rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--bg);
+  background: var(--accent-deep);
+  padding: 2px 6px;
+  align-self: flex-start;
+  margin-top: 0.125rem;
+}
+
+/* ----- Footer ornament -------------------------------------------------- */
+.legislation__footer {
+  padding-top: 2rem;
+  text-align: center;
+}
+.legislation__footer-mark {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--fs-small);
+  color: var(--ink-ghost);
+  letter-spacing: 0.1em;
+}
+
+/* ----- History / Amendments list --------------------------------------- */
+.legislation__history {
+  position: relative;
+}
+
+.amendment {
+  display: grid;
+  grid-template-columns: 60px 1fr;
+  gap: 1rem;
+  padding: 1.25rem 0;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.2s ease;
+  border-bottom: var(--rule-hair);
+  border-color: rgba(156, 141, 118, 0.3);
+}
+.amendment:hover { background: rgba(184,146,74,0.05); padding-inline: 0.75rem; margin-inline: -0.75rem; }
+
+.amendment__gutter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 0.25rem;
+  position: relative;
+}
+.amendment__num {
+  width: 36px; height: 36px;
+  border: var(--rule-med);
+  border-color: var(--ink);
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-display);
+  font-size: var(--fs-h5);
+  color: var(--ink);
+  background: var(--bg);
+  font-variation-settings: "WONK" 1;
+}
+.amendment--latest .amendment__num {
+  background: var(--ink);
+  color: var(--bg);
+}
+.amendment__line {
+  width: 1px;
+  flex: 1;
+  background: var(--ink-ghost);
+  margin-top: 0.25rem;
+}
+
+.amendment__meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.375rem;
+}
+.amendment__time {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: var(--fs-small);
+  color: var(--ink-faint);
+}
+.amendment__changelog {
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  line-height: 1.5;
+  color: var(--ink-soft);
+}

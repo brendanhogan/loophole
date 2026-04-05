@@ -8,8 +8,9 @@ class LLMClient:
         self,
         model: str = "claude-sonnet-4-20250514",
         max_tokens: int = 4096,
+        api_key: str | None = None,
     ):
-        self.client = anthropic.Anthropic()
+        self.client = anthropic.Anthropic(api_key=api_key) if api_key else anthropic.Anthropic()
         self.model = model
         self.max_tokens = max_tokens
 

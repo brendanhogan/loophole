@@ -1,0 +1,245 @@
+/* ==========================================================================
+   Setup — minimal, clear, one decision at a time
+   ========================================================================== */
+
+.setup {
+  height: 100vh;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  max-width: 640px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.setup__theme {
+  position: fixed;
+  top: 1.25rem; right: 1.25rem;
+  z-index: 10;
+}
+
+.setup__mode-tag {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.25rem 0.625rem;
+  font-family: var(--font-display);
+  font-size: var(--fs-micro);
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--brand);
+  border: 1px solid var(--brand);
+}
+
+/* ----- Title ----------------------------------------------------------- */
+.setup__title-block {
+  text-align: center;
+  margin-bottom: 3rem;
+  animation: fade-up 0.6s ease-out both;
+}
+.setup__title {
+  font-family: var(--font-display);
+  font-size: 5rem;
+  font-weight: 300;
+  font-variation-settings: "SOFT" 50, "WONK" 1, "opsz" 144;
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+  margin-bottom: 1rem;
+}
+.setup__tagline {
+  font-family: var(--font-body);
+  font-size: 1.1875rem;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  max-width: 480px;
+  margin: 0 auto;
+}
+
+/* ==========================================================================
+   Choices (demo vs create)
+   ========================================================================== */
+.setup__choices {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  animation: fade-up 0.6s ease-out 0.15s both;
+}
+
+.choice {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  padding: 1.5rem;
+  background: var(--bg);
+  border: 2px solid var(--ink);
+  text-align: left;
+  width: 100%;
+  transition: all 0.2s ease;
+  position: relative;
+}
+.choice:hover:not(:disabled) {
+  transform: translate(-2px, -2px);
+  box-shadow: 4px 4px 0 var(--ink);
+}
+.choice:hover:not(:disabled) .choice__arrow {
+  transform: translateX(4px);
+  color: var(--brand);
+}
+
+.choice__icon {
+  flex-shrink: 0;
+  width: 48px; height: 48px;
+  display: flex; align-items: center; justify-content: center;
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  border: 1px solid var(--ink);
+  color: var(--ink);
+  background: var(--bg-deep);
+}
+.choice--primary .choice__icon {
+  background: var(--ink); color: var(--bg);
+  border-color: var(--ink);
+}
+
+.choice__body { flex: 1; display: flex; flex-direction: column; gap: 0.25rem; }
+.choice__title {
+  font-family: var(--font-display);
+  font-size: 1.375rem;
+  font-weight: 500;
+  color: var(--ink);
+  line-height: 1.2;
+}
+.choice__desc {
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  color: var(--ink-soft);
+  line-height: 1.4;
+}
+.choice__meta {
+  font-family: var(--font-body);
+  font-size: var(--fs-small);
+  color: var(--ink-faint);
+  font-style: italic;
+  margin-top: 0.25rem;
+}
+
+.choice__arrow {
+  flex-shrink: 0;
+  font-family: var(--font-display);
+  font-size: 1.75rem;
+  color: var(--ink-faint);
+  transition: all 0.2s ease;
+}
+
+/* ==========================================================================
+   Create form
+   ========================================================================== */
+.setup__form {
+  width: 100%;
+  animation: fade-up 0.4s ease-out both;
+}
+
+.setup__back {
+  font-family: var(--font-body);
+  font-size: var(--fs-small);
+  color: var(--ink-faint);
+  margin-bottom: 1.5rem;
+  padding: 0;
+}
+.setup__back:hover { color: var(--brand); }
+
+.field { margin-bottom: 1.5rem; }
+.field label,
+.field__label-row label {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--ink);
+  margin-bottom: 0.5rem;
+}
+.field__label-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5rem;
+}
+.field__label-row label { margin-bottom: 0; }
+
+.field__link {
+  font-family: var(--font-body);
+  font-size: var(--fs-small);
+  font-style: italic;
+  color: var(--accent-deep);
+  padding: 0;
+}
+.field__link:hover { color: var(--brand); }
+
+.field input[type="text"],
+.field input[type="password"],
+.field textarea {
+  width: 100%;
+  padding: 0.75rem 0.875rem;
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  color: var(--ink);
+  background: var(--bg);
+  border: 1.5px solid var(--ink-ghost);
+  transition: all 0.15s ease;
+}
+.field input:focus,
+.field textarea:focus {
+  border-color: var(--ink);
+  background: white;
+}
+.field input::placeholder,
+.field textarea::placeholder {
+  color: var(--ink-ghost);
+}
+.field textarea {
+  resize: vertical;
+  line-height: 1.55;
+  min-height: 140px;
+  font-family: var(--font-body);
+}
+
+.field__hint {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-size: var(--fs-small);
+  color: var(--ink-faint);
+  margin-top: 0.375rem;
+}
+
+.setup__submit {
+  width: 100%;
+  padding: 1rem 1.5rem;
+  background: var(--ink);
+  color: var(--bg);
+  font-family: var(--font-display);
+  font-size: 1.125rem;
+  font-weight: 500;
+  border: 2px solid var(--ink);
+  margin-top: 0.5rem;
+  transition: all 0.2s ease;
+}
+.setup__submit:hover:not(:disabled) {
+  background: var(--brand);
+  border-color: var(--brand);
+  transform: translate(-2px, -2px);
+  box-shadow: 4px 4px 0 var(--ink);
+}
+
+/* ----- Responsive ------------------------------------------------------ */
+@media (max-width: 600px) {
+  .setup__title { font-size: 3.5rem; }
+  .setup__tagline { font-size: 1rem; }
+  .choice { padding: 1.25rem; gap: 1rem; }
+  .choice__icon { width: 40px; height: 40px; }
+  .choice__title { font-size: 1.125rem; }
+}
