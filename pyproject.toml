@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Adversarial moral-legal code system — stress-test ethical principles through adversarial AI agents"
 requires-python = ">=3.12"
 dependencies = [
-    "anthropic>=0.50.0",
+    "venice-sdk @ git+https://github.com/actuallyrizzn/Venice-AI-SDK.git",
     "pydantic>=2.0",
     "rich>=13.0",
     "typer>=0.9",
@@ -13,3 +13,10 @@ dependencies = [
 
 [project.scripts]
 loophole = "loophole.main:app"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+include = ["loophole*"]

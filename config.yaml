@@ -1,5 +1,5 @@
 model:
-  default: "claude-sonnet-4-20250514"
+  default: "minimax-m25"
   max_tokens: 4096
 
 temperatures:
