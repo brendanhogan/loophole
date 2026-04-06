@@ -28,7 +28,12 @@ def _load_config() -> dict:
     if config_path.exists():
         return yaml.safe_load(config_path.read_text())
     return {
-        "model": {"default": "claude-sonnet-4-20250514", "max_tokens": 4096},
+        "model": {
+            "provider": "anthropic",
+            "default": "claude-sonnet-4-20250514",
+            "max_tokens": 4096,
+            "base_url": None,
+        },
         "temperatures": {
             "legislator": 0.4,
             "loophole_finder": 0.9,
@@ -41,12 +46,15 @@ def _load_config() -> dict:
 
 
 def _build_agents(config: dict) -> dict:
-    model = config["model"]["default"]
-    max_tokens = config["model"]["max_tokens"]
+    model_config = config["model"]
+    model = model_config.get("default")
+    max_tokens = model_config.get("max_tokens", 4096)
+    provider = model_config.get("provider")  # None = let LLMClient decide from env or default
+    base_url = model_config.get("base_url")
     temps = config["temperatures"]
     cases_per = config["loop"]["cases_per_agent"]
 
-    llm = LLMClient(model=model, max_tokens=max_tokens)
+    llm = LLMClient(model=model, max_tokens=max_tokens, provider=provider, base_url=base_url)
 
     return {
         "legislator": Legislator(llm, temperature=temps["legislator"]),
