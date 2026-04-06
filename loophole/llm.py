@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 import os
-from typing import Any, cast, Protocol
+from typing import Any, Protocol
 
 
 class LLMBackend(Protocol):
@@ -30,49 +30,67 @@ class AnthropicBackend:
         return response.content[0].text
 
 
-class VeniceBackend:
-    """Venice AI backend."""
+def resolve_openai_compatible_api_key(base_url: str) -> str | None:
+    """
+    API key for OpenAI-compatible HTTP APIs (OpenRouter, Venice, local proxies, etc.).
 
-    def __init__(self, model: str | None):
-        from venice_sdk import VeniceClient, create_client
+    Prefer OPENAI_API_KEY; for Venice's hosted API also accept VENICE_API_KEY.
+    """
+    key = (os.environ.get("OPENAI_API_KEY") or "").strip()
+    if key:
+        return key
+    if "venice.ai" in base_url.lower():
+        key = (os.environ.get("VENICE_API_KEY") or "").strip()
+        if key:
+            return key
+    return None
 
-        self.client: VeniceClient = create_client()
-        self.model = model or self.client.config.default_model or "llama-3.3-70b"
+
+class OpenAICompatibleBackend:
+    """OpenAI Chat Completions-compatible HTTP API (e.g. Venice at https://api.venice.ai/api/v1)."""
+
+    def __init__(self, *, base_url: str, api_key: str, model: str):
+        from openai import OpenAI
+
+        self.client = OpenAI(base_url=base_url.rstrip("/"), api_key=api_key)
+        self.model = model
 
     def call(self, system: str, user_message: str, temperature: float, max_tokens: int) -> str:
-        messages = [
-            {"role": "system", "content": system},
-            {"role": "user", "content": user_message},
-        ]
-        raw = self.client.chat.complete(
-            messages=messages,
+        response = self.client.chat.completions.create(
             model=self.model,
+            max_tokens=max_tokens,
             temperature=temperature,
-            max_completion_tokens=max_tokens,
-            stream=False,
+            messages=[
+                {"role": "system", "content": system},
+                {"role": "user", "content": user_message},
+            ],
         )
-        resp = cast(dict[str, Any], raw)
-        choices = resp.get("choices") or []
-        if not choices:
+        msg = response.choices[0].message
+        content: Any = msg.content
+        if content is None:
             return ""
-        return self._choice_text(cast(dict[str, Any], choices[0]))
-
-    @staticmethod
-    def _choice_text(choice: dict[str, Any]) -> str:
-        msg = choice.get("message") or {}
-        content = msg.get("content")
         if isinstance(content, str):
             return content
-        if isinstance(content, list):
-            parts: list[str] = []
-            for part in content:
-                if isinstance(part, dict) and part.get("type") == "text":
-                    parts.append(str(part.get("text", "")))
-                elif isinstance(part, str):
-                    parts.append(part)
-            return "".join(parts)
-        return str(content or "")
+        return _openai_message_content_as_text(content)
 
+
+def _openai_message_content_as_text(content: Any) -> str:
+    if content is None:
+        return ""
+    if isinstance(content, str):
+        return content
+    if isinstance(content, list):
+        parts: list[str] = []
+        for part in content:
+            if isinstance(part, dict) and part.get("type") == "text":
+                parts.append(str(part.get("text", "")))
+            elif isinstance(part, str):
+                parts.append(part)
+        return "".join(parts)
+    return str(content)
+
+
+VENICE_DEFAULT_BASE_URL = "https://api.venice.ai/api/v1"
 
 PROVIDER_DEFAULTS = {
     "anthropic": "claude-sonnet-4-20250514",
@@ -88,6 +106,9 @@ class LLMClient:
     1. LOOPHOLE_PROVIDER environment variable ("anthropic" or "venice")
     2. model.provider in config.yaml
     3. Default: "anthropic" (backward compatible)
+
+    Venice uses the OpenAI-compatible surface: set base_url (default https://api.venice.ai/api/v1)
+    and OPENAI_API_KEY or VENICE_API_KEY per upstream review feedback.
     """
 
     def __init__(
@@ -95,6 +116,7 @@ class LLMClient:
         model: str | None = None,
         max_tokens: int = 4096,
         provider: str | None = None,
+        base_url: str | None = None,
     ):
         self.provider = (
             os.environ.get("LOOPHOLE_PROVIDER")
@@ -110,7 +132,22 @@ class LLMClient:
         if self.provider == "anthropic":
             self.backend: LLMBackend = AnthropicBackend(resolved_model)
         else:
-            self.backend = VeniceBackend(resolved_model)
+            resolved_base = (
+                (os.environ.get("LOOPHOLE_BASE_URL") or "").strip()
+                or (base_url or "").strip()
+                or VENICE_DEFAULT_BASE_URL
+            )
+            api_key = resolve_openai_compatible_api_key(resolved_base)
+            if not api_key:
+                raise ValueError(
+                    "Venice / OpenAI-compatible provider requires OPENAI_API_KEY "
+                    "(or VENICE_API_KEY when using api.venice.ai)."
+                )
+            self.backend = OpenAICompatibleBackend(
+                base_url=resolved_base,
+                api_key=api_key,
+                model=resolved_model,
+            )
 
         self.model = resolved_model
         self.max_tokens = max_tokens

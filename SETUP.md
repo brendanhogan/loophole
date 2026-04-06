@@ -6,7 +6,7 @@
 |-------------|-------|
 | **Python** | 3.12 or newer (`requires-python = ">=3.12"` in `pyproject.toml`; `.python-version` pins `3.12`) |
 | **uv** | Recommended by upstream: installs locked deps from `uv.lock` (`uv sync`) |
-| **API key** | Either `ANTHROPIC_API_KEY` (for Claude) or `VENICE_API_KEY` (for Venice) depending on which provider you use |
+| **API key** | `ANTHROPIC_API_KEY` for Claude; for Venice / other OpenAI-compatible APIs use `OPENAI_API_KEY` (or `VENICE_API_KEY` when calling `api.venice.ai`) |
 | **Network** | For `uv sync` / package install and for API calls at run time |
 
 ## Install
@@ -29,20 +29,31 @@ export ANTHROPIC_API_KEY="sk-ant-..."
 uv run python -m loophole.main
 ```
 
-### Option 2: Venice AI
+### Option 2: Venice AI (OpenAI-compatible HTTP API)
+
+Venice (and most similar providers) only need a **`base_url`** and an **API key** for the OpenAI Chat Completions shape.
+
+Default Venice endpoint: `https://api.venice.ai/api/v1`.
 
 ```bash
-export VENICE_API_KEY="..."  # from https://venice.ai/settings/api
+export OPENAI_API_KEY="..."   # or VENICE_API_KEY for api.venice.ai
 export LOOPHOLE_PROVIDER="venice"
 uv run python -m loophole.main
 ```
 
-You can also set the provider in `config.yaml`:
+Optional: override the API root (same pattern as other OpenAI-compatible gateways):
+
+```bash
+export LOOPHOLE_BASE_URL="https://api.venice.ai/api/v1"
+```
+
+You can also set options in `config.yaml`:
 
 ```yaml
 model:
   provider: "venice"  # or "anthropic"
-  default: "minimax-m25"  # venice model name
+  default: "minimax-m25"  # Venice model id
+  # base_url: "https://api.venice.ai/api/v1"  # optional; this is the default for Venice
 ```
 
 ## Provider selection priority
@@ -50,6 +61,12 @@ model:
 1. `LOOPHOLE_PROVIDER` environment variable
 2. `model.provider` in `config.yaml`
 3. Default: `"anthropic"`
+
+For the OpenAI-compatible base URL (Venice or otherwise):
+
+1. `LOOPHOLE_BASE_URL` environment variable
+2. `model.base_url` in `config.yaml`
+3. If provider is `venice`: `https://api.venice.ai/api/v1`
 
 ## Default models
 
@@ -70,7 +87,7 @@ uv run python -m loophole.main new --domain privacy -p examples/privacy_principl
 
 ## Optional: tune behavior
 
-Edit `config.yaml` (provider, model name, temperatures, loop limits, `session_dir`).
+Edit `config.yaml` (provider, model name, `base_url`, temperatures, loop limits, `session_dir`).
 
 ## Pip-only note
 

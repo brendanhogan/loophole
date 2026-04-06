@@ -2,6 +2,9 @@ model:
   provider: "anthropic"  # "anthropic" or "venice" (or set LOOPHOLE_PROVIDER env var)
   default: "claude-sonnet-4-20250514"  # anthropic: claude-sonnet-4-20250514, venice: llama-3.3-70b, minimax-m25, etc.
   max_tokens: 4096
+  # OpenAI-compatible API root (optional). Venice default: https://api.venice.ai/api/v1
+  # Override with LOOPHOLE_BASE_URL or set here for other providers.
+  # base_url: "https://api.venice.ai/api/v1"
 
 temperatures:
   legislator: 0.4
