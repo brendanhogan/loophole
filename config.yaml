@@ -1,5 +1,15 @@
+provider:
+  type: "codex_app_server"  # "codex_app_server" (ChatGPT subscription) or "anthropic" (API key)
+  codex_app_server:
+    command: "codex"
+    model: "gpt-5.3-codex"
+    sandbox: "read-only"
+    approval_policy: "never"
+    timeout_seconds: 180.0
+    ephemeral: true
+
 model:
-  default: "claude-sonnet-4-20250514"
+  default: "claude-sonnet-4-20250514"  # Used when provider.type = "anthropic"
   max_tokens: 4096
 
 temperatures:

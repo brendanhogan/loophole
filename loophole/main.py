@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+from copy import deepcopy
 from datetime import datetime
 from pathlib import Path
+from typing import Any
 
 import typer
 import yaml
@@ -24,10 +26,29 @@ console = Console()
 
 
 def _load_config() -> dict:
+    default = _default_config()
     config_path = Path("config.yaml")
     if config_path.exists():
-        return yaml.safe_load(config_path.read_text())
+        loaded = yaml.safe_load(config_path.read_text()) or {}
+        if not isinstance(loaded, dict):
+            raise ValueError("config.yaml must contain a YAML mapping at the top level.")
+        return _deep_merge(default, loaded)
+    return default
+
+
+def _default_config() -> dict[str, Any]:
     return {
+        "provider": {
+            "type": "codex_app_server",
+            "codex_app_server": {
+                "command": "codex",
+                "model": "gpt-5.3-codex",
+                "sandbox": "read-only",
+                "approval_policy": "never",
+                "timeout_seconds": 180.0,
+                "ephemeral": True,
+            },
+        },
         "model": {"default": "claude-sonnet-4-20250514", "max_tokens": 4096},
         "temperatures": {
             "legislator": 0.4,
@@ -40,13 +61,36 @@ def _load_config() -> dict:
     }
 
 
+def _deep_merge(base: dict[str, Any], overrides: dict[str, Any]) -> dict[str, Any]:
+    merged = deepcopy(base)
+    for key, value in overrides.items():
+        if isinstance(value, dict) and isinstance(merged.get(key), dict):
+            merged[key] = _deep_merge(merged[key], value)
+        else:
+            merged[key] = value
+    return merged
+
+
 def _build_agents(config: dict) -> dict:
     model = config["model"]["default"]
     max_tokens = config["model"]["max_tokens"]
     temps = config["temperatures"]
     cases_per = config["loop"]["cases_per_agent"]
+    provider_cfg = config.get("provider", {})
+    provider = provider_cfg.get("type", "anthropic")
+    if provider == "codex":
+        provider = "codex_app_server"
 
-    llm = LLMClient(model=model, max_tokens=max_tokens)
+    llm_provider_config: dict[str, Any] = {}
+    if provider == "codex_app_server":
+        llm_provider_config = provider_cfg.get("codex_app_server", {})
+
+    llm = LLMClient(
+        model=model,
+        max_tokens=max_tokens,
+        provider=provider,
+        provider_config=llm_provider_config,
+    )
 
     return {
         "legislator": Legislator(llm, temperature=temps["legislator"]),
