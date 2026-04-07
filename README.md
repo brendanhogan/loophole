@@ -67,17 +67,33 @@ Each resolved case — whether by the Judge or by you — becomes binding preced
 
 ## Setup
 
-Requires Python 3.12+ and an Anthropic API key.
+Requires Python 3.12+.
 
 ```bash
 # Clone and install
 git clone <repo-url>
-cd law
+cd loophole
 uv sync
+```
 
-# Set your API key
+Choose one provider:
+
+### Option A: ChatGPT subscription via Codex app-server (default)
+
+```bash
+# Install Codex CLI and authenticate once
+codex login
+```
+
+No API key is required in this mode.
+
+### Option B: Anthropic API key
+
+```bash
+# If you want to use Anthropic instead of Codex app-server
 export ANTHROPIC_API_KEY="sk-ant-..."
 ```
+
 
 ## Usage
 
@@ -131,8 +147,18 @@ uv run python -m loophole.main list
 Edit `config.yaml` to tune the system:
 
 ```yaml
+provider:
+  type: "codex_app_server"  # "codex_app_server" or "anthropic"
+  codex_app_server:
+    command: "codex"
+    model: "gpt-5.3-codex"
+    sandbox: "read-only"
+    approval_policy: "never"
+    timeout_seconds: 180.0
+    ephemeral: true
+
 model:
-  default: "claude-sonnet-4-20250514"   # Which Claude model to use
+  default: "claude-sonnet-4-20250514"   # Used when provider.type = "anthropic"
   max_tokens: 4096
 
 temperatures:
@@ -147,6 +173,10 @@ loop:
 
 session_dir: "sessions"
 ```
+
+Notes:
+- In `codex_app_server` mode, `provider.codex_app_server.model` controls the model.
+- In `anthropic` mode, `model.default` controls the model and `ANTHROPIC_API_KEY` must be set.
 
 ## Writing Good Principles
 
@@ -164,7 +194,7 @@ See `examples/privacy_principles.txt` for a starting point.
 loophole/
   main.py              CLI and main adversarial loop
   models.py            Data models (SessionState, Case, LegalCode)
-  llm.py               Anthropic SDK wrapper
+  llm.py               LLM provider client (Anthropic or Codex app-server)
   prompts.py           All agent prompt templates
   session.py           Session persistence (JSON + markdown)
   visualize.py         HTML report generator
