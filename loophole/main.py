@@ -27,7 +27,7 @@ console = Console()
 def _load_config() -> dict:
     config_path = Path("config.yaml")
     if config_path.exists():
-        return yaml.safe_load(config_path.read_text())
+        return yaml.safe_load(config_path.read_text(encoding="utf-8"))
     return {
         "model": {"default": "claude-sonnet-4-20250514", "max_tokens": 4096},
         "temperatures": {
@@ -463,7 +463,7 @@ def new(
         domain = Prompt.ask("\n[bold]Domain[/bold] (e.g., privacy, property, speech)")
 
     if principles_file:
-        principles = Path(principles_file).read_text().strip()
+        principles = Path(principles_file).read_text(encoding="utf-8").strip()
         console.print(f"[dim]Loaded principles from {principles_file}[/dim]")
     else:
         principles = _get_multiline_input(

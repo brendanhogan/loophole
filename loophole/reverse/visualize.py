@@ -226,5 +226,5 @@ h2 {{ color: var(--text-bright); font-size: 1.3rem; margin: 2rem 0 1rem; border-
         out = Path("sessions") / state.session_id / "report.html"
         out.parent.mkdir(parents=True, exist_ok=True)
 
-    out.write_text(page_html)
+    out.write_text(page_html, encoding="utf-8")
     return str(out)

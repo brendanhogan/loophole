@@ -29,31 +29,33 @@ class SessionManager:
 
         # Machine-readable state
         (session_dir / "state.json").write_text(
-            state.model_dump_json(indent=2)
+            state.model_dump_json(indent=2), encoding="utf-8"
         )
 
         # Human-readable legal code
         (session_dir / "current_code.md").write_text(
             f"# Legal Code v{state.current_code.version}\n\n"
             f"*Domain: {state.domain}*\n\n"
-            f"{state.current_code.text}\n"
+            f"{state.current_code.text}\n",
+            encoding="utf-8",
         )
 
         # Human-readable case log
         (session_dir / "case_log.md").write_text(
-            _render_case_log(state)
+            _render_case_log(state),
+            encoding="utf-8",
         )
 
     def load(self, session_id: str) -> SessionState:
         state_path = self.base_dir / session_id / "state.json"
-        return SessionState.model_validate_json(state_path.read_text())
+        return SessionState.model_validate_json(state_path.read_text(encoding="utf-8"))
 
     def list_sessions(self) -> list[dict]:
         sessions = []
         for p in sorted(self.base_dir.iterdir()):
             state_path = p / "state.json"
             if state_path.exists():
-                data = json.loads(state_path.read_text())
+                data = json.loads(state_path.read_text(encoding="utf-8"))
                 sessions.append({
                     "id": data["session_id"],
                     "domain": data["domain"],

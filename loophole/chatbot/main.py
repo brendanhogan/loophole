@@ -27,7 +27,7 @@ console = Console()
 def _load_config() -> dict:
     config_path = Path("config.yaml")
     if config_path.exists():
-        return yaml.safe_load(config_path.read_text())
+        return yaml.safe_load(config_path.read_text(encoding="utf-8"))
     return {
         "model": {"default": "claude-sonnet-4-20250514", "max_tokens": 4096},
         "temperatures": {
@@ -478,7 +478,7 @@ def new(
 
     if chatbot_config_file:
         # Load from YAML config file
-        chatbot_data = yaml.safe_load(Path(chatbot_config_file).read_text())
+        chatbot_data = yaml.safe_load(Path(chatbot_config_file).read_text(encoding="utf-8"))
         chatbot_config = ChatbotConfig(
             company_name=chatbot_data["company_name"],
             company_description=chatbot_data["company_description"],

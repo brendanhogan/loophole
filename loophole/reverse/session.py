@@ -33,26 +33,27 @@ class ReverseSessionManager:
         session_dir.mkdir(parents=True, exist_ok=True)
 
         (session_dir / "state.json").write_text(
-            state.model_dump_json(indent=2)
+            state.model_dump_json(indent=2), encoding="utf-8"
         )
 
         (session_dir / "current_principles.md").write_text(
             f"# Extracted Principles v{state.current_principles.version}\n\n"
             f"*Document: {state.document_name}*\n\n"
-            f"{state.current_principles.text}\n"
+            f"{state.current_principles.text}\n",
+            encoding="utf-8",
         )
 
         (session_dir / "finding_log.md").write_text(
-            _render_finding_log(state)
+            _render_finding_log(state), encoding="utf-8"
         )
 
         (session_dir / "tensions.md").write_text(
-            _render_tensions(state)
+            _render_tensions(state), encoding="utf-8"
         )
 
     def load(self, session_id: str) -> ReverseSession:
         state_path = self.base_dir / session_id / "state.json"
-        return ReverseSession.model_validate_json(state_path.read_text())
+        return ReverseSession.model_validate_json(state_path.read_text(encoding="utf-8"))
 
     def list_sessions(self) -> list[dict]:
         sessions = []
@@ -60,7 +61,7 @@ class ReverseSessionManager:
             state_path = p / "state.json"
             if not state_path.exists():
                 continue
-            data = json.loads(state_path.read_text())
+            data = json.loads(state_path.read_text(encoding="utf-8"))
             if "legal_text" not in data:
                 continue
             sessions.append({
