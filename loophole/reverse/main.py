@@ -26,7 +26,7 @@ console = Console()
 def _load_config() -> dict:
     config_path = Path("config.yaml")
     if config_path.exists():
-        return yaml.safe_load(config_path.read_text())
+        return yaml.safe_load(config_path.read_text(encoding="utf-8"))
     return {
         "model": {"default": "claude-sonnet-4-20250514", "max_tokens": 4096},
         "temperatures": {
@@ -361,7 +361,7 @@ def new(
         )
 
     if legal_text_file:
-        legal_text = Path(legal_text_file).read_text().strip()
+        legal_text = Path(legal_text_file).read_text(encoding="utf-8").strip()
         console.print(f"[dim]Loaded legal text from {legal_text_file} ({len(legal_text)} chars)[/dim]")
     else:
         legal_text = _get_multiline_input(

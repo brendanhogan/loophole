@@ -31,29 +31,30 @@ class ChatbotSessionManager:
         session_dir.mkdir(parents=True, exist_ok=True)
 
         (session_dir / "state.json").write_text(
-            state.model_dump_json(indent=2)
+            state.model_dump_json(indent=2), encoding="utf-8"
         )
 
         (session_dir / "system_prompt.md").write_text(
             f"# System Prompt v{state.current_prompt.version}\n\n"
             f"*{state.config.company_name}*\n\n"
-            f"{state.current_prompt.text}\n"
+            f"{state.current_prompt.text}\n",
+            encoding="utf-8",
         )
 
         (session_dir / "case_log.md").write_text(
-            _render_case_log(state)
+            _render_case_log(state), encoding="utf-8"
         )
 
     def load(self, session_id: str) -> ChatbotSession:
         state_path = self.base_dir / session_id / "state.json"
-        return ChatbotSession.model_validate_json(state_path.read_text())
+        return ChatbotSession.model_validate_json(state_path.read_text(encoding="utf-8"))
 
     def list_sessions(self) -> list[dict]:
         sessions = []
         for p in sorted(self.base_dir.iterdir()):
             state_path = p / "state.json"
             if state_path.exists():
-                data = json.loads(state_path.read_text())
+                data = json.loads(state_path.read_text(encoding="utf-8"))
                 if "config" not in data:
                     continue  # Skip legal sessions
                 sessions.append({

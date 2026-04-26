@@ -514,5 +514,5 @@ def generate_html(state: ChatbotSession, output_path: str | None = None) -> str:
         output_path = f"sessions/{state.session_id}/report.html"
 
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
-    Path(output_path).write_text(page)
+    Path(output_path).write_text(page, encoding="utf-8")
     return output_path
