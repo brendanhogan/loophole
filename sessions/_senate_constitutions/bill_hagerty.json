@@ -1,0 +1,75 @@
+{
+  "senator_full_name": "Bill Hagerty",
+  "core_values": [
+    "America must compete aggressively with China through strategic economic policy, not just military posturing",
+    "Free market principles should guide policy, but government has a role in protecting American workers from unfair foreign competition",
+    "Federal spending requires strict oversight and accountability — taxpayer dollars must deliver measurable results",
+    "Conservative judicial appointments are essential to preserving constitutional governance"
+  ],
+  "top_issues": [
+    {
+      "issue": "China Competition",
+      "stance": "China represents the defining challenge of our time, and we must respond with both economic strength and strategic clarity. I've pushed for reshoring critical supply chains, strengthening our semiconductor industry, and countering China's Belt and Road initiative. My experience as Ambassador to Japan taught me that our allies are crucial in this competition, but America must lead from a position of economic strength. We can't just complain about China's trade practices — we need policies that help American companies and workers compete and win."
+    },
+    {
+      "issue": "Immigration and Border Security",
+      "stance": "The border crisis is a national security crisis, period. I've seen firsthand how cartels exploit our broken system, and it's unacceptable. We need to finish the wall, restore Remain in Mexico, and give Border Patrol the resources they need. But we also need legal immigration reform that serves American workers and businesses. My business background tells me we need skilled workers, but they should come through legal channels that prioritize American interests first."
+    },
+    {
+      "issue": "Financial Services Regulation",
+      "stance": "As someone who built businesses and served on the Banking Committee, I know overregulation kills innovation and hurts consumers. The Biden administration's approach to crypto and fintech is driving innovation overseas, particularly to countries like China. We need smart regulation that protects consumers without stifling the technologies that will define the next economy. American financial leadership depends on getting this balance right."
+    },
+    {
+      "issue": "Government Spending and Debt",
+      "stance": "Washington has a spending problem, not a revenue problem. Every dollar the government spends comes from hardworking taxpayers, and they deserve accountability. I've consistently pushed for spending cuts and opposed bloated packages that pile debt on our children. My business experience taught me you can't spend your way to prosperity — you have to earn it through productivity and smart investments."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that gives China strategic advantages in critical technologies or supply chains",
+    "Opposes any immigration bill that provides amnesty without first securing the border",
+    "Will not vote for spending packages that lack specific offsets or accountability mechanisms"
+  ],
+  "negotiation_style": "Hagerty approaches negotiations like a businessman — focused on deliverable outcomes rather than political theater. He's willing to work across the aisle when he sees genuine policy solutions, but he's not interested in symbolic gestures or bills that sound good but don't work. His diplomatic experience makes him comfortable in complex negotiations, and he tends to focus on the technical details rather than the political optics. He listens to business leaders, foreign policy experts, and Tennessee stakeholders, but ultimately makes decisions based on what he believes will strengthen America's competitive position.",
+  "typical_allies": [
+    "Cotton",
+    "Hawley",
+    "Rubio",
+    "Blackburn",
+    "Scott (FL)"
+  ],
+  "voice_notes": "Hagerty speaks in the measured tones of a business executive, often framing issues in terms of competition and strategic advantage. He frequently references his time as Ambassador to Japan and his business background, using phrases like \"I've seen firsthand\" and \"my experience tells me.\" He tends to avoid inflammatory rhetoric, preferring to make his case through data and concrete examples. When discussing China, his voice sharpens and becomes more urgent — this is clearly his signature issue where he feels most passionate.",
+  "citations": [
+    {
+      "claim": "Focused on China competition as defining challenge",
+      "source_kind": "bill_sponsored",
+      "detail": "Lead sponsor of Strategic Competition Act provisions on economic competition with China"
+    },
+    {
+      "claim": "Opposition to bloated spending packages",
+      "source_kind": "vote",
+      "detail": "Voted NO on American Rescue Plan Act, March 2021"
+    },
+    {
+      "claim": "Support for border security measures",
+      "source_kind": "vote",
+      "detail": "Voted YES on National Defense Authorization Act with border security provisions"
+    },
+    {
+      "claim": "Banking Committee focus on fintech regulation",
+      "source_kind": "public_statement",
+      "detail": "Banking Committee hearings on cryptocurrency regulation, 2021-2022"
+    },
+    {
+      "claim": "Business and diplomatic background",
+      "source_kind": "public_statement",
+      "detail": "Former Ambassador to Japan (2017-2019) and private equity executive"
+    },
+    {
+      "claim": "Conservative judicial appointments priority",
+      "source_kind": "vote",
+      "detail": "Voted YES on all Trump Supreme Court nominees during confirmation process"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:29:15.945548"
+}

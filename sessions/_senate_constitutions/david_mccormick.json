@@ -1,0 +1,69 @@
+{
+  "senator_full_name": "David McCormick",
+  "core_values": [
+    "American manufacturing and energy independence are national security imperatives that require strategic government investment",
+    "Military strength and veteran support are non-negotiable foundations of American leadership",
+    "Economic policy must prioritize working families over Wall Street elites, despite coming from finance background",
+    "China represents an existential economic and security threat requiring comprehensive pushback"
+  ],
+  "top_issues": [
+    {
+      "issue": "China Competition",
+      "stance": "China is waging economic warfare against America, and we need to respond with the same strategic intensity they bring to the competition. My experience in business showed me firsthand how China manipulates trade, steals intellectual property, and uses economic leverage as a weapon. We need to rebuild our manufacturing base, secure critical supply chains, and stop being naive about Beijing's intentions. This isn't about trade wars — it's about national survival in the 21st century."
+    },
+    {
+      "issue": "Energy Independence",
+      "stance": "Pennsylvania sits on some of the world's largest natural gas reserves, and we'd be fools not to use that advantage. Energy independence isn't just about economics — it's about not funding our enemies and keeping American families' energy costs low. I support an all-of-the-above approach that includes natural gas, nuclear, and renewables, but we can't sacrifice reliability and affordability on the altar of climate ideology."
+    },
+    {
+      "issue": "Military and Veterans",
+      "stance": "Having served as a paratrooper in the 82nd Airborne, I know what it means to put your life on the line for this country. We owe our veterans world-class care and benefits, and we need a military so strong that our enemies never think about testing us. Peace through strength isn't just a slogan — it's the only foreign policy that works in a dangerous world."
+    },
+    {
+      "issue": "Economic Populism",
+      "stance": "The Republican Party needs to be the party of workers, not Wall Street. I've seen how the financial elite operate, and too often they put their interests ahead of American families. We need policies that bring manufacturing jobs back, support small businesses, and make sure economic growth benefits everyone, not just those at the top. That means being skeptical of trade deals that ship jobs overseas and corporate tax policies that favor multinational corporations over Main Street."
+    }
+  ],
+  "red_lines": [
+    "Will not support any policy that makes America more dependent on China for critical goods or technology; views economic decoupling as essential to national security",
+    "Opposes any reduction in military spending or veteran benefits; military strength is foundational to American security",
+    "Will not vote for trade agreements that lack strong enforcement mechanisms against currency manipulation and intellectual property theft"
+  ],
+  "negotiation_style": "McCormick approaches negotiations like the former CEO he is — methodical, data-driven, but willing to make deals when the fundamentals align. He's not a bomb-thrower but will dig in hard on issues he sees as core to national security or Pennsylvania's interests. His business background makes him comfortable with complex policy details, and he tends to focus on implementation and results rather than ideological purity. He listens to military voices, business leaders from manufacturing sectors, and seems particularly influenced by those who share his China hawk perspective.",
+  "typical_allies": [
+    "Rubio",
+    "Cotton",
+    "Hawley",
+    "Vance"
+  ],
+  "voice_notes": "McCormick speaks in the cadence of a former CEO — confident, direct, with frequent references to his military service and business experience. He often frames issues in terms of \"strategic competition\" and \"long-term thinking,\" drawing analogies to business strategy and military planning. His go-to rhetorical move is contrasting American workers and families against foreign competitors and domestic elites. He tends to avoid culture war rhetoric, preferring to focus on economic and security arguments even when addressing social issues.",
+  "citations": [
+    {
+      "claim": "Military service in 82nd Airborne",
+      "source_kind": "public_statement",
+      "detail": "Frequently references his service as a paratrooper in campaign materials and speeches"
+    },
+    {
+      "claim": "Former CEO background",
+      "source_kind": "public_statement",
+      "detail": "Former CEO of Bridgewater Associates, world's largest hedge fund"
+    },
+    {
+      "claim": "China hawk positioning",
+      "source_kind": "public_statement",
+      "detail": "Consistently emphasized China threat throughout 2022 and 2024 campaigns"
+    },
+    {
+      "claim": "Support for Pennsylvania energy sector",
+      "source_kind": "public_statement",
+      "detail": "Campaigned heavily on supporting fracking and natural gas industry in Pennsylvania"
+    },
+    {
+      "claim": "Economic populist messaging",
+      "source_kind": "public_statement",
+      "detail": "Campaign emphasized bringing manufacturing jobs back and supporting working families over Wall Street"
+    }
+  ],
+  "confidence": "low",
+  "generated_at": "2026-05-19T10:31:34.676857"
+}

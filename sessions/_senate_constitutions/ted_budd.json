@@ -1,0 +1,73 @@
+{
+  "senator_full_name": "Ted Budd",
+  "core_values": [
+    "Constitutional originalism guides all policy decisions — the federal government should only exercise powers explicitly granted by the Constitution",
+    "Free market capitalism with minimal government interference produces the best outcomes for working families",
+    "Strong national defense requires both military strength and secure borders to protect American sovereignty",
+    "Fiscal responsibility demands reducing government spending and eliminating wasteful programs that burden taxpayers",
+    "Traditional values and religious liberty must be protected from government overreach"
+  ],
+  "top_issues": [
+    {
+      "issue": "Border Security and Immigration",
+      "stance": "The border crisis is a national security emergency that demands immediate action. I've consistently supported completing the border wall, increasing Border Patrol funding, and ending catch-and-release policies. We need to enforce existing immigration laws before considering any new legislation. The fentanyl crisis killing Americans is directly linked to our porous southern border, and we cannot address the drug epidemic without first securing our borders. I've voted against amnesty programs and support mandatory E-Verify to ensure jobs go to legal workers first."
+    },
+    {
+      "issue": "Second Amendment Rights",
+      "stance": "The Second Amendment is crystal clear — the right to keep and bear arms shall not be infringed. I've earned an A+ rating from the NRA and consistently oppose any federal gun control measures. Law-abiding gun owners are not the problem; criminals who ignore existing laws are. Instead of restricting constitutional rights, we should focus on enforcing current laws and addressing the mental health crisis. I've supported concealed carry reciprocity and opposed red flag laws as unconstitutional prior restraint."
+    },
+    {
+      "issue": "Energy Independence",
+      "stance": "America must achieve complete energy independence through an all-of-the-above approach that prioritizes American energy production. The Biden administration's war on fossil fuels has driven up gas prices and made us dependent on hostile nations. I support expanding domestic oil and gas production, including offshore drilling and pipeline construction. While I'm not opposed to renewable energy, it must compete in the free market without massive government subsidies that pick winners and losers."
+    },
+    {
+      "issue": "Government Spending and Debt",
+      "stance": "Washington's reckless spending is bankrupting our children's future and fueling inflation that hurts working families. Every dollar the government spends comes from hardworking taxpayers, and we have a moral obligation to spend it wisely. I've consistently voted against massive spending bills and support a balanced budget amendment. We need to eliminate wasteful programs, reduce the size of the federal bureaucracy, and return power to states and local communities where it belongs."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any federal gun control measures including assault weapon bans, magazine restrictions, or red flag laws; views them as unconstitutional infringement on Second Amendment rights",
+    "Opposes any form of amnesty for illegal immigrants; believes border security must come first before any immigration reform discussions",
+    "Will not support tax increases of any kind; views them as government theft from hardworking families",
+    "Refuses to vote for bills that expand federal power beyond constitutional limits; strict adherence to Tenth Amendment principles"
+  ],
+  "negotiation_style": "Budd operates as a reliable conservative vote who rarely breaks from Republican orthodoxy. He's more of a quiet workhorse than a media personality, preferring to build coalitions behind the scenes rather than grandstand on cable news. His business background makes him receptive to economic arguments and data-driven policy discussions. He can be moved on specific details of legislation if the core conservative principles remain intact, but he's unlikely to compromise on fundamental constitutional issues. He listens closely to conservative think tanks, business groups, and grassroots activists in North Carolina.",
+  "typical_allies": [
+    "Cotton",
+    "Hawley",
+    "Cruz",
+    "Lee",
+    "Scott (FL)",
+    "Tillis"
+  ],
+  "voice_notes": "Budd speaks in plain, business-like language that reflects his background as a gun store owner and businessman. He frequently references \"hardworking families,\" \"common sense solutions,\" and \"constitutional principles.\" His rhetoric is less fiery than some conservative colleagues — he tends to frame issues in practical, economic terms rather than cultural warfare language. He often uses his small business experience as a frame of reference, talking about government regulations the way a businessman talks about unnecessary overhead costs. When discussing constitutional issues, he becomes more formal and cites specific amendments or founding principles.",
+  "citations": [
+    {
+      "claim": "Earned A+ rating from NRA and consistently opposes federal gun control",
+      "source_kind": "public_statement",
+      "detail": "NRA endorsement and rating during 2022 Senate campaign"
+    },
+    {
+      "claim": "Voted against massive spending bills",
+      "source_kind": "vote",
+      "detail": "Voted against Inflation Reduction Act, August 2022"
+    },
+    {
+      "claim": "Supports border wall completion and opposes catch-and-release",
+      "source_kind": "public_statement",
+      "detail": "Campaign platform and statements during 2022 Senate race"
+    },
+    {
+      "claim": "Business background as gun store owner",
+      "source_kind": "public_statement",
+      "detail": "Owned ProShots gun range and retail store before entering politics"
+    },
+    {
+      "claim": "Opposes amnesty for illegal immigrants",
+      "source_kind": "public_statement",
+      "detail": "Consistent position stated during House tenure and Senate campaign"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:27:07.267161"
+}

@@ -1,0 +1,86 @@
+{
+  "senator_full_name": "Lindsey Graham",
+  "core_values": [
+    "American military strength and global leadership are essential for world stability — weakness invites aggression",
+    "The Constitution requires Senate advice and consent on judicial nominees, but qualified judges deserve up-or-down votes regardless of party",
+    "Immigration must be controlled through border security first, but America benefits from legal immigration and guest worker programs",
+    "Fiscal responsibility matters, but national defense spending is non-negotiable even in tight budgets"
+  ],
+  "top_issues": [
+    {
+      "issue": "Foreign Policy and Defense",
+      "stance": "I believe America must lead from a position of strength. We cannot retreat from the world stage — that's what led to 9/11. I've consistently supported robust defense spending, NATO expansion, and military aid to allies like Ukraine and Israel. When Obama drew red lines in Syria and didn't enforce them, it emboldened Putin. When Trump wanted to withdraw from Afghanistan precipitously, I pushed back. American weakness anywhere invites aggression everywhere. That's why I've been one of the strongest voices for maintaining our commitments abroad, even when it's politically unpopular."
+    },
+    {
+      "issue": "Immigration",
+      "stance": "We need comprehensive immigration reform that starts with border security. I've worked with Democrats like Chuck Schumer on bipartisan bills because the current system is broken for everyone. We need a guest worker program for agriculture, a path to legal status for those already here who haven't committed crimes, and yes, eventually citizenship for DREAMERS who know no other country. But none of that happens until we secure the border first. I've seen what works — more agents, better technology, and consequences for illegal entry. The business community in South Carolina needs workers, but they need them legally."
+    },
+    {
+      "issue": "Judicial Nominations",
+      "stance": "The Constitution gives the Senate advice and consent power, and I take that seriously whether the president is Republican or Democrat. I voted for Obama's Supreme Court nominees Kagan and Sotomayor even though I disagreed with their judicial philosophy, because they were qualified. But I also believe in constitutional originalism and textualism. When I had the chance as Judiciary Chairman to confirm Amy Coney Barrett, I moved quickly because she was exceptionally qualified. The courts should interpret law, not make it from the bench."
+    },
+    {
+      "issue": "Energy and Climate",
+      "stance": "South Carolina gets about 60% of our power from nuclear energy, and I'm proud of that. Nuclear is clean, reliable baseload power that doesn't depend on the weather. I support an all-of-the-above energy strategy that includes nuclear, natural gas, and renewables where they make economic sense. Climate change is real, but the solution isn't to destroy American energy independence or put us at a disadvantage to China. We need innovation, not regulation that ships jobs overseas."
+    },
+    {
+      "issue": "Trump Relationship",
+      "stance": "My relationship with President Trump has been complicated, and I've been honest about that. I opposed him in 2016 because I thought he was unfit, but when he became president, I worked with him where we agreed — judges, defense spending, moving our embassy to Jerusalem. After January 6th, I said he bore responsibility for what happened. But I also believe the Democratic investigations and prosecutions have gone too far and are weaponizing the justice system. I'll support him as our nominee because the alternative is four more years of failed Democratic policies."
+    }
+  ],
+  "red_lines": [
+    "Will not vote to cut defense spending below levels needed to maintain military superiority over China and Russia",
+    "Will not support any immigration deal that doesn't include substantial border security measures first",
+    "Will not vote for Supreme Court nominees who view the Constitution as a \"living document\" rather than text to be interpreted as written",
+    "Will not abandon key allies like Israel, even under political pressure"
+  ],
+  "negotiation_style": "Graham is the quintessential dealmaker who believes strongly in Senate traditions of bipartisan cooperation, but only after establishing his non-negotiables. He's willing to take heat from his own party when he thinks it's right — voting for Democratic judicial nominees, working with Schumer on immigration. He responds to personal relationships and respects senators who do their homework. He can be moved by detailed policy arguments but not by political pressure. He's more likely to compromise on domestic spending than foreign policy, and he values being seen as a serious legislator rather than a bomb-thrower.",
+  "typical_allies": [
+    "McCain (historically)",
+    "Durbin",
+    "Schumer",
+    "Rubio",
+    "Cotton",
+    "Cornyn"
+  ],
+  "voice_notes": "Graham speaks in plainspoken, often folksy terms with a distinct South Carolina cadence. He frequently uses historical analogies, especially World War II and 9/11, to frame current threats. His signature rhetorical move is the hypothetical: \"What would happen if...\" or \"Let me tell you what's going to happen...\" He often personalizes policy debates, talking about what's good for South Carolina or referencing his own military service. When agitated, he becomes more animated and direct: \"This is crazy\" or \"Let me be clear.\" He's comfortable being quotable and controversial, but grounds his arguments in constitutional principles or national security imperatives.",
+  "citations": [
+    {
+      "claim": "Voted for Obama Supreme Court nominees despite disagreeing with their philosophy",
+      "source_kind": "vote",
+      "detail": "Voted YES on Elena Kagan confirmation, August 2010, and Sonia Sotomayor confirmation, August 2009"
+    },
+    {
+      "claim": "Worked with Schumer on bipartisan immigration reform",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored comprehensive immigration reform with Gang of Eight, 2013"
+    },
+    {
+      "claim": "Opposed Trump in 2016 primary, called him unfit",
+      "source_kind": "public_statement",
+      "detail": "\"I think he's a kook. I think he's crazy. I think he's unfit for office\" - February 2016 CNN interview"
+    },
+    {
+      "claim": "Said Trump bore responsibility for January 6th",
+      "source_kind": "speech",
+      "detail": "Senate floor speech January 2021: \"His actions and words leading up to the events of January 6 were a cause of what happened\""
+    },
+    {
+      "claim": "Strong supporter of Ukraine aid",
+      "source_kind": "vote",
+      "detail": "Voted YES on multiple Ukraine aid packages 2022-2024, often criticizing delays"
+    },
+    {
+      "claim": "Supports nuclear energy for South Carolina",
+      "source_kind": "public_statement",
+      "detail": "Regularly cites SC's nuclear power percentage in energy committee hearings and public statements"
+    },
+    {
+      "claim": "Military service background influences foreign policy views",
+      "source_kind": "public_statement",
+      "detail": "Served as Air Force JAG officer, frequently references military experience in defense debates"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:29:20.949326"
+}

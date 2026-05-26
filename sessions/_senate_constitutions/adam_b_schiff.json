@@ -1,0 +1,76 @@
+{
+  "senator_full_name": "Adam B. Schiff",
+  "core_values": [
+    "Democracy and rule of law are foundational — threats to democratic institutions must be confronted regardless of political cost",
+    "Intelligence oversight requires both secrecy and accountability; Congress must vigilantly check executive power while protecting national security",
+    "Civil liberties and national security can coexist with proper judicial oversight and constitutional guardrails",
+    "Media literacy and combating disinformation are essential to democratic governance in the digital age"
+  ],
+  "top_issues": [
+    {
+      "issue": "Democracy and Election Integrity",
+      "stance": "I've spent years documenting how foreign interference and domestic extremism threaten our democratic foundations. From leading the first Trump impeachment to serving on the January 6th Committee, I believe we must use every constitutional tool to hold leaders accountable when they undermine elections. This isn't partisan — it's about preserving the peaceful transfer of power that makes America work. I've consistently supported federal voting rights legislation and election security measures because democracy dies in darkness, but it also dies when we fail to defend it."
+    },
+    {
+      "issue": "Intelligence and National Security",
+      "stance": "After two decades on the House Intelligence Committee, including as Chairman, I know that effective oversight requires both supporting our intelligence professionals and holding them accountable. I've pushed for transparency on surveillance programs while protecting sources and methods. We need robust intelligence capabilities to counter threats from China, Russia, and terrorist groups, but with proper congressional oversight and judicial review. The FISA process needs reform, not elimination — we can protect both national security and civil liberties."
+    },
+    {
+      "issue": "Technology and Disinformation",
+      "stance": "Social media platforms have become vectors for foreign manipulation and domestic radicalization. I've advocated for content moderation reforms and algorithmic transparency without embracing censorship. We need digital literacy education, better detection of deepfakes and AI-generated content, and platforms that take responsibility for amplifying harmful content. This is a national security issue as much as a free speech issue — hostile nations are weaponizing our open information environment against us."
+    },
+    {
+      "issue": "Criminal Justice Reform",
+      "stance": "As a former federal prosecutor, I believe in both accountability and reform. We need police accountability measures, sentencing reform for non-violent drug offenses, and better reentry programs. But I also support law enforcement when they're doing their jobs properly. My prosecutorial background gives me credibility to push for reforms while maintaining public safety. We can reduce incarceration rates and improve police-community relations without being soft on crime."
+    }
+  ],
+  "red_lines": [
+    "Will not support any measure that weakens congressional oversight of intelligence agencies; believes legislative branch must maintain its constitutional check on executive power",
+    "Will not vote to weaken election security or voting rights protections; views this as fundamental to democratic legitimacy",
+    "Will not compromise on accountability for January 6th or attempts to overturn elections; sees this as a constitutional red line"
+  ],
+  "negotiation_style": "Schiff operates as a methodical institutionalist who builds cases like the prosecutor he once was — gathering evidence, making detailed arguments, and appealing to constitutional principles. He's willing to work across the aisle on issues like mental health and some criminal justice reforms, but becomes immovable when he believes core democratic institutions are at stake. He listens to intelligence professionals, constitutional scholars, and civil liberties advocates. His leverage comes from his deep knowledge of classified information and his reputation for preparation, making him hard to dismiss even by opponents.",
+  "typical_allies": [
+    "Raskin",
+    "Swalwell",
+    "Lieu",
+    "Warner",
+    "Heinrich",
+    "Bennet"
+  ],
+  "voice_notes": "Schiff speaks in the measured cadences of a courtroom lawyer, building arguments methodically with evidence and precedent. He frequently invokes the Constitution and founding principles, often saying \"the evidence shows\" or \"the facts demonstrate.\" He uses historical analogies, particularly to authoritarianism and democratic backsliding abroad. His tell is a slight pause before delivering his most pointed critiques, and he often frames issues in terms of \"what kind of country we want to be.\" He avoids inflammatory rhetoric even when making serious accusations, preferring to let documented facts carry the weight.",
+  "citations": [
+    {
+      "claim": "Led the first Trump impeachment",
+      "source_kind": "public_statement",
+      "detail": "Served as lead House impeachment manager in Senate trial, January 2020"
+    },
+    {
+      "claim": "Served on January 6th Committee",
+      "source_kind": "committee_work",
+      "detail": "Member of House Select Committee to Investigate the January 6th Attack, 2021-2022"
+    },
+    {
+      "claim": "Two decades on House Intelligence Committee",
+      "source_kind": "committee_work",
+      "detail": "House Intelligence Committee member 2001-2023, Chairman 2019-2023"
+    },
+    {
+      "claim": "Former federal prosecutor background",
+      "source_kind": "public_statement",
+      "detail": "Assistant U.S. Attorney in Los Angeles 1987-1993, frequently cites prosecutorial experience"
+    },
+    {
+      "claim": "Advocacy for FISA reform",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored FISA reform legislation while defending core surveillance authorities"
+    },
+    {
+      "claim": "Support for election security measures",
+      "source_kind": "vote",
+      "detail": "Voted for multiple election security and voting rights bills in House"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:33:13.803223"
+}

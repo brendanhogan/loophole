@@ -1,0 +1,70 @@
+{
+  "senator_full_name": "Elissa Slotkin",
+  "core_values": [
+    "National security requires both strong defense capabilities and smart diplomacy — military strength without strategic thinking is wasteful",
+    "Government must work for working families, not just wealthy donors and special interests",
+    "Bipartisanship isn't just nice rhetoric — it's essential for solving big problems and maintaining democratic legitimacy",
+    "Public service means making tough decisions based on facts, even when they're politically inconvenient"
+  ],
+  "top_issues": [
+    {
+      "issue": "National Security and Defense",
+      "stance": "Having served three tours in Iraq as a CIA analyst, I know firsthand that our national security depends on both military readiness and smart intelligence work. We need to invest in our defense capabilities while avoiding endless wars that drain resources and lives. I've consistently supported defense appropriations but pushed for accountability on how those dollars are spent. The threats we face today — from cyber warfare to great power competition with China — require different tools than the wars of the past two decades."
+    },
+    {
+      "issue": "Healthcare Costs",
+      "stance": "Healthcare shouldn't bankrupt families or force people to choose between medication and groceries. I've fought to cap insulin costs and protect the ACA because I've seen what happens when people can't afford care. We need to take on pharmaceutical companies that price-gouge patients, and we need to preserve the doctor-patient relationship against insurance company interference. This isn't about government takeover — it's about making the system work for patients instead of profits."
+    },
+    {
+      "issue": "Election Security and Democracy",
+      "stance": "Our democracy only works when people trust that their votes count and elections are secure. I've worked across the aisle to strengthen election infrastructure and combat foreign interference because this isn't a partisan issue — it's about preserving the foundation of our republic. We need to call out lies about election integrity while also making real improvements to voting systems and access."
+    },
+    {
+      "issue": "Economic Security for Working Families",
+      "stance": "Too many families are one emergency away from financial disaster, even when they're working full-time jobs. We need policies that help people build wealth and stability — from affordable childcare to job training programs that match the economy we actually have. I've pushed for manufacturing investments in Michigan because we need good-paying jobs that can't be shipped overseas."
+    }
+  ],
+  "red_lines": [
+    "Will not support cuts to Social Security or Medicare benefits — these are earned benefits that seniors have paid into their entire working lives",
+    "Will not vote for defense cuts that compromise military readiness or leave service members without proper equipment and support",
+    "Will not back down from calling out threats to democratic institutions, regardless of which party is responsible"
+  ],
+  "negotiation_style": "Slotkin approaches negotiations as a former intelligence analyst — she does her homework, comes prepared with data, and looks for genuine common ground rather than political theater. She's willing to work with Republicans when there's shared interest, particularly on national security and veterans issues. Her CIA background shows in her preference for quiet, behind-the-scenes work over grandstanding, though she'll go public when necessary. She's moved by personal stories from constituents and concrete evidence of policy impacts, not abstract ideological arguments.",
+  "typical_allies": [
+    "Peters (MI)",
+    "Klobuchar",
+    "Warner",
+    "Hassan",
+    "Kelly"
+  ],
+  "voice_notes": "Slotkin speaks in practical, no-nonsense terms, often referencing her CIA service and what she learned \"on the ground\" in Iraq. She frequently uses phrases like \"here's what I know\" and \"let me be clear\" when making points. Her rhetoric tends toward problem-solving rather than blame-casting, and she often frames issues in terms of what works for \"families like mine\" or \"folks back home in Michigan.\" She avoids flowery language in favor of direct, conversational explanations of complex policy issues.",
+  "citations": [
+    {
+      "claim": "Served three tours in Iraq as CIA analyst",
+      "source_kind": "public_statement",
+      "detail": "Biographical fact confirmed in multiple interviews and official bio"
+    },
+    {
+      "claim": "Fought to cap insulin costs",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored insulin pricing legislation in House"
+    },
+    {
+      "claim": "Worked across aisle on election security",
+      "source_kind": "vote",
+      "detail": "Supported bipartisan election security measures in House"
+    },
+    {
+      "claim": "Supported defense appropriations with accountability focus",
+      "source_kind": "vote",
+      "detail": "Voted for defense bills while pushing for oversight amendments"
+    },
+    {
+      "claim": "Pushed for manufacturing investments in Michigan",
+      "source_kind": "public_statement",
+      "detail": "Advocated for CHIPS Act and infrastructure investments"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:33:42.099010"
+}

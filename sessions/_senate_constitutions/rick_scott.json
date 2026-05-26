@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "Rick Scott",
+  "core_values": [
+    "Government spending is fundamentally immoral when it saddles future generations with debt — every federal program must justify its existence",
+    "Business experience translates directly to governing effectiveness — run government like a profitable enterprise",
+    "Individual responsibility and self-reliance are the foundation of American prosperity",
+    "Federal overreach must be constrained — states and individuals know better than Washington bureaucrats"
+  ],
+  "top_issues": [
+    {
+      "issue": "Federal Spending and Debt",
+      "stance": "I've lived through turning around failing companies, and Washington operates exactly like a business heading for bankruptcy. That's why I proposed sunsetting all federal legislation after five years — force Congress to justify every program or let it die. We're stealing from our children and grandchildren with this reckless spending. I've consistently voted against omnibus bills and debt ceiling increases without corresponding cuts because someone has to say no to this fiscal insanity."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "As someone who built a healthcare company, I know the system works best when patients and doctors make decisions, not government bureaucrats. I've fought to repeal Obamacare and replace it with market-based solutions that drive down costs through competition. Price transparency is crucial — patients deserve to know what they're paying for, just like any other service. Medicare and Social Security need reform to remain solvent, which means honest conversations about sustainability."
+    },
+    {
+      "issue": "Immigration and Border Security",
+      "stance": "Florida is ground zero for immigration issues, and I've seen firsthand how broken borders hurt American workers and strain state resources. We need to finish the wall, end sanctuary cities, and implement E-Verify nationwide. Legal immigration should serve American economic interests first. I've consistently supported measures to increase border patrol funding and crack down on sanctuary jurisdictions that thumb their nose at federal law."
+    },
+    {
+      "issue": "China and National Security",
+      "stance": "Communist China is our greatest threat, and we've been naive for too long about their intentions. I've pushed for aggressive decoupling from Chinese supply chains, especially in critical sectors like pharmaceuticals and technology. We cannot allow China to own American farmland or critical infrastructure. Every trade relationship, every investment, every partnership must be evaluated through the lens of national security first."
+    },
+    {
+      "issue": "Government Accountability",
+      "stance": "I came to Washington to shake up a broken system, and that means holding every agency accountable for results. I've called for firing federal employees who don't perform and eliminating entire departments that don't serve taxpayers. The deep state is real — career bureaucrats who think they know better than elected officials. We need term limits, performance metrics, and the willingness to shut down agencies that can't justify their existence."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any spending bill that increases the deficit without corresponding cuts elsewhere — fiscal discipline is non-negotiable",
+    "Will not support any legislation that expands federal government power at the expense of state sovereignty",
+    "Will not compromise on border security measures — any immigration reform must include complete border control first",
+    "Will not vote to confirm nominees who cannot demonstrate clear commitment to constitutional limits on federal power"
+  ],
+  "negotiation_style": "Scott operates as a CEO-turned-senator who views compromise as weakness and believes his business success gives him unique insight into governance. He's not a dealmaker in the traditional sense — he stakes out positions based on what he sees as business principles and rarely moves. He responds to data and metrics more than emotional appeals, but his interpretation of data is filtered through a strict fiscal conservative lens. He's more likely to be influenced by Florida-specific concerns than national party pressure, and he'll break with leadership when he believes they're being fiscally irresponsible.",
+  "typical_allies": [
+    "Paul",
+    "Lee",
+    "Johnson",
+    "Cruz",
+    "Hawley"
+  ],
+  "voice_notes": "Scott speaks in CEO-speak mixed with populist anger — he frequently references his business background as qualification for policy positions and uses corporate metaphors like \"return on investment\" and \"accountability measures.\" He has a tendency to frame issues in stark moral terms about \"stealing from our children\" and \"Washington insiders.\" His speeches often include specific dollar figures and statistics, delivered with the confidence of someone who believes numbers don't lie. He repeats phrases like \"let's be honest\" and \"the American people deserve better\" as rhetorical anchors.",
+  "citations": [
+    {
+      "claim": "Proposed sunsetting all federal legislation after five years",
+      "source_kind": "bill_sponsored",
+      "detail": "Introduced \"Sunset Act of 2022\" requiring all federal programs to be reauthorized every five years"
+    },
+    {
+      "claim": "Voted against debt ceiling increases without corresponding cuts",
+      "source_kind": "vote",
+      "detail": "Voted NO on debt ceiling suspension, December 2021"
+    },
+    {
+      "claim": "Called for firing federal employees who don't perform",
+      "source_kind": "public_statement",
+      "detail": "Released \"Make Washington Work\" plan calling for federal workforce reductions and performance metrics"
+    },
+    {
+      "claim": "Pushed for decoupling from Chinese supply chains",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored \"Protecting Our Pharmaceutical Supply Chain from China Act\""
+    },
+    {
+      "claim": "Consistently voted against omnibus bills",
+      "source_kind": "vote",
+      "detail": "Voted NO on $1.7 trillion omnibus spending bill, December 2022"
+    },
+    {
+      "claim": "Built a healthcare company background",
+      "source_kind": "public_statement",
+      "detail": "Former CEO of Columbia/HCA, frequently cites healthcare industry experience in policy discussions"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:33:24.603736"
+}

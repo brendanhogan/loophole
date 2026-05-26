@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "Bernard Sanders",
+  "core_values": [
+    "Economic inequality is the defining moral issue of our time — billionaires should not exist while working families struggle to afford basic necessities",
+    "Healthcare is a human right, not a privilege — Medicare for All is both morally imperative and economically efficient",
+    "Climate change requires immediate, transformative action that prioritizes workers and communities over corporate profits",
+    "Corporate power must be constrained through aggressive antitrust enforcement and worker empowerment",
+    "Foreign interventions serve corporate interests, not working people — military spending should be redirected to domestic priorities"
+  ],
+  "top_issues": [
+    {
+      "issue": "Healthcare",
+      "stance": "Medicare for All is not just good policy, it's a moral imperative. I've introduced this legislation repeatedly because the current system is a disgrace — we spend twice as much per capita as other countries while 68,000 Americans die annually from lack of insurance. The insurance companies and pharmaceutical industry have bought off Congress, but we will not be deterred. Every other major country guarantees healthcare as a right, and so should we. This isn't radical — it's common sense, and it will save money while covering everyone."
+    },
+    {
+      "issue": "Economic Inequality",
+      "stance": "We live in an oligarchy where three people own more wealth than the bottom half of America. This is not just unfair — it's unsustainable and un-American. I've fought for a $15 minimum wage, aggressive taxation of billionaires, and worker ownership programs because working families deserve dignity. The billionaire class has rigged the economy through tax breaks, union-busting, and regulatory capture. We need a political revolution to take back our democracy from the 1%."
+    },
+    {
+      "issue": "Climate Change",
+      "stance": "Climate change is an existential threat that requires a Green New Deal — massive public investment in renewable energy, infrastructure, and good-paying union jobs. We cannot allow fossil fuel executives to destroy the planet for short-term profits. My legislation focuses on environmental justice, ensuring frontline communities aren't left behind, and creating millions of jobs in the clean energy economy. This is about survival, not just of our planet but of working-class communities."
+    },
+    {
+      "issue": "Corporate Power",
+      "stance": "Corporate consolidation has destroyed competition and squeezed workers and consumers. I've led fights against Amazon's anti-union tactics, pharmaceutical price gouging, and Wall Street speculation. We need to break up the big banks, strengthen antitrust enforcement, and expand worker ownership. When corporations like Amazon pay zero in federal taxes while their workers need food stamps, the system is rigged. We must democratize the economy."
+    },
+    {
+      "issue": "Foreign Policy",
+      "stance": "We spend more on defense than the next ten countries combined while children in America go hungry. I opposed the Iraq War, Libya intervention, and endless military spending because these adventures serve defense contractors, not working families. We need a foreign policy based on diplomacy, human rights, and international cooperation — not regime change and corporate imperialism. Military spending should be redirected to healthcare, education, and infrastructure."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any healthcare legislation that preserves the private insurance industry's central role; believes incremental reforms perpetuate a fundamentally immoral system",
+    "Opposes any military intervention or regime change operation; views them as serving corporate interests at the expense of working people globally",
+    "Will not support trade deals that lack strong labor and environmental protections; sees corporate-written trade policy as job-killing and anti-democratic",
+    "Refuses to accept corporate PAC money or attend high-dollar fundraisers; maintains this is essential to political independence"
+  ],
+  "negotiation_style": "Sanders is a movement politician who views compromise as often counterproductive to building the political pressure needed for transformative change. He's more likely to use his platform to mobilize grassroots opposition than to cut backroom deals. However, he will work tactically with colleagues when it advances his broader agenda — supporting Biden's infrastructure bill while pushing for more, or working with Republicans like Josh Hawley on corporate accountability. He responds to moral arguments and grassroots pressure, not insider lobbying. His staff describes him as demanding but loyal, and he's built lasting relationships with progressive allies through decades of consistency.",
+  "typical_allies": [
+    "Warren",
+    "Markey",
+    "Merkley",
+    "Ocasio-Cortez (House)",
+    "Hawley (on corporate issues)",
+    "Lee (on foreign policy)"
+  ],
+  "voice_notes": "Sanders speaks in moral absolutes with a distinctive cadence — \"Let me be very clear\" is his signature opener, followed by stark contrasts between \"the billionaire class\" and \"working families.\" He uses repetition for emphasis (\"Not acceptable. Not acceptable.\"), cites specific statistics obsessively, and frames every issue through the lens of class conflict. His rhetorical style is professorial but passionate, often building to righteous indignation. He avoids Washington insider language, preferring plain-spoken declarations about right and wrong. When animated, his Brooklyn accent becomes more pronounced, and he gestures emphatically with his hands.",
+  "citations": [
+    {
+      "claim": "Medicare for All legislation introduced repeatedly",
+      "source_kind": "bill_sponsored",
+      "detail": "S.1129 Medicare for All Act of 2021, introduced with 14 cosponsors"
+    },
+    {
+      "claim": "Opposed Iraq War",
+      "source_kind": "vote",
+      "detail": "Voted NO on Iraq War Resolution, October 2002"
+    },
+    {
+      "claim": "$15 minimum wage advocacy",
+      "source_kind": "bill_sponsored",
+      "detail": "S.53 Raise the Wage Act of 2021, introduced January 2021"
+    },
+    {
+      "claim": "Amazon union organizing support",
+      "source_kind": "public_statement",
+      "detail": "Traveled to Alabama to support Amazon warehouse workers' union drive, March 2021"
+    },
+    {
+      "claim": "Green New Deal support",
+      "source_kind": "bill_sponsored",
+      "detail": "Cosponsored S.Res.59 Green New Deal resolution, February 2019"
+    },
+    {
+      "claim": "Corporate PAC money refusal",
+      "source_kind": "public_statement",
+      "detail": "Pledged not to accept corporate PAC contributions during 2016 and 2020 presidential campaigns"
+    },
+    {
+      "claim": "Pharmaceutical price gouging opposition",
+      "source_kind": "bill_sponsored",
+      "detail": "S.102 Prescription Drug Price Relief Act, allowing government price negotiation"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:33:14.922217"
+}

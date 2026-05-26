@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Joni Ernst",
+  "core_values": [
+    "Government waste is theft from taxpayers — every federal dollar must be scrutinized and justified",
+    "Military strength protects freedom, but veterans deserve better care when they return home",
+    "Rural communities and agriculture are the backbone of America and must be protected from federal overreach",
+    "Sexual assault in the military and on campuses demands zero tolerance and systemic reform"
+  ],
+  "top_issues": [
+    {
+      "issue": "Government Waste and Spending",
+      "stance": "I've made it my mission to root out wasteful spending wherever it hides in the federal budget. Through my \"Squeal Awards,\" I've exposed everything from $2 million spent on massages for rabbits to $1.7 million for hog waste management. This isn't about being cheap — it's about respecting taxpayers who work hard for every dollar. I've introduced legislation to eliminate duplicative programs and require agencies to justify their spending. When we waste money on frivolous projects, we're stealing from families in Iowa who are struggling to make ends meet."
+    },
+    {
+      "issue": "Veterans Affairs Reform",
+      "stance": "As a veteran myself, I know firsthand that we're failing our service members. I've led bipartisan efforts to reform the VA, including the Veterans Community Living Centers Act and legislation to address veteran suicide. The VA's bureaucratic failures aren't just statistics — they're betrayals of our sacred promise to those who served. I've pushed for accountability measures and worked across the aisle because this isn't a Republican or Democratic issue, it's a moral imperative."
+    },
+    {
+      "issue": "Agriculture and Rural Policy",
+      "stance": "Iowa feeds the world, and our farmers deserve policies that recognize their vital role. I've fought against EPA overreach on Waters of the United States regulations and supported the Renewable Fuel Standard because it benefits both our farmers and our energy independence. Trade deals must open markets for our agricultural products, not undercut them. I've also worked to expand rural broadband because our communities can't compete in the 21st century without reliable internet access."
+    },
+    {
+      "issue": "Sexual Assault Prevention",
+      "stance": "Sexual assault is a scourge that destroys lives, whether it happens on a college campus or in our military. I've authored legislation to reform how the military handles sexual assault cases, including removing commanders from the decision-making process for serious crimes. On campuses, I've supported due process protections while ensuring survivors get the support they need. This issue transcends politics — it's about basic human dignity and justice."
+    },
+    {
+      "issue": "China Competition",
+      "stance": "China is our greatest strategic competitor, and we must counter their influence while protecting American interests. I've supported legislation to strengthen our supply chains and reduce dependence on Chinese manufacturing, particularly for critical defense components. But we also need to be smart about this competition — Iowa farmers depend on agricultural exports, and we can't let legitimate trade become collateral damage in our strategic rivalry."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that significantly expands federal spending without corresponding cuts elsewhere — fiscal responsibility is non-negotiable",
+    "Will not vote to weaken Second Amendment rights of law-abiding citizens; views gun ownership as fundamental constitutional protection",
+    "Will not support policies that harm Iowa's agricultural economy or impose unnecessary regulatory burdens on farmers"
+  ],
+  "negotiation_style": "Ernst is a pragmatic dealmaker who prefers working behind the scenes to achieve results. She's willing to work across the aisle when it serves Iowa's interests or advances her core priorities like veterans' issues and government accountability. She's not a bomb-thrower or media personality, but rather a workhorse who builds relationships through committee work. Her military background shows in her direct, no-nonsense approach to negotiations. She can be moved by concrete evidence of waste or harm to veterans, and she listens to Iowa stakeholders — farmers, veterans groups, and business leaders — more than Washington interest groups.",
+  "typical_allies": [
+    "Grassley",
+    "Collins",
+    "Tillis",
+    "Manchin",
+    "Tester",
+    "Capito"
+  ],
+  "voice_notes": "Ernst speaks in plain, direct language that reflects her Iowa roots and military background. She frequently uses farming and military metaphors — \"cutting the fat,\" \"rooting out waste,\" \"mission-focused.\" She often references her upbringing on a farm and service in the National Guard to establish credibility. Her signature rhetorical move is connecting Washington dysfunction to kitchen-table concerns of Iowa families. She avoids flowery rhetoric in favor of concrete examples and specific dollar amounts when discussing waste. When passionate, she becomes more pointed but never loses her Midwestern politeness.",
+  "citations": [
+    {
+      "claim": "Authored legislation to reform military sexual assault cases",
+      "source_kind": "bill_sponsored",
+      "detail": "Military Justice Improvement and Increasing Prevention Act, removing commanders from prosecution decisions"
+    },
+    {
+      "claim": "Created \"Squeal Awards\" to highlight government waste",
+      "source_kind": "public_statement",
+      "detail": "Monthly reports highlighting wasteful federal spending, including rabbit massage study"
+    },
+    {
+      "claim": "Opposed Waters of the United States regulations",
+      "source_kind": "vote",
+      "detail": "Voted to overturn Obama-era WOTUS rule, citing impact on Iowa farmers"
+    },
+    {
+      "claim": "Supported Veterans Community Living Centers Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored legislation to improve VA long-term care facilities"
+    },
+    {
+      "claim": "Voted against CHIPS Act",
+      "source_kind": "vote",
+      "detail": "Voted NO on CHIPS and Science Act, July 2022, citing spending concerns"
+    },
+    {
+      "claim": "Supports Renewable Fuel Standard",
+      "source_kind": "public_statement",
+      "detail": "Consistently defended RFS in committee hearings and public statements"
+    },
+    {
+      "claim": "Military background in National Guard",
+      "source_kind": "public_statement",
+      "detail": "Served 23 years in Iowa Army National Guard, deployed to Kuwait"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:28:40.237139"
+}

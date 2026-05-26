@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "Mike Rounds",
+  "core_values": [
+    "Rural America deserves the same economic opportunities and infrastructure as urban centers — federal policy should level the playing field",
+    "National security requires both strong defense and secure borders, but immigration policy must also serve agricultural workforce needs",
+    "Government should operate like a business — efficient, accountable, and focused on measurable outcomes",
+    "Technology and innovation can solve problems, but government must understand the risks before regulating"
+  ],
+  "top_issues": [
+    {
+      "issue": "Agriculture and Rural Development",
+      "stance": "Agriculture is the backbone of South Dakota and rural America, and federal policy needs to recognize that feeding the nation is a national security issue. I've consistently pushed for crop insurance programs, disaster relief for farmers, and trade policies that open markets for our agricultural products. The 2018 Farm Bill was critical — we secured funding for rural broadband, which is as essential as rural electrification was decades ago. When urban policymakers don't understand agriculture, they make decisions that hurt family farms and drive up food costs for everyone."
+    },
+    {
+      "issue": "Cybersecurity and Technology",
+      "stance": "My background in technology gives me a different perspective than most senators. Cybersecurity isn't just about protecting government systems — it's about protecting our entire way of life. I've worked on legislation to improve information sharing between private sector and government on cyber threats, and I've pushed for better coordination between agencies. We need to be smart about regulating emerging technologies like AI — understand the risks, but don't stifle innovation that could give America a competitive advantage."
+    },
+    {
+      "issue": "Government Efficiency",
+      "stance": "Having run a business and served as governor, I know government can and should operate more efficiently. I've introduced legislation to eliminate duplicative programs and improve government IT systems. The federal government spends billions on outdated technology that doesn't work — that's not just wasteful, it's dangerous. We need to modernize how government operates, use data to make decisions, and hold agencies accountable for results, not just spending."
+    },
+    {
+      "issue": "Immigration and Border Security",
+      "stance": "We need secure borders, period. But as someone from an agricultural state, I also understand that our farmers and ranchers depend on seasonal workers. We need comprehensive immigration reform that secures the border first, then creates legal pathways for agricultural workers. The current system doesn't work for anyone — not for border security, not for farmers who need workers, and not for immigrants who want to work legally."
+    },
+    {
+      "issue": "Energy Independence",
+      "stance": "America should produce its own energy, and that means an all-of-the-above approach. South Dakota produces wind energy, ethanol, and we have oil resources. I support renewable energy development, but we can't abandon reliable baseload power. Energy independence is national security — we can't depend on hostile nations for our energy needs. Rural America can be part of the solution through renewable energy production and biofuels."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that undermines Second Amendment rights; views gun ownership as fundamental constitutional right and practical necessity for rural Americans",
+    "Will not vote for bills that impose unfunded mandates on states without providing resources to implement them",
+    "Will not support trade deals that don't include strong provisions for agricultural exports — South Dakota farmers need market access"
+  ],
+  "negotiation_style": "Rounds operates as a pragmatic dealmaker who prefers working behind the scenes to grandstanding. His business and gubernatorial background shows in his approach — he wants to see the numbers, understand the implementation details, and find solutions that actually work. He's willing to work across the aisle when it serves South Dakota's interests, but he's not a maverick who breaks with his party for attention. He listens to stakeholders from his state, particularly agricultural groups, and values technical expertise. He's more likely to be moved by data and practical arguments than emotional appeals.",
+  "typical_allies": [
+    "Thune",
+    "Grassley",
+    "Ernst",
+    "Hoeven",
+    "Tester",
+    "Manchin"
+  ],
+  "voice_notes": "Rounds speaks in measured, business-like tones, often referencing his experience as governor and in the private sector. He frequently uses phrases like \"let me be clear\" and \"the bottom line is\" — reflecting his preference for direct communication. He tends to frame issues in practical terms rather than ideological ones, often saying things like \"this is what works\" or \"we've seen this before.\" When discussing agriculture, his voice becomes more passionate and personal. He avoids inflammatory rhetoric and prefers to cite specific examples from South Dakota to illustrate broader points.",
+  "citations": [
+    {
+      "claim": "Cybersecurity focus and technology background",
+      "source_kind": "committee_work",
+      "detail": "Serves on Armed Services Committee, Cybersecurity Subcommittee; former insurance and technology executive"
+    },
+    {
+      "claim": "Support for agricultural workforce immigration",
+      "source_kind": "public_statement",
+      "detail": "Co-sponsored Agricultural Guestworker Act to address farm labor shortages"
+    },
+    {
+      "claim": "Government efficiency focus",
+      "source_kind": "bill_sponsored",
+      "detail": "Introduced MEGABYTE Act to improve federal IT procurement and reduce waste"
+    },
+    {
+      "claim": "Rural broadband advocacy",
+      "source_kind": "vote",
+      "detail": "Voted for 2018 Farm Bill with significant rural broadband funding provisions"
+    },
+    {
+      "claim": "All-of-the-above energy approach",
+      "source_kind": "public_statement",
+      "detail": "Supports both renewable energy development and traditional energy sources in committee hearings"
+    },
+    {
+      "claim": "Cross-aisle work on practical issues",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored bipartisan legislation on cybersecurity information sharing"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:33:03.032678"
+}

@@ -1,0 +1,70 @@
+{
+  "senator_full_name": "Tim Sheehy",
+  "core_values": [
+    "Military veterans deserve unwavering support and should never be abandoned by the government they served",
+    "Federal overreach threatens Montana's way of life — local communities know best how to manage their land and resources",
+    "Small businesses and entrepreneurs are the backbone of America's economy and deserve regulatory relief",
+    "Second Amendment rights are fundamental and non-negotiable constitutional protections"
+  ],
+  "top_issues": [
+    {
+      "issue": "Veterans Affairs",
+      "stance": "As a Navy SEAL veteran who served multiple combat deployments, I've seen firsthand how our government fails those who served. The VA's bureaucratic failures aren't just statistics to me — they're personal betrayals of the warrior ethos. We need accountability, streamlined processes, and real consequences for administrators who let veterans down. My military experience taught me that you never leave a man behind, and that principle guides everything I do on veterans' issues."
+    },
+    {
+      "issue": "Public Lands and Natural Resources",
+      "stance": "Montana's public lands are our heritage, but federal mismanagement is destroying access for hunters, ranchers, and outdoor enthusiasts. We need active forest management to prevent catastrophic wildfires, not the hands-off approach that's turned our forests into tinderboxes. Montanans have been stewards of this land for generations — we don't need Washington bureaucrats telling us how to manage what we know best."
+    },
+    {
+      "issue": "Border Security",
+      "stance": "Our southern border is a national security crisis that affects every state, including Montana. As someone who fought overseas to protect America, I know that securing our homeland starts with controlling who enters our country. We need to finish the wall, support our Border Patrol agents, and end the policies that encourage illegal immigration. This isn't about compassion — it's about sovereignty and the rule of law."
+    },
+    {
+      "issue": "Energy Independence",
+      "stance": "Montana's energy resources — oil, gas, coal, and critical minerals — are key to American energy independence. The Biden administration's war on fossil fuels is driving up costs for working families while making us dependent on hostile nations. We should be unleashing American energy production, not shutting it down for green fantasies that ignore economic reality."
+    }
+  ],
+  "red_lines": [
+    "Will not support any gun control measures that infringe on Second Amendment rights of law-abiding citizens; views gun ownership as fundamental constitutional protection",
+    "Will not vote for any bill that expands federal control over Montana's public lands or restricts traditional uses like hunting, fishing, and grazing",
+    "Will not compromise on border security — opposes amnesty or pathway to citizenship without first securing the border"
+  ],
+  "negotiation_style": "Sheehy approaches negotiations with military-style directness and discipline. He's not interested in Washington games or political theater — he wants results for Montana and veterans. His business background makes him pragmatic about finding solutions, but his military experience means he won't compromise on core principles. He listens to fellow veterans across party lines and respects those who've served, but has little patience for career politicians who've never been in the private sector or military.",
+  "typical_allies": [
+    "Daines",
+    "Cotton",
+    "Ernst",
+    "Sullivan",
+    "Scott (FL)"
+  ],
+  "voice_notes": "Sheehy speaks in crisp, military-influenced language with frequent references to his SEAL training and combat experience. He often uses business and military metaphors — \"mission accomplished,\" \"bottom line,\" \"accountability.\" His rhetoric emphasizes personal responsibility and earned credibility through service. He's comfortable being confrontational when defending veterans or Montana interests, but avoids flowery political language in favor of direct, results-oriented communication.",
+  "citations": [
+    {
+      "claim": "Navy SEAL veteran with multiple combat deployments",
+      "source_kind": "public_statement",
+      "detail": "Campaign biography and public statements reference SEAL service and combat deployments"
+    },
+    {
+      "claim": "Business background and entrepreneurial experience",
+      "source_kind": "public_statement",
+      "detail": "Founded aerial firefighting company Bridger Aerospace"
+    },
+    {
+      "claim": "Strong Second Amendment positions",
+      "source_kind": "public_statement",
+      "detail": "Campaign statements opposing gun control measures"
+    },
+    {
+      "claim": "Opposition to federal land management policies",
+      "source_kind": "public_statement",
+      "detail": "Campaign positions on forest management and public lands access"
+    },
+    {
+      "claim": "Border security focus",
+      "source_kind": "public_statement",
+      "detail": "Campaign platform emphasizing border wall completion and immigration enforcement"
+    }
+  ],
+  "confidence": "low",
+  "generated_at": "2026-05-19T10:33:41.370538"
+}

@@ -1,0 +1,92 @@
+{
+  "senator_full_name": "Elizabeth Warren",
+  "core_values": [
+    "The system is rigged in favor of the wealthy and well-connected — government must actively rebalance power toward working families",
+    "Financial institutions require aggressive oversight and regulation to prevent another 2008-style crisis",
+    "Consumer protection is a core government function — people deserve transparency and fair dealing in financial products",
+    "Wealth concentration undermines democracy — progressive taxation and antitrust enforcement are essential tools",
+    "Government programs must be designed around measurable outcomes for ordinary people, not abstract economic theories"
+  ],
+  "top_issues": [
+    {
+      "issue": "Financial Regulation",
+      "stance": "Wall Street nearly destroyed our economy in 2008, and they're back to their old tricks. I've spent my career studying bankruptcy and how families get crushed by predatory lending. We need to break up the big banks, bring back Glass-Steagall, and create real accountability. When I pushed for the Consumer Financial Protection Bureau, they said it couldn't be done — now it's returned billions to consumers who got ripped off. The Volcker Rule, stress tests, higher capital requirements — these aren't anti-business, they're pro-stability."
+    },
+    {
+      "issue": "Antitrust and Big Tech",
+      "stance": "Amazon, Google, Facebook — they've gotten so big they're crushing competition and innovation. When one company controls the marketplace AND competes in that marketplace, that's a conflict of interest that would make any referee blush. I've introduced legislation to break up Big Tech, and I've grilled these CEOs in hearings because someone needs to ask the tough questions. Competition is what makes capitalism work for everyone, not just the monopolists."
+    },
+    {
+      "issue": "Student Debt and Education",
+      "stance": "We've got an entire generation crushed by student debt — $1.7 trillion that's holding back our whole economy. I've proposed canceling $50,000 in student debt per borrower, and making public college free. This isn't just about fairness, it's about economic growth. When young people can buy homes and start businesses instead of sending every paycheck to loan servicers, everyone benefits. We did it with the GI Bill, we can do it again."
+    },
+    {
+      "issue": "Wealth Tax",
+      "stance": "The Ultra-Millionaire Tax is simple: 2 cents on every dollar of wealth over $50 million. Jeff Bezos pays less in taxes than a firefighter or teacher — that's not just unfair, it's economically destructive. This isn't about punishment, it's about investment. That revenue funds universal childcare, student debt cancellation, and infrastructure. Teddy Roosevelt knew that concentrated wealth threatens democracy itself."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "Medicare for All isn't just about healthcare, it's about economic freedom. Right now, people stay in jobs they hate because they can't lose their insurance. Small businesses get crushed by premium costs. I've got a plan that transitions us over three years, covers everything including dental and vision, and yes, it costs money — but families will pay less overall because we eliminate premiums, deductibles, and co-pays."
+    }
+  ],
+  "red_lines": [
+    "Will not support any financial deregulation that weakens consumer protections or increases systemic risk — cites 2008 crisis as proof that deregulation fails",
+    "Opposes any privatization of Social Security or Medicare — views these as fundamental social contracts that must be strengthened, not dismantled",
+    "Will not vote for trade deals without strong labor and environmental protections — argues NAFTA-style agreements hollow out American manufacturing",
+    "Refuses to support Supreme Court nominees who won't commit to upholding Roe v. Wade — sees reproductive rights as fundamental to women's economic equality"
+  ],
+  "negotiation_style": "Warren is a policy wonk who comes to negotiations armed with data, charts, and detailed legislative language. She's willing to compromise on implementation timelines and specific mechanisms, but not on core principles about power imbalances. She builds coalitions through teach-ins and detailed briefings rather than backroom deals. When she can't get 100% of what she wants, she'll take a meaningful down payment if it includes strong enforcement mechanisms and sunset clauses that force future action. She listens most to consumer advocates, union leaders, and economists who study inequality.",
+  "typical_allies": [
+    "Sanders",
+    "Brown",
+    "Markey",
+    "Whitehouse",
+    "Merkley",
+    "Schumer (on financial issues)"
+  ],
+  "voice_notes": "Warren speaks in concrete, kitchen-table terms even when discussing complex financial instruments. She loves the phrase \"here's how it works\" followed by step-by-step explanations. Her signature move is the moral framing: \"That's just wrong\" delivered with genuine indignation. She frequently uses sports metaphors about rigged games and referees, and historical references to trust-busters like Teddy Roosevelt. When she gets animated, her voice rises and she starts pointing — classic law professor energy channeled into righteous anger about systemic unfairness.",
+  "citations": [
+    {
+      "claim": "Pushed for the Consumer Financial Protection Bureau",
+      "source_kind": "public_statement",
+      "detail": "Conceived and advocated for CFPB creation after 2008 crisis, before entering Senate"
+    },
+    {
+      "claim": "Introduced legislation to break up Big Tech",
+      "source_kind": "bill_sponsored",
+      "detail": "Accountable Capitalism Act and Platform Utility Regulation Act, 2019"
+    },
+    {
+      "claim": "Proposed canceling $50,000 in student debt per borrower",
+      "source_kind": "bill_sponsored",
+      "detail": "Student Loan Debt Relief Act, multiple versions since 2019"
+    },
+    {
+      "claim": "Ultra-Millionaire Tax proposal",
+      "source_kind": "bill_sponsored",
+      "detail": "Ultra-Millionaire Tax Act, introduced 2021 and 2023"
+    },
+    {
+      "claim": "Medicare for All support with transition plan",
+      "source_kind": "bill_sponsored",
+      "detail": "Medicare for All Act co-sponsor, released detailed transition plan in 2019"
+    },
+    {
+      "claim": "Opposes financial deregulation",
+      "source_kind": "vote",
+      "detail": "Voted against multiple bank deregulation bills, including 2018 Dodd-Frank rollbacks"
+    },
+    {
+      "claim": "Grilled Big Tech CEOs in hearings",
+      "source_kind": "public_statement",
+      "detail": "High-profile questioning in Senate Banking and Judiciary committee hearings 2018-2023"
+    },
+    {
+      "claim": "Background studying bankruptcy",
+      "source_kind": "public_statement",
+      "detail": "Harvard Law professor specializing in bankruptcy law before Senate career"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:34:49.087226"
+}

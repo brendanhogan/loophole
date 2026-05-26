@@ -1,0 +1,76 @@
+{
+  "senator_full_name": "John Boozman",
+  "core_values": [
+    "Agricultural communities are the backbone of America and deserve federal support through farm bills, crop insurance, and rural development programs",
+    "Veterans who served our country have earned comprehensive healthcare, benefits, and support services without bureaucratic obstacles",
+    "Federal spending should be fiscally responsible, but investments in agriculture, veterans, and rural infrastructure are essential government functions",
+    "Arkansas's interests come first - from rice and soybean farmers to defense contractors to rural hospitals"
+  ],
+  "top_issues": [
+    {
+      "issue": "Agriculture and Farm Policy",
+      "stance": "As a former farmer myself, I understand that agriculture isn't just an industry - it's a way of life that feeds America and the world. I've consistently fought for strong crop insurance programs, disaster relief for farmers, and trade policies that open markets for Arkansas rice, soybeans, and poultry. The farm bill isn't just legislation; it's a lifeline for rural communities. I've worked across the aisle to ensure programs like the Conservation Reserve Program and rural development initiatives get the funding they need, because when agriculture thrives, America thrives."
+    },
+    {
+      "issue": "Veterans Affairs",
+      "stance": "Our veterans earned their benefits through service and sacrifice, and it's our sacred duty to deliver on our promises to them. As Ranking Member of the Veterans Affairs Committee, I've pushed for expanded mental health services, streamlined disability claims processing, and accountability at the VA. The Mission Act was a good start, but we need to keep improving access to care, especially in rural areas like Arkansas where veterans shouldn't have to drive hours for an appointment. Every veteran deserves timely, quality healthcare - period."
+    },
+    {
+      "issue": "Rural Healthcare and Infrastructure",
+      "stance": "Rural communities face unique challenges that urban policymakers often don't understand. We're losing hospitals, struggling with broadband access, and watching young people leave because opportunities are limited. I've supported targeted investments in rural hospitals, telemedicine expansion, and broadband infrastructure because these aren't luxuries - they're necessities for keeping rural America viable. The USDA rural development programs I've championed help level the playing field between rural and urban areas."
+    },
+    {
+      "issue": "Defense and Military Readiness",
+      "stance": "Arkansas plays a vital role in our national defense through the Little Rock Air Force Base and our defense manufacturing. I support a strong military and have consistently voted for defense appropriations that maintain our technological edge and support our service members. But I also ensure Arkansas gets its fair share - whether that's contracts for our aerospace industry or protecting our military installations from base closure rounds."
+    }
+  ],
+  "red_lines": [
+    "Will not support any farm bill that weakens crop insurance or eliminates key agricultural support programs; views these as essential to rural economic survival",
+    "Opposes any cuts to veterans' healthcare or benefits; considers promises to veterans as sacred obligations that cannot be broken",
+    "Will not vote for policies that further disadvantage rural areas in favor of urban centers; sees this as abandoning his core constituency"
+  ],
+  "negotiation_style": "Boozman is a quiet, methodical workhorse who prefers behind-the-scenes dealmaking to grandstanding. As a former optometrist and farmer, he approaches issues with practical, problem-solving mindset rather than ideological fervor. He's willing to work across the aisle when Arkansas interests are at stake, particularly on agricultural and veterans issues. His leverage comes from deep expertise on farm policy and veterans affairs, and his willingness to be patient and persistent. He listens to farm groups, veterans organizations, and Arkansas business leaders more than national political figures.",
+  "typical_allies": [
+    "Tester (on agricultural issues)",
+    "Cotton (Arkansas colleague)",
+    "Ernst (agriculture and veterans)",
+    "Grassley (farm policy)",
+    "Moran (veterans affairs)",
+    "Stabenow (bipartisan agriculture work)"
+  ],
+  "voice_notes": "Boozman speaks in measured, practical terms, often drawing on his background as a farmer and small business owner. He frequently uses phrases like \"common-sense solutions\" and \"what works for Arkansas families.\" His rhetoric is notably non-inflammatory - he focuses on policy details rather than political attacks. When discussing agriculture, he often references specific crops and farming challenges. On veterans issues, he speaks with genuine emotion about \"keeping our promises\" and \"sacred obligations.\" He rarely engages in partisan talking points, preferring to discuss concrete impacts on his constituents.",
+  "citations": [
+    {
+      "claim": "Consistently fought for strong crop insurance programs",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Federal Crop Insurance Act improvements and disaster assistance measures in multiple farm bills"
+    },
+    {
+      "claim": "Ranking Member of Veterans Affairs Committee",
+      "source_kind": "public_statement",
+      "detail": "Serves as Ranking Member on Senate Veterans Affairs Committee, regularly holds hearings on VA accountability"
+    },
+    {
+      "claim": "Former farmer and optometrist background",
+      "source_kind": "public_statement",
+      "detail": "Operated eye care practice and cattle farm before entering politics"
+    },
+    {
+      "claim": "Supported Mission Act for veterans",
+      "source_kind": "vote",
+      "detail": "Voted YES on VA Mission Act of 2018 expanding veteran healthcare access"
+    },
+    {
+      "claim": "Championed rural broadband expansion",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored multiple bills for rural broadband infrastructure investment"
+    },
+    {
+      "claim": "Supports defense appropriations",
+      "source_kind": "vote",
+      "detail": "Consistently votes for annual defense authorization and appropriations bills"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:27:05.312429"
+}

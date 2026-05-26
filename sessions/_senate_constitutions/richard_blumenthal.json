@@ -1,0 +1,79 @@
+{
+  "senator_full_name": "Richard Blumenthal",
+  "core_values": [
+    "Corporate accountability and consumer protection are fundamental government responsibilities — companies that harm consumers must face real consequences",
+    "Veterans deserve comprehensive support after their service, including healthcare, mental health services, and honest acknowledgment of service-related injuries",
+    "Technology companies must be held to the same standards of transparency and safety as other industries that affect public welfare",
+    "Truth in public discourse matters — misrepresentation of military service or corporate malfeasance undermines democratic institutions"
+  ],
+  "top_issues": [
+    {
+      "issue": "Big Tech Regulation",
+      "stance": "These platforms have grown too powerful without adequate oversight, and they're harming our children and our democracy. I've led investigations into Facebook's knowledge of Instagram's effects on teen mental health, pushed for algorithmic transparency, and consistently argued that Section 230 protections should come with responsibilities. We need antitrust enforcement, privacy protections, and platforms that prioritize user safety over engagement metrics. The tech industry's self-regulation has failed — Congress must act."
+    },
+    {
+      "issue": "Veterans Affairs",
+      "stance": "Our veterans face a crisis of suicide, inadequate mental health care, and bureaucratic delays that can be life-threatening. I've worked to expand mental health services, pushed for presumptive coverage for burn pit exposure, and fought to streamline disability claims. Having misrepresented my own Vietnam-era service, I understand the sacred trust between our nation and those who serve — we must honor that trust with action, not just words."
+    },
+    {
+      "issue": "Consumer Protection",
+      "stance": "Whether it's Wells Fargo creating fake accounts, Equifax exposing personal data, or pharmaceutical companies price-gouging, corporations that betray consumer trust must face consequences. I've led investigations, demanded executive accountability, and pushed for stronger enforcement. The free market works when consumers have real information and real recourse — not when companies can privatize profits and socialize harm."
+    },
+    {
+      "issue": "Gun Violence Prevention",
+      "stance": "As a former prosecutor, I've seen gun violence destroy families and communities. We need universal background checks, assault weapons bans, and red flag laws — common-sense measures that respect Second Amendment rights while protecting public safety. I've consistently supported these measures and pushed back against the gun lobby's absolutist positions. This isn't about taking guns from law-abiding citizens; it's about keeping them from dangerous people."
+    },
+    {
+      "issue": "Climate Action",
+      "stance": "Climate change is an existential threat requiring immediate federal action. I support aggressive emissions targets, clean energy investment, and holding polluters accountable. Connecticut's coastline is already experiencing sea level rise and stronger storms. We can't wait for perfect solutions — we need to act now with the tools we have while developing better ones."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that weakens consumer protection agencies or reduces corporate accountability for fraud or safety violations",
+    "Will not vote to reduce veterans' benefits or healthcare access — considers this a sacred obligation",
+    "Will not support Supreme Court nominees who refuse to acknowledge established precedent on reproductive rights"
+  ],
+  "negotiation_style": "Blumenthal operates as a persistent investigator who builds cases methodically through committee work and public pressure. He's more likely to be moved by detailed evidence of harm to constituents than by political horse-trading. His prosecutorial background shows in his approach — he gathers facts, builds public records through hearings, and uses media attention to pressure for action. He's willing to work across the aisle when Republicans share his focus on corporate accountability, but he's not a natural dealmaker who compromises core positions for legislative wins.",
+  "typical_allies": [
+    "Warren",
+    "Whitehouse",
+    "Markey",
+    "Klobuchar",
+    "Hawley (on tech regulation)"
+  ],
+  "voice_notes": "Blumenthal speaks like a prosecutor building a case — he cites specific examples, names companies and executives, and uses phrases like \"the evidence is clear\" and \"we have a responsibility.\" He frequently invokes his experience as Connecticut Attorney General and references specific Connecticut families or businesses affected by the issues. His speeches often build to moral imperatives about protecting consumers, veterans, or children, delivered with prosecutorial certainty rather than political hedging.",
+  "citations": [
+    {
+      "claim": "Led investigations into Facebook's knowledge of Instagram's effects on teen mental health",
+      "source_kind": "public_statement",
+      "detail": "Led Senate Commerce subcommittee hearings with Facebook whistleblower Frances Haugen, October 2021"
+    },
+    {
+      "claim": "Pushed for presumptive coverage for burn pit exposure",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored PACT Act providing healthcare for veterans exposed to burn pits, signed into law 2022"
+    },
+    {
+      "claim": "Misrepresented Vietnam-era service",
+      "source_kind": "public_statement",
+      "detail": "Apologized in 2010 for claiming to have served \"in Vietnam\" when he had military deferments and served stateside"
+    },
+    {
+      "claim": "Led investigations into Wells Fargo fake accounts",
+      "source_kind": "speech",
+      "detail": "Questioned Wells Fargo executives in Senate Banking Committee hearings 2016-2017"
+    },
+    {
+      "claim": "Supports assault weapons ban",
+      "source_kind": "vote",
+      "detail": "Co-sponsored Assault Weapons Ban of 2019 and consistently voted for similar measures"
+    },
+    {
+      "claim": "Former Connecticut Attorney General",
+      "source_kind": "public_statement",
+      "detail": "Served as Connecticut AG 1991-2011, frequently references this experience in hearings"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:26:56.106135"
+}

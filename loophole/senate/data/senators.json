@@ -1,0 +1,918 @@
+{
+  "congress": 119,
+  "as_of": "2026-05-19",
+  "source": "https://www.senate.gov/senators/",
+  "senators": [
+    {
+      "full_name": "Angela D. Alsobrooks",
+      "short_name": "Alsobrooks",
+      "party": "D",
+      "state": "MD",
+      "senate_class": 1,
+      "bioguide_id": "A000382",
+      "photo_url": "https://bioguide.congress.gov/photo/A000382.jpg"
+    },
+    {
+      "full_name": "Alan Armstrong",
+      "short_name": "Armstrong",
+      "party": "R",
+      "state": "OK",
+      "senate_class": 2,
+      "role": "Appointed Mar 2026 (Mullin resignation)",
+      "bioguide_id": "A000383",
+      "photo_url": "https://bioguide.congress.gov/photo/A000383.jpg"
+    },
+    {
+      "full_name": "Tammy Baldwin",
+      "short_name": "Baldwin",
+      "party": "D",
+      "state": "WI",
+      "senate_class": 1,
+      "bioguide_id": "B001230",
+      "photo_url": "https://bioguide.congress.gov/photo/B001230.jpg"
+    },
+    {
+      "full_name": "Jim Banks",
+      "short_name": "Banks",
+      "party": "R",
+      "state": "IN",
+      "senate_class": 1,
+      "bioguide_id": "B001299",
+      "photo_url": "https://bioguide.congress.gov/photo/B001299.jpg"
+    },
+    {
+      "full_name": "John Barrasso",
+      "short_name": "Barrasso",
+      "party": "R",
+      "state": "WY",
+      "senate_class": 1,
+      "role": "Majority Whip",
+      "bioguide_id": "B001261",
+      "photo_url": "https://bioguide.congress.gov/photo/B001261.jpg"
+    },
+    {
+      "full_name": "Michael F. Bennet",
+      "short_name": "Bennet",
+      "party": "D",
+      "state": "CO",
+      "senate_class": 3,
+      "bioguide_id": "B001267",
+      "photo_url": "https://bioguide.congress.gov/photo/B001267.jpg"
+    },
+    {
+      "full_name": "Marsha Blackburn",
+      "short_name": "Blackburn",
+      "party": "R",
+      "state": "TN",
+      "senate_class": 1,
+      "bioguide_id": "B001243",
+      "photo_url": "https://bioguide.congress.gov/photo/B001243.jpg"
+    },
+    {
+      "full_name": "Richard Blumenthal",
+      "short_name": "Blumenthal",
+      "party": "D",
+      "state": "CT",
+      "senate_class": 3,
+      "bioguide_id": "B001277",
+      "photo_url": "https://bioguide.congress.gov/photo/B001277.jpg"
+    },
+    {
+      "full_name": "Lisa Blunt Rochester",
+      "short_name": "Blunt Rochester",
+      "party": "D",
+      "state": "DE",
+      "senate_class": 1,
+      "bioguide_id": "B001303",
+      "photo_url": "https://bioguide.congress.gov/photo/B001303.jpg"
+    },
+    {
+      "full_name": "Cory A. Booker",
+      "short_name": "Booker",
+      "party": "D",
+      "state": "NJ",
+      "senate_class": 2,
+      "bioguide_id": "B001288",
+      "photo_url": "https://bioguide.congress.gov/photo/B001288.jpg"
+    },
+    {
+      "full_name": "John Boozman",
+      "short_name": "Boozman",
+      "party": "R",
+      "state": "AR",
+      "senate_class": 3,
+      "bioguide_id": "B001236",
+      "photo_url": "https://bioguide.congress.gov/photo/B001236.jpg"
+    },
+    {
+      "full_name": "Katie Boyd Britt",
+      "short_name": "Britt",
+      "party": "R",
+      "state": "AL",
+      "senate_class": 3,
+      "bioguide_id": "B001319",
+      "photo_url": "https://bioguide.congress.gov/photo/B001319.jpg"
+    },
+    {
+      "full_name": "Ted Budd",
+      "short_name": "Budd",
+      "party": "R",
+      "state": "NC",
+      "senate_class": 3,
+      "bioguide_id": "B001305",
+      "photo_url": "https://bioguide.congress.gov/photo/B001305.jpg"
+    },
+    {
+      "full_name": "Maria Cantwell",
+      "short_name": "Cantwell",
+      "party": "D",
+      "state": "WA",
+      "senate_class": 1,
+      "bioguide_id": "C000127",
+      "photo_url": "https://bioguide.congress.gov/photo/C000127.jpg"
+    },
+    {
+      "full_name": "Shelley Moore Capito",
+      "short_name": "Capito",
+      "party": "R",
+      "state": "WV",
+      "senate_class": 2,
+      "bioguide_id": "C001047",
+      "photo_url": "https://bioguide.congress.gov/photo/C001047.jpg"
+    },
+    {
+      "full_name": "Bill Cassidy",
+      "short_name": "Cassidy",
+      "party": "R",
+      "state": "LA",
+      "senate_class": 2,
+      "bioguide_id": "C001075",
+      "photo_url": "https://bioguide.congress.gov/photo/C001075.jpg"
+    },
+    {
+      "full_name": "Susan M. Collins",
+      "short_name": "Collins",
+      "party": "R",
+      "state": "ME",
+      "senate_class": 2,
+      "bioguide_id": "C001035",
+      "photo_url": "https://bioguide.congress.gov/photo/C001035.jpg"
+    },
+    {
+      "full_name": "Christopher A. Coons",
+      "short_name": "Coons",
+      "party": "D",
+      "state": "DE",
+      "senate_class": 2,
+      "bioguide_id": "C001088",
+      "photo_url": "https://bioguide.congress.gov/photo/C001088.jpg"
+    },
+    {
+      "full_name": "John Cornyn",
+      "short_name": "Cornyn",
+      "party": "R",
+      "state": "TX",
+      "senate_class": 2,
+      "bioguide_id": "C001056",
+      "photo_url": "https://bioguide.congress.gov/photo/C001056.jpg"
+    },
+    {
+      "full_name": "Catherine Cortez Masto",
+      "short_name": "Cortez Masto",
+      "party": "D",
+      "state": "NV",
+      "senate_class": 3,
+      "bioguide_id": "C001113",
+      "photo_url": "https://bioguide.congress.gov/photo/C001113.jpg"
+    },
+    {
+      "full_name": "Tom Cotton",
+      "short_name": "Cotton",
+      "party": "R",
+      "state": "AR",
+      "senate_class": 2,
+      "role": "Senate Republican Conference Chairman",
+      "bioguide_id": "C001095",
+      "photo_url": "https://bioguide.congress.gov/photo/C001095.jpg"
+    },
+    {
+      "full_name": "Kevin Cramer",
+      "short_name": "Cramer",
+      "party": "R",
+      "state": "ND",
+      "senate_class": 1,
+      "bioguide_id": "C001096",
+      "photo_url": "https://bioguide.congress.gov/photo/C001096.jpg"
+    },
+    {
+      "full_name": "Mike Crapo",
+      "short_name": "Crapo",
+      "party": "R",
+      "state": "ID",
+      "senate_class": 3,
+      "bioguide_id": "C000880",
+      "photo_url": "https://bioguide.congress.gov/photo/C000880.jpg"
+    },
+    {
+      "full_name": "Ted Cruz",
+      "short_name": "Cruz",
+      "party": "R",
+      "state": "TX",
+      "senate_class": 1,
+      "bioguide_id": "C001098",
+      "photo_url": "https://bioguide.congress.gov/photo/C001098.jpg"
+    },
+    {
+      "full_name": "John R. Curtis",
+      "short_name": "Curtis",
+      "party": "R",
+      "state": "UT",
+      "senate_class": 1,
+      "bioguide_id": "C001114",
+      "photo_url": "https://bioguide.congress.gov/photo/C001114.jpg"
+    },
+    {
+      "full_name": "Steve Daines",
+      "short_name": "Daines",
+      "party": "R",
+      "state": "MT",
+      "senate_class": 2,
+      "bioguide_id": "D000618",
+      "photo_url": "https://bioguide.congress.gov/photo/D000618.jpg"
+    },
+    {
+      "full_name": "Tammy Duckworth",
+      "short_name": "Duckworth",
+      "party": "D",
+      "state": "IL",
+      "senate_class": 3,
+      "bioguide_id": "D000622",
+      "photo_url": "https://bioguide.congress.gov/photo/D000622.jpg"
+    },
+    {
+      "full_name": "Richard J. Durbin",
+      "short_name": "Durbin",
+      "party": "D",
+      "state": "IL",
+      "senate_class": 2,
+      "role": "Minority Whip",
+      "bioguide_id": "D000563",
+      "photo_url": "https://bioguide.congress.gov/photo/D000563.jpg"
+    },
+    {
+      "full_name": "Joni Ernst",
+      "short_name": "Ernst",
+      "party": "R",
+      "state": "IA",
+      "senate_class": 2,
+      "bioguide_id": "E000295",
+      "photo_url": "https://bioguide.congress.gov/photo/E000295.jpg"
+    },
+    {
+      "full_name": "John Fetterman",
+      "short_name": "Fetterman",
+      "party": "D",
+      "state": "PA",
+      "senate_class": 3,
+      "bioguide_id": "F000479",
+      "photo_url": "https://bioguide.congress.gov/photo/F000479.jpg"
+    },
+    {
+      "full_name": "Deb Fischer",
+      "short_name": "Fischer",
+      "party": "R",
+      "state": "NE",
+      "senate_class": 1,
+      "bioguide_id": "F000463",
+      "photo_url": "https://bioguide.congress.gov/photo/F000463.jpg"
+    },
+    {
+      "full_name": "Ruben Gallego",
+      "short_name": "Gallego",
+      "party": "D",
+      "state": "AZ",
+      "senate_class": 1,
+      "bioguide_id": "G000574",
+      "photo_url": "https://bioguide.congress.gov/photo/G000574.jpg"
+    },
+    {
+      "full_name": "Kirsten E. Gillibrand",
+      "short_name": "Gillibrand",
+      "party": "D",
+      "state": "NY",
+      "senate_class": 1,
+      "bioguide_id": "G000555",
+      "photo_url": "https://bioguide.congress.gov/photo/G000555.jpg"
+    },
+    {
+      "full_name": "Lindsey Graham",
+      "short_name": "Graham",
+      "party": "R",
+      "state": "SC",
+      "senate_class": 2,
+      "bioguide_id": "G000359",
+      "photo_url": "https://bioguide.congress.gov/photo/G000359.jpg"
+    },
+    {
+      "full_name": "Chuck Grassley",
+      "short_name": "Grassley",
+      "party": "R",
+      "state": "IA",
+      "senate_class": 3,
+      "role": "President pro tempore",
+      "bioguide_id": "G000386",
+      "photo_url": "https://bioguide.congress.gov/photo/G000386.jpg"
+    },
+    {
+      "full_name": "Bill Hagerty",
+      "short_name": "Hagerty",
+      "party": "R",
+      "state": "TN",
+      "senate_class": 2,
+      "bioguide_id": "H000601",
+      "photo_url": "https://bioguide.congress.gov/photo/H000601.jpg"
+    },
+    {
+      "full_name": "Margaret Wood Hassan",
+      "short_name": "Hassan",
+      "party": "D",
+      "state": "NH",
+      "senate_class": 3,
+      "bioguide_id": "H001076",
+      "photo_url": "https://bioguide.congress.gov/photo/H001076.jpg"
+    },
+    {
+      "full_name": "Josh Hawley",
+      "short_name": "Hawley",
+      "party": "R",
+      "state": "MO",
+      "senate_class": 1,
+      "bioguide_id": "H001089",
+      "photo_url": "https://bioguide.congress.gov/photo/H001089.jpg"
+    },
+    {
+      "full_name": "Martin Heinrich",
+      "short_name": "Heinrich",
+      "party": "D",
+      "state": "NM",
+      "senate_class": 1,
+      "bioguide_id": "H001046",
+      "photo_url": "https://bioguide.congress.gov/photo/H001046.jpg"
+    },
+    {
+      "full_name": "John W. Hickenlooper",
+      "short_name": "Hickenlooper",
+      "party": "D",
+      "state": "CO",
+      "senate_class": 2,
+      "bioguide_id": "H000273",
+      "photo_url": "https://bioguide.congress.gov/photo/H000273.jpg"
+    },
+    {
+      "full_name": "Mazie K. Hirono",
+      "short_name": "Hirono",
+      "party": "D",
+      "state": "HI",
+      "senate_class": 1,
+      "bioguide_id": "H001042",
+      "photo_url": "https://bioguide.congress.gov/photo/H001042.jpg"
+    },
+    {
+      "full_name": "John Hoeven",
+      "short_name": "Hoeven",
+      "party": "R",
+      "state": "ND",
+      "senate_class": 3,
+      "bioguide_id": "H001061",
+      "photo_url": "https://bioguide.congress.gov/photo/H001061.jpg"
+    },
+    {
+      "full_name": "Jon Husted",
+      "short_name": "Husted",
+      "party": "R",
+      "state": "OH",
+      "senate_class": 3,
+      "role": "Appointed Jan 2025 (Vance to VP)",
+      "bioguide_id": "H001104",
+      "photo_url": "https://bioguide.congress.gov/photo/H001104.jpg"
+    },
+    {
+      "full_name": "Cindy Hyde-Smith",
+      "short_name": "Hyde-Smith",
+      "party": "R",
+      "state": "MS",
+      "senate_class": 2,
+      "bioguide_id": "H001079",
+      "photo_url": "https://bioguide.congress.gov/photo/H001079.jpg"
+    },
+    {
+      "full_name": "Ron Johnson",
+      "short_name": "Johnson",
+      "party": "R",
+      "state": "WI",
+      "senate_class": 3,
+      "bioguide_id": "J000293",
+      "photo_url": "https://bioguide.congress.gov/photo/J000293.jpg"
+    },
+    {
+      "full_name": "James C. Justice",
+      "short_name": "Justice",
+      "party": "R",
+      "state": "WV",
+      "senate_class": 1,
+      "bioguide_id": "J000312",
+      "photo_url": "https://bioguide.congress.gov/photo/J000312.jpg"
+    },
+    {
+      "full_name": "Tim Kaine",
+      "short_name": "Kaine",
+      "party": "D",
+      "state": "VA",
+      "senate_class": 1,
+      "bioguide_id": "K000384",
+      "photo_url": "https://bioguide.congress.gov/photo/K000384.jpg"
+    },
+    {
+      "full_name": "Mark Kelly",
+      "short_name": "Kelly",
+      "party": "D",
+      "state": "AZ",
+      "senate_class": 3,
+      "bioguide_id": "K000377",
+      "photo_url": "https://bioguide.congress.gov/photo/K000377.jpg"
+    },
+    {
+      "full_name": "John Kennedy",
+      "short_name": "Kennedy",
+      "party": "R",
+      "state": "LA",
+      "senate_class": 3,
+      "bioguide_id": "K000393",
+      "photo_url": "https://bioguide.congress.gov/photo/K000393.jpg"
+    },
+    {
+      "full_name": "Andy Kim",
+      "short_name": "Kim",
+      "party": "D",
+      "state": "NJ",
+      "senate_class": 1,
+      "bioguide_id": "K000394",
+      "photo_url": "https://bioguide.congress.gov/photo/K000394.jpg"
+    },
+    {
+      "full_name": "Angus S. King, Jr.",
+      "short_name": "King",
+      "party": "I",
+      "state": "ME",
+      "senate_class": 1,
+      "caucus": "D",
+      "bioguide_id": "K000383",
+      "photo_url": "https://bioguide.congress.gov/photo/K000383.jpg"
+    },
+    {
+      "full_name": "Amy Klobuchar",
+      "short_name": "Klobuchar",
+      "party": "D",
+      "state": "MN",
+      "senate_class": 1,
+      "bioguide_id": "K000367",
+      "photo_url": "https://bioguide.congress.gov/photo/K000367.jpg"
+    },
+    {
+      "full_name": "James Lankford",
+      "short_name": "Lankford",
+      "party": "R",
+      "state": "OK",
+      "senate_class": 3,
+      "bioguide_id": "L000575",
+      "photo_url": "https://bioguide.congress.gov/photo/L000575.jpg"
+    },
+    {
+      "full_name": "Mike Lee",
+      "short_name": "Lee",
+      "party": "R",
+      "state": "UT",
+      "senate_class": 3,
+      "bioguide_id": "L000577",
+      "photo_url": "https://bioguide.congress.gov/photo/L000577.jpg"
+    },
+    {
+      "full_name": "Ben Ray Luj\u00e1n",
+      "short_name": "Luj\u00e1n",
+      "party": "D",
+      "state": "NM",
+      "senate_class": 2,
+      "bioguide_id": "L000570",
+      "photo_url": "https://bioguide.congress.gov/photo/L000570.jpg"
+    },
+    {
+      "full_name": "Cynthia M. Lummis",
+      "short_name": "Lummis",
+      "party": "R",
+      "state": "WY",
+      "senate_class": 2,
+      "bioguide_id": "L000571",
+      "photo_url": "https://bioguide.congress.gov/photo/L000571.jpg"
+    },
+    {
+      "full_name": "Edward J. Markey",
+      "short_name": "Markey",
+      "party": "D",
+      "state": "MA",
+      "senate_class": 2,
+      "bioguide_id": "M000133",
+      "photo_url": "https://bioguide.congress.gov/photo/M000133.jpg"
+    },
+    {
+      "full_name": "Roger Marshall",
+      "short_name": "Marshall",
+      "party": "R",
+      "state": "KS",
+      "senate_class": 2,
+      "bioguide_id": "M001198",
+      "photo_url": "https://bioguide.congress.gov/photo/M001198.jpg"
+    },
+    {
+      "full_name": "Mitch McConnell",
+      "short_name": "McConnell",
+      "party": "R",
+      "state": "KY",
+      "senate_class": 2,
+      "bioguide_id": "M000355",
+      "photo_url": "https://bioguide.congress.gov/photo/M000355.jpg"
+    },
+    {
+      "full_name": "David McCormick",
+      "short_name": "McCormick",
+      "party": "R",
+      "state": "PA",
+      "senate_class": 1,
+      "bioguide_id": "M001243",
+      "photo_url": "https://bioguide.congress.gov/photo/M001243.jpg"
+    },
+    {
+      "full_name": "Jeff Merkley",
+      "short_name": "Merkley",
+      "party": "D",
+      "state": "OR",
+      "senate_class": 2,
+      "bioguide_id": "M001176",
+      "photo_url": "https://bioguide.congress.gov/photo/M001176.jpg"
+    },
+    {
+      "full_name": "Ashley Moody",
+      "short_name": "Moody",
+      "party": "R",
+      "state": "FL",
+      "senate_class": 3,
+      "role": "Appointed Jan 2025 (Rubio to SecState)",
+      "bioguide_id": "M001244",
+      "photo_url": "https://bioguide.congress.gov/photo/M001244.jpg"
+    },
+    {
+      "full_name": "Jerry Moran",
+      "short_name": "Moran",
+      "party": "R",
+      "state": "KS",
+      "senate_class": 3,
+      "bioguide_id": "M000934",
+      "photo_url": "https://bioguide.congress.gov/photo/M000934.jpg"
+    },
+    {
+      "full_name": "Bernie Moreno",
+      "short_name": "Moreno",
+      "party": "R",
+      "state": "OH",
+      "senate_class": 1,
+      "bioguide_id": "M001242",
+      "photo_url": "https://bioguide.congress.gov/photo/M001242.jpg"
+    },
+    {
+      "full_name": "Lisa Murkowski",
+      "short_name": "Murkowski",
+      "party": "R",
+      "state": "AK",
+      "senate_class": 3,
+      "bioguide_id": "M001153",
+      "photo_url": "https://bioguide.congress.gov/photo/M001153.jpg"
+    },
+    {
+      "full_name": "Christopher Murphy",
+      "short_name": "Murphy",
+      "party": "D",
+      "state": "CT",
+      "senate_class": 1,
+      "bioguide_id": "M001169",
+      "photo_url": "https://bioguide.congress.gov/photo/M001169.jpg"
+    },
+    {
+      "full_name": "Patty Murray",
+      "short_name": "Murray",
+      "party": "D",
+      "state": "WA",
+      "senate_class": 3,
+      "bioguide_id": "M001111",
+      "photo_url": "https://bioguide.congress.gov/photo/M001111.jpg"
+    },
+    {
+      "full_name": "Jon Ossoff",
+      "short_name": "Ossoff",
+      "party": "D",
+      "state": "GA",
+      "senate_class": 2,
+      "bioguide_id": "O000174",
+      "photo_url": "https://bioguide.congress.gov/photo/O000174.jpg"
+    },
+    {
+      "full_name": "Alex Padilla",
+      "short_name": "Padilla",
+      "party": "D",
+      "state": "CA",
+      "senate_class": 3,
+      "bioguide_id": "P000145",
+      "photo_url": "https://bioguide.congress.gov/photo/P000145.jpg"
+    },
+    {
+      "full_name": "Rand Paul",
+      "short_name": "Paul",
+      "party": "R",
+      "state": "KY",
+      "senate_class": 3,
+      "bioguide_id": "P000603",
+      "photo_url": "https://bioguide.congress.gov/photo/P000603.jpg"
+    },
+    {
+      "full_name": "Gary C. Peters",
+      "short_name": "Peters",
+      "party": "D",
+      "state": "MI",
+      "senate_class": 2,
+      "bioguide_id": "P000595",
+      "photo_url": "https://bioguide.congress.gov/photo/P000595.jpg"
+    },
+    {
+      "full_name": "Jack Reed",
+      "short_name": "Reed",
+      "party": "D",
+      "state": "RI",
+      "senate_class": 2,
+      "bioguide_id": "R000122",
+      "photo_url": "https://bioguide.congress.gov/photo/R000122.jpg"
+    },
+    {
+      "full_name": "Pete Ricketts",
+      "short_name": "Ricketts",
+      "party": "R",
+      "state": "NE",
+      "senate_class": 2,
+      "bioguide_id": "R000618",
+      "photo_url": "https://bioguide.congress.gov/photo/R000618.jpg"
+    },
+    {
+      "full_name": "James E. Risch",
+      "short_name": "Risch",
+      "party": "R",
+      "state": "ID",
+      "senate_class": 2,
+      "bioguide_id": "R000584",
+      "photo_url": "https://bioguide.congress.gov/photo/R000584.jpg"
+    },
+    {
+      "full_name": "Jacky Rosen",
+      "short_name": "Rosen",
+      "party": "D",
+      "state": "NV",
+      "senate_class": 1,
+      "bioguide_id": "R000608",
+      "photo_url": "https://bioguide.congress.gov/photo/R000608.jpg"
+    },
+    {
+      "full_name": "Mike Rounds",
+      "short_name": "Rounds",
+      "party": "R",
+      "state": "SD",
+      "senate_class": 2,
+      "bioguide_id": "R000605",
+      "photo_url": "https://bioguide.congress.gov/photo/R000605.jpg"
+    },
+    {
+      "full_name": "Bernard Sanders",
+      "short_name": "Sanders",
+      "party": "I",
+      "state": "VT",
+      "senate_class": 1,
+      "caucus": "D",
+      "bioguide_id": "S000033",
+      "photo_url": "https://bioguide.congress.gov/photo/S000033.jpg"
+    },
+    {
+      "full_name": "Brian Schatz",
+      "short_name": "Schatz",
+      "party": "D",
+      "state": "HI",
+      "senate_class": 3,
+      "bioguide_id": "S001194",
+      "photo_url": "https://bioguide.congress.gov/photo/S001194.jpg"
+    },
+    {
+      "full_name": "Adam B. Schiff",
+      "short_name": "Schiff",
+      "party": "D",
+      "state": "CA",
+      "senate_class": 1,
+      "bioguide_id": "S001150",
+      "photo_url": "https://bioguide.congress.gov/photo/S001150.jpg"
+    },
+    {
+      "full_name": "Eric Schmitt",
+      "short_name": "Schmitt",
+      "party": "R",
+      "state": "MO",
+      "senate_class": 3,
+      "bioguide_id": "S001227",
+      "photo_url": "https://bioguide.congress.gov/photo/S001227.jpg"
+    },
+    {
+      "full_name": "Charles E. Schumer",
+      "short_name": "Schumer",
+      "party": "D",
+      "state": "NY",
+      "senate_class": 3,
+      "role": "Minority Leader",
+      "bioguide_id": "S000148",
+      "photo_url": "https://bioguide.congress.gov/photo/S000148.jpg"
+    },
+    {
+      "full_name": "Rick Scott",
+      "short_name": "Scott (FL)",
+      "party": "R",
+      "state": "FL",
+      "senate_class": 1,
+      "bioguide_id": "S001217",
+      "photo_url": "https://bioguide.congress.gov/photo/S001217.jpg"
+    },
+    {
+      "full_name": "Tim Scott",
+      "short_name": "Scott (SC)",
+      "party": "R",
+      "state": "SC",
+      "senate_class": 3,
+      "bioguide_id": "S001184",
+      "photo_url": "https://bioguide.congress.gov/photo/S001184.jpg"
+    },
+    {
+      "full_name": "Jeanne Shaheen",
+      "short_name": "Shaheen",
+      "party": "D",
+      "state": "NH",
+      "senate_class": 2,
+      "bioguide_id": "S001181",
+      "photo_url": "https://bioguide.congress.gov/photo/S001181.jpg"
+    },
+    {
+      "full_name": "Tim Sheehy",
+      "short_name": "Sheehy",
+      "party": "R",
+      "state": "MT",
+      "senate_class": 1,
+      "bioguide_id": "S001232",
+      "photo_url": "https://bioguide.congress.gov/photo/S001232.jpg"
+    },
+    {
+      "full_name": "Elissa Slotkin",
+      "short_name": "Slotkin",
+      "party": "D",
+      "state": "MI",
+      "senate_class": 1,
+      "bioguide_id": "S001208",
+      "photo_url": "https://bioguide.congress.gov/photo/S001208.jpg"
+    },
+    {
+      "full_name": "Tina Smith",
+      "short_name": "Smith",
+      "party": "D",
+      "state": "MN",
+      "senate_class": 2,
+      "bioguide_id": "S001203",
+      "photo_url": "https://bioguide.congress.gov/photo/S001203.jpg"
+    },
+    {
+      "full_name": "Dan Sullivan",
+      "short_name": "Sullivan",
+      "party": "R",
+      "state": "AK",
+      "senate_class": 2,
+      "bioguide_id": "S001198",
+      "photo_url": "https://bioguide.congress.gov/photo/S001198.jpg"
+    },
+    {
+      "full_name": "John Thune",
+      "short_name": "Thune",
+      "party": "R",
+      "state": "SD",
+      "senate_class": 3,
+      "role": "Majority Leader",
+      "bioguide_id": "T000250",
+      "photo_url": "https://bioguide.congress.gov/photo/T000250.jpg"
+    },
+    {
+      "full_name": "Thom Tillis",
+      "short_name": "Tillis",
+      "party": "R",
+      "state": "NC",
+      "senate_class": 2,
+      "bioguide_id": "T000476",
+      "photo_url": "https://bioguide.congress.gov/photo/T000476.jpg"
+    },
+    {
+      "full_name": "Tommy Tuberville",
+      "short_name": "Tuberville",
+      "party": "R",
+      "state": "AL",
+      "senate_class": 2,
+      "bioguide_id": "T000278",
+      "photo_url": "https://bioguide.congress.gov/photo/T000278.jpg"
+    },
+    {
+      "full_name": "Chris Van Hollen",
+      "short_name": "Van Hollen",
+      "party": "D",
+      "state": "MD",
+      "senate_class": 3,
+      "bioguide_id": "V000128",
+      "photo_url": "https://bioguide.congress.gov/photo/V000128.jpg"
+    },
+    {
+      "full_name": "Mark R. Warner",
+      "short_name": "Warner",
+      "party": "D",
+      "state": "VA",
+      "senate_class": 2,
+      "bioguide_id": "W000805",
+      "photo_url": "https://bioguide.congress.gov/photo/W000805.jpg"
+    },
+    {
+      "full_name": "Raphael G. Warnock",
+      "short_name": "Warnock",
+      "party": "D",
+      "state": "GA",
+      "senate_class": 3,
+      "bioguide_id": "W000790",
+      "photo_url": "https://bioguide.congress.gov/photo/W000790.jpg"
+    },
+    {
+      "full_name": "Elizabeth Warren",
+      "short_name": "Warren",
+      "party": "D",
+      "state": "MA",
+      "senate_class": 1,
+      "bioguide_id": "W000817",
+      "photo_url": "https://bioguide.congress.gov/photo/W000817.jpg"
+    },
+    {
+      "full_name": "Peter Welch",
+      "short_name": "Welch",
+      "party": "D",
+      "state": "VT",
+      "senate_class": 3,
+      "bioguide_id": "W000800",
+      "photo_url": "https://bioguide.congress.gov/photo/W000800.jpg"
+    },
+    {
+      "full_name": "Sheldon Whitehouse",
+      "short_name": "Whitehouse",
+      "party": "D",
+      "state": "RI",
+      "senate_class": 1,
+      "bioguide_id": "W000802",
+      "photo_url": "https://bioguide.congress.gov/photo/W000802.jpg"
+    },
+    {
+      "full_name": "Roger F. Wicker",
+      "short_name": "Wicker",
+      "party": "R",
+      "state": "MS",
+      "senate_class": 1,
+      "bioguide_id": "W000437",
+      "photo_url": "https://bioguide.congress.gov/photo/W000437.jpg"
+    },
+    {
+      "full_name": "Ron Wyden",
+      "short_name": "Wyden",
+      "party": "D",
+      "state": "OR",
+      "senate_class": 3,
+      "bioguide_id": "W000779",
+      "photo_url": "https://bioguide.congress.gov/photo/W000779.jpg"
+    },
+    {
+      "full_name": "Todd Young",
+      "short_name": "Young",
+      "party": "R",
+      "state": "IN",
+      "senate_class": 3,
+      "bioguide_id": "Y000064",
+      "photo_url": "https://bioguide.congress.gov/photo/Y000064.jpg"
+    }
+  ]
+}

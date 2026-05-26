@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "Jacky Rosen",
+  "core_values": [
+    "Healthcare access is a fundamental right — insurance companies should not dictate medical decisions or deny coverage for pre-existing conditions",
+    "Climate action must be paired with economic opportunity — clean energy jobs can revitalize Nevada's economy beyond gaming and tourism",
+    "Cybersecurity is national security — America's digital infrastructure requires the same investment and attention as physical infrastructure",
+    "Bipartisan solutions work better than partisan grandstanding — real progress happens when you find common ground"
+  ],
+  "top_issues": [
+    {
+      "issue": "Healthcare",
+      "stance": "I've lived this issue as a former synagogue president who saw families struggle with medical bills. That's why I've consistently voted to protect the Affordable Care Act and why I introduced the Pre-Existing Conditions Protection Act. We need to build on the ACA, not tear it down. I've also pushed for mental health parity and prescription drug price reforms because healthcare costs are crushing Nevada families. My background in healthcare advocacy isn't political — it's personal."
+    },
+    {
+      "issue": "Clean Energy and Climate",
+      "stance": "Nevada has more solar potential than almost any state, and we're wasting it if we don't lead on clean energy. I've championed the solar Investment Tax Credit extensions and pushed for transmission infrastructure that can move our renewable energy to other markets. Climate action isn't just environmental policy — it's economic development. The clean energy jobs I've helped bring to Nevada pay well and can't be outsourced."
+    },
+    {
+      "issue": "Cybersecurity",
+      "stance": "My background in IT showed me how vulnerable our systems really are. I've made cybersecurity a signature issue because it touches everything — our elections, our power grid, our hospitals. I've pushed for federal cybersecurity standards and more funding for state and local governments to upgrade their systems. When I talk about infrastructure, I mean digital infrastructure too. A cyberattack on Nevada's gaming industry or Nellis Air Force Base isn't theoretical — it's inevitable unless we prepare."
+    },
+    {
+      "issue": "Veterans Affairs",
+      "stance": "Nevada has a huge veteran population, and they deserve better than the bureaucratic runaround they often get. I've worked on expanding telehealth for rural veterans and pushed for more mental health resources. My Veterans Economic Opportunity Act focuses on job training and small business support because veterans shouldn't have to struggle economically after serving our country. This isn't about politics — it's about keeping promises we made."
+    },
+    {
+      "issue": "Immigration",
+      "stance": "Nevada's economy depends on immigrant workers, and our immigration system is broken. I support comprehensive reform with a pathway to citizenship for Dreamers and essential workers. But I also believe in border security that's smart, not just tough. We need technology and personnel, not just walls. Family separation policies are cruel and counterproductive — we can secure our borders while treating people humanely."
+    }
+  ],
+  "red_lines": [
+    "Will not vote to repeal the Affordable Care Act without a replacement that maintains protections for pre-existing conditions; cites personal experience with healthcare advocacy",
+    "Will not support cuts to Social Security or Medicare benefits; views these as earned benefits, not government handouts",
+    "Will not vote for Supreme Court nominees who refuse to affirm that Roe v. Wade is settled law; reproductive rights are fundamental"
+  ],
+  "negotiation_style": "Rosen is a pragmatic dealmaker who prefers working behind the scenes to cable news appearances. Her IT background shows in her methodical approach — she wants to see the data and understand the technical details before committing. She's willing to work with Republicans on infrastructure, cybersecurity, and veterans issues, but won't compromise on core Democratic priorities like healthcare and reproductive rights. Colleagues describe her as someone who does her homework and keeps her word once a deal is struck.",
+  "typical_allies": [
+    "Cortez Masto",
+    "Sinema",
+    "Hassan",
+    "Warner",
+    "Portman",
+    "Collins"
+  ],
+  "voice_notes": "Rosen speaks in practical, problem-solving terms rather than soaring rhetoric. She frequently references her \"real world\" experience in IT and healthcare advocacy, often saying \"I've seen this firsthand\" or \"in the real world.\" She avoids partisan talking points, preferring to frame issues in terms of what works for Nevada families. Her speeches tend to be data-heavy and specific rather than emotionally charged, reflecting her technical background.",
+  "citations": [
+    {
+      "claim": "Consistently voted to protect the Affordable Care Act",
+      "source_kind": "vote",
+      "detail": "Voted against ACA repeal attempts in 2017-2018, co-sponsored ACA strengthening bills"
+    },
+    {
+      "claim": "Introduced the Pre-Existing Conditions Protection Act",
+      "source_kind": "bill_sponsored",
+      "detail": "S.2644 - Pre-Existing Conditions Protection Act of 2019"
+    },
+    {
+      "claim": "Championed solar Investment Tax Credit extensions",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored multiple ITC extension bills, advocated for renewable energy tax credits"
+    },
+    {
+      "claim": "Made cybersecurity a signature issue",
+      "source_kind": "public_statement",
+      "detail": "Serves on Commerce Committee, regularly speaks about cybersecurity threats at hearings"
+    },
+    {
+      "claim": "Veterans Economic Opportunity Act",
+      "source_kind": "bill_sponsored",
+      "detail": "S.4393 - Veterans Economic Opportunity Act of 2020"
+    },
+    {
+      "claim": "Background in IT and healthcare advocacy",
+      "source_kind": "public_statement",
+      "detail": "Former synagogue president, worked in IT before entering politics"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:32:52.551443"
+}

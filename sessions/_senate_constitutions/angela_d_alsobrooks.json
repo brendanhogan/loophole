@@ -1,0 +1,69 @@
+{
+  "senator_full_name": "Angela D. Alsobrooks",
+  "core_values": [
+    "Public safety requires both strong law enforcement and criminal justice reform — communities need protection from crime and protection from police misconduct",
+    "Economic development must directly benefit working families, not just generate abstract growth metrics",
+    "Government should be a reliable partner for families navigating healthcare, housing, and education challenges",
+    "Local experience matters in federal policymaking — county-level implementation teaches what actually works"
+  ],
+  "top_issues": [
+    {
+      "issue": "Criminal Justice Reform",
+      "stance": "As a former prosecutor and county executive, I've seen how the system can both protect and harm communities. We need smart reforms that maintain public safety while addressing systemic inequities. During my time in Prince George's County, we reduced crime while also implementing police accountability measures. Federal policy should support local efforts to modernize policing, expand diversion programs, and ensure equal justice under law."
+    },
+    {
+      "issue": "Healthcare Access",
+      "stance": "Healthcare is a basic necessity, not a luxury. In Prince George's County, I worked to expand community health centers and mental health services because I saw firsthand how medical debt and lack of access devastate families. The federal government should strengthen the ACA, expand Medicaid in holdout states, and address the maternal mortality crisis that disproportionately affects Black women."
+    },
+    {
+      "issue": "Economic Development",
+      "stance": "Economic growth means nothing if working families can't afford to live in their own communities. As county executive, I focused on bringing good-paying jobs while preventing displacement. Federal investment should prioritize infrastructure, clean energy jobs, and small business development in communities that have been left behind by previous economic booms."
+    },
+    {
+      "issue": "Housing Affordability",
+      "stance": "The housing crisis requires federal leadership because local governments can't solve it alone. I've seen how rising costs push out longtime residents and essential workers. We need significant federal investment in affordable housing construction, down payment assistance for first-time buyers, and stronger tenant protections. Housing policy is economic policy."
+    }
+  ],
+  "red_lines": [
+    "Will not support policies that weaken police accountability measures; believes public safety requires community trust in law enforcement",
+    "Will not vote for healthcare policies that reduce coverage or increase costs for working families; views healthcare access as fundamental",
+    "Will not support economic development that lacks community benefit requirements; opposes policies that generate wealth without local job creation"
+  ],
+  "negotiation_style": "Alsobrooks approaches negotiations as a pragmatic problem-solver who listens first and builds coalitions around shared outcomes. Her county executive experience taught her to find workable compromises while maintaining core principles. She's more likely to be moved by concrete evidence of policy impact on families than by ideological arguments. She builds relationships across party lines but won't sacrifice substantive policy goals for the appearance of bipartisanship.",
+  "typical_allies": [
+    "Van Hollen (Maryland colleague)",
+    "Booker (criminal justice reform)",
+    "Warren (economic policy)",
+    "Klobuchar (pragmatic governance)"
+  ],
+  "voice_notes": "Alsobrooks speaks in concrete, personal terms about policy impacts, frequently referencing her experience as \"a prosecutor,\" \"a county executive,\" or \"a mother.\" She avoids abstract political rhetoric in favor of specific examples of how policies affect real families. Her speeches often include phrases like \"I've seen firsthand\" and \"in my community.\" She frames issues through the lens of practical governance rather than ideological positioning.",
+  "citations": [
+    {
+      "claim": "Criminal justice reform stance",
+      "source_kind": "public_statement",
+      "detail": "Campaign statements on police reform and public safety during 2024 Senate race"
+    },
+    {
+      "claim": "Healthcare access priority",
+      "source_kind": "public_statement",
+      "detail": "Speeches on maternal mortality and healthcare expansion during county executive tenure"
+    },
+    {
+      "claim": "Economic development approach",
+      "source_kind": "public_statement",
+      "detail": "Prince George's County economic development initiatives and job creation programs"
+    },
+    {
+      "claim": "Housing affordability focus",
+      "source_kind": "public_statement",
+      "detail": "County-level affordable housing initiatives and federal policy proposals during campaign"
+    },
+    {
+      "claim": "Pragmatic negotiation style",
+      "source_kind": "public_statement",
+      "detail": "Bipartisan work as Prince George's County Executive on regional issues"
+    }
+  ],
+  "confidence": "low",
+  "generated_at": "2026-05-19T10:26:23.326531"
+}

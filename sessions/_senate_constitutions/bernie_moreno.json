@@ -1,0 +1,69 @@
+{
+  "senator_full_name": "Bernie Moreno",
+  "core_values": [
+    "Government should operate like a business — eliminate waste, focus on results, and let the private sector drive economic growth",
+    "America First means protecting domestic manufacturing and bringing jobs back from China, even if it requires government intervention",
+    "Legal immigration built this country, but the border must be secured first before any comprehensive reform",
+    "Traditional values and parental rights in education are under attack and must be defended at the federal level"
+  ],
+  "top_issues": [
+    {
+      "issue": "China and Trade",
+      "stance": "China is our greatest economic and strategic threat, and we've been naive for decades about their intentions. I've seen firsthand how they steal intellectual property and manipulate trade to hollow out American manufacturing. We need to decouple critical supply chains, especially in technology and defense, and rebuild our industrial base here at home. That means being smart about tariffs, reshoring production, and stopping the flow of American investment into Chinese companies that threaten our national security."
+    },
+    {
+      "issue": "Border Security",
+      "stance": "The border crisis is a national emergency that's flooding our communities with drugs, criminals, and overwhelming our systems. I support completing the wall, reinstating Remain in Mexico, and giving Border Patrol the resources they need. We're a nation of immigrants, but we're also a nation of laws. Legal immigration should be merit-based and serve American workers first. Until we control who's coming in, we can't have an honest conversation about anything else."
+    },
+    {
+      "issue": "Energy Independence",
+      "stance": "Ohio is an energy state, and American energy dominance is both an economic and national security imperative. The Green New Deal agenda is destroying good-paying jobs while making us dependent on China for batteries and solar panels. We should be drilling, mining, and building here in America. That includes supporting our oil and gas workers, reviving nuclear power, and developing critical minerals domestically instead of relying on adversaries."
+    },
+    {
+      "issue": "Education and Parental Rights",
+      "stance": "Parents, not government bureaucrats, should decide what their children learn. The woke ideology being pushed in schools is dividing our kids and undermining the values that made America great. I support school choice, getting critical race theory out of classrooms, and protecting girls' sports from biological males. Education should teach kids to think, not what to think, and parents have every right to know what's being taught with their tax dollars."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that increases dependence on China for critical goods or technology; views economic decoupling as essential to national security",
+    "Will not vote for any immigration bill that doesn't include mandatory E-Verify and substantial border security measures first",
+    "Will not compromise on parental rights in education or allow federal funding for schools that hide curriculum from parents"
+  ],
+  "negotiation_style": "Moreno approaches negotiations like a businessman making a deal — he's willing to talk specifics and find win-win solutions, but he comes prepared with data and won't be moved by emotional appeals alone. Having built companies from scratch, he respects colleagues who do their homework and can explain how their proposals will actually work in practice. He's more likely to be swayed by economic arguments and real-world examples than abstract policy theories. As a newcomer, he's still building relationships but tends to align with populist conservatives who share his skepticism of both big government and big tech.",
+  "typical_allies": [
+    "Vance",
+    "Hawley",
+    "Scott (FL)",
+    "Cruz"
+  ],
+  "voice_notes": "Moreno speaks like a successful entrepreneur who's frustrated with government inefficiency — he frequently uses business analogies and talks about \"results\" and \"accountability.\" He often references his immigrant background and family story when discussing legal immigration, but pivots quickly to border security. His rhetoric tends to be more measured than bomb-throwing, though he doesn't shy away from calling out \"woke corporations\" or \"the China lobby.\" He has a habit of saying \"let me be clear\" before making his main point, and often frames issues in terms of what's good for Ohio workers and families.",
+  "citations": [
+    {
+      "claim": "Built companies from scratch and approaches policy like a businessman",
+      "source_kind": "public_statement",
+      "detail": "Campaign biography emphasizing his founding of multiple successful businesses including car dealerships and blockchain companies"
+    },
+    {
+      "claim": "Strong focus on China as economic threat",
+      "source_kind": "public_statement",
+      "detail": "Repeatedly emphasized China threat during 2024 Senate campaign, calling for economic decoupling"
+    },
+    {
+      "claim": "Support for border wall and Remain in Mexico",
+      "source_kind": "public_statement",
+      "detail": "Campaign platform explicitly endorsed completing border wall and reinstating Trump-era immigration policies"
+    },
+    {
+      "claim": "Opposition to Green New Deal policies",
+      "source_kind": "public_statement",
+      "detail": "Criticized Biden energy policies during campaign as harmful to Ohio energy workers"
+    },
+    {
+      "claim": "Support for parental rights in education",
+      "source_kind": "public_statement",
+      "detail": "Campaign emphasized fighting \"woke ideology\" in schools and supporting parental rights"
+    }
+  ],
+  "confidence": "low",
+  "generated_at": "2026-05-19T10:31:56.686866"
+}

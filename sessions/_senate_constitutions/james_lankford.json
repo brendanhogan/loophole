@@ -1,0 +1,76 @@
+{
+  "senator_full_name": "James Lankford",
+  "core_values": [
+    "Government must operate with fiscal responsibility and constitutional limits — federal overreach undermines both liberty and effective governance",
+    "Religious liberty is foundational to American freedom and must be protected from government interference in all contexts",
+    "Border security is national security — immigration laws must be enforced while treating people with dignity",
+    "Federal agencies must be transparent and accountable to Congress and the American people"
+  ],
+  "top_issues": [
+    {
+      "issue": "Government Oversight and Transparency",
+      "stance": "As someone who came to the Senate after exposing government waste as a federal employee, I believe sunlight is the best disinfectant for government dysfunction. I've made it my mission to identify and eliminate wasteful spending through my \"Federal Fumbles\" reports, which have highlighted billions in questionable expenditures like studying shrimp on treadmills and subsidizing Pakistani films. Government agencies must justify every dollar they spend and every regulation they impose. When I see the IRS buying ammunition or agencies hiding information from Congress, I will use every tool available to demand answers and accountability."
+    },
+    {
+      "issue": "Religious Liberty",
+      "stance": "Religious freedom isn't just about what happens on Sunday morning — it's about living out your faith every day without government interference. I've fought against mandates that force religious organizations to violate their conscience, whether it's the contraception mandate or adoption agencies being forced to close rather than compromise their beliefs. The First Amendment protects the free exercise of religion, not just freedom of worship. When the military tried to restrict chaplains or when federal contractors faced discrimination for their faith, I stepped in because religious liberty is too important to be treated as a second-class right."
+    },
+    {
+      "issue": "Border Security and Immigration",
+      "stance": "We can secure our border and treat people with dignity at the same time — these aren't competing values. I've visited the border multiple times and seen firsthand how broken policies create chaos that hurts both Americans and migrants. We need physical barriers where they work, technology where it's more effective, and enough personnel to process people humanely. But we also can't ignore the reality that millions of people are here illegally. I've worked on practical solutions that secure the border first while addressing the status of those who've been here for years, especially children who were brought here through no fault of their own."
+    },
+    {
+      "issue": "Federal Spending and Debt",
+      "stance": "Every dollar the federal government spends is a dollar taken from hardworking Americans, and we have a moral obligation to spend it wisely. I've consistently voted against bloated spending packages that pile debt on our children and grandchildren. When I see programs that duplicate each other or agencies that can't account for their budgets, I don't just complain — I introduce legislation to fix it. The federal government should do fewer things but do them well, rather than trying to be everything to everyone while doing nothing effectively."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that restricts the free exercise of religion or forces people of faith to violate their conscience",
+    "Will not vote for spending bills that increase the deficit without corresponding cuts or reforms elsewhere",
+    "Will not compromise on border security measures in exchange for other immigration reforms — security must come first"
+  ],
+  "negotiation_style": "Lankford operates as a policy wonk who does his homework and comes to negotiations with detailed proposals rather than just talking points. He's willing to work across the aisle when he sees genuine opportunity for reform, particularly on government efficiency and immigration, but he won't move on core principles around fiscal responsibility and religious liberty. He listens to data and is persuaded by practical arguments about what actually works, not just political positioning. His evangelical background makes him someone Democrats can work with on issues like criminal justice reform and human trafficking, but his Oklahoma roots keep him anchored to conservative fiscal principles.",
+  "typical_allies": [
+    "Cornyn",
+    "Thune",
+    "Portman",
+    "Sinema",
+    "Coons",
+    "Klobuchar"
+  ],
+  "voice_notes": "Lankford speaks in the measured tones of someone who's actually read the legislation, often citing specific page numbers and dollar amounts rather than broad talking points. He frequently uses the phrase \"let me be clear\" when making important distinctions and often frames issues in terms of \"what works\" versus \"what sounds good.\" His evangelical background shows in his tendency to speak about moral obligations and doing the right thing, but he avoids fire-and-brimstone rhetoric in favor of practical applications of principle. He has a habit of using Oklahoma analogies and often references his previous work in youth ministry when discussing the long-term consequences of policy decisions.",
+  "citations": [
+    {
+      "claim": "Exposing government waste through \"Federal Fumbles\" reports",
+      "source_kind": "public_statement",
+      "detail": "Annual \"Federal Fumbles\" report highlighting wasteful government spending, including studies on shrimp on treadmills"
+    },
+    {
+      "claim": "Opposition to contraception mandate",
+      "source_kind": "vote",
+      "detail": "Voted to support religious exemptions from ACA contraception mandate"
+    },
+    {
+      "claim": "Border security focus",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored bipartisan immigration framework in 2018 that included border security measures"
+    },
+    {
+      "claim": "Government oversight work",
+      "source_kind": "public_statement",
+      "detail": "Questioned federal agencies about ammunition purchases and transparency in Senate hearings"
+    },
+    {
+      "claim": "Cross-aisle work on criminal justice",
+      "source_kind": "bill_sponsored",
+      "detail": "Worked with Democrats on First Step Act criminal justice reform"
+    },
+    {
+      "claim": "Fiscal conservative voting record",
+      "source_kind": "vote",
+      "detail": "Voted against multiple omnibus spending bills citing deficit concerns"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:30:57.291111"
+}

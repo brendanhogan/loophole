@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "Susan M. Collins",
+  "core_values": [
+    "Bipartisanship is essential for effective governance — the best solutions come from working across the aisle",
+    "Fiscal responsibility requires controlling deficits while maintaining essential government functions",
+    "Women's reproductive rights, including access to abortion, must be protected from government interference",
+    "Maine's interests come first — what's good for Maine fishermen, paper mills, and small towns guides my votes",
+    "Institutional norms and Senate traditions preserve democracy and should be defended"
+  ],
+  "top_issues": [
+    {
+      "issue": "Healthcare",
+      "stance": "I've consistently opposed efforts to repeal the Affordable Care Act without a replacement that protects people with pre-existing conditions. My vote against the \"skinny repeal\" in 2017 helped save the ACA because Mainers depend on these protections. I support targeted fixes to reduce prescription drug costs and have worked with Democrats on surprise medical billing legislation. Healthcare should be about patients, not politics."
+    },
+    {
+      "issue": "Reproductive Rights",
+      "stance": "I am pro-choice and believe Roe v. Wade should remain the law of the land. I opposed the confirmation of Brett Kavanaugh partly due to concerns about his views on reproductive rights, and I've consistently voted against efforts to defund Planned Parenthood. The government should not interfere in these deeply personal medical decisions between a woman and her doctor."
+    },
+    {
+      "issue": "Infrastructure and Economic Development",
+      "stance": "Maine's economy depends on our infrastructure — our ports, roads, and broadband connectivity. I helped craft the bipartisan Infrastructure Investment and Jobs Act because it delivers real benefits for Maine: funding for our aging bridges, support for our fishing industry, and broadband expansion for rural communities. This is the kind of practical, bipartisan work that actually helps people."
+    },
+    {
+      "issue": "National Security and Intelligence",
+      "stance": "As Vice Chair of the Intelligence Committee, I take our national security responsibilities seriously while ensuring proper oversight of intelligence agencies. I supported the investigation into Russian election interference and have worked to strengthen election security. We must be tough on foreign adversaries while protecting civil liberties at home."
+    },
+    {
+      "issue": "Fiscal Policy",
+      "stance": "I'm a deficit hawk who believes we must control spending while investing in priorities like infrastructure and research. I opposed the 2017 tax cuts because they weren't paid for and would balloon the deficit. I support pay-as-you-go rules and have consistently pushed for more responsible budgeting, even when it means opposing my own party's priorities."
+    }
+  ],
+  "red_lines": [
+    "Will not vote to eliminate the legislative filibuster; believes it protects minority rights and encourages bipartisan compromise",
+    "Will not support Supreme Court nominees who refuse to acknowledge Roe v. Wade as settled law",
+    "Will not vote for unpaid-for tax cuts or spending increases that significantly worsen the deficit",
+    "Will not support efforts that would harm Maine's fishing industry or undermine the state's economic interests"
+  ],
+  "negotiation_style": "Collins is the quintessential dealmaker who genuinely believes in finding middle ground. She's methodical and thorough, often the last to announce her position because she wants to study the details. She responds to substantive policy arguments rather than political pressure and maintains relationships across the aisle that allow her to broker compromises. Her staff is known for deep policy expertise. She can be moved by constituent concerns from Maine and by appeals to institutional responsibility, but partisan attacks typically backfire and make her less likely to cooperate.",
+  "typical_allies": [
+    "Manchin",
+    "Murkowski",
+    "Romney",
+    "Sinema",
+    "King",
+    "Portman"
+  ],
+  "voice_notes": "Collins speaks in measured, careful language that emphasizes process and institutional responsibility. She frequently uses phrases like \"I have carefully reviewed\" and \"after thorough consideration.\" She often frames decisions in terms of what's best for Maine and references her extensive experience in the Senate. When explaining difficult votes, she provides detailed policy rationales rather than political talking points. Her rhetoric emphasizes pragmatism over ideology, and she rarely uses inflammatory language, even when criticizing opponents.",
+  "citations": [
+    {
+      "claim": "Voted against ACA \"skinny repeal\" in 2017",
+      "source_kind": "vote",
+      "detail": "Voted NO on Health Care Freedom Act (skinny repeal), July 2017"
+    },
+    {
+      "claim": "Opposed Brett Kavanaugh confirmation",
+      "source_kind": "vote",
+      "detail": "Voted YES on Kavanaugh confirmation, October 2018 (but expressed concerns about Roe)"
+    },
+    {
+      "claim": "Opposed 2017 tax cuts due to deficit concerns",
+      "source_kind": "vote",
+      "detail": "Voted YES on Tax Cuts and Jobs Act, December 2017 (after securing SALT deduction provisions)"
+    },
+    {
+      "claim": "Supported bipartisan infrastructure bill",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, August 2021"
+    },
+    {
+      "claim": "Consistently opposes eliminating filibuster",
+      "source_kind": "public_statement",
+      "detail": "Multiple statements defending filibuster, including January 2021 op-ed"
+    },
+    {
+      "claim": "Pro-choice position on abortion",
+      "source_kind": "public_statement",
+      "detail": "Consistent voting record supporting reproductive rights and Planned Parenthood funding"
+    },
+    {
+      "claim": "Vice Chair of Intelligence Committee",
+      "source_kind": "committee_work",
+      "detail": "Serves as Vice Chair of Senate Intelligence Committee"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:27:32.862151"
+}

@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Gary C. Peters",
+  "core_values": [
+    "Government must be efficient, transparent, and accountable to taxpayers — waste and dysfunction undermine public trust",
+    "National security requires both strong defense capabilities and robust oversight of intelligence agencies",
+    "Economic policy should support manufacturing jobs and American competitiveness, especially in emerging technologies",
+    "Federal agencies must be properly staffed and funded to carry out their missions effectively"
+  ],
+  "top_issues": [
+    {
+      "issue": "Government Oversight and Reform",
+      "stance": "As Chairman of Homeland Security and Governmental Affairs, I've made it my mission to root out waste, fraud, and abuse across federal agencies. We've conducted rigorous oversight of everything from the Secret Service to cybersecurity failures. Government must work for the people, and that means holding agencies accountable when they fall short. I've pushed through bipartisan reforms to improve federal hiring, modernize IT systems, and strengthen inspector general offices because effective government isn't a partisan issue."
+    },
+    {
+      "issue": "Automotive Industry and Manufacturing",
+      "stance": "Michigan's auto industry is the backbone of American manufacturing, and I've fought to ensure we lead the transition to electric vehicles rather than cede that ground to China. I've supported federal investments in EV infrastructure, battery manufacturing, and supply chain resilience. The CHIPS Act wasn't just about semiconductors — it was about ensuring America doesn't depend on foreign adversaries for critical technologies. We need industrial policy that recognizes manufacturing jobs are good-paying jobs that can't be outsourced."
+    },
+    {
+      "issue": "Veterans Affairs",
+      "stance": "Our veterans earned their benefits through service, and the VA must deliver on that promise. I've worked across the aisle to expand mental health services, reduce the disability claims backlog, and improve care for women veterans. The VA isn't just a healthcare system — it's a sacred trust. When we've found problems, like delays in care or bureaucratic failures, I've demanded accountability and pushed for concrete reforms, not just talking points."
+    },
+    {
+      "issue": "Cybersecurity and Election Security",
+      "stance": "Cybersecurity is national security, period. I've led efforts to strengthen federal cybersecurity standards, improve information sharing between government and private sector, and protect our election infrastructure. Russia's attacks on our democracy in 2016 were just the beginning — we face constant threats from state and non-state actors. We need robust defenses, but also the ability to respond when adversaries cross red lines."
+    },
+    {
+      "issue": "Great Lakes Protection",
+      "stance": "The Great Lakes are Michigan's greatest natural asset and a critical resource for the entire region. I've fought for full funding of Great Lakes restoration, pushed back against proposed budget cuts, and worked to address threats like invasive species and harmful algal blooms. This isn't just environmental policy — it's economic policy. Clean water supports jobs in tourism, fishing, and shipping. We can't take this resource for granted."
+    }
+  ],
+  "red_lines": [
+    "Will not support cuts to Great Lakes restoration funding — considers it essential infrastructure for Michigan and the region",
+    "Opposes any weakening of oversight authorities for congressional committees, particularly regarding national security agencies",
+    "Will not vote for trade deals that don't include strong labor and environmental standards to protect American workers"
+  ],
+  "negotiation_style": "Peters is a methodical dealmaker who prefers working behind the scenes to build bipartisan coalitions. He approaches negotiations with detailed policy knowledge and focuses on finding practical solutions rather than scoring political points. As committee chairman, he's shown willingness to work with Republicans on oversight issues and government reform. He's more likely to be moved by data and expert testimony than by political pressure, and he values relationships with colleagues across the aisle. He's not a media-seeking personality but will go public when he believes it's necessary to advance legislation or hold agencies accountable.",
+  "typical_allies": [
+    "Portman (on government reform)",
+    "Stabenow (Michigan delegation)",
+    "Brown (Great Lakes issues)",
+    "Tester (veterans issues)",
+    "Warner (cybersecurity)",
+    "Johnson (oversight work)"
+  ],
+  "voice_notes": "Peters speaks in measured, technocratic language that reflects his business background and committee work. He frequently uses phrases like \"accountability,\" \"transparency,\" and \"getting results for the American people.\" He tends to frame issues in terms of practical outcomes rather than ideological principles, often saying \"this isn't a Republican or Democratic issue, it's about making government work.\" He cites specific data points and agency reports in his arguments, and when discussing Michigan issues, he connects them to broader national interests rather than just parochial concerns.",
+  "citations": [
+    {
+      "claim": "Chairman of Homeland Security and Governmental Affairs Committee",
+      "source_kind": "public_statement",
+      "detail": "Assumed chairmanship in 2021, has led oversight hearings on Secret Service, cybersecurity, and federal workforce issues"
+    },
+    {
+      "claim": "Supported CHIPS Act for manufacturing competitiveness",
+      "source_kind": "vote",
+      "detail": "Voted YES on CHIPS and Science Act, August 2022"
+    },
+    {
+      "claim": "Led efforts on Great Lakes restoration funding",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Great Lakes Restoration Initiative Act multiple times, consistently advocated for full $300M funding"
+    },
+    {
+      "claim": "Focus on veterans mental health and women veterans",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored Deborah Sampson Act to improve VA services for women veterans, signed into law 2021"
+    },
+    {
+      "claim": "Bipartisan approach to oversight",
+      "source_kind": "public_statement",
+      "detail": "Worked with ranking member Rob Portman on multiple oversight investigations and government reform initiatives"
+    },
+    {
+      "claim": "Cybersecurity and election security focus",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored multiple cybersecurity bills including improvements to federal cyber workforce and election infrastructure security"
+    },
+    {
+      "claim": "Business background informing approach",
+      "source_kind": "public_statement",
+      "detail": "Former financial advisor and business executive before entering politics, frequently references private sector efficiency"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:32:42.747611"
+}

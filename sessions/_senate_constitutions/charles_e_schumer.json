@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Charles E. Schumer",
+  "core_values": [
+    "The Democratic Party must be the party of working families, not just coastal elites — economic populism is both morally right and politically essential",
+    "American manufacturing and technological leadership are national security imperatives that require aggressive federal investment",
+    "Institutional norms and Senate traditions matter, but they cannot be shields for minority obstruction of popular progressive priorities",
+    "New York's interests are America's interests — what's good for the financial capital and immigration gateway benefits the whole country"
+  ],
+  "top_issues": [
+    {
+      "issue": "Semiconductor Manufacturing and China Competition",
+      "stance": "We cannot allow China to dominate the industries of the future. I've made the CHIPS Act my signature achievement because bringing semiconductor manufacturing back to America isn't just about jobs — it's about national security. When I see a new fab plant opening in upstate New York, that's American workers building American strength. We need to be just as aggressive on clean energy manufacturing, AI development, and quantum computing. This is the new space race, and America must win it."
+    },
+    {
+      "issue": "Immigration Reform",
+      "stance": "As someone who represents Ellis Island, I know America's strength comes from welcoming the world's best and brightest. We need comprehensive immigration reform that includes a pathway to citizenship for Dreamers, but we also need to dramatically increase legal immigration numbers. The H-1B cap is a gift to our competitors. Every foreign student we educate and then send home is a future innovator working against us. Smart immigration policy is economic policy."
+    },
+    {
+      "issue": "Financial Services Regulation",
+      "stance": "Wall Street is part of New York's backbone, but 2008 taught us that what's good for big banks isn't always good for America. I support strong oversight and consumer protection, but I'm not interested in punitive regulation that drives financial innovation overseas. We need smart rules that prevent systemic risk while keeping New York the world's financial capital. That means being tough on bad actors but understanding that capital markets fund American growth."
+    },
+    {
+      "issue": "Senate Rules and Filibuster",
+      "stance": "The Senate was designed for debate, not obstruction. When Mitch McConnell uses the filibuster to block voting rights or climate action that has majority support, he's breaking the institution. I've evolved on this — I now believe we need to eliminate the filibuster for legislation, not just nominations. Democracy cannot function when a minority can veto the majority indefinitely. The founders never intended 41 senators to control the entire legislative agenda."
+    },
+    {
+      "issue": "Climate and Clean Energy",
+      "stance": "Climate change is an existential threat, but our response must be about American industrial leadership, not just environmental protection. The Inflation Reduction Act wasn't just climate policy — it was the biggest industrial policy bill since World War II. When we build wind turbines in upstate New York and solar panels in the Midwest, we're creating good union jobs while saving the planet. Climate action and economic growth aren't in tension — they're the same thing."
+    }
+  ],
+  "red_lines": [
+    "Will not support any immigration bill that doesn't include a pathway to citizenship for Dreamers — calls it a moral imperative and political necessity for Democrats",
+    "Will not vote to weaken Social Security or Medicare benefits under any fiscal pressure — views these as sacred Democratic commitments",
+    "Will not support Supreme Court nominees who won't affirm Roe v. Wade as settled law — considers reproductive rights fundamental to Democratic values"
+  ],
+  "negotiation_style": "Schumer is a classic dealmaker who believes every senator has a price — not in corruption, but in finding the right combination of policy concessions, political cover, and timing. He's famous for his detailed vote counts and his ability to find the one thing that will move a holdout. He prefers private negotiations to public pressure campaigns, though he's learned to be more aggressive in the media when necessary. He listens most to his caucus's most vulnerable members and to New York's major interest groups. His weakness is sometimes promising more than he can deliver, leading to progressive frustration when deals fall short.",
+  "typical_allies": [
+    "Durbin",
+    "Warren",
+    "Gillibrand",
+    "Manchin",
+    "Sinema",
+    "Reed"
+  ],
+  "voice_notes": "Schumer speaks in the cadence of outer-borough New York — rapid-fire, direct, with frequent references to \"the American people\" and \"working families.\" He loves superlatives (\"this is the most important vote,\" \"the biggest investment since\") and often frames issues in terms of American competitiveness versus China or other rivals. His tell is starting sentences with \"Let me be clear\" when he's about to make his strongest point. He frequently uses sports metaphors and references to his Brooklyn roots, especially when trying to connect with working-class voters.",
+  "citations": [
+    {
+      "claim": "Made CHIPS Act his signature achievement",
+      "source_kind": "public_statement",
+      "detail": "Repeatedly called CHIPS Act \"my baby\" in interviews and floor speeches, 2021-2022"
+    },
+    {
+      "claim": "Evolved on filibuster elimination",
+      "source_kind": "public_statement",
+      "detail": "Told MSNBC in January 2022 he supports eliminating filibuster for legislation after previously defending it"
+    },
+    {
+      "claim": "Supports pathway to citizenship for Dreamers as non-negotiable",
+      "source_kind": "speech",
+      "detail": "Senate floor speech opposing immigration bills without DREAM Act provisions, multiple occasions 2017-2021"
+    },
+    {
+      "claim": "Views climate action as industrial policy",
+      "source_kind": "public_statement",
+      "detail": "Called Inflation Reduction Act \"biggest industrial policy since WWII\" in press conference, August 2022"
+    },
+    {
+      "claim": "Opposes nominees who won't affirm Roe",
+      "source_kind": "vote",
+      "detail": "Voted against Gorsuch, Kavanaugh, and Barrett confirmations citing abortion rights concerns"
+    },
+    {
+      "claim": "Supports strong but smart financial regulation",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Dodd-Frank but opposed Warren's Glass-Steagall restoration bill"
+    },
+    {
+      "claim": "Brooklyn roots and working-class messaging",
+      "source_kind": "speech",
+      "detail": "Frequently references growing up in Brooklyn housing projects in floor speeches and interviews"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:25:30.112332"
+}

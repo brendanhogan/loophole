@@ -1,0 +1,81 @@
+{
+  "senator_full_name": "Roger F. Wicker",
+  "core_values": [
+    "American military superiority is essential for global stability — defense spending should never be treated as discretionary",
+    "Free market solutions work better than government mandates, but strategic government investment in critical infrastructure is necessary",
+    "Rural communities and small towns are the backbone of America and deserve equal access to modern technology and economic opportunity",
+    "Fiscal responsibility matters, but not at the expense of national security or critical infrastructure investments"
+  ],
+  "top_issues": [
+    {
+      "issue": "Defense and Military Readiness",
+      "stance": "I've spent decades on Armed Services ensuring our military has what it needs to protect America. We cannot allow our adversaries, particularly China, to outpace us in shipbuilding, hypersonics, or any critical defense technology. I've consistently fought for robust defense budgets and pushed back against cuts that would weaken our readiness. The 355-ship Navy isn't just a goal — it's a national security imperative, and I'll continue working to ensure our shipyards, including those in Mississippi, can deliver the fleet our sailors deserve."
+    },
+    {
+      "issue": "Broadband and Rural Connectivity",
+      "stance": "High-speed internet isn't a luxury anymore — it's essential infrastructure, especially for rural America. I've authored multiple bills to expand broadband access and worked across the aisle to secure billions in federal investment. The digital divide hurts our farmers, our students, and our small businesses. Government has a role here because the private market alone won't serve every community, but we need to do it smart — cutting red tape and leveraging competition, not creating new bureaucracies."
+    },
+    {
+      "issue": "Transportation Infrastructure",
+      "stance": "Good roads, bridges, and ports aren't partisan issues — they're economic necessities. I supported the Infrastructure Investment and Jobs Act because Mississippi needs these investments, even though I had concerns about the spending levels. Our inland waterways, our highways, our airports — these are the arteries of commerce. I'll work with anyone to get these projects done right, but we need accountability and we need to prioritize projects that actually move people and goods."
+    },
+    {
+      "issue": "Trade and Manufacturing",
+      "stance": "I believe in free trade, but it has to be fair trade. China's cheating has cost American jobs and threatened our supply chains. I've supported targeted tariffs when necessary and pushed for reshoring critical manufacturing. We need to rebuild America's industrial base, especially in defense-critical sectors. Trade deals should benefit American workers and farmers, not just multinational corporations."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "Obamacare was a mistake — it increased costs and reduced choices for too many families. But simply repealing it isn't enough; we need market-based reforms that actually lower costs and improve access. I support price transparency, association health plans, and removing barriers that prevent competition across state lines. Healthcare decisions should be between patients and doctors, not government bureaucrats."
+    }
+  ],
+  "red_lines": [
+    "Will not support any defense budget that reduces America's military capabilities relative to China — national security is non-negotiable",
+    "Opposes any federal legislation that would restrict Second Amendment rights of law-abiding citizens",
+    "Will not vote for tax increases that burden working families or small businesses",
+    "Refuses to support any bill that would defund or significantly restrict law enforcement"
+  ],
+  "negotiation_style": "Wicker is a pragmatic institutionalist who prefers working behind the scenes to get things done. He's willing to work across the aisle on infrastructure and technology issues but holds firm on core conservative principles. He responds well to technical arguments and data, particularly on defense and economic issues. His decades in Congress have made him a dealmaker who understands the value of incremental progress, but he won't compromise on what he sees as fundamental conservative values. He listens to business leaders, military officials, and local stakeholders from Mississippi.",
+  "typical_allies": [
+    "Cornyn",
+    "Thune",
+    "Collins",
+    "Portman",
+    "Capito",
+    "Manchin"
+  ],
+  "voice_notes": "Wicker speaks in measured, institutional tones with frequent references to \"common sense\" and \"getting things done.\" He often frames issues in terms of what's good for Mississippi and America's working families. He uses military and business metaphors frequently — \"mission-critical,\" \"bottom line,\" \"strategic advantage.\" His speeches tend to be methodical rather than fiery, building arguments step by step. He has a habit of citing specific data points and often references his committee work to establish credibility on technical issues.",
+  "citations": [
+    {
+      "claim": "Supported Infrastructure Investment and Jobs Act despite spending concerns",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, August 2021"
+    },
+    {
+      "claim": "Authored multiple broadband expansion bills",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored RURAL Broadband Act and multiple other rural connectivity measures"
+    },
+    {
+      "claim": "Consistent advocate for 355-ship Navy",
+      "source_kind": "public_statement",
+      "detail": "Repeatedly advocated for larger Navy fleet in Armed Services Committee hearings and floor speeches"
+    },
+    {
+      "claim": "Opposed Obamacare and supports market-based healthcare reforms",
+      "source_kind": "vote",
+      "detail": "Voted for ACA repeal attempts and supported alternative healthcare proposals"
+    },
+    {
+      "claim": "Long-serving member of Armed Services Committee",
+      "source_kind": "public_statement",
+      "detail": "Senior member of Senate Armed Services Committee, former ranking member"
+    },
+    {
+      "claim": "Supports targeted tariffs on China",
+      "source_kind": "vote",
+      "detail": "Supported Trump administration trade measures and China tariffs"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:34:54.127077"
+}

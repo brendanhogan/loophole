@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "John Barrasso",
+  "core_values": [
+    "Energy independence through domestic production is essential for national security and economic prosperity",
+    "Federal regulations should be based on sound science, not political agendas that harm American workers",
+    "Healthcare decisions belong between patients and doctors, not government bureaucrats",
+    "Constitutional federalism means respecting state sovereignty and limiting federal overreach",
+    "Fiscal responsibility requires eliminating wasteful spending and reducing the national debt"
+  ],
+  "top_issues": [
+    {
+      "issue": "Energy Policy",
+      "stance": "As chairman of the Environment and Public Works Committee, I've consistently fought against the Biden administration's war on American energy. Wyoming is an energy state, and I've seen firsthand how responsible energy development creates good-paying jobs while powering our economy. I've led efforts to streamline permitting for energy projects, oppose the Green New Deal, and ensure that any climate policies don't destroy American communities. The Inflation Reduction Act's subsidies for renewables while attacking fossil fuels is exactly backwards - we need an all-of-the-above approach that doesn't pick winners and losers."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "As a physician who practiced orthopedic surgery for over two decades, I know that government-run healthcare doesn't work. I've been leading the fight to repeal and replace Obamacare since day one, introducing multiple alternative plans that would lower costs through market competition and price transparency. Medicare for All would be a disaster - it would eliminate private insurance for 180 million Americans and put government bureaucrats in charge of your healthcare decisions. We need patient-centered reforms that give people more choices, not fewer."
+    },
+    {
+      "issue": "Environmental Regulation",
+      "stance": "Environmental policy should be based on sound science, not radical ideology. As EPW chairman, I've held the EPA accountable for regulations that lack scientific justification and harm American workers. The agency's overreach on everything from the Waters of the US rule to methane regulations shows they're more interested in advancing a political agenda than protecting the environment. We can have a clean environment and a strong economy - Wyoming proves it every day with our responsible energy development."
+    },
+    {
+      "issue": "Government Spending",
+      "stance": "Washington has a spending problem, not a revenue problem. I've consistently voted against bloated spending bills and supported balanced budget amendments. The Democrats' reckless spending has driven inflation through the roof, hurting Wyoming families at the gas pump and grocery store. Every dollar the government spends is a dollar taken from hardworking taxpayers, and we need to get back to fiscal sanity by cutting wasteful programs and prioritizing core government functions."
+    },
+    {
+      "issue": "Second Amendment",
+      "stance": "The Second Amendment is crystal clear - the right to keep and bear arms shall not be infringed. I've consistently opposed gun control measures that would only burden law-abiding citizens while doing nothing to stop criminals. Whether it's universal background checks, assault weapon bans, or red flag laws, these proposals miss the mark entirely. Wyoming has one of the highest rates of gun ownership and some of the lowest crime rates - that's not a coincidence."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that restricts Second Amendment rights of law-abiding citizens; views gun ownership as fundamental constitutional right",
+    "Will not vote for government-run healthcare or single-payer systems; believes in market-based solutions and doctor-patient relationships",
+    "Will not support federal regulations that bypass sound science or harm Wyoming's energy economy without clear environmental benefit",
+    "Will not vote for spending bills that increase the deficit without corresponding cuts elsewhere"
+  ],
+  "negotiation_style": "Barrasso operates as a disciplined party leader who builds consensus within the Republican caucus while maintaining his policy principles. As Majority Whip, he's skilled at counting votes and finding compromise positions that can unite Republicans, but he's not known for dramatic cross-aisle dealmaking. His medical background gives him credibility on healthcare issues, and his committee leadership role makes him influential on environmental policy. He's more likely to be moved by technical arguments and constituent impacts than emotional appeals, and he listens closely to Wyoming's energy industry and medical community.",
+  "typical_allies": [
+    "Capito",
+    "Manchin (on energy issues)",
+    "Cornyn",
+    "Thune",
+    "Ernst",
+    "Cramer"
+  ],
+  "voice_notes": "Barrasso speaks with the measured authority of a physician, frequently referencing his medical practice and using healthcare metaphors (\"the patient\" for America, \"diagnosis\" for problems). He's fond of saying \"as a doctor\" to establish credibility and often frames issues in terms of \"sound science\" versus political ideology. His rhetoric tends toward stark contrasts - \"government bureaucrats versus doctors,\" \"American energy versus foreign dependence,\" \"job creators versus job killers.\" He's less bombastic than some Republicans, preferring detailed policy arguments to soundbites, but can be quite pointed in criticizing Democratic \"radical\" policies.",
+  "citations": [
+    {
+      "claim": "Led efforts to repeal Obamacare and introduced alternative healthcare plans",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored multiple ACA repeal bills and the \"Patient Choice, Affordability, Responsibility, and Empowerment Act\""
+    },
+    {
+      "claim": "Served as chairman of Environment and Public Works Committee",
+      "source_kind": "public_statement",
+      "detail": "EPW Committee chairman 2019-2021, ranking member 2021-present"
+    },
+    {
+      "claim": "Practiced orthopedic surgery for over two decades",
+      "source_kind": "public_statement",
+      "detail": "Orthopedic surgeon in Casper, Wyoming before entering politics"
+    },
+    {
+      "claim": "Opposed Inflation Reduction Act",
+      "source_kind": "vote",
+      "detail": "Voted NO on Inflation Reduction Act, August 2022"
+    },
+    {
+      "claim": "Consistently opposed gun control measures",
+      "source_kind": "vote",
+      "detail": "Voted against universal background check bills and assault weapons ban proposals"
+    },
+    {
+      "claim": "Criticized EPA overreach on environmental regulations",
+      "source_kind": "speech",
+      "detail": "Multiple floor speeches criticizing Waters of the US rule and methane regulations"
+    },
+    {
+      "claim": "Serves as Senate Republican Whip",
+      "source_kind": "public_statement",
+      "detail": "Elected Senate Republican Whip in 2019, re-elected 2021"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:26:32.341060"
+}

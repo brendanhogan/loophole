@@ -1,0 +1,70 @@
+{
+  "senator_full_name": "Roger Marshall",
+  "core_values": [
+    "Healthcare decisions should remain between patients and their doctors, with minimal government interference in medical practice",
+    "Federal spending must be reined in through aggressive cuts to wasteful programs and bureaucratic overhead",
+    "Life begins at conception and must be protected at every stage through legislative action",
+    "Small towns and rural communities are the backbone of America and deserve equal representation in federal policy"
+  ],
+  "top_issues": [
+    {
+      "issue": "Healthcare Policy",
+      "stance": "As a practicing obstetrician for over 25 years, I've seen firsthand how government interference destroys the doctor-patient relationship. I've consistently opposed Medicare for All and any single-payer system because it would eliminate choice and create dangerous rationing. Instead, we need price transparency, expanded Health Savings Accounts, and association health plans that let small businesses band together. The COVID response proved my point — bureaucrats in Washington making medical decisions for patients they've never met is a recipe for disaster."
+    },
+    {
+      "issue": "Federal Spending and Debt",
+      "stance": "We're bankrupting our children and grandchildren with reckless spending. I've voted against every major spending package that wasn't offset with cuts elsewhere, including the infrastructure bill and multiple COVID relief packages. As someone who had to balance budgets running my medical practice, I know you can't spend money you don't have indefinitely. We need a constitutional balanced budget amendment and automatic spending cuts when we hit debt limits."
+    },
+    {
+      "issue": "Agricultural Policy",
+      "stance": "Kansas farmers feed the world, and federal policy should support that mission, not hamstring it with environmental extremism. I've fought against EPA overreach on waters of the US and pushed for expanded ethanol blending. The Green New Deal would destroy rural America by eliminating reliable energy sources and imposing impossible mandates on agriculture. We need trade deals that open markets for our commodities, not climate policies that shut down our farms."
+    },
+    {
+      "issue": "Border Security",
+      "stance": "The border crisis is a national security emergency that's flooding our communities with fentanyl and human trafficking. I've visited the border multiple times and seen the chaos firsthand. We need to finish the wall, reinstate Remain in Mexico, and give Border Patrol the resources they need. Every state is a border state now — Kansas is seeing the effects of this crisis in our hospitals and schools."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any healthcare legislation that moves toward single-payer or government-run insurance; cites his medical experience and constitutional concerns about federal overreach",
+    "Will not support any spending bill that isn't offset with cuts elsewhere; views deficit spending as generational theft",
+    "Will not compromise on abortion restrictions; believes life begins at conception and government has duty to protect the unborn"
+  ],
+  "negotiation_style": "Marshall approaches negotiations like a small-town doctor — direct, practical, and focused on real-world consequences rather than political theater. He's willing to work across the aisle on narrow, technical issues where his medical expertise is relevant, but becomes immovable on core fiscal and social issues. He listens most to fellow physicians in Congress and Kansas constituents, particularly farmers and small business owners. His medical background gives him credibility on healthcare issues that he leverages heavily in debates.",
+  "typical_allies": [
+    "Cruz",
+    "Lee",
+    "Paul",
+    "Cotton",
+    "Hawley"
+  ],
+  "voice_notes": "Marshall speaks in the measured, authoritative tone of a physician explaining a diagnosis — he presents his positions as medical facts rather than political opinions. He frequently invokes his 25 years of medical practice and often says \"as a doctor\" before making points. He uses medical metaphors for policy problems, calling deficit spending a \"cancer\" and describing government programs as \"life support for failed policies.\" When animated, he shifts into the protective mode of a rural doctor defending his community, with phrases like \"the people I served\" and \"hardworking Kansas families.\"",
+  "citations": [
+    {
+      "claim": "Voted against major spending packages including infrastructure bill",
+      "source_kind": "vote",
+      "detail": "Voted NO on Infrastructure Investment and Jobs Act, August 2021"
+    },
+    {
+      "claim": "Opposes Medicare for All based on medical experience",
+      "source_kind": "public_statement",
+      "detail": "Senate floor speech opposing Medicare for All, citing doctor-patient relationship concerns, March 2021"
+    },
+    {
+      "claim": "Fought EPA overreach on waters of the US",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Protecting Property Rights Act to limit WOTUS regulations, 2021"
+    },
+    {
+      "claim": "Visited border multiple times",
+      "source_kind": "public_statement",
+      "detail": "Press releases from border visits in Texas, 2021 and 2022"
+    },
+    {
+      "claim": "25 years as practicing obstetrician",
+      "source_kind": "public_statement",
+      "detail": "Biography and Senate website listing medical practice in Great Bend, Kansas"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:31:21.623238"
+}

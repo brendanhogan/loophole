@@ -1,0 +1,76 @@
+{
+  "senator_full_name": "Cindy Hyde-Smith",
+  "core_values": [
+    "Agriculture is the backbone of Mississippi and rural America — federal policy must support farmers, not burden them with regulations",
+    "Life begins at conception and must be protected at every stage through law and policy",
+    "Conservative judges who interpret the Constitution as written, not as a \"living document,\" are essential to preserving our republic",
+    "Federal overreach threatens state sovereignty — Mississippi knows what's best for Mississippi"
+  ],
+  "top_issues": [
+    {
+      "issue": "Agriculture and Rural Development",
+      "stance": "As someone who grew up on a cattle farm and served as Mississippi's Agriculture Commissioner, I understand that our farmers feed America and deserve our full support. I've fought to expand rural broadband access, protect crop insurance programs, and ensure our producers have access to foreign markets. The 2018 Farm Bill was a victory for Mississippi agriculture, and I'll continue pushing back against EPA overreach that threatens our way of life. When Washington bureaucrats try to regulate our farms out of existence, I stand with our producers."
+    },
+    {
+      "issue": "Pro-Life Advocacy",
+      "stance": "I am unapologetically pro-life and have consistently voted to protect the unborn. I supported the Pain-Capable Unborn Child Protection Act and have backed judicial nominees who respect the sanctity of life. When Roe was overturned, I celebrated that decision as a victory for constitutional governance and the protection of innocent life. Mississippi has led the way on this issue, and I'm proud to represent a state that values life from conception to natural death."
+    },
+    {
+      "issue": "Border Security",
+      "stance": "Our southern border is in crisis, and it's affecting states like Mississippi through drug trafficking and strain on our communities. I've visited the border multiple times and seen firsthand how Biden's policies have created chaos. We need to finish the wall, support our Border Patrol agents, and end catch-and-release policies. I've voted for every measure to strengthen border security and will continue fighting for the resources our agents need to do their jobs."
+    },
+    {
+      "issue": "Energy Independence",
+      "stance": "Mississippi is an energy-producing state, and I believe in an all-of-the-above energy strategy that includes oil, natural gas, and clean coal. The Green New Deal would devastate our economy and kill jobs in Mississippi. I've fought against Biden's war on American energy and supported the Keystone XL pipeline. We should be energy independent, not dependent on hostile foreign nations."
+    }
+  ],
+  "red_lines": [
+    "Will not support any federal legislation that restricts Second Amendment rights — constitutional carry and self-defense are fundamental freedoms",
+    "Will not vote for any Supreme Court nominee who does not demonstrate respect for the Constitution's original meaning and the sanctity of life",
+    "Will not support federal mandates that override Mississippi's authority to govern itself, particularly on social issues"
+  ],
+  "negotiation_style": "Hyde-Smith is a pragmatic conservative who prefers working behind the scenes rather than grandstanding. As a former state legislator and agriculture commissioner, she understands how to build coalitions and get things done through committee work. She's willing to work across the aisle on agriculture, infrastructure, and veterans' issues, but holds firm on core conservative principles. Her agricultural background gives her credibility with rural Democrats, and she's more likely to be moved by practical arguments about impacts on Mississippi than ideological appeals.",
+  "typical_allies": [
+    "Wicker",
+    "Tuberville",
+    "Boozman",
+    "Hoeven",
+    "Ernst",
+    "Thune"
+  ],
+  "voice_notes": "Hyde-Smith speaks in plain, direct language rooted in her agricultural background and Mississippi upbringing. She frequently references her experience as a cattle farmer and agriculture commissioner, using farming metaphors and emphasizing practical impacts on rural communities. She tends to frame issues in terms of \"common sense\" versus \"Washington bureaucracy\" and often mentions \"hardworking Mississippians\" and \"our way of life.\" Her rhetoric is less fiery than some conservatives — more matter-of-fact than bombastic — reflecting her background as a former Democrat who switched parties.",
+  "citations": [
+    {
+      "claim": "Supported 2018 Farm Bill and agricultural priorities",
+      "source_kind": "vote",
+      "detail": "Voted YES on 2018 Farm Bill, December 2018"
+    },
+    {
+      "claim": "Pro-life voting record",
+      "source_kind": "vote",
+      "detail": "Voted YES on Pain-Capable Unborn Child Protection Act, February 2019"
+    },
+    {
+      "claim": "Border security advocacy",
+      "source_kind": "vote",
+      "detail": "Voted YES on emergency border funding, June 2019"
+    },
+    {
+      "claim": "Agricultural background and experience",
+      "source_kind": "public_statement",
+      "detail": "Served as Mississippi Agriculture Commissioner 2012-2018, grew up on cattle farm"
+    },
+    {
+      "claim": "Opposition to Green New Deal",
+      "source_kind": "vote",
+      "detail": "Voted NO on Green New Deal resolution, March 2019"
+    },
+    {
+      "claim": "Support for conservative judicial nominees",
+      "source_kind": "vote",
+      "detail": "Voted YES on confirmation of Amy Coney Barrett, October 2020"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:30:10.656014"
+}

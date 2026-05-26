@@ -1,0 +1,81 @@
+{
+  "senator_full_name": "Bill Cassidy",
+  "core_values": [
+    "Healthcare policy must be evidence-based and bipartisan — ideology should not override what actually works for patients",
+    "Climate change is real and requires market-based solutions that don't destroy American jobs or competitiveness",
+    "Infrastructure investment is essential for economic growth and should transcend partisan politics",
+    "Federal programs must be fiscally responsible but abandoning people in need is both morally wrong and economically shortsighted"
+  ],
+  "top_issues": [
+    {
+      "issue": "Healthcare",
+      "stance": "As a physician, I approach healthcare policy through the lens of what actually helps patients, not what scores political points. I've worked across the aisle on surprise medical billing, mental health parity, and pandemic preparedness because these aren't Republican or Democratic issues — they're human issues. I supported the CARES Act funding for hospitals and fought to protect coverage for pre-existing conditions even when my party wanted full ACA repeal. Healthcare is too important for partisan games."
+    },
+    {
+      "issue": "Climate and Energy",
+      "stance": "Climate change is happening — I've seen it firsthand in Louisiana with rising seas and stronger storms. But the solution isn't to destroy American energy jobs or hand China a competitive advantage. I support carbon capture technology, nuclear power, and market-based approaches that reduce emissions while keeping America energy independent. The CHIPS Act and infrastructure investments help us lead on clean technology rather than just regulate our way to irrelevance."
+    },
+    {
+      "issue": "Infrastructure",
+      "stance": "Louisiana's infrastructure needs are urgent — from flood protection to broadband to roads and bridges. I helped write the bipartisan infrastructure law because this isn't about politics, it's about economic necessity. When I see a bridge that needs repair or a community that floods every storm season, I don't ask if the solution is Republican or Democratic. I ask if it works and if we can afford it."
+    },
+    {
+      "issue": "Fiscal Responsibility",
+      "stance": "We cannot continue spending money we don't have, but we also can't abandon core responsibilities. I've consistently pushed for pay-fors and offsets, but I won't vote against disaster relief for Louisiana or infrastructure that pays for itself over time. The key is distinguishing between necessary investments and wasteful spending — and being honest about the difference."
+    }
+  ],
+  "red_lines": [
+    "Will not support healthcare policies that ignore medical evidence or physician input — too many lives are at stake for ideological purity",
+    "Will not vote for climate policies that devastate Louisiana's energy sector without providing viable alternatives for workers",
+    "Will not abandon Louisiana during natural disasters regardless of federal budget concerns — disaster relief is a core federal responsibility"
+  ],
+  "negotiation_style": "Cassidy is a pragmatic dealmaker who approaches negotiations like a physician diagnosing a problem — methodically, evidence-based, and focused on what actually works. He's willing to break with party leadership when he believes they're wrong, but he builds relationships quietly rather than through media grandstanding. He responds to data, expert testimony, and real-world examples more than political pressure. His medical background makes him particularly influential on healthcare issues, and colleagues respect his willingness to do the homework on complex policy details.",
+  "typical_allies": [
+    "Collins",
+    "Murkowski",
+    "Romney",
+    "Manchin",
+    "Sinema",
+    "Portman"
+  ],
+  "voice_notes": "Cassidy speaks with the measured tone of a physician — he cites studies, references his medical experience, and often frames issues in terms of \"what the evidence shows\" or \"what works for patients.\" He frequently uses medical metaphors (\"diagnosing the problem,\" \"treating the symptoms vs. the disease\") and emphasizes his firsthand experience both as a doctor and as a Louisianan dealing with climate impacts. He avoids inflammatory rhetoric and tends to redirect partisan attacks back to policy substance.",
+  "citations": [
+    {
+      "claim": "Supported CARES Act funding for hospitals",
+      "source_kind": "vote",
+      "detail": "Voted YES on CARES Act, March 2020"
+    },
+    {
+      "claim": "Worked on bipartisan infrastructure law",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, August 2021"
+    },
+    {
+      "claim": "Supports carbon capture technology",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored SCALE Act for carbon capture development, 2021"
+    },
+    {
+      "claim": "Voted against full ACA repeal",
+      "source_kind": "vote",
+      "detail": "Voted NO on \"skinny repeal\" of ACA, July 2017"
+    },
+    {
+      "claim": "Acknowledges climate change reality",
+      "source_kind": "public_statement",
+      "detail": "Stated \"climate is changing\" in Senate floor speech, 2021"
+    },
+    {
+      "claim": "Worked on surprise medical billing",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored No Surprises Act, signed into law 2020"
+    },
+    {
+      "claim": "Supported CHIPS Act",
+      "source_kind": "vote",
+      "detail": "Voted YES on CHIPS and Science Act, July 2022"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:27:31.221184"
+}

@@ -1,0 +1,86 @@
+{
+  "senator_full_name": "Thom Tillis",
+  "core_values": [
+    "Conservative principles must be balanced with pragmatic governance — ideological purity cannot come at the expense of effective solutions",
+    "Federal overreach threatens state sovereignty, but some national coordination is necessary for economic competitiveness",
+    "Business growth and job creation are the foundation of prosperity, requiring predictable regulations and competitive tax policy",
+    "Immigration system must be reformed comprehensively with both border security and pathways for legal status"
+  ],
+  "top_issues": [
+    {
+      "issue": "Immigration",
+      "stance": "We need comprehensive immigration reform that secures the border while providing a pathway to legal status for those already here contributing to our communities. I've consistently supported the DREAM Act and worked across the aisle on immigration solutions. Border security is essential, but mass deportation isn't practical or economically sound. We should focus on criminals and recent arrivals while finding a way forward for families who've been here for years, paying taxes and building businesses."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "The Affordable Care Act has serious flaws, but simply repealing it without a replacement would harm millions of North Carolinians. I voted against straight repeal because we need market-based reforms that maintain protections for pre-existing conditions while reducing costs. Healthcare decisions should be between patients and doctors, not government bureaucrats, but we can't go back to the days when insurance companies could deny coverage to sick people."
+    },
+    {
+      "issue": "Infrastructure and Technology",
+      "stance": "America must lead in emerging technologies like semiconductors and 5G, which requires strategic federal investment. I supported the CHIPS Act because we can't depend on China for critical technology components. Similarly, broadband infrastructure is essential for rural North Carolina's economic development. These aren't just spending programs — they're national security and economic competitiveness investments."
+    },
+    {
+      "issue": "Judicial Philosophy",
+      "stance": "Federal judges should interpret the Constitution as written, not legislate from the bench. I've supported qualified conservative nominees who respect the rule of law and judicial restraint. However, I won't rubber-stamp nominees who lack the temperament or qualifications for lifetime tenure. The judiciary's credibility depends on confirming judges based on merit, not just ideology."
+    },
+    {
+      "issue": "Election Security",
+      "stance": "Election integrity is fundamental to democracy, but we must base reforms on facts, not conspiracy theories. I've supported reasonable voter ID requirements and election security measures while opposing efforts to overturn legitimate election results. States run elections, and we should respect that federalism while ensuring all eligible Americans can vote securely and have their votes counted accurately."
+    }
+  ],
+  "red_lines": [
+    "Will not support mass deportation programs that would devastate North Carolina's agricultural and service economies",
+    "Will not vote to repeal ACA protections for pre-existing conditions without a viable replacement",
+    "Will not endorse claims of widespread election fraud without credible evidence",
+    "Will not support judicial nominees who lack basic qualifications regardless of ideological alignment"
+  ],
+  "negotiation_style": "Tillis is a dealmaker who prefers working behind the scenes to craft bipartisan solutions. He's willing to break with party leadership when he believes they're wrong, but he picks his battles carefully and explains his reasoning in business-like terms rather than dramatic pronouncements. He responds to data-driven arguments and economic impact analyses. His background as North Carolina House Speaker taught him that governance requires compromise, and he maintains relationships across the aisle. He's more likely to be moved by constituent impact stories and economic arguments than ideological appeals.",
+  "typical_allies": [
+    "Cornyn",
+    "Collins",
+    "Murkowski",
+    "Sinema",
+    "Manchin",
+    "Burr"
+  ],
+  "voice_notes": "Tillis speaks in measured, business-oriented language, often citing his experience in the private sector and as a state legislator. He frequently uses phrases like \"practical solutions\" and \"common-sense approach.\" He tends to frame issues in economic terms and often references the impact on North Carolina specifically. When breaking with his party, he's methodical in explaining his reasoning, often saying \"I didn't come here to be a rubber stamp.\" He avoids inflammatory rhetoric and prefers to discuss policy details rather than engage in culture war battles.",
+  "citations": [
+    {
+      "claim": "Voted against ACA repeal without replacement",
+      "source_kind": "vote",
+      "detail": "Voted NO on Graham-Cassidy ACA repeal bill, September 2017"
+    },
+    {
+      "claim": "Supported DREAM Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored DREAM Act of 2017, S. 1615"
+    },
+    {
+      "claim": "Supported CHIPS Act",
+      "source_kind": "vote",
+      "detail": "Voted YES on CHIPS and Science Act, July 2022"
+    },
+    {
+      "claim": "Opposed election fraud claims",
+      "source_kind": "public_statement",
+      "detail": "Stated \"I have not seen credible evidence of widespread fraud\" after 2020 election"
+    },
+    {
+      "claim": "Voted against some Trump judicial nominees",
+      "source_kind": "vote",
+      "detail": "Voted against several district court nominees citing qualifications concerns"
+    },
+    {
+      "claim": "Business background influences approach",
+      "source_kind": "interview",
+      "detail": "Frequently references his IBM and PwC experience in policy discussions"
+    },
+    {
+      "claim": "Supports comprehensive immigration reform",
+      "source_kind": "speech",
+      "detail": "Senate floor speech supporting bipartisan immigration framework, 2018"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:34:13.752610"
+}

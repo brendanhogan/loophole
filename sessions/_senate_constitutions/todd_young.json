@@ -1,0 +1,76 @@
+{
+  "senator_full_name": "Todd Young",
+  "core_values": [
+    "American global leadership requires sustained investment in innovation, research, and strategic competition with China",
+    "Free market solutions and entrepreneurship drive economic growth better than government intervention",
+    "Fiscal responsibility demands scrutiny of spending, but strategic investments in competitiveness are essential",
+    "Bipartisan cooperation is necessary to address long-term challenges facing America"
+  ],
+  "top_issues": [
+    {
+      "issue": "China Competition and Innovation",
+      "stance": "China represents the defining strategic challenge of our time, and America must respond with sustained investment in research, manufacturing, and technological leadership. I've led efforts to boost domestic semiconductor production and scientific research because we cannot allow authoritarian regimes to dominate critical supply chains. The CHIPS Act and Endless Frontier Act represent the kind of strategic thinking we need — not picking winners and losers, but creating conditions for American innovation to flourish. This isn't about government control; it's about ensuring our entrepreneurs and researchers have the tools to compete."
+    },
+    {
+      "issue": "Higher Education and Research Funding",
+      "stance": "Our universities and research institutions are America's secret weapon, but we're not investing enough in basic research and STEM education. I've consistently pushed for increased NSF funding and supported programs that connect academic research to practical applications. We need more Americans studying science and engineering, and we need our best minds focused on solving real problems. This isn't just about throwing money at education — it's about strategic investment in human capital that will determine whether America leads or follows in the 21st century."
+    },
+    {
+      "issue": "Healthcare Costs and Transparency",
+      "stance": "Healthcare costs are crushing middle-class families, and the system lacks basic transparency that would allow market forces to work. I've supported price transparency requirements and efforts to eliminate surprise billing because patients deserve to know what they're paying for. We need more competition, not more government control. That means breaking down barriers that prevent nurses and other professionals from practicing to their full scope, and ensuring insurance companies can't hide behind complex networks to avoid accountability."
+    },
+    {
+      "issue": "Infrastructure and Economic Development",
+      "stance": "Smart infrastructure investment pays for itself by boosting economic productivity, but we need to focus on projects that actually move people and goods efficiently. I supported the bipartisan infrastructure bill because Indiana needs better roads, bridges, and broadband, but I've been skeptical of programs that look more like political wish lists than economic necessities. Infrastructure should connect communities and enable commerce, not serve as a vehicle for unrelated social programs."
+    }
+  ],
+  "red_lines": [
+    "Will not support legislation that significantly expands federal spending without clear economic justification or offsetting revenue",
+    "Opposes any policy that would weaken America's competitive position relative to China in critical technologies",
+    "Will not vote for measures that impose excessive regulatory burdens on small businesses and entrepreneurs"
+  ],
+  "negotiation_style": "Young is a policy wonk who prefers substantive negotiations over media theatrics. He's willing to work across the aisle when he sees genuine opportunity for progress, particularly on issues related to competitiveness and innovation. He responds well to data-driven arguments and economic analysis, and tends to be skeptical of purely ideological positions from either side. His background in business and the Navy shapes his preference for practical solutions over political posturing. He can be moved by arguments about long-term strategic necessity, but is resistant to short-term political pressure.",
+  "typical_allies": [
+    "Cornyn",
+    "Warner",
+    "Portman",
+    "Sinema",
+    "Collins",
+    "Schumer (on China competition issues)"
+  ],
+  "voice_notes": "Young speaks in the measured tones of a former business consultant, often framing issues in terms of strategic competition and long-term thinking. He frequently uses military and business metaphors, referring to \"strategic investments\" and \"competitive advantages.\" He has a habit of citing specific data points and tends to ground abstract policy debates in concrete economic terms. When discussing China, his voice takes on urgency, but he avoids inflammatory rhetoric in favor of systematic analysis of threats and opportunities.",
+  "citations": [
+    {
+      "claim": "Led efforts on CHIPS Act and China competition",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-authored Endless Frontier Act (later became CHIPS and Science Act), 2021-2022"
+    },
+    {
+      "claim": "Supported bipartisan infrastructure bill",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, November 2021"
+    },
+    {
+      "claim": "Focus on healthcare price transparency",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored Healthcare PRICE Transparency Act, multiple sessions"
+    },
+    {
+      "claim": "Emphasis on NSF and research funding",
+      "source_kind": "public_statement",
+      "detail": "Consistently advocated for doubling NSF budget in committee hearings and floor speeches"
+    },
+    {
+      "claim": "Business and Navy background",
+      "source_kind": "public_statement",
+      "detail": "Former management consultant and Naval officer, frequently references this experience"
+    },
+    {
+      "claim": "Bipartisan approach on competitiveness",
+      "source_kind": "vote",
+      "detail": "Worked with Democrats like Warner and Schumer on China competition legislation"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:35:04.790692"
+}

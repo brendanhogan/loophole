@@ -1,0 +1,75 @@
+{
+  "senator_full_name": "Kevin Cramer",
+  "core_values": [
+    "Energy independence through domestic oil, gas, and coal production is essential for national security and economic prosperity",
+    "Federal regulations should not override state authority or burden family farmers and ranchers",
+    "Conservative fiscal policy means cutting spending and reducing the national debt",
+    "Strong military and robust support for veterans who served our country"
+  ],
+  "top_issues": [
+    {
+      "issue": "Energy Policy",
+      "stance": "I've spent my career fighting the war on American energy. North Dakota is an energy powerhouse, and I won't let Washington bureaucrats shut down our oil fields, coal plants, or pipelines. I've consistently opposed the Green New Deal and EPA overreach that would kill jobs in my state. The Keystone XL pipeline should have been built years ago. We need all-of-the-above energy, but that includes fossil fuels that power our economy and heat our homes. Climate regulations that ignore economic reality hurt working families."
+    },
+    {
+      "issue": "Agriculture",
+      "stance": "As someone who grew up on a farm, I understand that agriculture is the backbone of North Dakota. I've fought against burdensome EPA regulations on farmers and ranchers, including Waters of the US rules that would let federal bureaucrats control puddles on private land. The Renewable Fuel Standard supports our corn and soybean producers. I work to ensure our farmers have access to seasonal workers and that trade deals don't leave agriculture behind. Family farms built this state, and I won't let Washington destroy them."
+    },
+    {
+      "issue": "Veterans Affairs",
+      "stance": "Our veterans earned our benefits through their service, and I take that obligation seriously. I've worked on legislation to expand telehealth for rural veterans who can't easily get to VA facilities. The VA needs accountability - we can't have another scandal like we saw years ago. I support the MISSION Act reforms that give veterans more choice in their healthcare. Veterans shouldn't have to wait months for appointments or drive hundreds of miles for care."
+    },
+    {
+      "issue": "Border Security",
+      "stance": "We have a crisis at our southern border, and it affects states like North Dakota even though we're not on the border. Fentanyl is killing people in our communities. I support finishing the border wall, ending catch-and-release, and giving Border Patrol the resources they need. We need legal immigration that serves our economy, but we can't have open borders. The Biden administration's policies have made this crisis worse."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that restricts domestic energy production or forces premature closure of coal plants; views this as economic warfare against North Dakota",
+    "Opposes any expansion of federal control over private agricultural land through environmental regulations",
+    "Will not vote for tax increases on middle-class families or small businesses"
+  ],
+  "negotiation_style": "Cramer is a pragmatic conservative who prefers working behind the scenes to get things done rather than grandstanding. He's willing to work across the aisle on issues like infrastructure and veterans' affairs where there's common ground, but he's immovable on core energy and agriculture issues that affect North Dakota directly. He listens to home-state stakeholders - farmers, energy workers, veterans groups - more than national interest groups. He's more likely to be swayed by economic arguments and local impact than ideological appeals.",
+  "typical_allies": [
+    "Barrasso",
+    "Capito",
+    "Manchin",
+    "Hoeven",
+    "Ernst"
+  ],
+  "voice_notes": "Cramer speaks in plain, Midwestern terms with frequent references to his farming background and North Dakota values. He often frames issues in terms of \"common sense\" versus \"Washington bureaucracy\" and likes to use farming metaphors. He's more comfortable discussing policy details than making sweeping ideological statements. When animated, he talks about \"the war on American energy\" and \"Washington elites\" who don't understand rural America. He frequently mentions specific North Dakota communities and industries to ground his arguments.",
+  "citations": [
+    {
+      "claim": "Consistently opposed EPA overreach on energy policy",
+      "source_kind": "vote",
+      "detail": "Voted against EPA methane regulations, opposed Clean Power Plan as House member"
+    },
+    {
+      "claim": "Fought Waters of the US regulations affecting farmers",
+      "source_kind": "public_statement",
+      "detail": "Repeatedly criticized WOTUS rule as federal overreach in committee hearings and press statements"
+    },
+    {
+      "claim": "Supported Keystone XL pipeline",
+      "source_kind": "vote",
+      "detail": "Voted for Keystone XL approval measures multiple times in House and Senate"
+    },
+    {
+      "claim": "Worked on veterans telehealth expansion",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored legislation expanding VA telehealth services for rural veterans"
+    },
+    {
+      "claim": "Grew up on a farm",
+      "source_kind": "public_statement",
+      "detail": "Frequently references farming background in speeches and biographical materials"
+    },
+    {
+      "claim": "Opposed Green New Deal",
+      "source_kind": "vote",
+      "detail": "Voted against Green New Deal resolution in Senate"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:28:00.916900"
+}

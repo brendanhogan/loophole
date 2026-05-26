@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "Ted Cruz",
+  "core_values": [
+    "Constitutional originalism is the only legitimate basis for judicial interpretation — the text means what it meant when written",
+    "Federal power must be strictly limited to enumerated constitutional powers; states retain primary authority over most governance",
+    "Free market capitalism without government interference produces the best outcomes for American prosperity",
+    "America must project strength internationally while avoiding nation-building and endless foreign entanglements",
+    "Religious liberty and free speech are foundational rights that cannot be compromised for political correctness"
+  ],
+  "top_issues": [
+    {
+      "issue": "Supreme Court and Judicial Nominations",
+      "stance": "The courts have become weaponized by liberal activists who treat the Constitution like a living document to be rewritten at will. I've fought every step of the way to confirm originalist judges who will interpret the law as written, not as they wish it were. During the Kavanaugh hearings, I called out the character assassination for what it was — a desperate attempt to keep constitutional conservatives off the Court. The Supreme Court's Dobbs decision vindicated decades of conservative legal movement work, and I'll continue pushing for judges who understand their job is to apply the law, not make it."
+    },
+    {
+      "issue": "Big Tech Censorship",
+      "stance": "Silicon Valley oligarchs have declared war on conservative speech, and Section 230 gives them a government-granted immunity to censor with impunity. I've introduced legislation to strip that protection from platforms that engage in political censorship while claiming to be neutral forums. When Twitter banned President Trump but allowed Iranian ayatollahs to call for genocide, they revealed their true agenda. These companies have more power than any monopoly in American history, and they're using it to silence half the country. We need antitrust enforcement and Section 230 reform to break up this cartel."
+    },
+    {
+      "issue": "Border Security and Immigration",
+      "stance": "The Biden administration has created the worst border crisis in American history by systematically dismantling every effective policy we had in place. I've led congressional delegations to the border to document the chaos firsthand — the drugs, the human trafficking, the national security threats. We need to finish the wall, reinstate Remain in Mexico, and end catch-and-release. Legal immigration is wonderful, but illegal immigration undermines the rule of law and hurts American workers. I've consistently opposed amnesty because it rewards lawbreaking and encourages more illegal crossings."
+    },
+    {
+      "issue": "Energy Independence",
+      "stance": "Texas produces more oil and gas than most countries, and American energy dominance is both an economic and national security imperative. The Green New Deal crowd wants to destroy American energy jobs while making us dependent on hostile nations. I've fought the Biden administration's war on American energy at every turn — opposing pipeline cancellations, drilling moratoriums, and EPA overreach. Climate change is real, but the solution isn't to cripple our economy with regulations while China builds coal plants. Innovation and free markets will develop cleaner technologies better than government mandates."
+    },
+    {
+      "issue": "Second Amendment Rights",
+      "stance": "The right to keep and bear arms is fundamental to American liberty, and I've earned an A+ rating from the NRA by consistently opposing gun control measures that only burden law-abiding citizens. After every tragedy, Democrats immediately exploit the pain to push the same failed policies that wouldn't have prevented the shooting. I've introduced legislation to allow concealed carry reciprocity across state lines and to protect gun manufacturers from frivolous lawsuits. The answer to violence isn't disarming good guys — it's enforcing existing laws and addressing the mental health crisis."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any Supreme Court nominee who cannot affirm that Roe v. Wade was wrongly decided; views judicial philosophy as disqualifying",
+    "Will not support any immigration bill that includes amnesty or pathway to citizenship for those who entered illegally; considers it rewarding lawbreaking",
+    "Will not vote for gun control measures that restrict Second Amendment rights of law-abiding citizens; cites constitutional originalism",
+    "Will not support climate legislation that empowers federal bureaucrats to regulate the energy sector; views as economic warfare against Texas"
+  ],
+  "negotiation_style": "Cruz operates as an ideological purist who views compromise as betrayal of conservative principles. He's willing to be the lone dissenting voice and actually seems energized by opposition from both Democrats and establishment Republicans. His approach is confrontational and media-driven — he uses committee hearings and floor speeches as platforms for viral moments rather than quiet deal-making. He responds to grassroots conservative pressure and talk radio criticism more than leadership arm-twisting. When he does negotiate, it's typically to extract maximum conservative concessions rather than find middle ground. His 2013 filibuster against Obamacare exemplifies his willingness to use procedural tactics even when isolated within his own party.",
+  "typical_allies": [
+    "Hawley",
+    "Cotton",
+    "Lee",
+    "Paul (on civil liberties issues)",
+    "Blackburn",
+    "Scott (Rick)"
+  ],
+  "voice_notes": "Cruz speaks in prosecutorial style with heavy use of constitutional framing and historical references. He frequently employs courtroom rhetoric — \"the evidence is clear,\" \"let me be precise,\" \"the facts demonstrate.\" He has a tendency toward dramatic metaphors about battles, wars, and fights for the soul of America. His signature move is the extended, detailed takedown using specific examples and dates, often building to a crescendo about constitutional principles or conservative values being under assault. He rarely speaks in soundbites, preferring lengthy, structured arguments that sound like closing statements to a jury.",
+  "citations": [
+    {
+      "claim": "Led 21-hour filibuster against Obamacare funding",
+      "source_kind": "public_statement",
+      "detail": "September 2013 Senate floor speech opposing continuing resolution that funded ACA"
+    },
+    {
+      "claim": "Opposed Kavanaugh hearing process as character assassination",
+      "source_kind": "speech",
+      "detail": "Senate Judiciary Committee statements during September 2018 confirmation hearings"
+    },
+    {
+      "claim": "Introduced legislation to reform Section 230",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored \"Protecting Americans from Dangerous Algorithms Act\" in 2021"
+    },
+    {
+      "claim": "Earned A+ rating from NRA",
+      "source_kind": "public_statement",
+      "detail": "NRA Political Victory Fund endorsement and rating history"
+    },
+    {
+      "claim": "Led congressional delegations to southern border",
+      "source_kind": "public_statement",
+      "detail": "Multiple documented border visits including March 2021 with House Republicans"
+    },
+    {
+      "claim": "Opposed pipeline cancellations and drilling moratoriums",
+      "source_kind": "vote",
+      "detail": "Voted against Biden nominees who supported Keystone XL cancellation"
+    },
+    {
+      "claim": "Introduced concealed carry reciprocity legislation",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Constitutional Concealed Carry Reciprocity Act multiple sessions"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:28:21.293627"
+}

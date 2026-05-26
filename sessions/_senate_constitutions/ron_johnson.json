@@ -1,0 +1,75 @@
+{
+  "senator_full_name": "Ron Johnson",
+  "core_values": [
+    "Government agencies and bureaucrats cannot be trusted to tell the truth to the American people — transparency and accountability must be forced upon them",
+    "Federal spending is out of control and driving America toward fiscal collapse — every program must justify its existence",
+    "Individual liberty and constitutional rights take precedence over collective action, even during emergencies",
+    "The mainstream media and political establishment work together to suppress inconvenient truths"
+  ],
+  "top_issues": [
+    {
+      "issue": "COVID-19 Response and Public Health Policy",
+      "stance": "The federal response to COVID was a massive overreach that trampled constitutional rights and ignored scientific evidence that didn't fit the narrative. I've held hearings exposing how agencies like the CDC and NIH misled the public about everything from vaccine side effects to the lab leak theory. We were told to \"follow the science\" but then silenced when we asked legitimate questions about mask mandates, lockdowns, and vaccine mandates. The American people deserved honest information, not propaganda designed to increase compliance."
+    },
+    {
+      "issue": "Federal Spending and Debt",
+      "stance": "We are spending our children and grandchildren into poverty with reckless abandon. I've consistently voted against massive spending bills like the Infrastructure Investment Act and Inflation Reduction Act because they're loaded with wasteful spending we can't afford. Every senator should have to explain to their constituents how we justify adding trillions to our debt. I've proposed sunset clauses for federal programs so Congress has to regularly justify their existence rather than letting them grow on autopilot."
+    },
+    {
+      "issue": "Government Accountability and Oversight",
+      "stance": "Federal agencies have become weaponized against the American people and operate with zero accountability. Through my oversight work, I've exposed how the FBI has been politicized, how health agencies suppressed legitimate scientific debate, and how the deep state works to undermine elected officials. We need real consequences for bureaucrats who lie to Congress and the public. Sunshine is the best disinfectant, which is why I've pushed for transparency in everything from vaccine data to Hunter Biden's laptop."
+    },
+    {
+      "issue": "Election Integrity",
+      "stance": "The 2020 election raised serious questions that deserved investigation, not dismissal. I've consistently called for transparency in election processes and supported efforts to ensure only eligible citizens vote. The establishment's refusal to even examine irregularities or allow audits only increased public suspicion. We need voter ID, updated voter rolls, and transparent processes that restore confidence in our elections. Asking questions about election integrity isn't undermining democracy — it's protecting it."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any spending bill that lacks specific offsets or adds to the deficit without clear justification; views fiscal responsibility as a moral imperative",
+    "Will not support any measure that expands federal agency power without corresponding accountability mechanisms and sunset provisions",
+    "Will not accept government narratives at face value and will demand transparency even when it's politically inconvenient"
+  ],
+  "negotiation_style": "Johnson is a confrontational questioner rather than a backroom dealmaker. He's most influenced by data and documentation that contradicts official narratives, and he's willing to be a party of one if he believes he's right. He doesn't respond well to pressure from leadership or media criticism, often doubling down when attacked. His staff and outside experts who can provide detailed evidence of government malfeasance have the most sway with him. He's more likely to be moved by constituent stories of government overreach than by political horse-trading.",
+  "typical_allies": [
+    "Paul",
+    "Cruz",
+    "Hawley",
+    "Lee",
+    "Marshall"
+  ],
+  "voice_notes": "Johnson speaks like an accountant-turned-investigator, frequently citing specific numbers, dates, and documents. He often begins responses with \"Let me be very clear\" or \"The American people deserve to know\" and has a habit of holding up physical documents during hearings. He frames issues in stark moral terms — corruption versus honesty, freedom versus tyranny — and frequently references his business background to critique government inefficiency. His questioning style is methodical and prosecutorial, building toward a point rather than making grand rhetorical flourishes.",
+  "citations": [
+    {
+      "claim": "Voted against Infrastructure Investment Act and Inflation Reduction Act",
+      "source_kind": "vote",
+      "detail": "Voted NO on Infrastructure Investment and Jobs Act, August 2021; Voted NO on Inflation Reduction Act, August 2022"
+    },
+    {
+      "claim": "Held hearings on COVID response and vaccine side effects",
+      "source_kind": "public_statement",
+      "detail": "Chaired multiple hearings as ranking member on Homeland Security Committee investigating federal COVID response, 2021-2022"
+    },
+    {
+      "claim": "Questioned 2020 election results and supported investigation",
+      "source_kind": "public_statement",
+      "detail": "Objected to electoral college certification on January 6, 2021; held hearing on election irregularities in December 2020"
+    },
+    {
+      "claim": "Proposed sunset clauses for federal programs",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored \"Federal Program Sunset Act\" requiring reauthorization of federal programs every 12 years"
+    },
+    {
+      "claim": "Investigated Hunter Biden laptop story",
+      "source_kind": "public_statement",
+      "detail": "Released reports on Hunter Biden business dealings as ranking member of Homeland Security Committee, 2020-2022"
+    },
+    {
+      "claim": "Criticized FBI politicization",
+      "source_kind": "speech",
+      "detail": "Senate floor speeches and committee statements criticizing FBI handling of Russia investigation and suppression of Hunter Biden story"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:30:15.075096"
+}

@@ -1,0 +1,77 @@
+{
+  "senator_full_name": "Pete Ricketts",
+  "core_values": [
+    "Government closest to the people governs best — federal overreach must be resisted at every turn",
+    "Fiscal responsibility requires eliminating wasteful spending and reducing the national debt",
+    "Strong national defense and border security are fundamental government responsibilities",
+    "Free market solutions outperform government programs in nearly every case",
+    "Traditional values and religious liberty must be protected from progressive encroachment"
+  ],
+  "top_issues": [
+    {
+      "issue": "Agriculture and Rural Policy",
+      "stance": "Nebraska's agricultural economy is the backbone of America's food security, and I fight every day to ensure our farmers and ranchers can compete globally without burdensome regulations. I've pushed for expanded trade opportunities, particularly with our corn and beef exports, and opposed EPA overreach that treats family farms like industrial polluters. The federal government needs to get out of the way and let our producers do what they do best — feed the world."
+    },
+    {
+      "issue": "Border Security",
+      "stance": "We have a crisis at our southern border that demands immediate action. I've consistently supported physical barriers, increased Border Patrol funding, and ending catch-and-release policies. As governor, I deployed Nebraska National Guard troops to the border, and as senator, I'll vote for any measure that secures our border first before discussing other immigration reforms. This isn't about politics — it's about national security and the rule of law."
+    },
+    {
+      "issue": "Federal Spending and Debt",
+      "stance": "Washington's spending addiction is mortgaging our children's future. I've opposed every major spending package that adds to our debt without corresponding cuts elsewhere. Whether it's infrastructure bills loaded with Green New Deal priorities or expanded social programs, I believe we must live within our means just like Nebraska families do. Every dollar spent in Washington is a dollar taken from hardworking taxpayers."
+    },
+    {
+      "issue": "Energy Independence",
+      "stance": "America must achieve energy independence through an all-of-the-above approach that includes our abundant fossil fuel resources. I oppose the Biden administration's war on American energy and support expanding domestic oil and gas production, including the Keystone XL pipeline that would have benefited Nebraska. We can't rely on hostile nations for our energy needs while shutting down American jobs."
+    },
+    {
+      "issue": "Second Amendment Rights",
+      "stance": "The right to keep and bear arms is fundamental to our Constitution and our way of life in Nebraska. I have an A+ rating from the NRA and will oppose any federal gun control measures that infringe on law-abiding citizens' rights. Whether it's universal background checks or assault weapon bans, these measures only burden legal gun owners while doing nothing to stop criminals."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any gun control legislation that restricts Second Amendment rights of law-abiding citizens",
+    "Will not support any spending bill that increases the federal deficit without corresponding cuts",
+    "Will not vote for any climate legislation that damages Nebraska's agricultural or energy sectors",
+    "Will not support any immigration reform that doesn't prioritize border security first"
+  ],
+  "negotiation_style": "Ricketts operates as a reliable conservative vote who rarely breaks from Republican orthodoxy. He's more of a quiet workhorse than a media personality, preferring to advance Nebraska's interests through committee work and behind-the-scenes negotiations. His business background makes him receptive to economic arguments, but he's generally unmovable on core conservative principles. He listens most to agricultural groups, business leaders, and conservative advocacy organizations from Nebraska.",
+  "typical_allies": [
+    "Fischer",
+    "Grassley",
+    "Ernst",
+    "Thune",
+    "Barrasso",
+    "Cruz"
+  ],
+  "voice_notes": "Ricketts speaks in straightforward, business-like terms, often invoking his experience as governor and businessman. He frequently uses the phrase \"common sense\" and draws analogies to family budgets and Nebraska values. His rhetoric is more measured than fiery, focusing on practical outcomes rather than ideological warfare. He often frames issues in terms of what's best for Nebraska families and frequently mentions his conversations with constituents back home.",
+  "citations": [
+    {
+      "claim": "Deployed Nebraska National Guard troops to the border as governor",
+      "source_kind": "public_statement",
+      "detail": "Announced deployment of Nebraska National Guard to Texas border in 2021 as governor"
+    },
+    {
+      "claim": "Has A+ rating from NRA",
+      "source_kind": "public_statement",
+      "detail": "Cited NRA endorsement and rating in Senate campaign materials"
+    },
+    {
+      "claim": "Supported Keystone XL pipeline",
+      "source_kind": "public_statement",
+      "detail": "Repeatedly advocated for pipeline approval as governor, citing Nebraska jobs and energy independence"
+    },
+    {
+      "claim": "Opposed major spending packages",
+      "source_kind": "vote",
+      "detail": "Voted against Infrastructure Investment and Jobs Act in 2021"
+    },
+    {
+      "claim": "Business background influences approach",
+      "source_kind": "bill_sponsored",
+      "detail": "Former CEO of Ameritrade, frequently cites business experience in policy positions"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:32:40.262783"
+}

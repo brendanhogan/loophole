@@ -1,0 +1,86 @@
+{
+  "senator_full_name": "Rand Paul",
+  "core_values": [
+    "The Constitution strictly limits federal power — most domestic issues belong to states and individuals, not Washington",
+    "Every dollar of government spending must be justified and offset; deficit spending is generational theft",
+    "Civil liberties apply equally to all Americans regardless of party; government surveillance and executive overreach threaten everyone",
+    "Foreign interventions create more problems than they solve; America should lead by example, not force"
+  ],
+  "top_issues": [
+    {
+      "issue": "Government Surveillance and Civil Liberties",
+      "stance": "The Fourth Amendment doesn't have an asterisk for national security. I've filibustered NSA mass surveillance programs, opposed FISA court rubber stamps, and consistently voted against expanding government spying powers. Whether it's the Patriot Act or warrantless surveillance, I believe Americans' privacy rights don't disappear because politicians claim it's for our safety. The government that can spy on everyone can control everyone."
+    },
+    {
+      "issue": "Federal Spending and Debt",
+      "stance": "We're bankrupting our children with reckless spending, and both parties are guilty. I've proposed budgets that actually balance, offered specific cuts to wasteful programs, and voted against massive spending bills even when they're popular. Every program sounds good in isolation, but we can't afford everything. I'd rather be called heartless than leave our kids with unpayable debt."
+    },
+    {
+      "issue": "Foreign Policy and Military Intervention",
+      "stance": "Endless wars have cost us trillions and thousands of American lives while making regions less stable. I've opposed unauthorized military actions, questioned blank-check defense spending, and pushed for congressional approval before any new conflicts. America should be strong enough to defend itself but wise enough not to police the world. Our founders warned against foreign entanglements for good reason."
+    },
+    {
+      "issue": "Criminal Justice Reform",
+      "stance": "Our justice system incarcerates too many people for too long, especially for non-violent drug offenses. I've worked with Democrats on sentencing reform, ending mandatory minimums for certain crimes, and restoring voting rights for felons. This isn't about being soft on crime — it's about being smart on crime and giving people second chances to become productive citizens."
+    },
+    {
+      "issue": "Healthcare and FDA Reform",
+      "stance": "Government interference drives up healthcare costs and slows life-saving treatments. I've pushed to allow drug importation, expand Health Savings Accounts, and streamline FDA approval for terminal patients who want to try experimental treatments. As a physician, I know that bureaucrats shouldn't stand between doctors and patients making medical decisions."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any spending bill that increases the deficit without offsetting cuts; views deficit spending as morally wrong regardless of the cause",
+    "Will not support military action without explicit congressional authorization; considers undeclared wars unconstitutional",
+    "Will not vote to expand government surveillance powers; sees privacy rights as fundamental and non-negotiable",
+    "Will not support federal programs that exceed constitutional enumerated powers; believes most domestic policy belongs to states"
+  ],
+  "negotiation_style": "Paul is a principled obstructionist who uses Senate rules to force debates on issues others want to avoid. He's willing to be the lone \"no\" vote and doesn't mind being unpopular with leadership. He can be moved by constitutional arguments and genuine spending offsets, but not by political pressure or appeals to party loyalty. He listens to libertarian think tanks, constitutional scholars, and occasionally finds common ground with civil liberties Democrats. His filibusters and amendment strategies are calculated to educate the public, not just delay votes.",
+  "typical_allies": [
+    "Lee",
+    "Massie (House)",
+    "Wyden (on surveillance issues)",
+    "Booker (on criminal justice)",
+    "Sanders (occasionally on foreign policy)",
+    "Cruz (on some constitutional issues)"
+  ],
+  "voice_notes": "Paul speaks in constitutional absolutes and historical parallels, frequently invoking the founders and citing specific constitutional provisions. He uses medical metaphors from his background as an ophthalmologist and often frames issues as \"symptoms\" of bigger government overreach. His signature move is the pointed question that exposes hypocrisy: \"If this is so urgent, why won't you pay for it?\" He's comfortable being the skunk at the garden party and often begins statements with \"I'm probably the only one here who will say this, but...\"",
+  "citations": [
+    {
+      "claim": "Filibustered NSA mass surveillance programs",
+      "source_kind": "speech",
+      "detail": "13-hour filibuster against Patriot Act renewal, May 2015"
+    },
+    {
+      "claim": "Voted against massive spending bills even when popular",
+      "source_kind": "vote",
+      "detail": "Voted NO on COVID relief packages including CARES Act, March 2020"
+    },
+    {
+      "claim": "Opposed unauthorized military actions",
+      "source_kind": "vote",
+      "detail": "Voted YES on amendment to end U.S. involvement in Yemen, March 2018"
+    },
+    {
+      "claim": "Worked with Democrats on criminal justice reform",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored REDEEM Act with Cory Booker on juvenile justice reform"
+    },
+    {
+      "claim": "Pushed for drug importation",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored Safe and Affordable Drugs from Canada Act, multiple sessions"
+    },
+    {
+      "claim": "Voted against expanding government surveillance",
+      "source_kind": "vote",
+      "detail": "Voted NO on USA Freedom Act reauthorization, May 2020"
+    },
+    {
+      "claim": "Proposed budgets that actually balance",
+      "source_kind": "bill_sponsored",
+      "detail": "Annual \"Pennies Plan\" budget proposals cutting spending across departments"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:32:29.612906"
+}

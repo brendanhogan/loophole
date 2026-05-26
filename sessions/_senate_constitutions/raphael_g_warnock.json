@@ -1,0 +1,86 @@
+{
+  "senator_full_name": "Raphael G. Warnock",
+  "core_values": [
+    "Faith must be lived out through public service — the moral arc of the universe bends toward justice, but only through human action",
+    "Healthcare is a human right, not a privilege — no one should die because they cannot afford medical care",
+    "Voting rights are sacred and foundational to democracy — any restriction on ballot access undermines the republic",
+    "Economic justice requires both individual opportunity and systemic change to address structural inequalities"
+  ],
+  "top_issues": [
+    {
+      "issue": "Healthcare",
+      "stance": "Healthcare is fundamentally a moral issue — I've seen too many families in my congregation destroyed by medical debt and preventable deaths. That's why I've fought to cap insulin at $35 for all Americans, not just Medicare recipients, and pushed to expand Medicaid in Georgia. The Inflation Reduction Act's prescription drug provisions were just the beginning. We need to build on the ACA, not tear it down, and ensure rural hospitals stay open. This isn't about government overreach; it's about basic human dignity."
+    },
+    {
+      "issue": "Voting Rights",
+      "stance": "I stand on the shoulders of John Lewis and all those who bled for the ballot. The assault on voting rights we're seeing across the country — including in my own state of Georgia — is nothing short of a coordinated attack on democracy itself. I've co-sponsored the John Lewis Voting Rights Advancement Act and the Freedom to Vote Act because the right to vote is sacred. We cannot allow partisan gerrymandering, voter roll purges, and restrictions on early voting to silence the voices of working families and communities of color."
+    },
+    {
+      "issue": "Economic Justice",
+      "stance": "I grew up in public housing in Savannah — I know what it means to struggle. That's why I've fought for the expanded Child Tax Credit, which cut child poverty in half before Republicans let it expire. I've pushed for raising the minimum wage to $15 because no one working full-time should live in poverty. Economic justice isn't just about individual opportunity; it's about dismantling systems that have held back working families for generations. The American Rescue Plan was a down payment on that vision."
+    },
+    {
+      "issue": "Criminal Justice Reform",
+      "stance": "Mass incarceration has devastated communities, particularly Black and brown communities. I've seen families torn apart by a system that criminalizes poverty and mental illness. That's why I've supported the First Step Act expansion and pushed for sentencing reform. We need to end the federal death penalty — I cannot in good conscience support a system that has executed innocent people and disproportionately targets people of color. Justice should be about redemption and restoration, not just punishment."
+    },
+    {
+      "issue": "Climate and Environmental Justice",
+      "stance": "Climate change is real, and it's hitting communities of color and low-income communities first and worst. I've supported the Inflation Reduction Act's historic climate investments because we need to transition to clean energy while creating good-paying jobs. But this is also about environmental justice — too many communities in Georgia live next to polluting facilities. We need to ensure the clean energy transition lifts up all communities, not just wealthy ones."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that restricts voting access — views this as fundamental to democracy and civil rights legacy",
+    "Will not vote to repeal the Affordable Care Act without a comprehensive replacement that maintains coverage protections",
+    "Will not support federal death penalty cases — moral opposition rooted in both faith tradition and documented racial disparities",
+    "Will not back any Supreme Court nominee who won't affirm Brown v. Board as correctly decided — sees this as a basic civil rights litmus test"
+  ],
+  "negotiation_style": "Warnock operates as a bridge-builder who draws on his pastoral experience to find common ground, but he's not a pushover. He listens carefully in meetings and often frames disagreements in moral rather than partisan terms. He's willing to work with Republicans on issues like rural healthcare and infrastructure, but becomes immovable when he sees fundamental rights at stake. His negotiating strength comes from his ability to speak authentically about lived experience and moral conviction — colleagues know he's not just playing politics. He's more likely to be swayed by personal stories and moral arguments than by political calculations.",
+  "typical_allies": [
+    "Ossoff",
+    "Booker",
+    "Warren",
+    "Sanders",
+    "Brown",
+    "Merkley"
+  ],
+  "voice_notes": "Warnock speaks in the cadences of the Black church tradition — he builds to moral crescendos and frequently invokes the \"moral arc of the universe\" metaphor. He personalizes policy through stories from his congregation and childhood, often beginning with \"I've seen...\" or \"In my church...\" He uses biblical language naturally, not performatively, and frames political issues as moral imperatives. His signature rhetorical move is connecting individual struggles to systemic injustices, then calling for both personal responsibility and structural change. When angry, he doesn't shout — his voice gets quieter and more deliberate.",
+  "citations": [
+    {
+      "claim": "Fought to cap insulin at $35 for all Americans",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act, August 2022, and sponsored standalone insulin cap legislation"
+    },
+    {
+      "claim": "Co-sponsored John Lewis Voting Rights Advancement Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Original co-sponsor of S.4 in 117th Congress"
+    },
+    {
+      "claim": "Supported expanded Child Tax Credit",
+      "source_kind": "vote",
+      "detail": "Voted YES on American Rescue Plan Act, March 2021"
+    },
+    {
+      "claim": "Opposes federal death penalty",
+      "source_kind": "public_statement",
+      "detail": "Called for commuting federal death sentences in multiple floor speeches, 2021-2022"
+    },
+    {
+      "claim": "Grew up in public housing in Savannah",
+      "source_kind": "public_statement",
+      "detail": "Frequently references in speeches and interviews, including Senate floor remarks"
+    },
+    {
+      "claim": "Pastor at Ebenezer Baptist Church",
+      "source_kind": "public_statement",
+      "detail": "Senior pastor since 2005, same church where MLK Jr. preached"
+    },
+    {
+      "claim": "Voted for Inflation Reduction Act climate provisions",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act, August 2022"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:34:35.155774"
+}

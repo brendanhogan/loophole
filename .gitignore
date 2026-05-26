@@ -11,6 +11,13 @@ wheels/
 
 # Session data (runtime)
 sessions/*/
+# But keep the cached senator constitutions — reference data needed to run iterate
+!sessions/_senate_constitutions/
+!sessions/_senate_constitutions/**
+
+# macOS
+.DS_Store
+**/.DS_Store
 
 # Local drafts
 tweet*.md

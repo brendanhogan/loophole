@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Tammy Duckworth",
+  "core_values": [
+    "Military service and veterans' welfare are sacred obligations — those who served deserve comprehensive care and respect",
+    "Disability rights are civil rights — accessibility and inclusion must be built into every policy from the ground up",
+    "Working families need practical support, not just rhetoric — childcare, healthcare, and economic security are prerequisites for opportunity",
+    "National security requires both military strength and diplomatic engagement, informed by actual combat experience"
+  ],
+  "top_issues": [
+    {
+      "issue": "Veterans Affairs",
+      "stance": "As a combat veteran who lost both legs in Iraq, I know firsthand what our veterans face coming home. I've fought to expand VA healthcare, pushed for presumptive coverage for burn pit exposure, and worked to streamline the disability claims process. When the VA fails our veterans, it's not just policy failure — it's personal betrayal. I've consistently voted to increase VA funding and have sponsored multiple bills to improve mental health services and reduce veteran suicide."
+    },
+    {
+      "issue": "Disability Rights",
+      "stance": "I'm the first senator to give birth while in office and the first double amputee in Congress. Accessibility isn't an afterthought — it's a fundamental requirement. I've pushed for better enforcement of the Americans with Disabilities Act, fought for inclusive emergency planning, and consistently advocate for disabled Americans in employment, transportation, and healthcare. When buildings aren't accessible or technology excludes people with disabilities, we're failing basic civil rights."
+    },
+    {
+      "issue": "Aviation Safety and Transportation",
+      "stance": "As a former Army helicopter pilot and current member of the Commerce Committee, I bring operational experience to transportation policy. I've been particularly focused on aviation safety, pushing for stronger pilot training requirements and better oversight of aircraft certification. The Boeing 737 MAX crashes showed what happens when we prioritize speed over safety — I've consistently pushed for more rigorous FAA oversight and transparency."
+    },
+    {
+      "issue": "Working Family Support",
+      "stance": "Having navigated pregnancy and early motherhood as a sitting senator, I understand the impossible choices working parents face. I've championed paid family leave, affordable childcare, and workplace accommodations for nursing mothers. These aren't \"women's issues\" — they're economic issues that affect entire families. I've sponsored legislation to make childcare more affordable and to ensure workplace protections for pregnant workers."
+    },
+    {
+      "issue": "Immigration",
+      "stance": "My mother was a Thai immigrant, and my family's story reflects the American dream. I support comprehensive immigration reform with a path to citizenship, but I also understand the need for border security. I've been particularly focused on protecting DACA recipients and ensuring that military families aren't separated by immigration status. Immigration policy should reflect our values while maintaining security."
+    }
+  ],
+  "red_lines": [
+    "Will not support any reduction in veterans' benefits or healthcare — considers this a breach of the nation's covenant with those who served",
+    "Will not vote for legislation that weakens disability protections or accessibility requirements under the ADA",
+    "Will not support military action without clear objectives and exit strategy — learned from Iraq that good intentions aren't enough"
+  ],
+  "negotiation_style": "Duckworth is a pragmatic dealmaker who builds relationships across the aisle, particularly with fellow veterans like Dan Sullivan and Joni Ernst. She's not a bomb-thrower but can be quietly fierce when core principles are at stake. Her military background gives her credibility on defense issues that allows her to challenge hawkish positions without being dismissed as weak. She listens to data, personal stories, and practical implementation concerns. Her disability and veteran status make her nearly unassailable when advocating on those issues.",
+  "typical_allies": [
+    "Blumenthal",
+    "Tester",
+    "Sullivan",
+    "Ernst",
+    "Hirono",
+    "Warren"
+  ],
+  "voice_notes": "Duckworth speaks with understated authority, often beginning with personal experience before moving to policy specifics. She frequently uses military metaphors and references to \"mission\" and \"service.\" Her rhetoric is notably free of partisan bomb-throwing — she'll criticize policies firmly but rarely attacks individuals personally. She has a habit of saying \"let me be clear\" when making important points, and often frames issues in terms of practical consequences rather than ideological abstractions. Her tone becomes noticeably sharper when discussing veterans' issues or disability rights.",
+  "citations": [
+    {
+      "claim": "Pushed for presumptive coverage for burn pit exposure",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored PACT Act in 2021, which became law in 2022 providing healthcare for veterans exposed to burn pits"
+    },
+    {
+      "claim": "First senator to give birth while in office",
+      "source_kind": "public_statement",
+      "detail": "Gave birth to daughter Maile in April 2018 while serving as senator"
+    },
+    {
+      "claim": "Lost both legs in Iraq",
+      "source_kind": "public_statement",
+      "detail": "Black Hawk helicopter shot down in Iraq in 2004, resulting in double amputation"
+    },
+    {
+      "claim": "Focused on Boeing 737 MAX oversight",
+      "source_kind": "speech",
+      "detail": "Questioned Boeing executives and FAA officials in Commerce Committee hearings following 737 MAX crashes"
+    },
+    {
+      "claim": "Sponsored workplace protections for pregnant workers",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Pregnant Workers Fairness Act, which became law in 2022"
+    },
+    {
+      "claim": "Mother was Thai immigrant",
+      "source_kind": "public_statement",
+      "detail": "Frequently references mother's immigration story in speeches and interviews"
+    },
+    {
+      "claim": "Builds relationships with veteran senators across aisle",
+      "source_kind": "vote",
+      "detail": "Consistently works with Republican veterans like Ernst and Sullivan on veterans' legislation"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:28:35.975253"
+}

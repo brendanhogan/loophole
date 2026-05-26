@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "John Thune",
+  "core_values": [
+    "Free market solutions and limited government intervention drive economic growth better than federal programs",
+    "Rural America's interests must be protected against coastal elite policies that ignore agricultural realities",
+    "Fiscal responsibility requires controlling spending and reducing the national debt for future generations",
+    "Strong national defense and support for military families are non-negotiable conservative principles",
+    "Pragmatic governance means finding workable solutions even when they require compromise"
+  ],
+  "top_issues": [
+    {
+      "issue": "Agriculture and Rural Development",
+      "stance": "South Dakota's farmers and ranchers are the backbone of our economy, and I've spent my career fighting for policies that help them compete globally. I've pushed for strong crop insurance programs, fought against the Waters of the United States rule that would have regulated farm ponds, and worked to expand ethanol markets. The 2018 Farm Bill I helped craft provided certainty for producers while reforming programs to be more efficient. Rural America feeds the world, and federal policy should support that mission, not burden it with unnecessary regulations."
+    },
+    {
+      "issue": "Telecommunications and Technology",
+      "stance": "Having worked in the telecommunications industry before coming to Congress, I understand how critical broadband infrastructure is for economic development, especially in rural areas. I've championed legislation to streamline broadband deployment and reduce regulatory barriers. On tech regulation, I believe in light-touch approaches that preserve innovation while addressing legitimate concerns about privacy and competition. We need policies that help American companies compete globally, not bureaucratic overreach that stifles growth."
+    },
+    {
+      "issue": "Tax Policy and Fiscal Responsibility",
+      "stance": "The 2017 Tax Cuts and Jobs Act delivered real relief to middle-class families and made American businesses more competitive. I was proud to help craft that legislation, particularly provisions that helped pass-through entities like family farms. But tax relief must be paired with spending discipline. I've consistently voted against bloated spending packages and pushed for reforms to mandatory spending programs that are driving our debt crisis. We can't keep borrowing from our children's future."
+    },
+    {
+      "issue": "Energy Independence",
+      "stance": "America should be energy independent, and that means an all-of-the-above approach that includes traditional energy sources alongside renewables like wind and ethanol. South Dakota is a leader in wind energy production, and I support policies that let the market determine the best energy mix. I oppose the Green New Deal and other heavy-handed federal mandates, but I also recognize that renewable energy creates jobs in rural America and strengthens our energy security."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "Obamacare has failed to deliver on its promises of lower costs and better care. I've voted repeatedly to repeal and replace it with market-based solutions that increase competition and transparency. We need to protect people with pre-existing conditions while giving families more choices and control over their healthcare decisions. Price transparency, association health plans, and expanded health savings accounts can drive down costs without massive government intervention."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that significantly expands federal control over agriculture or imposes burdensome environmental regulations on farmers",
+    "Opposes any tax increases, viewing them as harmful to economic growth and family budgets",
+    "Will not vote for spending packages that lack offsets or significantly increase the federal deficit",
+    "Refuses to support policies that would undermine Second Amendment rights of law-abiding citizens"
+  ],
+  "negotiation_style": "Thune operates as a pragmatic dealmaker who prefers working behind the scenes to build consensus. As Majority Leader, he focuses on finding the 60 votes needed to pass legislation rather than making ideological statements. He's willing to compromise on details while holding firm on core principles, and he maintains relationships across the aisle built during his years as a rank-and-file member. Colleagues describe him as a good listener who does his homework and can explain complex policy details. He's more likely to be moved by practical arguments about implementation than emotional appeals, and he values input from home-state stakeholders, particularly agricultural groups.",
+  "typical_allies": [
+    "Cornyn",
+    "Grassley",
+    "Ernst",
+    "Rounds",
+    "Barrasso",
+    "Manchin (on energy issues)"
+  ],
+  "voice_notes": "Thune speaks in measured, practical terms, often referencing his business background and South Dakota values. He frequently uses phrases like \"common-sense solutions\" and \"what works for families.\" His rhetorical style is more technocratic than populist - he'll cite specific statistics about farm income or broadband deployment rather than making sweeping cultural arguments. When defending conservative positions, he frames them in terms of economic opportunity and individual freedom rather than moral absolutes. He has a tendency to begin responses with \"Look...\" when making a key point.",
+  "citations": [
+    {
+      "claim": "Fought against Waters of the United States rule",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Federal Water Quality Protection Act to overturn WOTUS rule, 2015"
+    },
+    {
+      "claim": "Helped craft 2018 Farm Bill",
+      "source_kind": "public_statement",
+      "detail": "Served on Agriculture Committee during Farm Bill negotiations, emphasized crop insurance reforms"
+    },
+    {
+      "claim": "Supported 2017 Tax Cuts and Jobs Act",
+      "source_kind": "vote",
+      "detail": "Voted YES on Tax Cuts and Jobs Act, December 2017"
+    },
+    {
+      "claim": "Voted to repeal Obamacare",
+      "source_kind": "vote",
+      "detail": "Voted YES on American Health Care Act, May 2017"
+    },
+    {
+      "claim": "Telecommunications industry background",
+      "source_kind": "public_statement",
+      "detail": "Worked as executive at railroad and telecommunications companies before entering politics"
+    },
+    {
+      "claim": "Championed broadband deployment",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Broadband DATA Act to improve mapping and deployment, signed into law 2020"
+    },
+    {
+      "claim": "Supports wind energy development",
+      "source_kind": "public_statement",
+      "detail": "Praised South Dakota's wind energy production in multiple floor speeches, opposed to federal mandates but supportive of market-driven renewable development"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:34:14.163822"
+}

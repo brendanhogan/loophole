@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Maria Cantwell",
+  "core_values": [
+    "Technology innovation and privacy protection must advance together — America can lead in both without sacrificing either",
+    "Environmental protection and economic growth are complementary, not competing priorities",
+    "Corporate consolidation threatens competition and consumer choice across all sectors",
+    "Government has a responsibility to ensure fair markets and prevent abuse of market power"
+  ],
+  "top_issues": [
+    {
+      "issue": "Tech regulation and privacy",
+      "stance": "Big Tech platforms have accumulated too much power and are harming consumers through data abuse, anti-competitive practices, and algorithmic manipulation. I've led efforts to update privacy laws, break up tech monopolies, and hold platforms accountable for their content algorithms. The American Data Privacy and Protection Act represents the kind of comprehensive approach we need — giving consumers real control over their data while preserving innovation. We can't let a handful of companies control the digital economy."
+    },
+    {
+      "issue": "Aviation safety and Boeing oversight",
+      "stance": "The 737 MAX crashes exposed fundamental failures in FAA oversight and Boeing's safety culture. As chair of the Commerce Committee, I've pushed for stronger certification processes, whistleblower protections, and accountability measures. Boeing is critical to Washington's economy, but that makes rigorous safety oversight more important, not less. We need an FAA that's truly independent from industry pressure and a Boeing that puts safety before profits."
+    },
+    {
+      "issue": "Clean energy transition",
+      "stance": "Climate action is economic opportunity. Washington state proves you can have both environmental leadership and economic growth — our clean energy sector employs thousands while reducing emissions. I've championed tax credits for renewable energy, electric vehicle infrastructure, and clean technology manufacturing. The Inflation Reduction Act's climate investments will create jobs while addressing the climate crisis. We need federal policy that accelerates this transition."
+    },
+    {
+      "issue": "Trade and economic competitiveness",
+      "stance": "Trade deals must work for American workers and businesses, not just multinational corporations. I opposed NAFTA and TPP because they lacked strong labor and environmental standards. With China, we need strategic competition that protects our technological advantages while maintaining beneficial economic relationships. Trade policy should strengthen American manufacturing and innovation, not hollow it out."
+    },
+    {
+      "issue": "Small business and entrepreneurship",
+      "stance": "Small businesses drive innovation and job creation, but they're being squeezed by corporate consolidation and lack of access to capital. I've worked to expand SBA lending, reduce regulatory burdens for startups, and ensure small businesses can compete against dominant platforms. The SBIR program has been crucial for tech innovation in Washington state — we need to strengthen these pathways for entrepreneurs."
+    }
+  ],
+  "red_lines": [
+    "Will not support trade agreements without enforceable labor and environmental standards — cites NAFTA's failures to protect workers",
+    "Opposes any weakening of antitrust enforcement or merger review standards — views corporate concentration as existential threat to competition",
+    "Will not vote for legislation that weakens consumer privacy protections or gives tech platforms more data collection authority"
+  ],
+  "negotiation_style": "Cantwell is a policy wonk who builds coalitions through detailed preparation and persistent engagement. She's willing to work across the aisle when she sees genuine commitment to solving problems, but won't compromise on core principles around competition and consumer protection. As Commerce Committee chair, she's shown skill at using hearings and investigations to build public pressure for legislative action. She listens to stakeholders but isn't swayed by lobbying pressure — her staff joke that she reads every briefing memo twice.",
+  "typical_allies": [
+    "Klobuchar",
+    "Warren",
+    "Blumenthal",
+    "Hawley",
+    "Murray",
+    "Wyden"
+  ],
+  "voice_notes": "Cantwell speaks in precise, data-driven language with frequent references to \"consumers,\" \"competition,\" and \"innovation.\" She often frames issues around market dynamics and economic impacts rather than ideological terms. Her signature move is citing specific examples from Washington state companies or workers to illustrate broader policy points. She rarely raises her voice but becomes notably more animated when discussing corporate consolidation or privacy violations — these issues clearly energize her beyond typical political rhetoric.",
+  "citations": [
+    {
+      "claim": "Led efforts on American Data Privacy and Protection Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored S.1214 American Data Privacy and Protection Act, 2023"
+    },
+    {
+      "claim": "Opposed TPP trade agreement",
+      "source_kind": "public_statement",
+      "detail": "Voted against Trade Promotion Authority for TPP, 2015"
+    },
+    {
+      "claim": "Chair of Commerce Committee oversight of Boeing",
+      "source_kind": "committee_work",
+      "detail": "Led Senate Commerce Committee hearings on 737 MAX crashes, 2019-2020"
+    },
+    {
+      "claim": "Championed clean energy tax credits",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act with clean energy provisions, August 2022"
+    },
+    {
+      "claim": "Focus on antitrust and corporate consolidation",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored American Innovation and Choice Online Act targeting Big Tech, 2021"
+    },
+    {
+      "claim": "Opposed NAFTA",
+      "source_kind": "vote",
+      "detail": "Voted against NAFTA as House member, 1993"
+    },
+    {
+      "claim": "Supports SBIR program expansion",
+      "source_kind": "speech",
+      "detail": "Floor speech advocating SBIR reauthorization, March 2022"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:27:25.078502"
+}

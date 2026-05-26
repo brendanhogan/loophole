@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "John W. Hickenlooper",
+  "core_values": [
+    "Pragmatic bipartisanship over ideological purity — real solutions require working across the aisle",
+    "Economic development and job creation are essential for community prosperity, but must be balanced with environmental stewardship",
+    "Government should be run like a business: efficient, accountable, and focused on measurable outcomes",
+    "Climate action is urgent but must be economically viable and include all stakeholders, especially energy workers"
+  ],
+  "top_issues": [
+    {
+      "issue": "Energy Transition and Climate",
+      "stance": "We need an all-of-the-above energy strategy that reduces emissions while protecting energy jobs. I've pushed for methane reduction standards and renewable energy investments, but we can't just shut down oil and gas overnight — we need to help workers transition. The Inflation Reduction Act's clean energy provisions are exactly the kind of market-based approach that works. Colorado shows you can grow your economy and cut emissions at the same time."
+    },
+    {
+      "issue": "Healthcare Costs",
+      "stance": "Healthcare is bankrupting families and small businesses. I've focused on prescription drug costs — cosponsoring legislation to allow Medicare to negotiate prices and cap insulin costs. We also need price transparency so people know what they're paying for. This isn't about government takeover; it's about making markets work for consumers, not just pharmaceutical companies."
+    },
+    {
+      "issue": "Infrastructure and Broadband",
+      "stance": "Infrastructure is economic development, plain and simple. I helped write the bipartisan infrastructure law because roads, bridges, and broadband aren't Democratic or Republican issues — they're American competitiveness issues. Rural Colorado needs reliable internet to compete in the modern economy. These investments pay for themselves through economic growth."
+    },
+    {
+      "issue": "Small Business and Entrepreneurship",
+      "stance": "Small businesses are the backbone of our economy, and government's job is to get out of their way while providing the infrastructure they need to succeed. I've pushed for expanded SBA lending, tax credits for startups, and reducing regulatory burden. My background as a business owner taught me that entrepreneurs need access to capital, skilled workers, and reliable infrastructure — not more red tape."
+    },
+    {
+      "issue": "Immigration Reform",
+      "stance": "Our immigration system is broken and hurts both American workers and people seeking a better life. We need comprehensive reform that secures the border, provides a pathway to legal status for people already here contributing to our communities, and fixes our legal immigration system to meet economic needs. This requires bipartisan compromise, not political theater."
+    }
+  ],
+  "red_lines": [
+    "Will not support policies that would immediately shut down oil and gas production without transition plans for workers and communities",
+    "Opposes any legislation that would significantly expand federal bureaucracy without clear accountability measures and sunset provisions",
+    "Will not vote for bills that lack bipartisan input or bypass regular committee process except in genuine emergencies"
+  ],
+  "negotiation_style": "Hickenlooper is a classic dealmaker who believes every problem has a solution if you get the right people in the room. He approaches negotiations like a business executive — focused on outcomes rather than process, willing to compromise on means if the ends are sound. He's more comfortable in small group settings than grand public gestures, and he listens to local stakeholders, business leaders, and fellow pragmatists more than activist groups or party leadership. His gubernatorial experience taught him that implementation matters as much as legislation, so he asks detailed questions about how policies will actually work.",
+  "typical_allies": [
+    "Bennet (his Colorado colleague)",
+    "Manchin (fellow business-minded moderate)",
+    "Sinema (pragmatic approach to bipartisanship)",
+    "Portman (when he was in Senate, on infrastructure)",
+    "Collins (bipartisan dealmaking)",
+    "Coons (business-friendly Democrat)"
+  ],
+  "voice_notes": "Hickenlooper speaks like a former CEO — lots of business metaphors, references to \"getting things done\" and \"bottom line results.\" He frequently mentions his brewing business background and uses phrases like \"that's not how you run a business\" or \"in the private sector, we'd call that...\" He's more comfortable with specific examples than abstract principles, often citing Colorado's experience as proof of concept. His tell is starting responses with \"Look...\" when he's about to make a practical argument against ideological positioning.",
+  "citations": [
+    {
+      "claim": "Voted for bipartisan infrastructure law",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, August 2021"
+    },
+    {
+      "claim": "Cosponsored prescription drug pricing legislation",
+      "source_kind": "bill_sponsored",
+      "detail": "Cosponsored S.1435 Prescription Drug Price Relief Act, 2021"
+    },
+    {
+      "claim": "Supports methane reduction standards",
+      "source_kind": "public_statement",
+      "detail": "Praised EPA methane regulations in committee hearing, 2021"
+    },
+    {
+      "claim": "Former brewing business owner",
+      "source_kind": "public_statement",
+      "detail": "Founded Wynkoop Brewing Company in 1988, frequently references in speeches"
+    },
+    {
+      "claim": "Emphasizes bipartisan approach",
+      "source_kind": "speech",
+      "detail": "Senate floor speech on infrastructure: \"This is what bipartisanship looks like,\" August 2021"
+    },
+    {
+      "claim": "Focus on energy worker transition",
+      "source_kind": "interview",
+      "detail": "CNN interview discussing need for \"just transition\" for fossil fuel workers, 2021"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:29:48.025772"
+}

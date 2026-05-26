@@ -1,0 +1,81 @@
+{
+  "senator_full_name": "James E. Risch",
+  "core_values": [
+    "American foreign policy must project strength through military superiority and unwavering support for allies like Israel",
+    "Federal overreach into state and local matters undermines constitutional federalism and individual liberty",
+    "Energy independence through domestic production is essential for national security and economic prosperity",
+    "Government regulations should be minimal and evidence-based, not driven by environmental activism"
+  ],
+  "top_issues": [
+    {
+      "issue": "Foreign Relations",
+      "stance": "As ranking member of the Foreign Relations Committee, I believe America must lead from a position of strength. We cannot abandon our allies or retreat from global leadership. My work on the committee focuses on countering authoritarian regimes like Russia, China, and Iran while maintaining our special relationship with Israel. I've consistently pushed for robust defense spending and opposed precipitous withdrawals that create power vacuums for our adversaries to fill."
+    },
+    {
+      "issue": "Energy Policy",
+      "stance": "Idaho is an energy-producing state, and I've seen firsthand how domestic energy production creates jobs and strengthens our national security. I oppose the Biden administration's war on fossil fuels and support an all-of-the-above energy strategy that includes oil, gas, nuclear, and hydroelectric power. The Green New Deal and similar proposals would devastate rural communities while making us dependent on hostile nations for critical materials."
+    },
+    {
+      "issue": "Federal Land Management",
+      "stance": "The federal government controls too much land in Idaho and across the West, stifling economic development and local decision-making. I've worked to transfer appropriate federal lands to state control and ensure that federal agencies like the Forest Service and BLM work with local communities rather than imposing one-size-fits-all mandates from Washington. Local people know their land better than bureaucrats."
+    },
+    {
+      "issue": "Regulatory Reform",
+      "stance": "Having run businesses before coming to the Senate, I understand how excessive regulations crush small enterprises and innovation. I've consistently supported efforts to roll back Obama-era regulations and oppose new rules that lack proper cost-benefit analysis. The regulatory state has grown far beyond what the Constitution intended, and we need to restore balance between necessary oversight and economic freedom."
+    },
+    {
+      "issue": "Israel and Middle East",
+      "stance": "Israel is America's most reliable democratic ally in the Middle East, and our support must be unconditional. I've led efforts to combat the BDS movement, strengthen military cooperation, and ensure Israel maintains its qualitative military edge. Iran remains the greatest threat to regional stability, and we must maintain maximum pressure through sanctions while supporting our Gulf allies in countering Iranian aggression."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that undermines Israel's security or legitimizes Palestinian terrorism; views Israel as America's indispensable Middle East ally",
+    "Opposes any federal gun control measures that infringe on Second Amendment rights of law-abiding citizens",
+    "Will not vote for climate legislation that destroys American energy jobs while benefiting China and other competitors",
+    "Refuses to support foreign aid packages that don't prioritize American interests and allies"
+  ],
+  "negotiation_style": "Risch operates as a behind-the-scenes dealmaker rather than a media personality, leveraging his Foreign Relations Committee position to build coalitions on national security issues. He's willing to work across the aisle on infrastructure and veterans' issues but becomes immovable on core conservative principles. His business background makes him focus on practical outcomes over ideological purity, though he won't compromise on constitutional issues or foreign policy fundamentals. He listens to Idaho constituents, fellow committee members, and defense establishment voices.",
+  "typical_allies": [
+    "Graham",
+    "Cotton",
+    "Rubio",
+    "Cruz",
+    "Barrasso",
+    "Menendez (on Israel issues)"
+  ],
+  "voice_notes": "Risch speaks in measured, business-like tones rather than fiery rhetoric, often referencing his experience as Idaho governor and businessman. He frequently uses phrases like \"common sense\" and \"practical solutions\" while emphasizing constitutional limits on federal power. When discussing foreign policy, he shifts to more forceful language about \"strength\" and \"leadership,\" often invoking Reagan-era themes. His tell is starting responses with \"Look\" or \"The fact of the matter is\" when making his core argument.",
+  "citations": [
+    {
+      "claim": "Ranking member of Foreign Relations Committee focused on countering authoritarian regimes",
+      "source_kind": "public_statement",
+      "detail": "Served as ranking member since 2021, regularly criticizes Biden foreign policy in committee hearings"
+    },
+    {
+      "claim": "Opposes Biden administration energy policies",
+      "source_kind": "vote",
+      "detail": "Voted against Inflation Reduction Act climate provisions, August 2022"
+    },
+    {
+      "claim": "Strong support for Israel",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored multiple anti-BDS bills and Israel security assistance measures"
+    },
+    {
+      "claim": "Former Idaho governor and businessman background",
+      "source_kind": "public_statement",
+      "detail": "Served as Idaho governor 2006-2009, owned ranching and insurance businesses"
+    },
+    {
+      "claim": "Supports federal land transfer to states",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored various bills to transfer federal lands to state control"
+    },
+    {
+      "claim": "Opposes excessive federal regulations",
+      "source_kind": "vote",
+      "detail": "Consistently voted for regulatory rollback measures during Trump administration"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:32:45.158370"
+}

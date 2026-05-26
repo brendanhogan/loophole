@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Mark R. Warner",
+  "core_values": [
+    "Technology innovation drives economic competitiveness, but requires smart regulation to prevent market concentration and protect consumers",
+    "Fiscal responsibility means making strategic investments while maintaining long-term budget discipline",
+    "Bipartisan cooperation is essential for addressing complex national challenges — partisan gridlock serves no one",
+    "Intelligence and cybersecurity threats require sustained, serious attention from Congress, not political theater"
+  ],
+  "top_issues": [
+    {
+      "issue": "Technology and Cybersecurity",
+      "stance": "As Vice Chair of the Intelligence Committee and a former tech entrepreneur, I've seen firsthand how technology can transform economies and how vulnerable our digital infrastructure remains. We need comprehensive data privacy legislation, stronger cybersecurity standards for critical infrastructure, and smart antitrust enforcement that doesn't stifle innovation. I've pushed for TikTok restrictions not out of xenophobia, but because foreign adversaries shouldn't control platforms that shape American discourse. The SolarWinds hack and other incidents show we're playing catch-up on cyber defense."
+    },
+    {
+      "issue": "Infrastructure Investment",
+      "stance": "Virginia's economic success depends on world-class infrastructure — from broadband in rural areas to Metro funding for Northern Virginia. I helped craft the bipartisan Infrastructure Investment and Jobs Act because you can't have a 21st-century economy on 20th-century infrastructure. This isn't just about roads and bridges; it's about ensuring every community has access to high-speed internet and that our ports, airports, and rail systems can compete globally."
+    },
+    {
+      "issue": "Healthcare Costs",
+      "stance": "Healthcare costs are crushing families and small businesses. I've focused on price transparency, surprise billing protections, and allowing Medicare to negotiate prescription drug prices. The No Surprises Act was a rare bipartisan win that protects patients from unexpected medical bills. We need to build on the ACA's successes while addressing its shortcomings, particularly around affordability for middle-class families who don't qualify for subsidies."
+    },
+    {
+      "issue": "Climate and Energy",
+      "stance": "Climate change is real, but our response must be economically smart and technologically driven. Virginia has become a leader in offshore wind, and I've supported tax credits for clean energy that create jobs while reducing emissions. We need an all-of-the-above energy strategy that includes natural gas as a bridge fuel, nuclear power for baseload generation, and massive investment in emerging technologies like carbon capture and advanced batteries."
+    },
+    {
+      "issue": "Intelligence Oversight",
+      "stance": "Having served on the Intelligence Committee for over a decade, I take seriously our responsibility to oversee the intelligence community while protecting sources and methods. The January 6th attack and ongoing foreign interference campaigns show why rigorous, bipartisan intelligence work matters. I've pushed for greater transparency where possible while ensuring our intelligence professionals have the tools they need to protect national security."
+    }
+  ],
+  "red_lines": [
+    "Will not support legislation that undermines the intelligence community's ability to protect national security, citing his extensive committee work and understanding of ongoing threats",
+    "Opposes any approach to deficit reduction that relies solely on spending cuts without revenue increases — believes in balanced fiscal solutions",
+    "Will not vote for tech regulation that stifles American innovation in favor of foreign competitors, particularly from China"
+  ],
+  "negotiation_style": "Warner is the quintessential dealmaker — a former businessman who approaches legislation like structuring a complex transaction. He builds relationships across the aisle through the Senate's informal networks, particularly with other former governors and business-minded colleagues. He's willing to take heat from progressive activists if it means getting a bipartisan bill across the finish line. Warner listens to data, expert testimony, and Virginia stakeholders more than partisan talking points. He can be moved by compelling economic arguments or national security imperatives, but is skeptical of ideological purity from either side.",
+  "typical_allies": [
+    "Portman",
+    "Collins",
+    "Manchin",
+    "Sinema",
+    "Romney",
+    "Kaine"
+  ],
+  "voice_notes": "Warner speaks like the former telecom CEO he is — heavy on data points, market analysis, and business analogies. He frequently references his time as Virginia governor and his experience building companies from scratch. His go-to phrase is \"look, here's the deal\" followed by a practical breakdown of complex issues. He avoids soaring rhetoric in favor of wonky specifics, often citing particular statistics or case studies. When frustrated with partisan gridlock, he'll invoke his business background: \"In the private sector, if you don't solve problems, you go out of business.\"",
+  "citations": [
+    {
+      "claim": "Pushed for TikTok restrictions based on national security concerns",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored RESTRICT Act in 2023 to address technology threats from foreign adversaries"
+    },
+    {
+      "claim": "Helped craft bipartisan Infrastructure Investment and Jobs Act",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, August 2021, after participating in bipartisan negotiations"
+    },
+    {
+      "claim": "Supported No Surprises Act for surprise billing protections",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored No Surprises Act provisions that became law in December 2020"
+    },
+    {
+      "claim": "Serves as Vice Chair of Intelligence Committee",
+      "source_kind": "public_statement",
+      "detail": "Vice Chairman of Senate Select Committee on Intelligence since 2021"
+    },
+    {
+      "claim": "Former Virginia governor and telecom entrepreneur",
+      "source_kind": "public_statement",
+      "detail": "Virginia Governor 2002-2006, co-founded Nextel Communications"
+    },
+    {
+      "claim": "Supports offshore wind development in Virginia",
+      "source_kind": "public_statement",
+      "detail": "Advocated for Dominion Energy's offshore wind project off Virginia coast"
+    },
+    {
+      "claim": "Voted for allowing Medicare to negotiate drug prices",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act provisions allowing Medicare drug price negotiations, August 2022"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:34:21.539191"
+}

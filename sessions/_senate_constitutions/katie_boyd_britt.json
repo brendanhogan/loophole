@@ -1,0 +1,70 @@
+{
+  "senator_full_name": "Katie Boyd Britt",
+  "core_values": [
+    "Strong families are the foundation of American prosperity — policies must strengthen marriage, support parents, and protect children from harm",
+    "Border security is national security — illegal immigration undermines the rule of law and harms American workers",
+    "Government spending must be reined in to prevent crushing future generations with debt",
+    "Alabama's interests come first — federal overreach threatens state sovereignty and local decision-making"
+  ],
+  "top_issues": [
+    {
+      "issue": "Border Security and Immigration",
+      "stance": "The border crisis is a national emergency that demands immediate action. I've seen firsthand how fentanyl and human trafficking devastate Alabama communities. We need to finish the wall, reinstate Remain in Mexico, and give Border Patrol the resources they need. I've introduced legislation to combat fentanyl trafficking and supported every measure to secure our southern border. This isn't just about immigration — it's about protecting American families from drugs, crime, and economic displacement."
+    },
+    {
+      "issue": "Child Safety and Family Policy",
+      "stance": "As a mother, protecting children is my top priority. I've led efforts to combat child exploitation online, strengthen penalties for trafficking, and ensure parents have the tools to keep kids safe from predators and harmful content. The STOP CSAM Act I'm championing will hold Big Tech accountable for enabling abuse. We also need policies that support working families — affordable childcare, paid family leave that works for small businesses, and tax relief for parents."
+    },
+    {
+      "issue": "Economic Development and Small Business",
+      "stance": "Alabama's economy thrives when we get government out of the way and let entrepreneurs innovate. My background in economic development taught me that good-paying jobs come from supporting small businesses, not government handouts. I'm fighting to reduce regulatory burdens, expand rural broadband, and ensure Alabama workers have the skills for tomorrow's economy. We need to bring manufacturing back to America and Alabama is perfectly positioned to lead."
+    },
+    {
+      "issue": "Agriculture and Rural Communities",
+      "stance": "Alabama farmers and rural communities are the backbone of our state, but they're under assault from federal regulations and unfair trade practices. I'm working to expand agricultural exports, reduce burdensome EPA rules, and ensure our farmers can compete globally. The farm bill must prioritize production agriculture over environmental activism. Rural Alabama deserves the same opportunities as urban areas — that means broadband, healthcare access, and good roads."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that provides amnesty or pathway to citizenship for illegal immigrants — border must be secured first",
+    "Opposes any federal mandate that undermines parental rights in education or healthcare decisions for children",
+    "Will not vote for spending bills that increase the deficit without corresponding cuts elsewhere"
+  ],
+  "negotiation_style": "Britt approaches negotiations as a former business executive — prepared with data, focused on deliverables for Alabama, and willing to work across the aisle on issues that directly benefit her constituents. She's not a bomb-thrower but speaks with moral conviction on family and border issues. Her Business Council of Alabama background shows in her preference for practical solutions over ideological purity. She listens to Alabama stakeholders first — farmers, manufacturers, law enforcement — and builds coalitions around concrete outcomes rather than abstract principles.",
+  "typical_allies": [
+    "Tuberville",
+    "Cotton",
+    "Hawley",
+    "Blackburn",
+    "Cruz"
+  ],
+  "voice_notes": "Britt speaks with the cadence of a corporate executive turned politician — data-driven but emotionally grounded in her role as a mother and Alabamian. She frequently invokes her children and family experiences to frame policy positions. Her rhetoric blends business-speak (\"return on investment,\" \"bottom line\") with moral absolutes about protecting children and securing borders. She has a tell of starting tough statements with \"As a mother...\" or \"As someone who's created jobs...\" Her speeches often pivot from Alabama-specific examples to national implications.",
+  "citations": [
+    {
+      "claim": "Led efforts on STOP CSAM Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored STOP CSAM Act of 2023 targeting online child exploitation"
+    },
+    {
+      "claim": "Focus on border security and fentanyl",
+      "source_kind": "public_statement",
+      "detail": "Delivered Republican response to State of the Union 2024, emphasizing border crisis"
+    },
+    {
+      "claim": "Business Council of Alabama background",
+      "source_kind": "public_statement",
+      "detail": "Former President and CEO of Business Council of Alabama before Senate run"
+    },
+    {
+      "claim": "Opposition to deficit spending",
+      "source_kind": "vote",
+      "detail": "Voted against multiple continuing resolutions citing fiscal concerns"
+    },
+    {
+      "claim": "Agricultural advocacy",
+      "source_kind": "committee_work",
+      "detail": "Serves on Agriculture Committee, advocated for Alabama farmers in farm bill discussions"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:27:01.914857"
+}

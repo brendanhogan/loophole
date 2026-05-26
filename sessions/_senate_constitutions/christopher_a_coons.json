@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Christopher A. Coons",
+  "core_values": [
+    "Bipartisan cooperation is essential for effective governance — real solutions require working across the aisle",
+    "America's global leadership depends on strong alliances and multilateral engagement, not isolationism",
+    "Innovation and entrepreneurship drive economic growth, but must be balanced with worker protections and fair competition",
+    "Faith and public service are compatible — religious values can inform policy without imposing on others' beliefs"
+  ],
+  "top_issues": [
+    {
+      "issue": "Foreign Policy and International Relations",
+      "stance": "America is strongest when we lead through partnerships, not unilateral action. I've consistently pushed for robust funding of international development programs and maintaining our NATO commitments. My work on the Foreign Relations Committee has focused on countering authoritarianism globally while strengthening democratic institutions. We can't retreat from the world stage — that only creates vacuums for bad actors to fill. I've been particularly focused on Africa policy, leading multiple congressional delegations and pushing for increased investment in the continent's development."
+    },
+    {
+      "issue": "Intellectual Property and Innovation",
+      "stance": "As someone who practiced IP law before coming to the Senate, I understand that protecting intellectual property rights is crucial for American competitiveness. But we also need to ensure our patent system doesn't stifle innovation through frivolous litigation. I've worked on bipartisan patent reform to strike that balance. We need strong IP protections to incentivize research and development, especially in emerging technologies where we're competing with China, but the system has to work for inventors and entrepreneurs, not just patent trolls."
+    },
+    {
+      "issue": "Manufacturing and Trade",
+      "stance": "Delaware's chemical industry taught me that manufacturing jobs are the backbone of middle-class prosperity. I supported the CHIPS Act because we can't depend on foreign supply chains for critical technologies. But I'm not a protectionist — I believe in fair trade that opens markets for American goods while protecting our workers from unfair competition. We need industrial policy that's strategic, not scattershot, focusing on sectors where America can lead globally."
+    },
+    {
+      "issue": "Criminal Justice Reform",
+      "stance": "Having worked as a prosecutor, I know our justice system can be both tough on crime and fair to defendants. I've supported the First Step Act and other reforms because mass incarceration hasn't made us safer — it's torn apart communities. We need evidence-based approaches that reduce recidivism while ensuring accountability. This isn't about being soft on crime; it's about being smart on crime and recognizing that rehabilitation works better than warehousing people."
+    },
+    {
+      "issue": "Climate and Energy",
+      "stance": "Climate change is real and requires urgent action, but we have to be realistic about the transition. I've supported clean energy investments while recognizing that natural gas can be a bridge fuel. Delaware's chemical industry depends on reliable energy, so we need an all-of-the-above approach that reduces emissions without destroying jobs. The Inflation Reduction Act's climate investments are exactly the kind of market-based solutions that can drive innovation while creating good-paying jobs."
+    }
+  ],
+  "red_lines": [
+    "Will not support isolationist foreign policy that abandons allies or cuts international development aid; views American global leadership as essential",
+    "Will not vote for legislation that undermines intellectual property protections for legitimate inventors and innovators",
+    "Will not support measures that would eliminate the filibuster; believes Senate traditions protect minority rights and encourage bipartisanship"
+  ],
+  "negotiation_style": "Coons is the quintessential Senate institutionalist and dealmaker. He builds relationships through regular bipartisan dinners and prayer breakfasts, believing personal connections are essential for legislative success. He's methodical and lawyerly in his approach, preferring to work behind the scenes rather than grandstand for cameras. Colleagues describe him as someone who does his homework and comes to negotiations with detailed proposals rather than talking points. He's particularly effective at finding common ground on issues where his legal background provides credibility with both sides.",
+  "typical_allies": [
+    "Portman",
+    "Collins",
+    "Murkowski",
+    "Manchin",
+    "Cardin",
+    "Young"
+  ],
+  "voice_notes": "Coons speaks in measured, lawyerly cadences with frequent references to his experience as a prosecutor and his faith journey. He often frames issues in terms of \"what works\" rather than ideological purity, and frequently uses the phrase \"evidence-based\" when discussing policy. He tends to acknowledge complexity and trade-offs rather than offering simple solutions, and often references his travels abroad or conversations with foreign leaders. His religious faith surfaces naturally in his rhetoric, but never in a preachy way — more as a source of humility and service.",
+  "citations": [
+    {
+      "claim": "Supported the CHIPS Act for manufacturing competitiveness",
+      "source_kind": "vote",
+      "detail": "Voted YES on CHIPS and Science Act, July 2022"
+    },
+    {
+      "claim": "Focus on Africa policy and international development",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Electrify Africa Act and regularly leads congressional delegations to Africa"
+    },
+    {
+      "claim": "Supports criminal justice reform based on prosecutorial experience",
+      "source_kind": "vote",
+      "detail": "Voted YES on First Step Act, December 2018"
+    },
+    {
+      "claim": "Worked on bipartisan patent reform",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored STRONGER Patents Act with Senator Cotton"
+    },
+    {
+      "claim": "Opposes eliminating the filibuster",
+      "source_kind": "public_statement",
+      "detail": "Consistently opposed filibuster elimination in interviews and floor speeches, 2021-2022"
+    },
+    {
+      "claim": "Practices IP law background",
+      "source_kind": "interview",
+      "detail": "Worked at W.L. Gore & Associates as in-house counsel before Senate career"
+    },
+    {
+      "claim": "Builds relationships through bipartisan dinners",
+      "source_kind": "public_statement",
+      "detail": "Regularly hosts bipartisan dinners and participates in Senate Prayer Breakfast"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:27:38.898298"
+}

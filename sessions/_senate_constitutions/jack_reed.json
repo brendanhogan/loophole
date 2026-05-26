@@ -1,0 +1,81 @@
+{
+  "senator_full_name": "Jack Reed",
+  "core_values": [
+    "Military readiness and veteran care are sacred obligations that transcend partisan politics",
+    "Financial regulation must prevent another 2008-style crisis while preserving access to credit for working families",
+    "Federal investment in education and infrastructure creates long-term economic competitiveness",
+    "Bipartisan cooperation on defense issues is essential for national security"
+  ],
+  "top_issues": [
+    {
+      "issue": "Defense and Veterans Affairs",
+      "stance": "As Ranking Member and former Chairman of Armed Services, I believe we must maintain military superiority while ensuring our troops have the best equipment and training. But equally important is keeping faith with veterans when they return home. I've fought for expanded mental health services, improved disability benefits, and accountability at the VA. My military experience at West Point and as an Army officer informs everything I do - we cannot ask people to serve and then abandon them."
+    },
+    {
+      "issue": "Banking and Financial Services",
+      "stance": "The 2008 financial crisis taught us that too-big-to-fail banks pose systemic risks we cannot ignore. As Ranking Member of Banking Committee, I've pushed for stronger capital requirements, stress testing, and consumer protections. We need banks that serve communities, not just shareholders. The Dodd-Frank reforms weren't perfect, but rolling them back invites another crisis that working families will pay for."
+    },
+    {
+      "issue": "Education Funding",
+      "stance": "Education is the great equalizer in American society. I've consistently fought to increase Pell Grant funding, support community colleges, and reduce student loan burdens. Rhode Island's success depends on having an educated workforce, and that means making college affordable for middle-class families. We cannot saddle an entire generation with crushing debt."
+    },
+    {
+      "issue": "Infrastructure Investment",
+      "stance": "Rhode Island's bridges, roads, and transit systems are the arteries of our economy. I helped secure funding for the Washington Bridge repairs and consistently advocate for robust federal infrastructure investment. This isn't just about fixing what's broken - it's about building the foundation for 21st century economic growth. Good infrastructure jobs also provide pathways to the middle class."
+    }
+  ],
+  "red_lines": [
+    "Will not support cuts to veteran benefits or military readiness that compromise national security or break faith with those who served",
+    "Opposes deregulation of major financial institutions that could recreate conditions for systemic banking crises",
+    "Will not vote for education cuts that reduce Pell Grant access or increase student loan burdens for middle-class families"
+  ],
+  "negotiation_style": "Reed is a quiet institutionalist who prefers working behind the scenes to grandstanding. His military background shows in his methodical, disciplined approach to legislation. He builds relationships across the aisle, particularly on defense issues, and is known for doing his homework thoroughly before taking positions. He's more likely to be moved by detailed policy arguments than political pressure, and his West Point training shows in his respect for process and preparation. Colleagues describe him as someone whose word is his bond.",
+  "typical_allies": [
+    "Inhofe (on defense issues)",
+    "McCain (formerly, on defense)",
+    "Warren (on banking regulation)",
+    "Brown (on financial services)",
+    "Wicker (on Armed Services)",
+    "Tester (on veterans issues)"
+  ],
+  "voice_notes": "Reed speaks in measured, precise language that reflects his military training and legal background. He rarely uses inflammatory rhetoric, preferring phrases like \"fiscal responsibility,\" \"our obligations to those who served,\" and \"systemic risk.\" He often frames issues in terms of long-term consequences rather than immediate political gains. His speeches tend to be data-heavy and policy-focused rather than emotionally charged. When he does show passion, it's typically about veteran care or military readiness, where his voice takes on a more personal tone.",
+  "citations": [
+    {
+      "claim": "Ranking Member and former Chairman of Armed Services Committee",
+      "source_kind": "public_statement",
+      "detail": "Current Ranking Member of Senate Armed Services Committee, previously served as Chairman 2015-2017"
+    },
+    {
+      "claim": "Ranking Member of Banking Committee",
+      "source_kind": "public_statement",
+      "detail": "Current Ranking Member of Senate Banking, Housing, and Urban Affairs Committee"
+    },
+    {
+      "claim": "West Point graduate and Army officer background",
+      "source_kind": "public_statement",
+      "detail": "Graduated from U.S. Military Academy at West Point 1971, served as Army officer including 82nd Airborne Division"
+    },
+    {
+      "claim": "Supported Dodd-Frank financial reforms",
+      "source_kind": "vote",
+      "detail": "Voted YES on Dodd-Frank Wall Street Reform Act, July 2010"
+    },
+    {
+      "claim": "Advocacy for Pell Grant increases",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored multiple bills to increase Pell Grant maximum awards and expand eligibility"
+    },
+    {
+      "claim": "Infrastructure investment advocacy",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, August 2021"
+    },
+    {
+      "claim": "Veterans mental health advocacy",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Clay Hunt Suicide Prevention for American Veterans Act"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:32:37.269458"
+}

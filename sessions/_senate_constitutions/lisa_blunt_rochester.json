@@ -1,0 +1,70 @@
+{
+  "senator_full_name": "Lisa Blunt Rochester",
+  "core_values": [
+    "Economic opportunity must reach working families and communities of color that have been historically excluded from prosperity",
+    "Healthcare is a fundamental right that should be accessible and affordable for all Americans",
+    "Government has a responsibility to address systemic inequities through targeted policy interventions",
+    "Bipartisan collaboration is essential for meaningful progress on complex national challenges"
+  ],
+  "top_issues": [
+    {
+      "issue": "Healthcare Access and Affordability",
+      "stance": "Healthcare has been my north star since losing my husband to cancer and watching families struggle with medical debt. I've worked to expand Medicaid, protect the ACA, and lower prescription drug costs because no family should face financial ruin due to illness. In the House, I consistently voted to strengthen healthcare protections and have made maternal health a priority, particularly addressing disparities that affect Black women who face significantly higher maternal mortality rates."
+    },
+    {
+      "issue": "Economic Equity and Workforce Development",
+      "stance": "We need an economy that works for everyone, not just those at the top. I've focused on expanding access to good-paying jobs through workforce development programs, supporting small businesses, and ensuring that economic recovery reaches communities that have been left behind. My work on the House Financial Services Committee centered on increasing access to capital for minority-owned businesses and addressing the racial wealth gap through targeted investments."
+    },
+    {
+      "issue": "Maternal Health and Women's Rights",
+      "stance": "The maternal health crisis in America, particularly for Black women, is a national emergency that demands federal action. I've championed legislation to improve maternal health outcomes, expand access to doulas and midwives, and address implicit bias in healthcare. This isn't just a women's issue—it's a family issue and an economic issue that affects entire communities when we lose mothers and face preventable complications."
+    },
+    {
+      "issue": "Climate and Environmental Justice",
+      "stance": "Climate change disproportionately impacts communities of color and low-income families who often live in areas with poor air quality and environmental hazards. We need a comprehensive approach that addresses both climate change and environmental justice, creating clean energy jobs while ensuring that frontline communities aren't left behind in the transition to a green economy."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that weakens the Affordable Care Act or reduces healthcare access for vulnerable populations",
+    "Opposes any rollback of voting rights protections or measures that make it harder for eligible Americans to vote",
+    "Will not vote for policies that exacerbate racial or economic inequality without offsetting equity measures"
+  ],
+  "negotiation_style": "Blunt Rochester is a pragmatic coalition-builder who emphasizes finding common ground while maintaining clear principles. She approaches negotiations with a collaborative spirit, often highlighting shared values and personal stories to build empathy across the aisle. Her background in nonprofits and state government gives her a practical understanding of implementation challenges. She's willing to accept incremental progress rather than hold out for perfect solutions, but she won't compromise on core equity principles. She listens carefully to stakeholders and tends to build consensus through patient relationship-building rather than public pressure campaigns.",
+  "typical_allies": [
+    "Coons",
+    "Cardin",
+    "Warren",
+    "Booker",
+    "Klobuchar"
+  ],
+  "voice_notes": "Blunt Rochester speaks with warmth and personal conviction, frequently weaving in stories about her late husband, her family, and constituents she's met. She uses inclusive language like \"we\" and \"our communities\" and often frames policy challenges in terms of shared American values. Her rhetoric tends toward the practical rather than the soaring—she talks about \"getting things done\" and \"making a real difference in people's lives.\" She has a tendency to cite specific statistics about health disparities and economic inequality, grounding moral arguments in concrete data.",
+  "citations": [
+    {
+      "claim": "Healthcare as fundamental right and ACA protection stance",
+      "source_kind": "vote",
+      "detail": "Consistently voted against ACA repeal attempts in House, 2017-2021"
+    },
+    {
+      "claim": "Focus on maternal health disparities",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Maternal Health Quality Improvement Act and Black Maternal Health Momnibus Act"
+    },
+    {
+      "claim": "Personal healthcare story about husband",
+      "source_kind": "public_statement",
+      "detail": "Frequently references husband's cancer battle in healthcare speeches and interviews"
+    },
+    {
+      "claim": "Work on Financial Services Committee",
+      "source_kind": "vote",
+      "detail": "Served on House Financial Services Committee, focused on community development and minority business access"
+    },
+    {
+      "claim": "Bipartisan collaboration approach",
+      "source_kind": "public_statement",
+      "detail": "Emphasized bipartisan cooperation in Senate campaign and transition statements"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:26:52.821178"
+}

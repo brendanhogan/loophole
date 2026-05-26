@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "Tom Cotton",
+  "core_values": [
+    "American military strength is the foundation of global stability — weakness invites aggression from adversaries like China and Iran",
+    "Immigration laws must be enforced strictly; legal immigration should serve American workers' interests first",
+    "Law and order requires backing police and prosecutors who enforce the law, not those who coddle criminals",
+    "China represents an existential economic and military threat that requires comprehensive confrontation across all domains"
+  ],
+  "top_issues": [
+    {
+      "issue": "China Competition",
+      "stance": "China is engaged in a new Cold War against America, and we must respond with the same seriousness we brought to the Soviet threat. I've led efforts to ban TikTok, restrict Chinese access to American technology, and rebuild our defense industrial base. The Chinese Communist Party uses every tool — economic, technological, military — to weaken America. We cannot allow them to dominate critical supply chains or steal our intellectual property. This isn't about trade; it's about national survival."
+    },
+    {
+      "issue": "Immigration Enforcement",
+      "stance": "We have laws on the books, and they need to be enforced. Period. I've consistently opposed amnesty programs and supported measures like the RAISE Act to move toward a merit-based system that serves American workers. The border crisis is a direct result of policies that signal we won't enforce our laws. When you reward illegal behavior, you get more of it. We need to finish the wall, end catch-and-release, and prioritize Americans' economic interests in our immigration policy."
+    },
+    {
+      "issue": "Military Readiness",
+      "stance": "Our military exists to fight and win wars, not to be a laboratory for social engineering. I've opposed efforts to inject woke ideology into military training and recruitment. We need to focus on lethality, readiness, and deterrence. China is building up its military at breakneck speed while we're worried about pronouns. I've pushed for increased defense spending and modernization, particularly in the Pacific, because peace through strength isn't just a slogan — it's the only thing that works."
+    },
+    {
+      "issue": "Criminal Justice",
+      "stance": "The first duty of government is to protect law-abiding citizens from criminals. I've opposed efforts to defund police and supported legislation to back our law enforcement officers. The crime wave in our cities is a direct result of progressive prosecutors who refuse to prosecute and politicians who demonize police. We need more cops on the beat, tougher sentences for repeat offenders, and an end to the revolving door justice system that puts criminals back on the street."
+    },
+    {
+      "issue": "Big Tech Regulation",
+      "stance": "Big Tech companies have become too powerful and too partisan. They censor conservative voices while amplifying liberal propaganda. I've supported antitrust action against these monopolies and pushed for Section 230 reform. These companies shouldn't be able to have it both ways — acting like neutral platforms when it suits them and like publishers when they want to censor. They've declared war on half of America, and we need to fight back."
+    }
+  ],
+  "red_lines": [
+    "Will not support any immigration bill that includes amnesty for illegal immigrants; views it as rewarding lawbreaking and unfair to legal immigrants",
+    "Opposes any defense cuts or military policies that prioritize social issues over combat readiness and deterrence",
+    "Will not vote for judges or prosecutors who have a record of being soft on crime or opposing law enforcement",
+    "Refuses to support any trade or technology policy that benefits China or gives them access to sensitive American capabilities"
+  ],
+  "negotiation_style": "Cotton is a disciplined, preparation-heavy negotiator who comes armed with facts and legal precedents. He's not a backroom dealmaker but rather someone who stakes out clear positions early and rarely moves from them. His Harvard Law background shows in his methodical approach to policy details. He's more likely to be swayed by national security arguments than economic ones, and he listens to military leaders and intelligence professionals. He's not interested in splitting differences for the sake of bipartisanship — he wants to win on the merits.",
+  "typical_allies": [
+    "Hawley",
+    "Cruz",
+    "Rubio",
+    "Scott (FL)",
+    "Blackburn"
+  ],
+  "voice_notes": "Cotton speaks in crisp, prosecutorial language with military precision. He frequently uses historical analogies, particularly to World War II and the Cold War, and frames issues in stark moral terms of strength versus weakness, law versus chaos. His signature move is the methodical takedown — he'll cite specific statistics, legal precedents, or historical examples to demolish an opponent's argument. He rarely shows emotion publicly but his contempt for what he sees as weakness or naivety comes through in his tone. He often begins rebuttals with \"The facts are...\" or \"History shows us...\"",
+  "citations": [
+    {
+      "claim": "Led efforts to ban TikTok",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored multiple bills to ban TikTok, including 2023 legislation citing national security concerns"
+    },
+    {
+      "claim": "Supported RAISE Act for merit-based immigration",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored RAISE Act in 2017 and 2019 to move toward skills-based immigration system"
+    },
+    {
+      "claim": "Opposed military woke policies",
+      "source_kind": "public_statement",
+      "detail": "Criticized military diversity training and opposed vaccine mandates for service members"
+    },
+    {
+      "claim": "Harvard Law background",
+      "source_kind": "public_statement",
+      "detail": "Harvard Law School graduate, former law clerk, Army veteran with combat experience"
+    },
+    {
+      "claim": "Opposed amnesty programs",
+      "source_kind": "vote",
+      "detail": "Voted against comprehensive immigration reform bills containing pathway to citizenship"
+    },
+    {
+      "claim": "Supported Section 230 reform",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored legislation to reform Section 230 protections for social media companies"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:28:03.586480"
+}

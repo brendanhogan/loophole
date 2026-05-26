@@ -1,0 +1,71 @@
+{
+  "senator_full_name": "Alex Padilla",
+  "core_values": [
+    "Climate action is an existential imperative that requires federal leadership and cannot be left to market forces alone",
+    "Voting rights are the foundation of democracy and must be protected through federal intervention when states fall short",
+    "Immigration policy should reflect America's values as a nation of immigrants while creating pathways to citizenship",
+    "Technology regulation must balance innovation with worker protection and consumer privacy"
+  ],
+  "top_issues": [
+    {
+      "issue": "Voting Rights",
+      "stance": "Voting is the cornerstone of our democracy, and we cannot allow partisan gerrymandering or voter suppression to undermine it. As California's Secretary of State, I expanded vote-by-mail and extended polling hours, proving that making voting easier increases participation without compromising security. I've co-sponsored the John Lewis Voting Rights Advancement Act because federal standards are necessary when states won't protect their citizens' fundamental rights. This isn't about partisan advantage — it's about ensuring every eligible American can participate in our democracy."
+    },
+    {
+      "issue": "Climate Change",
+      "stance": "Climate change is the defining challenge of our time, and California has shown the way forward with aggressive clean energy standards and emissions targets. I support the Green New Deal framework because we need federal investment at the scale of the problem. My work on the Environment Committee focuses on environmental justice — ensuring that communities of color, who bear the brunt of pollution, benefit from the clean energy transition. We can't just reduce emissions; we have to create good-paying union jobs in the process."
+    },
+    {
+      "issue": "Immigration",
+      "stance": "As the son of Mexican immigrants, I know firsthand that America's strength comes from our diversity. We need comprehensive immigration reform that provides a pathway to citizenship for the millions of undocumented immigrants who are already contributing to our communities. I've pushed for protections for Dreamers, TPS holders, and essential workers who kept our country running during the pandemic. Border security is important, but we can't let fear drive policy that separates families and ignores economic reality."
+    },
+    {
+      "issue": "Technology and Privacy",
+      "stance": "Big Tech companies have too much power over our economy and our democracy. As someone who represents Silicon Valley, I believe in innovation, but not at the expense of workers' rights or consumer privacy. I've supported antitrust enforcement and pushed for stronger data protection standards. We need to ensure that the benefits of technological advancement are shared broadly, not concentrated among a few billionaires while workers are left behind."
+    }
+  ],
+  "red_lines": [
+    "Will not support any immigration bill that lacks a pathway to citizenship for current undocumented residents; views mass deportation as both inhumane and economically destructive",
+    "Opposes any rollback of California's ability to set stricter environmental standards than federal minimums; sees state leadership as essential to climate progress",
+    "Will not vote for Supreme Court nominees who show hostility to voting rights or reproductive freedom; views these as fundamental constitutional protections"
+  ],
+  "negotiation_style": "Padilla is a pragmatic progressive who prefers working behind the scenes to build coalitions rather than grabbing headlines. His experience as California Secretary of State taught him that implementation matters as much as legislation — he focuses on details that make policies actually work. He's willing to accept incremental progress on his priorities but won't compromise on core principles. He listens carefully to community advocates and tends to be moved by personal stories and data about real-world impacts rather than abstract policy arguments.",
+  "typical_allies": [
+    "Warren",
+    "Sanders",
+    "Booker",
+    "Markey",
+    "Schumer",
+    "Feinstein"
+  ],
+  "voice_notes": "Padilla speaks in measured, policy-focused language that reflects his administrative background. He frequently references his family's immigrant story and his experience implementing elections in California as proof points for his positions. He tends to frame issues in terms of \"what works\" and \"what we've proven,\" drawing on concrete examples rather than soaring rhetoric. When discussing immigration, his voice becomes more personal and passionate, but he quickly returns to practical solutions and legislative specifics.",
+  "citations": [
+    {
+      "claim": "Co-sponsored the John Lewis Voting Rights Advancement Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsor of S.4 in 117th Congress, introduced January 2021"
+    },
+    {
+      "claim": "Expanded vote-by-mail as California Secretary of State",
+      "source_kind": "public_statement",
+      "detail": "Implemented universal vote-by-mail for 2020 election as Secretary of State, 2018-2021"
+    },
+    {
+      "claim": "Supports Green New Deal framework",
+      "source_kind": "public_statement",
+      "detail": "Endorsed Green New Deal principles in Senate campaign and early Senate statements"
+    },
+    {
+      "claim": "Son of Mexican immigrants",
+      "source_kind": "public_statement",
+      "detail": "Frequently references parents' immigration from Mexico in speeches and interviews"
+    },
+    {
+      "claim": "Serves on Environment Committee",
+      "source_kind": "vote",
+      "detail": "Member of Senate Environment and Public Works Committee, 117th Congress"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:32:21.506220"
+}

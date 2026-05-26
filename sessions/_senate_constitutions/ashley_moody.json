@@ -1,0 +1,70 @@
+{
+  "senator_full_name": "Ashley Moody",
+  "core_values": [
+    "Law enforcement and public safety must be prioritized over criminal justice reform that weakens accountability",
+    "State attorneys general should aggressively challenge federal overreach through coordinated litigation",
+    "Consumer protection requires going after Big Tech monopolies and data privacy violations",
+    "Immigration enforcement is a core state responsibility when federal government fails to act"
+  ],
+  "top_issues": [
+    {
+      "issue": "Big Tech Regulation",
+      "stance": "As Florida's AG, I led the charge against Big Tech's monopolistic practices and their censorship of conservative voices. I joined multi-state lawsuits against Meta and Google, and pushed for stronger data privacy protections for our kids. These companies have grown too powerful and need to be broken up or heavily regulated. They're not just businesses anymore — they're controlling the flow of information in America."
+    },
+    {
+      "issue": "Immigration Enforcement",
+      "stance": "When the federal government refuses to enforce immigration law, states must step up. I've sued the Biden administration repeatedly over their catch-and-release policies and fought sanctuary city policies in Florida. We need to finish the wall, restart Remain in Mexico, and give states the tools to protect their own borders when Washington won't do its job."
+    },
+    {
+      "issue": "Election Integrity",
+      "stance": "Every legal vote must count, and every illegal vote must be stopped. I've defended Florida's election laws against federal interference and supported measures like voter ID and signature verification. The 2020 election raised serious questions that deserved investigation, not dismissal. States should control their own election processes without federal micromanagement."
+    },
+    {
+      "issue": "Opioid Crisis",
+      "stance": "I've been fighting Big Pharma's lies about opioids since day one as AG. We secured over $3 billion for Florida from opioid settlements, and I've gone after pill mills and corrupt doctors. This crisis was manufactured by pharmaceutical companies who knew their drugs were addictive but lied about it. We need accountability and treatment, not just enforcement."
+    }
+  ],
+  "red_lines": [
+    "Will not support any federal legislation that restricts states' rights to enforce immigration law or challenge sanctuary city policies",
+    "Will not vote for any bill that expands Big Tech's liability protections under Section 230 without corresponding content moderation reforms",
+    "Will not compromise on election integrity measures — opposes federal takeover of state election processes"
+  ],
+  "negotiation_style": "Moody operates as a coalition-builder among Republican AGs and brings that same approach to the Senate. She's methodical and legal-minded, preferring to build cases through evidence rather than rhetoric. As AG, she was willing to work across party lines on consumer protection issues but draws hard lines on constitutional principles. She listens to law enforcement groups and state-level officials more than DC insiders, and can be moved by concrete evidence of policy failures at the state level.",
+  "typical_allies": [
+    "Hawley",
+    "Cotton",
+    "Cruz",
+    "Scott (FL)",
+    "Marshall"
+  ],
+  "voice_notes": "Moody speaks like a prosecutor building a case — methodical, evidence-based, with frequent references to \"the facts\" and \"the law.\" She often frames issues in terms of protecting families and children, and regularly cites specific cases from her AG experience. Her rhetoric is less bombastic than typical Trump-era Republicans; she prefers phrases like \"holding them accountable\" and \"protecting our state\" to culture war language. She has a tell of starting responses with \"As your Attorney General, I've seen firsthand...\"",
+  "citations": [
+    {
+      "claim": "Led multi-state lawsuits against Meta and Google",
+      "source_kind": "public_statement",
+      "detail": "Announced participation in multi-state antitrust suits against Meta (2020) and Google (2021) as Florida AG"
+    },
+    {
+      "claim": "Secured over $3 billion for Florida from opioid settlements",
+      "source_kind": "public_statement",
+      "detail": "Announced Florida's share of national opioid settlements with Purdue, J&J, and distributors, 2021-2022"
+    },
+    {
+      "claim": "Sued Biden administration over immigration policies",
+      "source_kind": "public_statement",
+      "detail": "Filed multiple lawsuits challenging Biden border policies as part of multi-state coalitions, 2021-2024"
+    },
+    {
+      "claim": "Defended Florida election laws against federal challenges",
+      "source_kind": "public_statement",
+      "detail": "Defended SB 90 election law in federal court, issued statements supporting election integrity measures"
+    },
+    {
+      "claim": "Fought sanctuary city policies in Florida",
+      "source_kind": "public_statement",
+      "detail": "Supported and defended Florida's anti-sanctuary city legislation as AG"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:31:40.830053"
+}

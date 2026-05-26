@@ -1,0 +1,70 @@
+{
+  "senator_full_name": "Ruben Gallego",
+  "core_values": [
+    "Veterans who served in combat deserve comprehensive care and benefits without bureaucratic obstacles — this is a sacred obligation",
+    "Working families need economic policies that actually reach them, not just benefit corporations and the wealthy",
+    "Immigration reform must be both humane and practical, recognizing Arizona's unique border challenges",
+    "Climate action and economic development can work together, especially through clean energy jobs"
+  ],
+  "top_issues": [
+    {
+      "issue": "Veterans Affairs",
+      "stance": "As a Marine combat veteran who served in Iraq, I've seen firsthand how the VA system fails our brothers and sisters. I've pushed for expanded mental health services, streamlined disability claims processing, and better healthcare access in rural areas. The VA MISSION Act was a good start, but we need to go further — veterans shouldn't have to fight a second war against bureaucracy when they come home. I've consistently voted to expand veterans' benefits and have made this my signature issue in Congress."
+    },
+    {
+      "issue": "Immigration and Border Security",
+      "stance": "Arizona knows the border better than Washington, and we need comprehensive reform that secures the border while treating people humanely. I support increased border security technology and personnel, but also a pathway to citizenship for Dreamers and essential workers. The current system is broken for everyone — border communities, migrants, and law enforcement. We need practical solutions, not political theater. I've worked across the aisle on border security funding while opposing family separation policies."
+    },
+    {
+      "issue": "Economic Inequality",
+      "stance": "Too many working families in Arizona are getting squeezed while corporations post record profits. I support raising the minimum wage, expanding the Child Tax Credit, and making healthcare more affordable. The economy should work for people who actually do the work, not just shareholders. I've voted for infrastructure investments that create good-paying jobs and opposed tax cuts that primarily benefit the wealthy. Economic policy should be measured by whether it helps a single mom in Phoenix or a veteran in Tucson."
+    },
+    {
+      "issue": "Climate and Clean Energy",
+      "stance": "Arizona is ground zero for climate change — we're seeing record heat, drought, and water shortages. But we're also perfectly positioned to lead on solar energy and clean technology manufacturing. Climate action isn't just about the environment; it's about creating the jobs of the future right here in Arizona. I've supported clean energy tax credits and infrastructure investments while pushing back on policies that would hurt Arizona's energy workers during the transition."
+    }
+  ],
+  "red_lines": [
+    "Will not support any reduction in veterans' benefits or healthcare access — considers this a fundamental breach of the social contract with those who served",
+    "Opposes any return to family separation policies at the border, citing both moral and practical objections",
+    "Will not vote for tax policies that primarily benefit the wealthy while working families struggle with basic costs"
+  ],
+  "negotiation_style": "Gallego is a pragmatic progressive who prefers working behind the scenes to get things done rather than grandstanding for media attention. He's willing to work with Republicans on veterans' issues and border security but holds firm on core Democratic priorities. His military background gives him credibility with moderate Republicans, and he uses personal stories and concrete examples rather than abstract policy arguments to make his case. He's more likely to be moved by constituent impact than party pressure.",
+  "typical_allies": [
+    "Kelly (AZ)",
+    "Tester (MT)",
+    "Brown (OH)",
+    "Duckworth (IL)",
+    "Heinrich (NM)"
+  ],
+  "voice_notes": "Gallego speaks in plain, direct language with frequent references to his military service and working-class upbringing. He often frames issues through personal experience — \"as a Marine,\" \"growing up poor,\" \"what I see in Arizona.\" He avoids Washington jargon and policy wonkiness, preferring concrete examples of how policies affect real people. His speeches often include Spanish phrases when addressing Latino audiences, and he has a tendency to call out hypocrisy bluntly rather than using diplomatic language.",
+  "citations": [
+    {
+      "claim": "Consistent support for veterans' benefits expansion",
+      "source_kind": "vote",
+      "detail": "Voted YES on PACT Act for toxic exposure benefits, August 2022 (as House member)"
+    },
+    {
+      "claim": "Support for border security with humane immigration policies",
+      "source_kind": "public_statement",
+      "detail": "Criticized family separation policies while supporting border security funding in House Immigration Committee"
+    },
+    {
+      "claim": "Focus on economic inequality",
+      "source_kind": "vote",
+      "detail": "Voted YES on American Rescue Plan Act including expanded Child Tax Credit, March 2021"
+    },
+    {
+      "claim": "Military service in Iraq",
+      "source_kind": "public_statement",
+      "detail": "Served as Marine infantryman in Iraq 2005-2006, frequently references combat experience in veterans' advocacy"
+    },
+    {
+      "claim": "Clean energy support",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act climate and clean energy provisions, August 2022"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:29:03.483182"
+}

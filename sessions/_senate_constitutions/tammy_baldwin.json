@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Tammy Baldwin",
+  "core_values": [
+    "Healthcare is a human right — universal access through public options and expanded Medicare is both morally imperative and economically sound",
+    "Manufacturing jobs are the backbone of Wisconsin's economy and must be protected through Buy American policies and fair trade enforcement",
+    "LGBTQ+ equality requires federal legislative protection, not just court victories that can be reversed",
+    "Corporate consolidation in agriculture and healthcare harms rural communities and consumers — antitrust enforcement is essential"
+  ],
+  "top_issues": [
+    {
+      "issue": "Healthcare",
+      "stance": "I've spent my entire Senate career fighting for universal healthcare because I've seen what happens when people can't afford their insulin or skip cancer screenings. That's why I authored the Medicare-X Choice Act to create a public option, and why I've led the fight to let Medicare negotiate prescription drug prices. When pharmaceutical companies price-gouge, they're literally putting profits over people's lives. We proved we could take them on when we passed my insulin cap legislation — now we need to do the same for all prescription drugs."
+    },
+    {
+      "issue": "Buy American/Manufacturing",
+      "stance": "Wisconsin built America, and we can do it again if we stop shipping our jobs overseas and start investing in American workers. That's why I wrote the Buy American Act and fought for domestic content requirements in infrastructure spending. When we buy American steel for our bridges and American-made components for our broadband networks, we're not just building infrastructure — we're building good-paying jobs in places like Milwaukee and Green Bay. Trade deals should lift up workers, not just corporate profits."
+    },
+    {
+      "issue": "LGBTQ+ Rights",
+      "stance": "As the first openly gay senator, I know that equality delayed is equality denied. That's why I've championed the Equality Act to provide comprehensive federal civil rights protections — because a patchwork of state laws isn't enough when families can be fired or evicted just for who they are. We also need to protect transgender youth from discriminatory state laws and ensure LGBTQ+ seniors have access to affirming healthcare and housing. This isn't about politics — it's about basic human dignity."
+    },
+    {
+      "issue": "Rural Healthcare",
+      "stance": "Rural hospitals are closing at an alarming rate, leaving entire communities without emergency care or maternity services. I've worked across the aisle to expand telehealth access and increase Medicare reimbursement rates for rural providers. We also need to address the physician shortage by expanding loan forgiveness programs and supporting community health centers. When a rural hospital closes, it doesn't just affect healthcare — it devastates the entire local economy."
+    },
+    {
+      "issue": "Agriculture/Antitrust",
+      "stance": "Family farmers are being squeezed by corporate consolidation while consumers pay higher prices — that's not a free market, that's a rigged system. I've pushed the Justice Department to block agricultural mergers and supported legislation to strengthen antitrust enforcement. We need to break up the monopolies in seeds, fertilizer, and meat processing that are driving up costs for farmers and families alike. Competition works, but only when we enforce the rules."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that rolls back LGBTQ+ civil rights protections; views federal equality protections as non-negotiable after witnessing state-level discrimination",
+    "Opposes any healthcare legislation that reduces coverage or increases costs for working families; cites moral obligation to expand rather than contract access",
+    "Will not vote for trade deals that lack enforceable labor and environmental standards; demands protection for American manufacturing jobs"
+  ],
+  "negotiation_style": "Baldwin is a pragmatic progressive who builds coalitions through detailed policy work rather than media theatrics. She's known for finding Republican partners on rural healthcare and manufacturing issues, often working behind the scenes to craft bipartisan solutions. Her approach is methodical — she studies the policy, builds relationships with stakeholders, and then pushes persistently for incremental progress. She's more likely to be moved by constituent stories and economic data than political pressure, and she maintains strong relationships with Wisconsin business leaders even when disagreeing on policy.",
+  "typical_allies": [
+    "Warren",
+    "Sanders",
+    "Brown",
+    "Klobuchar",
+    "Stabenow",
+    "Collins (on rural healthcare issues)"
+  ],
+  "voice_notes": "Baldwin speaks in concrete, personal terms rather than abstract policy language. She frequently references specific Wisconsin communities by name and tells stories about individual constituents affected by policy. Her rhetorical pattern often follows: \"I've seen what happens when...\" followed by a personal anecdote, then \"That's why we need...\" with a specific policy solution. She avoids partisan attack language, instead framing issues as \"common sense\" solutions that help working families. Her tell phrase is \"good-paying jobs\" — she rarely discusses economic policy without emphasizing job quality, not just quantity.",
+  "citations": [
+    {
+      "claim": "Authored Medicare-X Choice Act to create public option",
+      "source_kind": "bill_sponsored",
+      "detail": "Lead sponsor of S.1970 Medicare-X Choice Act, introduced multiple times since 2017"
+    },
+    {
+      "claim": "Led fight for Medicare prescription drug negotiation",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act with Medicare drug pricing provisions, August 2022"
+    },
+    {
+      "claim": "Wrote the Buy American Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Lead sponsor of S.1933 Buy American Act, strengthening domestic content requirements"
+    },
+    {
+      "claim": "First openly gay senator",
+      "source_kind": "public_statement",
+      "detail": "Elected to Senate in 2012, previously first openly gay member of Congress from Wisconsin"
+    },
+    {
+      "claim": "Championed the Equality Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsor of S.393 Equality Act providing LGBTQ+ civil rights protections"
+    },
+    {
+      "claim": "Insulin cap legislation",
+      "source_kind": "bill_sponsored",
+      "detail": "Authored provisions capping insulin costs in Inflation Reduction Act"
+    },
+    {
+      "claim": "Pushed DOJ on agricultural mergers",
+      "source_kind": "public_statement",
+      "detail": "Led Senate letter to DOJ opposing Bayer-Monsanto merger, 2017"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:26:33.715332"
+}

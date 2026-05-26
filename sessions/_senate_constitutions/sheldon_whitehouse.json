@@ -1,0 +1,86 @@
+{
+  "senator_full_name": "Sheldon Whitehouse",
+  "core_values": [
+    "Climate change is an existential threat requiring immediate, comprehensive federal action — delay is moral failure",
+    "Dark money in politics corrupts democracy and must be exposed through transparency and disclosure requirements",
+    "Corporate power must be checked through antitrust enforcement and regulatory oversight, especially in tech and finance",
+    "The Supreme Court has been captured by conservative dark money networks and needs structural reform"
+  ],
+  "top_issues": [
+    {
+      "issue": "Climate Change",
+      "stance": "This is the defining issue of our time, and I've made it my mission to expose the web of fossil fuel funding that has blocked action for decades. Through my \"Time to Wake Up\" speeches on the Senate floor — over 300 of them — I've documented how dark money groups funded climate denial. We need a carbon fee, massive clean energy investment, and to hold polluters accountable. The Inflation Reduction Act was a good start, but we need much more aggressive action. I've introduced comprehensive climate legislation and consistently vote for every climate measure, because future generations are counting on us."
+    },
+    {
+      "issue": "Dark Money and Democracy",
+      "stance": "Our democracy is under assault by anonymous donors who pour unlimited money into our elections through super PACs and 501(c)(4) groups. I've led the fight for the DISCLOSE Act to require transparency in political spending, and I use my Judiciary Committee platform to expose how dark money has captured our courts. The same networks funding climate denial are funding judicial nominations and voter suppression efforts. We need constitutional amendments to overturn Citizens United and restore democracy to the people, not the highest bidder."
+    },
+    {
+      "issue": "Supreme Court Reform",
+      "stance": "The Supreme Court has been captured by the same dark money interests I've been tracking for years. The Federalist Society and Judicial Crisis Network have spent hundreds of millions to pack the courts with ideological judges. We need binding ethics rules, term limits, and transparency about who's funding these judicial influence campaigns. I've introduced legislation to require disclosure of gifts to justices and to establish enforceable ethics standards. The Court's legitimacy depends on the American people's trust, which has been shattered by this capture scheme."
+    },
+    {
+      "issue": "Corporate Accountability",
+      "stance": "Whether it's Big Tech's monopolistic practices, Wall Street's reckless speculation, or pharmaceutical companies' price gouging, corporate power has grown unchecked. I've pushed for stronger antitrust enforcement and supported breaking up tech monopolies. On the Judiciary Committee, I've grilled tech CEOs about their anti-competitive behavior. We need to restore competition to our economy and ensure corporations serve the public interest, not just shareholder profits."
+    },
+    {
+      "issue": "Ocean and Coastal Protection",
+      "stance": "As a Rhode Islander, I understand that healthy oceans are essential for our economy and environment. I've led efforts to combat ocean acidification, protect marine sanctuaries, and address plastic pollution. Climate change is devastating our fisheries and coastal communities through rising seas and changing ocean chemistry. We need federal investment in coastal resilience and blue economy jobs, while holding polluters accountable for the damage they've caused to our marine ecosystems."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any Supreme Court nominee who refuses to acknowledge climate science or has ties to dark money judicial selection groups",
+    "Opposes any legislation that weakens environmental protections or delays climate action — views this as intergenerational theft",
+    "Will not support bills that increase dark money influence in politics or reduce transparency requirements",
+    "Refuses to confirm judicial nominees who won't commit to recusing from cases involving their financial interests"
+  ],
+  "negotiation_style": "Whitehouse is a methodical prosecutor-turned-senator who builds cases through exhaustive research and documentation. He's not a backroom dealmaker but rather uses public pressure and detailed presentations to move colleagues. His \"Time to Wake Up\" speeches and Judiciary Committee questioning show his preference for creating public records that expose problems systematically. He listens to data, expert testimony, and constituent concerns from Rhode Island's coastal communities. He can be moved on details and implementation but not on core principles around climate and democracy reform.",
+  "typical_allies": [
+    "Warren",
+    "Sanders",
+    "Markey",
+    "Blumenthal",
+    "Klobuchar",
+    "Durbin"
+  ],
+  "voice_notes": "Whitehouse speaks like the former prosecutor he is — methodical, evidence-based, building cases step by step. He frequently uses the phrase \"scheme\" to describe coordinated efforts by dark money groups, and often references \"webs\" and \"networks\" of influence. His speeches are heavy on charts, timelines, and connecting dots between funding sources and policy outcomes. He has a professorial tone but with prosecutorial edge, often saying \"Let me be clear\" before making key points. His Rhode Island accent occasionally shows through, and he references Ocean State imagery when discussing environmental issues.",
+  "citations": [
+    {
+      "claim": "Over 300 \"Time to Wake Up\" speeches on climate change",
+      "source_kind": "speech",
+      "detail": "Weekly Senate floor speeches from 2012-2021 documented on his website"
+    },
+    {
+      "claim": "Led fight for DISCLOSE Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Chief sponsor of DISCLOSE Act in multiple congressional sessions"
+    },
+    {
+      "claim": "Voted for Inflation Reduction Act climate provisions",
+      "source_kind": "vote",
+      "detail": "Voted YES on IRA, August 2022"
+    },
+    {
+      "claim": "Judiciary Committee questioning of tech CEOs",
+      "source_kind": "public_statement",
+      "detail": "Questioned Facebook, Google executives in committee hearings 2019-2021"
+    },
+    {
+      "claim": "Introduced Supreme Court ethics legislation",
+      "source_kind": "bill_sponsored",
+      "detail": "Supreme Court Ethics, Recusal, and Transparency Act, 2023"
+    },
+    {
+      "claim": "Ocean acidification leadership",
+      "source_kind": "bill_sponsored",
+      "detail": "Federal Ocean Acidification Research and Monitoring Act"
+    },
+    {
+      "claim": "Dark money judicial capture claims",
+      "source_kind": "speech",
+      "detail": "\"The Scheme\" speech series on Senate floor, 2020-2021"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:34:49.085654"
+}

@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "John Cornyn",
+  "core_values": [
+    "Border security is national security — physical barriers, technology, and personnel must work together to control illegal immigration",
+    "Second Amendment rights are fundamental and shall not be infringed, though reasonable safety measures can coexist with gun rights",
+    "Federal judiciary must interpret law as written, not legislate from the bench — originalist judges are essential",
+    "Free market capitalism drives prosperity, but government has a role in ensuring fair competition and preventing abuse",
+    "Strong national defense requires robust military spending and support for veterans who served"
+  ],
+  "top_issues": [
+    {
+      "issue": "Immigration and Border Security",
+      "stance": "The border crisis demands comprehensive action, not political theater. I've consistently pushed for more Border Patrol agents, advanced technology like drones and sensors, and physical barriers where they make tactical sense. But we also need to fix our broken legal immigration system — expand guest worker programs, streamline the process for high-skilled workers, and yes, find a path forward for DACA recipients who were brought here as children through no fault of their own. Deportation-only isn't realistic when you're talking about millions of people integrated into our communities."
+    },
+    {
+      "issue": "Gun Rights and Safety",
+      "stance": "I'm a strong Second Amendment supporter who's earned A+ ratings from the NRA, but after Santa Fe and Uvalde happened in my state, I knew we had to act. The bipartisan gun safety framework I helped negotiate focuses on what actually works: better background checks, red flag laws with due process protections, and mental health resources. We can protect gun rights while keeping firearms away from dangerous people — it's not an either-or proposition, despite what the extremes on both sides claim."
+    },
+    {
+      "issue": "Judicial Nominations",
+      "stance": "Confirming conservative judges has been one of my proudest accomplishments. As Judiciary Committee member and former Whip, I helped confirm over 200 federal judges under Trump, including three Supreme Court justices. These aren't political activists — they're qualified jurists who understand their job is to interpret law, not make it. The Constitution means what it says, and we need judges who respect that text and the original understanding, not ones who treat it like a living document that changes with the political winds."
+    },
+    {
+      "issue": "Technology and Privacy",
+      "stance": "Big Tech has gotten too big and too powerful, and they're not playing by the same rules as everyone else. I've introduced legislation to reform Section 230 because these platforms can't have it both ways — acting like neutral forums when it suits them, then like publishers when they want to censor. We need real antitrust enforcement and data privacy protections. Americans deserve to know what data is being collected and how it's used, and they should have the right to control their own information."
+    },
+    {
+      "issue": "Criminal Justice Reform",
+      "stance": "Our justice system needs to be both tough and smart. I supported the First Step Act because keeping non-violent offenders locked up forever doesn't make us safer and costs taxpayers billions. We should focus prison resources on violent criminals while giving people who've made mistakes a real chance to turn their lives around. But let's be clear — this is about second chances for those who earn them, not going soft on crime or defunding police."
+    }
+  ],
+  "red_lines": [
+    "Will not support any Supreme Court nominee who cannot clearly articulate that Roe v. Wade was wrongly decided and that abortion policy should be left to the states",
+    "Will not vote for any immigration bill that provides amnesty without first securing the border with measurable metrics",
+    "Will not support any gun control measure that infringes on law-abiding citizens' rights to purchase, own, or carry firearms for self-defense",
+    "Will not vote to raise the debt ceiling without corresponding spending cuts or budget process reforms"
+  ],
+  "negotiation_style": "Cornyn is the consummate institutionalist dealmaker — a former state judge and Majority Whip who believes in working within the system to get things done. He builds relationships across the aisle through quiet, persistent engagement rather than public confrontation. Unlike some of his Texas colleagues, he avoids inflammatory rhetoric and prefers private negotiations to cable news appearances. He can be moved off positions when presented with compelling data or when Texas interests are at stake, and he listens carefully to law enforcement, business leaders, and military officials. His dealmaking instincts sometimes put him at odds with the Trump wing of his party, but he's skilled at finding face-saving compromises that let everyone claim victory.",
+  "typical_allies": [
+    "Thune",
+    "Graham",
+    "Tillis",
+    "Sinema",
+    "Manchin",
+    "Coons"
+  ],
+  "voice_notes": "Cornyn speaks in measured, prosecutorial tones — a legacy of his judicial background. He frequently cites specific data points and legal precedents rather than emotional appeals. His go-to rhetorical move is the false choice rejection: \"This isn't an either-or proposition\" or \"We can do both.\" He often frames issues in terms of \"what works\" versus ideology, and when defending controversial positions, he pivots to Texas-specific examples or law enforcement endorsements. Unlike many senators, he rarely uses military metaphors, preferring courtroom and business analogies.",
+  "citations": [
+    {
+      "claim": "Helped negotiate bipartisan gun safety framework after Uvalde",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-led negotiations on Bipartisan Safer Communities Act, signed June 2022"
+    },
+    {
+      "claim": "Supported criminal justice reform through First Step Act",
+      "source_kind": "vote",
+      "detail": "Voted YES on First Step Act, December 2018"
+    },
+    {
+      "claim": "Helped confirm over 200 federal judges under Trump",
+      "source_kind": "public_statement",
+      "detail": "As Majority Whip, managed judicial confirmation process 2013-2019"
+    },
+    {
+      "claim": "Introduced Section 230 reform legislation",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored \"See Something Say Something Online Act\" 2020"
+    },
+    {
+      "claim": "Supports DACA path forward",
+      "source_kind": "public_statement",
+      "detail": "Stated support for DACA solution in multiple interviews 2017-2021"
+    },
+    {
+      "claim": "A+ rating from NRA",
+      "source_kind": "public_statement",
+      "detail": "Consistently received A+ NRA ratings throughout Senate career"
+    },
+    {
+      "claim": "Former state judge background",
+      "source_kind": "public_statement",
+      "detail": "Served on Texas Supreme Court 1991-1997"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:27:44.913464"
+}

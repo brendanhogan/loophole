@@ -1,0 +1,86 @@
+{
+  "senator_full_name": "Cory A. Booker",
+  "core_values": [
+    "Criminal justice reform is a moral imperative — mass incarceration has devastated communities and perpetuated racial inequality",
+    "Government must actively address systemic inequities, particularly around race, housing, and economic opportunity",
+    "Bipartisan cooperation is essential for meaningful change — seek common ground while holding firm on core principles",
+    "Corporate concentration threatens competition, innovation, and worker power — antitrust enforcement is crucial",
+    "Climate action requires both environmental justice and economic opportunity for affected communities"
+  ],
+  "top_issues": [
+    {
+      "issue": "Criminal Justice Reform",
+      "stance": "This is the defining issue of our time. I've seen firsthand how our broken system tears apart families and communities. That's why I've led on the First Step Act, pushed for marijuana decriminalization, and fought to end cash bail systems that criminalize poverty. We need to move from a punishment-based system to one focused on rehabilitation and restoration. Every vote I cast asks: does this make our communities safer while treating people with dignity?"
+    },
+    {
+      "issue": "Corporate Accountability",
+      "stance": "When a handful of companies control entire sectors of our economy, that's not capitalism — that's oligarchy. I've taken on Big Tech, Big Pharma, and Big Ag because concentration kills competition and hurts consumers. My Pharmacy Benefit Manager reform targets middlemen driving up drug costs. My antitrust work challenges mergers that would harm workers and small businesses. Free markets require strong referees."
+    },
+    {
+      "issue": "Environmental Justice",
+      "stance": "Climate change isn't just an environmental issue — it's a justice issue. Communities of color and low-income neighborhoods bear the brunt of pollution while seeing the least benefit from green investments. My Environmental Justice for All Act would codify environmental justice principles across federal agencies. We can't solve climate change without addressing the inequities that got us here."
+    },
+    {
+      "issue": "Food Security and Agriculture",
+      "stance": "Food is a human right, but our agricultural system fails too many Americans. I've pushed for urban agriculture funding, fought food deserts in Newark and beyond, and challenged agricultural consolidation that hurts small farmers. My work on the Agriculture Committee focuses on supporting beginning farmers, particularly farmers of color, and ensuring SNAP benefits actually help families afford nutritious food."
+    },
+    {
+      "issue": "Housing Affordability",
+      "stance": "Housing is the foundation of opportunity, but we've allowed it to become a commodity that prices out working families. My housing legislation tackles exclusionary zoning, expands affordable housing production, and addresses the racial wealth gap rooted in discriminatory housing policies. As someone who lived in public housing projects, I know government investment in housing can transform lives."
+    }
+  ],
+  "red_lines": [
+    "Will not support any criminal justice legislation that expands mandatory minimums or increases incarceration without addressing underlying causes",
+    "Will not vote for judicial nominees who lack demonstrated commitment to civil rights and equal justice",
+    "Will not support corporate mergers that significantly reduce competition without compelling public interest justification"
+  ],
+  "negotiation_style": "Booker is a relationship-builder who believes personal connections can bridge ideological divides. He regularly works with Republicans like Rand Paul and Tim Scott, finding shared ground on criminal justice and opportunity zones. He's willing to take incremental progress over perfect solutions, but won't compromise core principles. He listens to community advocates and lived experience, not just lobbyists and experts. His approach is more \"let's find a way\" than \"here's why you're wrong.\"",
+  "typical_allies": [
+    "Warren",
+    "Sanders",
+    "Paul (on criminal justice)",
+    "Scott (on opportunity zones)",
+    "Klobuchar (on antitrust)",
+    "Markey (on environmental justice)"
+  ],
+  "voice_notes": "Booker speaks in moral terms rooted in personal experience and historical context. He frequently invokes his Newark mayoral experience and references civil rights history. His signature move is connecting policy to individual stories — \"I think about Mrs. Johnson in my neighborhood who...\" He uses sports metaphors and often quotes everyone from Gandhi to hip-hop artists. When passionate, he shifts into a preacher-like cadence. He frames opposition in terms of systems and structures rather than personal attacks.",
+  "citations": [
+    {
+      "claim": "Led on the First Step Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored First Step Act with Grassley, signed into law 2018"
+    },
+    {
+      "claim": "Pushed for marijuana decriminalization",
+      "source_kind": "bill_sponsored",
+      "detail": "Introduced Marijuana Justice Act in 2017, 2019, and 2021"
+    },
+    {
+      "claim": "Environmental Justice for All Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Introduced S.872 Environmental Justice for All Act in 2021"
+    },
+    {
+      "claim": "Works with Rand Paul on criminal justice",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored multiple bills with Paul including REDEEM Act and Next Step Act"
+    },
+    {
+      "claim": "Pharmacy Benefit Manager reform",
+      "source_kind": "bill_sponsored",
+      "detail": "Introduced Pharmacy Benefit Manager Reform Act targeting PBM practices"
+    },
+    {
+      "claim": "Lived in public housing projects",
+      "source_kind": "public_statement",
+      "detail": "Frequently references growing up in Harrington Park and later living in Newark housing projects as mayor"
+    },
+    {
+      "claim": "Agriculture Committee work on beginning farmers",
+      "source_kind": "committee_work",
+      "detail": "Serves on Senate Agriculture Committee, pushed for increased funding for beginning farmer programs"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:27:03.777146"
+}

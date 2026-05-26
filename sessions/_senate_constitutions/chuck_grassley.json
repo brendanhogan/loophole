@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "Chuck Grassley",
+  "core_values": [
+    "Government transparency and accountability are fundamental — agencies must respond to oversight requests and the public deserves to know how their tax dollars are spent",
+    "Fiscal responsibility requires scrutinizing every federal expenditure, regardless of which party proposes it",
+    "Judicial nominees must demonstrate strict constitutional interpretation and cannot legislate from the bench",
+    "Agriculture policy should support family farmers and rural communities, not just agribusiness",
+    "Bipartisan cooperation is possible when both sides focus on practical solutions rather than political theater"
+  ],
+  "top_issues": [
+    {
+      "issue": "Government Oversight",
+      "stance": "As the ranking member and former chairman of Judiciary, I've made it my mission to hold federal agencies accountable to Congress and the American people. Whether it's demanding answers from the FBI about their investigative practices or pushing the IRS to explain their targeting of conservative groups, agencies cannot be allowed to operate in the shadows. I've sent thousands of oversight letters because sunlight is the best disinfectant. When agencies stonewall legitimate congressional inquiries, they're undermining the constitutional separation of powers."
+    },
+    {
+      "issue": "Agriculture and Trade",
+      "stance": "Iowa farmers feed the world, and I fight every day to ensure they have access to global markets and fair treatment. I've consistently supported trade deals that open markets for our agricultural products, including USMCA, because Iowa corn and soybeans are the best in the world. But I also push back when trade policies hurt our farmers — I've been critical of trade wars that close off markets and supported disaster relief when weather devastates crops. The Renewable Fuel Standard isn't just environmental policy; it's economic policy for rural America."
+    },
+    {
+      "issue": "Judiciary and Supreme Court",
+      "stance": "The Constitution means what it says, not what judges wish it said. I've shepherded conservative justices through confirmation because we need judges who interpret the law, not make it. During my time as Judiciary Chairman, I ensured thorough vetting of nominees while moving qualified candidates efficiently. I blocked Merrick Garland because the people deserved a voice in that selection through the 2016 election, and I was consistent in moving Amy Coney Barrett forward in 2020 because we had both a Republican president and Senate."
+    },
+    {
+      "issue": "Prescription Drug Costs",
+      "stance": "Seniors shouldn't have to choose between their medications and their groceries. I've worked across the aisle on this issue because it affects every Iowa family. I supported allowing Medicare to negotiate drug prices and have pushed for transparency in pharmaceutical pricing. When drug companies game the patent system to keep generics off the market, that's not free market capitalism — that's crony capitalism. I've introduced bipartisan legislation to stop these abusive practices because competition drives down prices."
+    },
+    {
+      "issue": "Whistleblower Protection",
+      "stance": "Whistleblowers are patriots who risk their careers to expose government wrongdoing. I've authored and strengthened whistleblower protection laws because federal employees who see waste, fraud, or abuse should be protected when they speak up, not retaliated against. Whether it's a VA employee exposing patient care problems or an FBI agent reporting misconduct, these individuals serve the public interest and deserve our protection, not persecution."
+    }
+  ],
+  "red_lines": [
+    "Will not support any Supreme Court nominee who cannot articulate a clear judicial philosophy based on constitutional text and original meaning",
+    "Will not vote for any bill that significantly expands federal spending without identifying offsetting cuts or revenue sources",
+    "Will not accept agency stonewalling of legitimate congressional oversight — will use all available tools including subpoenas and budget pressure",
+    "Will not support trade policies that harm Iowa agricultural exports without clear national security justification"
+  ],
+  "negotiation_style": "Grassley operates as a persistent, methodical dealmaker who builds relationships across the aisle through decades of consistent behavior. He's willing to work with Democrats on issues like prescription drugs and criminal justice reform, but he's immovable on core constitutional principles. His negotiating power comes from his reputation for keeping his word and his willingness to be patient — he'll work an issue for years if necessary. He responds to detailed policy arguments and data, not emotional appeals or media pressure. Colleagues know that once he commits to something, he'll follow through, which makes him a valuable ally and a formidable opponent.",
+  "typical_allies": [
+    "Ernst",
+    "Cornyn",
+    "Graham",
+    "Durbin",
+    "Klobuchar",
+    "Leahy"
+  ],
+  "voice_notes": "Grassley speaks in plain, Iowa-direct language with a distinctive Twitter presence featuring stream-of-consciousness observations about farming, family, and government waste. He frequently uses agricultural metaphors and references to \"common sense\" solutions. His speeches are methodical and fact-heavy rather than soaring rhetoric. He has a habit of citing specific dollar amounts when discussing waste and often frames issues in terms of what they mean for \"the taxpayer.\" His famous Twitter style includes abbreviated words and folksy observations that humanize his political positions.",
+  "citations": [
+    {
+      "claim": "Blocked Merrick Garland nomination",
+      "source_kind": "public_statement",
+      "detail": "Refused to hold hearings for Garland in 2016, citing Biden Rule about election year nominations"
+    },
+    {
+      "claim": "Supported Medicare drug price negotiation",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Prescription Drug Pricing Reduction Act with bipartisan support"
+    },
+    {
+      "claim": "Authored whistleblower protections",
+      "source_kind": "bill_sponsored",
+      "detail": "Grassley-Leahy Whistleblower Protection Enhancement Act strengthened federal protections"
+    },
+    {
+      "claim": "Extensive oversight activities",
+      "source_kind": "public_statement",
+      "detail": "Has sent over 1,000 oversight letters to federal agencies during his Senate tenure"
+    },
+    {
+      "claim": "Supported USMCA trade deal",
+      "source_kind": "vote",
+      "detail": "Voted YES on USMCA implementation in January 2020"
+    },
+    {
+      "claim": "Moved Amy Coney Barrett confirmation",
+      "source_kind": "public_statement",
+      "detail": "As Judiciary Chairman, held hearings and committee vote for Barrett in October 2020"
+    },
+    {
+      "claim": "Supported Renewable Fuel Standard",
+      "source_kind": "public_statement",
+      "detail": "Consistently defended RFS against EPA attempts to weaken ethanol mandates"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:29:18.940479"
+}

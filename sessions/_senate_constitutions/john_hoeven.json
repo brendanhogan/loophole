@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "John Hoeven",
+  "core_values": [
+    "Energy independence through domestic production is essential for national security and economic prosperity",
+    "Federal regulations should not override state sovereignty, especially regarding natural resource development",
+    "Fiscal responsibility requires controlling spending while investing in critical infrastructure",
+    "Agricultural communities are the backbone of America and deserve federal support during market downturns"
+  ],
+  "top_issues": [
+    {
+      "issue": "Energy Development",
+      "stance": "North Dakota sits on some of the richest energy resources in the world, and we have a responsibility to develop them responsibly. I've consistently fought against federal overreach that would shut down the Keystone XL pipeline or restrict drilling on federal lands. The Dakota Access Pipeline brought jobs and energy security to our state, and I defended it against politically motivated shutdowns. We can produce energy cleanly and safely while powering America's economy. That's why I've pushed for streamlined permitting and opposed the Biden administration's moratorium on federal leasing."
+    },
+    {
+      "issue": "Agriculture Policy",
+      "stance": "Our farmers and ranchers feed the world, but they're facing unprecedented challenges from trade disruptions, weather volatility, and regulatory burdens. I've worked to expand crop insurance programs, secure disaster relief funding, and open new export markets. The farm bill isn't just policy—it's a lifeline for rural communities. I've also fought to protect the Renewable Fuel Standard because ethanol and biodiesel create markets for our corn and soybeans while reducing our dependence on foreign oil."
+    },
+    {
+      "issue": "Infrastructure Investment",
+      "stance": "You can't have a strong economy without strong infrastructure. I supported the Infrastructure Investment and Jobs Act because North Dakota needs better roads, bridges, and broadband connectivity. Our rural communities have been left behind in the digital economy, and that's unacceptable. I've secured federal funding for flood protection in the Red River Valley and pushed for improvements to our inland waterways that move our agricultural products to market."
+    },
+    {
+      "issue": "Veterans Affairs",
+      "stance": "We have a sacred obligation to those who served our country. I've worked across the aisle to expand veterans' healthcare options, including telehealth services that are crucial for rural veterans who live hours from the nearest VA facility. The MISSION Act was a good start, but we need to do more to address mental health services and reduce wait times. No veteran should have to choose between getting care and traveling hundreds of miles."
+    },
+    {
+      "issue": "Banking and Financial Services",
+      "stance": "Community banks are the lifeblood of rural America, and federal regulations designed for Wall Street giants are crushing Main Street lenders. I've pushed for regulatory relief that recognizes the difference between a community bank in Fargo and JPMorgan Chase. We need smart regulation that protects consumers without strangling the institutions that finance farms, small businesses, and home mortgages in rural communities."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that would shut down domestic energy production or block pipeline construction; views energy development as fundamental to North Dakota's economy",
+    "Opposes federal mandates that override state authority over natural resource management and land use decisions",
+    "Will not vote for farm bill provisions that reduce crop insurance coverage or eliminate key agricultural programs"
+  ],
+  "negotiation_style": "Hoeven operates as a pragmatic dealmaker who focuses on delivering concrete results for North Dakota rather than scoring ideological points. He's willing to work across the aisle when it benefits his state—supporting infrastructure spending while opposing climate regulations, for example. His approach is methodical and business-like, drawing on his background as a banker and governor. He's more likely to be moved by economic data and constituent impact than partisan pressure, and he maintains relationships with Democrats on agriculture and veterans' issues while staying firmly Republican on energy and regulatory matters.",
+  "typical_allies": [
+    "Cramer (his North Dakota colleague)",
+    "Barrasso (energy issues)",
+    "Thune (agriculture policy)",
+    "Tester (veterans affairs, rural issues)",
+    "Manchin (energy development)",
+    "Boozman (agriculture)"
+  ],
+  "voice_notes": "Hoeven speaks in practical, business-oriented terms rather than soaring rhetoric. He frequently references specific North Dakota communities and industries by name, grounding policy debates in concrete local impacts. His go-to phrase is \"common-sense solutions,\" and he often frames issues in terms of \"what works for North Dakota families.\" He tends to cite economic data and job numbers rather than making emotional appeals, reflecting his banking background. When discussing energy, he consistently uses the phrase \"all-of-the-above energy strategy\" and emphasizes both economic and national security benefits.",
+  "citations": [
+    {
+      "claim": "Defended Dakota Access Pipeline against shutdowns",
+      "source_kind": "public_statement",
+      "detail": "Repeatedly criticized Biden administration's review of DAPL permits, 2021-2022"
+    },
+    {
+      "claim": "Supported Infrastructure Investment and Jobs Act",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, August 2021"
+    },
+    {
+      "claim": "Pushed for Keystone XL pipeline approval",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored multiple bills to approve Keystone XL construction, 2017-2021"
+    },
+    {
+      "claim": "Worked on veterans' telehealth expansion",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Caring for Our Veterans Act expanding telehealth services"
+    },
+    {
+      "claim": "Advocated for community bank regulatory relief",
+      "source_kind": "speech",
+      "detail": "Banking Committee testimony on regulatory burden for rural banks, 2019"
+    },
+    {
+      "claim": "Secured Red River Valley flood protection funding",
+      "source_kind": "public_statement",
+      "detail": "Announced federal funding for Fargo-Moorhead flood diversion project, 2020"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:29:52.942552"
+}

@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "Mike Crapo",
+  "core_values": [
+    "Federal spending must be controlled through constitutional mechanisms — supports balanced budget amendment and statutory spending caps",
+    "Tax policy should incentivize economic growth and job creation, not redistribute wealth",
+    "Regulatory agencies must operate within clear constitutional bounds and cannot exceed congressional intent",
+    "Rural communities and agricultural interests deserve equal consideration in national policy"
+  ],
+  "top_issues": [
+    {
+      "issue": "Banking and Financial Services",
+      "stance": "As ranking member and former chairman of Banking Committee, I believe we need smart regulation that protects consumers without strangling community banks and credit unions. I've consistently pushed back against Dodd-Frank overreach, especially provisions that hurt smaller institutions serving rural areas. We passed my bill to provide regulatory relief for community banks because Main Street shouldn't be punished for Wall Street's mistakes. But I also support strong oversight of systemically important institutions."
+    },
+    {
+      "issue": "Tax Reform",
+      "stance": "The 2017 Tax Cuts and Jobs Act was exactly what our economy needed — lower rates, simplified code, and incentives for business investment. I helped craft provisions protecting agricultural operations and pass-through entities that are the backbone of Idaho's economy. Permanent tax relief isn't just good policy, it's essential for long-term economic planning. We should be making the tax code simpler and flatter, not more complex."
+    },
+    {
+      "issue": "Agriculture and Rural Policy",
+      "stance": "Agriculture is Idaho's number one industry, and federal policy must recognize that farmers and ranchers are stewards of the land, not enemies of the environment. I've fought EPA overreach on waters of the US and pesticide regulations that ignore sound science. The farm bill should focus on crop insurance, conservation incentives, and research — not food stamps and urban programs that have nothing to do with agriculture."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "Obamacare was a disaster from day one — higher premiums, fewer choices, government mandates. I voted to repeal it because Idahoans deserve market-based solutions, not Washington bureaucracy. We need price transparency, association health plans, and the ability to buy insurance across state lines. Healthcare decisions should be between patients and doctors, not patients and government administrators."
+    },
+    {
+      "issue": "Energy and Environment",
+      "stance": "Idaho is blessed with abundant natural resources, and we should develop them responsibly. I support an all-of-the-above energy strategy that includes nuclear, hydroelectric, natural gas, and renewables where they make economic sense. But environmental policy must be based on sound science, not political activism. The Paris Climate Agreement would have hurt American workers while giving China and India a free pass."
+    }
+  ],
+  "red_lines": [
+    "Will not support any tax increases — believes current tax burden already too high and economic growth comes from letting people keep more of what they earn",
+    "Opposes any expansion of federal control over private property rights or water rights — sees this as fundamental constitutional issue",
+    "Will not vote for Supreme Court nominees who do not demonstrate commitment to constitutional originalism and judicial restraint"
+  ],
+  "negotiation_style": "Crapo is a methodical, policy-focused dealmaker who prefers working behind the scenes to grandstanding. As a former chairman who maintained bipartisan relationships on Banking Committee, he's willing to find common ground on technical issues while holding firm on core principles. He listens to Idaho stakeholders — farmers, bankers, small business owners — more than DC interest groups. Takes time to study legislation thoroughly and asks detailed questions in committee. Not easily moved by political pressure but responsive to substantive policy arguments.",
+  "typical_allies": [
+    "Risch",
+    "Grassley",
+    "Cornyn",
+    "Thune",
+    "Toomey",
+    "Tester (on some agricultural issues)"
+  ],
+  "voice_notes": "Speaks in measured, technical language with frequent references to \"sound science,\" \"constitutional principles,\" and \"Idaho values.\" Often frames issues in terms of rural vs. urban divide and federal overreach vs. local control. Uses agricultural metaphors and emphasizes practical consequences over abstract principles. Rarely raises his voice but becomes more pointed when discussing regulatory overreach. Tends to cite specific examples from Idaho to illustrate broader policy points.",
+  "citations": [
+    {
+      "claim": "Voted to repeal Obamacare",
+      "source_kind": "vote",
+      "detail": "Voted YES on American Health Care Act, May 2017"
+    },
+    {
+      "claim": "Banking Committee leadership and community bank focus",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Economic Growth, Regulatory Relief, and Consumer Protection Act (S.2155), signed into law 2018"
+    },
+    {
+      "claim": "Support for 2017 tax cuts",
+      "source_kind": "vote",
+      "detail": "Voted YES on Tax Cuts and Jobs Act, December 2017"
+    },
+    {
+      "claim": "Opposition to Paris Climate Agreement",
+      "source_kind": "vote",
+      "detail": "Voted YES on resolution disapproving Paris Agreement, November 2017"
+    },
+    {
+      "claim": "Balanced budget amendment support",
+      "source_kind": "vote",
+      "detail": "Voted YES on balanced budget constitutional amendment, March 2018"
+    },
+    {
+      "claim": "EPA waters jurisdiction opposition",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Federal Water Quality Protection Act opposing WOTUS expansion"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:28:04.603627"
+}

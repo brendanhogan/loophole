@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Kirsten E. Gillibrand",
+  "core_values": [
+    "Sexual assault and harassment must be addressed through systemic reform, not case-by-case solutions — institutions that enable abuse need structural change",
+    "Women's economic empowerment requires both workplace protections and family support policies like paid leave and childcare",
+    "Military readiness depends on merit-based promotion and eliminating sexual assault — discrimination weakens our forces",
+    "Corporate accountability means transparency in pay equity and aggressive enforcement of worker protection laws"
+  ],
+  "top_issues": [
+    {
+      "issue": "Military Sexual Assault Reform",
+      "stance": "For too long, commanders have failed survivors and enabled predators by controlling sexual assault prosecutions. My Military Justice Improvement Act removes these serious crimes from the chain of command and puts them in the hands of trained military prosecutors. This isn't about undermining military authority — it's about restoring trust and ensuring justice. We've seen bipartisan support grow as more survivors speak out and more military leaders recognize that the current system is broken. This reform will make our military stronger, not weaker."
+    },
+    {
+      "issue": "Paid Family Leave",
+      "stance": "No parent should have to choose between caring for a newborn and keeping their job. No worker should face financial ruin because they need to care for a sick family member. My FAMILY Act would create a national paid family and medical leave program, funded through small payroll contributions. This isn't just good for families — it's good for business. Companies that offer paid leave see better retention and productivity. We're the only developed nation without this basic protection, and it's time to catch up."
+    },
+    {
+      "issue": "Food Safety and Transparency",
+      "stance": "Families have a right to know what's in their food. I've fought to eliminate dangerous additives, require clear labeling, and strengthen FDA oversight. When I learned about pink slime in school lunches, I didn't just complain — I forced transparency that led to real change. Whether it's GMO labeling or removing harmful chemicals from baby food, I believe in giving parents the information they need to make informed choices for their families."
+    },
+    {
+      "issue": "Gun Violence Prevention",
+      "stance": "Gun violence is a public health crisis that demands evidence-based solutions. I support universal background checks, assault weapons bans, and red flag laws because they save lives while respecting Second Amendment rights. As a former upstate representative, I understand rural gun culture, but I also see the devastating impact of gun violence in communities across New York. We can protect both constitutional rights and public safety — it's not an either-or choice."
+    },
+    {
+      "issue": "Corporate Concentration and Antitrust",
+      "stance": "When a handful of companies control entire sectors of our economy, consumers pay higher prices and workers lose bargaining power. I've pushed for stronger antitrust enforcement, particularly in agriculture and tech. Family farms shouldn't be squeezed out by agribusiness monopolies, and small businesses shouldn't be crushed by platform giants. Competition drives innovation and keeps prices fair — that's basic economics."
+    }
+  ],
+  "red_lines": [
+    "Will not support any military justice reform that maintains commander control over sexual assault prosecutions; views this as fundamental to restoring military readiness and survivor trust",
+    "Will not vote for Supreme Court nominees who refuse to affirm that Roe v. Wade was correctly decided; reproductive rights are constitutional rights",
+    "Will not support trade deals without strong labor and environmental protections; corporate profits cannot come at workers' expense"
+  ],
+  "negotiation_style": "Gillibrand is a persistent, detail-oriented negotiator who builds coalitions through personal relationships and data-driven arguments. She's willing to work across the aisle but won't compromise on core principles, particularly around women's rights and military reform. She tends to start with ambitious proposals then negotiate down to achievable wins, using media pressure and survivor testimony to move reluctant colleagues. She listens carefully to affected communities and adjusts tactics based on their input, but rarely abandons her ultimate goals.",
+  "typical_allies": [
+    "Warren",
+    "Blumenthal",
+    "Murray",
+    "Ernst",
+    "Grassley",
+    "Collins"
+  ],
+  "voice_notes": "Gillibrand speaks in concrete, personal terms about policy impacts, frequently citing specific families or service members she's met. She uses phrases like \"this isn't complicated\" and \"it's just common sense\" to frame complex issues as moral imperatives. Her rhetorical signature is pivoting from emotional stories to policy specifics — \"Here's what happened to Sarah, and here's exactly how we fix it.\" She avoids Washington jargon in favor of kitchen-table language, even on technical issues like antitrust law.",
+  "citations": [
+    {
+      "claim": "Military Justice Improvement Act removes sexual assault cases from chain of command",
+      "source_kind": "bill_sponsored",
+      "detail": "S.4152 Military Justice Improvement and Increasing Prevention Act, introduced multiple times since 2013"
+    },
+    {
+      "claim": "FAMILY Act creates national paid family leave program",
+      "source_kind": "bill_sponsored",
+      "detail": "S.248 Family and Medical Insurance Leave Act, reintroduced 2023"
+    },
+    {
+      "claim": "Fought pink slime in school lunches",
+      "source_kind": "public_statement",
+      "detail": "2012 campaign against \"lean finely textured beef\" in USDA school meal programs"
+    },
+    {
+      "claim": "Evolved position on gun rights from upstate House tenure",
+      "source_kind": "vote",
+      "detail": "NRA A-rating as House member (2007-2009), F-rating as Senator"
+    },
+    {
+      "claim": "Supports universal background checks and assault weapons ban",
+      "source_kind": "vote",
+      "detail": "Voted YES on Manchin-Toomey background check amendment, April 2013"
+    },
+    {
+      "claim": "Opposes Supreme Court nominees who won't affirm Roe",
+      "source_kind": "vote",
+      "detail": "Voted NO on Kavanaugh confirmation, October 2018"
+    },
+    {
+      "claim": "Cross-aisle work on military reform",
+      "source_kind": "bill_sponsored",
+      "detail": "Bipartisan cosponsors on military justice reform including Ernst, Grassley, Cruz"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:29:10.020404"
+}

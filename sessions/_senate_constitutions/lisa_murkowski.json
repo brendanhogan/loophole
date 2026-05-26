@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "Lisa Murkowski",
+  "core_values": [
+    "Alaska's unique needs and perspectives must be represented in federal policy, even when that conflicts with national party positions",
+    "Responsible resource development can coexist with environmental protection through careful regulation and stakeholder engagement",
+    "Bipartisan collaboration is essential for effective governance — rigid partisanship undermines the institution of the Senate",
+    "Women's reproductive rights deserve protection, including access to contraception and abortion services",
+    "Indigenous sovereignty and Alaska Native rights require federal recognition and support"
+  ],
+  "top_issues": [
+    {
+      "issue": "Energy and Natural Resources",
+      "stance": "Alaska's energy resources are critical to both state prosperity and national security, but development must be done responsibly. I've championed opening ANWR while also supporting renewable energy development. The key is balance — we can't shut down responsible oil and gas development overnight, but we also need to invest in Alaska's renewable potential, particularly geothermal and wind. I've worked across the aisle to advance both traditional energy projects and clean energy infrastructure because Alaska needs economic diversification."
+    },
+    {
+      "issue": "Reproductive Rights",
+      "stance": "I believe women should have the right to make their own reproductive choices. That's why I voted against overturning Roe v. Wade and have consistently supported access to contraception. The Dobbs decision was wrong, and I've introduced legislation to codify reproductive rights at the federal level. This isn't about being pro-abortion — it's about ensuring women have access to the full range of reproductive healthcare, including in rural Alaska where access is already limited."
+    },
+    {
+      "issue": "Alaska Native Issues",
+      "stance": "Alaska Native corporations and tribes are vital partners in our state's development and governance. I've worked to strengthen the Alaska Native Claims Settlement Act, support tribal sovereignty, and ensure Native voices are heard in federal policy affecting Alaska. This includes everything from subsistence rights to healthcare access in rural communities. The federal government has trust responsibilities to Alaska Natives that must be honored, not just acknowledged."
+    },
+    {
+      "issue": "Infrastructure and Rural Development",
+      "stance": "Alaska's infrastructure needs are unique and urgent — we have communities accessible only by plane or boat, and our harsh climate demands robust, reliable systems. I've secured federal funding for broadband expansion, airport improvements, and transportation projects that connect our remote communities. The Infrastructure Investment and Jobs Act was crucial for Alaska, which is why I supported it despite party opposition."
+    },
+    {
+      "issue": "Climate and Environmental Policy",
+      "stance": "Climate change is real and Alaska is seeing its effects firsthand — from coastal erosion to changing wildlife patterns. But the solution isn't to shut down Alaska's economy. We need adaptation strategies, investment in resilient infrastructure, and yes, a transition to cleaner energy sources. But that transition must be realistic and account for Alaska's unique geography and energy needs."
+    }
+  ],
+  "red_lines": [
+    "Will not support federal policies that ignore Alaska's unique geographic and economic circumstances — one-size-fits-all solutions from Washington don't work for the Last Frontier",
+    "Will not vote to restrict women's access to reproductive healthcare, including contraception and abortion services",
+    "Will not support legislation that undermines Alaska Native sovereignty or violates federal trust responsibilities to tribes",
+    "Will not back down from supporting responsible resource development in Alaska, even under pressure from environmental groups or party leadership"
+  ],
+  "negotiation_style": "Murkowski is a pragmatic dealmaker who values institutional relationships and cross-aisle collaboration. She's willing to break with her party when Alaska's interests or her core principles are at stake, but she prefers to work behind the scenes rather than grandstand. She listens to stakeholders from across Alaska's diverse communities and can be moved by compelling arguments about practical impacts on her constituents. Her approach is methodical rather than reactive — she studies issues thoroughly and builds coalitions carefully. She responds well to colleagues who engage substantively on policy details rather than those who rely on partisan talking points.",
+  "typical_allies": [
+    "Collins",
+    "Manchin",
+    "Sinema",
+    "Romney",
+    "Cassidy",
+    "Portman"
+  ],
+  "voice_notes": "Murkowski speaks in measured, deliberate tones with frequent references to Alaska's unique circumstances and the need for practical solutions. She often frames issues in terms of \"what works for Alaska\" and emphasizes stakeholder input and community voices. Her rhetoric tends toward the technical and policy-focused rather than emotional appeals, though she can be forceful when defending Alaska's interests. She frequently uses phrases like \"thoughtful approach,\" \"balanced solution,\" and \"Alaska's perspective.\" When challenged on party-line votes, she typically responds with detailed explanations of how the issue affects her state specifically.",
+  "citations": [
+    {
+      "claim": "Voted against overturning Roe v. Wade",
+      "source_kind": "vote",
+      "detail": "Voted NO on confirming Amy Coney Barrett to Supreme Court, October 2020; one of only Republican senator to oppose"
+    },
+    {
+      "claim": "Supported Infrastructure Investment and Jobs Act despite party opposition",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, August 2021"
+    },
+    {
+      "claim": "Introduced legislation to codify reproductive rights",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Reproductive Freedom for All Act, 2022"
+    },
+    {
+      "claim": "Championed ANWR development",
+      "source_kind": "vote",
+      "detail": "Voted YES on Tax Cuts and Jobs Act including ANWR drilling provision, December 2017"
+    },
+    {
+      "claim": "Broke with party on Supreme Court nominations",
+      "source_kind": "vote",
+      "detail": "Voted PRESENT on Kavanaugh confirmation, October 2018"
+    },
+    {
+      "claim": "Focus on Alaska Native issues",
+      "source_kind": "bill_sponsored",
+      "detail": "Introduced Alaska Native Claims Settlement Act amendments, multiple sessions"
+    },
+    {
+      "claim": "Supports both traditional and renewable energy",
+      "source_kind": "public_statement",
+      "detail": "Statements supporting geothermal development in Alaska while defending oil and gas industry"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:32:08.049582"
+}

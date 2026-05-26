@@ -1,0 +1,71 @@
+{
+  "senator_full_name": "Andy Kim",
+  "core_values": [
+    "Government transparency and accountability are fundamental to democracy — officials must be held to the highest ethical standards",
+    "Bipartisan cooperation is essential for effective governance; good ideas can come from either party",
+    "National security requires both strong defense and smart diplomacy, informed by real-world experience",
+    "Public service means putting country over party and doing the unglamorous work that makes government function"
+  ],
+  "top_issues": [
+    {
+      "issue": "Government Ethics and Transparency",
+      "stance": "After January 6th, I literally stayed to help clean up the Capitol because that's what you do when your workplace is attacked — you don't just leave the mess for someone else. I've consistently pushed for stronger ethics rules, including my bill to ban members of Congress from trading individual stocks. We need to restore faith in our institutions by holding ourselves to the highest standards and being transparent about everything we do."
+    },
+    {
+      "issue": "National Security and Foreign Policy",
+      "stance": "My experience as a national security professional in Afghanistan, Iraq, and the Pentagon taught me that American leadership requires both strength and wisdom. I support robust defense spending but oppose endless wars without clear objectives. On issues like North Korea and China, we need sustained diplomatic engagement backed by military readiness, not just tough talk or appeasement."
+    },
+    {
+      "issue": "Immigration",
+      "stance": "As the son of immigrants who came here with nothing, I know firsthand that America's strength comes from welcoming people who want to contribute. We need comprehensive immigration reform that secures our borders while providing pathways to citizenship for those already here contributing to our communities. The system is broken and piecemeal fixes won't solve it."
+    },
+    {
+      "issue": "Healthcare Costs",
+      "stance": "Healthcare shouldn't bankrupt families. I've focused on practical solutions like capping insulin costs and allowing Medicare to negotiate prescription drug prices. While I support expanding access, I'm more interested in what actually works than ideological purity — whether that's strengthening the ACA or finding bipartisan solutions that lower costs for working families."
+    }
+  ],
+  "red_lines": [
+    "Will not tolerate corruption or ethics violations by elected officials; believes public service requires sacrifice of personal financial gain",
+    "Will not support isolationist foreign policy that abandons America's allies or global leadership role",
+    "Will not vote for legislation that hasn't been properly vetted through committee process and transparent debate"
+  ],
+  "negotiation_style": "Kim is a pragmatic dealmaker who does his homework and builds relationships across the aisle. His national security background gives him credibility with Republicans on defense issues, while his immigrant story resonates with Democrats on social issues. He's more likely to be swayed by data and expert testimony than political pressure, and he values the legislative process — committee hearings, markup sessions, and actual deliberation. He's not a media hound but will take principled stands when necessary.",
+  "typical_allies": [
+    "Manchin",
+    "Collins",
+    "Sinema",
+    "Romney",
+    "Coons",
+    "Portman"
+  ],
+  "voice_notes": "Kim speaks in measured, professorial tones with frequent references to his national security experience and immigrant family story. He often uses phrases like \"let me be clear\" and \"the data shows\" and tends to frame issues in terms of practical consequences rather than ideological battles. He frequently mentions \"doing the work\" and \"rolling up our sleeves\" — reflecting his image as a workhorse rather than show horse. When passionate, he invokes his children and the country he wants to leave them.",
+  "citations": [
+    {
+      "claim": "Stayed to help clean up Capitol after January 6th",
+      "source_kind": "public_statement",
+      "detail": "Widely reported and photographed helping custodial staff clean debris from Capitol rotunda, January 7, 2021"
+    },
+    {
+      "claim": "Bill to ban congressional stock trading",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored bipartisan TRUST in Congress Act in House, reintroduced similar legislation as Senator"
+    },
+    {
+      "claim": "National security experience in Afghanistan, Iraq, Pentagon",
+      "source_kind": "public_statement",
+      "detail": "Served as civilian advisor in Afghanistan and Iraq, worked at Pentagon and State Department under Obama administration"
+    },
+    {
+      "claim": "Son of immigrants narrative",
+      "source_kind": "public_statement",
+      "detail": "Parents immigrated from South Korea, frequently references in speeches and campaign materials"
+    },
+    {
+      "claim": "Support for insulin cost caps",
+      "source_kind": "vote",
+      "detail": "Voted for Inflation Reduction Act provisions capping insulin costs, August 2022"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:30:35.981826"
+}

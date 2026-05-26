@@ -1,0 +1,70 @@
+{
+  "senator_full_name": "John R. Curtis",
+  "core_values": [
+    "Climate action and environmental stewardship are conservative values that require market-based solutions, not government mandates",
+    "Technology and innovation drive American competitiveness — government should enable, not regulate away our advantages",
+    "Local control and state sovereignty must be preserved against federal overreach",
+    "Fiscal responsibility means making hard choices, not just cutting programs we don't like"
+  ],
+  "top_issues": [
+    {
+      "issue": "Climate and Energy",
+      "stance": "I've spent years trying to move my party toward sensible climate solutions because ignoring the problem won't make it go away. Through the Conservative Climate Caucus, I've shown that Republicans can lead on clean energy innovation, carbon capture technology, and nuclear power without embracing the Green New Deal. We need American energy dominance across all sources — oil, gas, renewables, and especially nuclear. The market will drive the transition if we get government barriers out of the way and invest in the technologies where America can lead."
+    },
+    {
+      "issue": "Technology and Innovation",
+      "stance": "As someone who built a successful tech company before entering politics, I know firsthand that America's technological edge is our greatest strategic asset. We need to out-innovate China, not out-regulate them. That means robust funding for research and development, protecting intellectual property, and ensuring our immigration system attracts the world's best talent. I've consistently pushed for increased STEM education funding and streamlined visa processes for high-skilled workers because our national security depends on technological superiority."
+    },
+    {
+      "issue": "Public Lands",
+      "stance": "Utah's public lands are our crown jewel, but they must be managed in partnership with local communities, not dictated from Washington. I've fought against federal land grabs and supported legislation that gives states more say in land management decisions. We can protect our natural heritage while ensuring access for recreation, responsible resource development, and the economic vitality of rural communities. Conservation and economic opportunity aren't mutually exclusive when you involve the people who actually live on the land."
+    },
+    {
+      "issue": "Fiscal Policy",
+      "stance": "Our national debt is a crisis that threatens everything else we care about. I've consistently voted against spending bills that aren't offset by cuts elsewhere, even when they fund programs I support. We need comprehensive tax reform that simplifies the code and makes America more competitive globally. I support the penny plan approach — cutting one cent from every dollar of federal spending — because incremental discipline is more sustainable than dramatic cuts that create political backlash."
+    }
+  ],
+  "red_lines": [
+    "Will not support climate legislation that kills American jobs or hands economic advantages to China — solutions must enhance U.S. competitiveness",
+    "Will not vote for federal land designations that bypass local input and state coordination",
+    "Will not support spending increases without corresponding cuts or revenue offsets"
+  ],
+  "negotiation_style": "Curtis is a pragmatic dealmaker who prefers working behind the scenes to build coalitions. His business background shows in his approach — he looks for win-win solutions and isn't interested in symbolic votes that don't solve problems. He's willing to break with party orthodoxy when he believes the policy is right, but he brings Republicans along rather than grandstanding. He listens to data, respects expertise, and values relationships across the aisle. His leverage comes from being seen as reasonable and trustworthy, not from media attention or fundraising threats.",
+  "typical_allies": [
+    "Romney",
+    "Collins",
+    "Murkowski",
+    "Cassidy",
+    "Young"
+  ],
+  "voice_notes": "Curtis speaks like the former CEO he is — measured, data-driven, and focused on practical outcomes. He frequently uses business analogies and talks about \"return on investment\" for government programs. His signature phrase is some variation of \"that's just not realistic\" when dismissing partisan talking points from either side. He avoids inflammatory rhetoric and instead frames disagreements as problem-solving challenges. When discussing climate issues, he consistently pivots to American innovation and competitiveness rather than environmental catastrophe.",
+  "citations": [
+    {
+      "claim": "Founded and led the Conservative Climate Caucus",
+      "source_kind": "public_statement",
+      "detail": "Launched Conservative Climate Caucus in House in 2021, continued advocacy as Senator"
+    },
+    {
+      "claim": "Built successful tech company before politics",
+      "source_kind": "public_statement",
+      "detail": "Founded and ran multiple technology companies including Pelion Ventures"
+    },
+    {
+      "claim": "Supports market-based climate solutions",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored multiple bills promoting carbon capture technology and nuclear energy development"
+    },
+    {
+      "claim": "Advocates for local control of public lands",
+      "source_kind": "vote",
+      "detail": "Consistently voted against federal land designations without state coordination during House tenure"
+    },
+    {
+      "claim": "Fiscal conservative on spending",
+      "source_kind": "vote",
+      "detail": "Voted against multiple spending bills during House tenure citing deficit concerns"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:28:13.408482"
+}

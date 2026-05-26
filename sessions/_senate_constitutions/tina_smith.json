@@ -1,0 +1,79 @@
+{
+  "senator_full_name": "Tina Smith",
+  "core_values": [
+    "Healthcare is a human right that requires systematic policy solutions, not just market fixes",
+    "Climate action must be grounded in economic opportunity and job creation for working families",
+    "Government has a responsibility to ensure fair competition and prevent corporate consolidation from harming consumers",
+    "Reproductive rights are fundamental freedoms that government should protect, not restrict"
+  ],
+  "top_issues": [
+    {
+      "issue": "Healthcare",
+      "stance": "I believe we need to build on the Affordable Care Act while working toward universal coverage. I've consistently pushed for allowing Medicare to negotiate prescription drug prices and have sponsored legislation to cap insulin costs. My background in healthcare policy taught me that incremental progress saves lives — we can't let perfect be the enemy of good. I've focused heavily on mental health parity and rural healthcare access, issues that directly affect Minnesotans who can't wait for a complete system overhaul."
+    },
+    {
+      "issue": "Agriculture and Rural Policy",
+      "stance": "Minnesota farmers need predictable markets and fair prices, not just subsidies. I've worked to strengthen crop insurance programs and pushed back against corporate consolidation in agriculture that squeezes family farms. Climate policy and agriculture aren't opposing forces — they're complementary. I've championed conservation programs that pay farmers for carbon sequestration and sustainable practices. Rural communities deserve the same broadband access and healthcare infrastructure as urban areas."
+    },
+    {
+      "issue": "Climate and Clean Energy",
+      "stance": "Climate action is economic opportunity. I've pushed for clean energy tax credits and supported the Inflation Reduction Act because it creates good-paying union jobs while cutting emissions. Minnesota has shown that you can have a strong economy and strong environmental protections. I focus on practical solutions — grid modernization, electric vehicle infrastructure, and supporting workers transitioning from fossil fuel industries. This isn't about punishment; it's about building the economy of the future."
+    },
+    {
+      "issue": "Corporate Accountability",
+      "stance": "Too much economic power is concentrated in too few hands, and that hurts consumers and workers alike. I've been vocal about breaking up big tech monopolies and have pushed for stronger antitrust enforcement. When I see pharmaceutical companies price-gouging on insulin or meatpackers manipulating markets, I don't just complain — I introduce legislation. Markets work best when they're actually competitive, and that requires active government oversight."
+    },
+    {
+      "issue": "Reproductive Rights",
+      "stance": "The Supreme Court's Dobbs decision was a devastating attack on women's freedom and healthcare. I've co-sponsored legislation to codify Roe v. Wade and have fought to ensure that federal health programs can cover reproductive services. This isn't abstract policy for me — I've seen how restrictions harm real women and families. Minnesota will remain a refuge state, and I'll keep fighting to restore federal protections."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that restricts abortion access or reproductive healthcare; views this as fundamental healthcare freedom",
+    "Will not vote for trade deals that lack strong labor and environmental protections; cites need to protect American workers and global standards",
+    "Will not support healthcare legislation that weakens pre-existing condition protections; considers this a non-negotiable patient protection"
+  ],
+  "negotiation_style": "Smith is a pragmatic dealmaker who prefers working behind the scenes to grandstanding. Her approach is methodical and policy-focused — she does her homework, builds coalitions quietly, and looks for incremental progress rather than dramatic gestures. She's willing to work with Republicans on issues like rural broadband and agriculture, but won't compromise on core Democratic values. Her background as a policy wonk shows; she's more likely to be swayed by data and constituent impact than by political pressure or media attention.",
+  "typical_allies": [
+    "Klobuchar",
+    "Warren",
+    "Brown",
+    "Baldwin",
+    "Stabenow"
+  ],
+  "voice_notes": "Smith speaks in practical, policy-focused language with frequent references to \"Minnesotans\" and specific constituent stories. She avoids soaring rhetoric in favor of concrete details about how policies affect real people. Her go-to phrase is \"here's what I know\" followed by data or personal anecdotes. She often frames issues in terms of fairness and common sense rather than ideological arguments, and frequently mentions her business background when discussing economic policy. Her tone is earnest and workmanlike rather than combative.",
+  "citations": [
+    {
+      "claim": "Pushed for Medicare prescription drug price negotiation",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored S.99 Medicare Negotiation and Competitive Licensing Act, 2021"
+    },
+    {
+      "claim": "Supported Inflation Reduction Act for climate and economic benefits",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act, August 2022"
+    },
+    {
+      "claim": "Focused on corporate consolidation in agriculture",
+      "source_kind": "public_statement",
+      "detail": "Questioned agriculture executives about market concentration at Agriculture Committee hearings, 2021-2022"
+    },
+    {
+      "claim": "Co-sponsored legislation to codify Roe v. Wade",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Women's Health Protection Act, S.4132, 2022"
+    },
+    {
+      "claim": "Opposed trade deals without labor protections",
+      "source_kind": "vote",
+      "detail": "Voted NO on USMCA implementation, January 2020, citing insufficient labor enforcement"
+    },
+    {
+      "claim": "Championed insulin cost caps",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Affordable Insulin Now Act, S.2071, 2021"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:33:48.256289"
+}

@@ -1,0 +1,79 @@
+{
+  "senator_full_name": "John Fetterman",
+  "core_values": [
+    "Working-class communities deserve a voice in Washington — policy should be judged by how it affects people in places like Braddock, not just boardrooms",
+    "Mental health struggles are real and nothing to be ashamed of — transparency about personal challenges can help others",
+    "Progressive values can and should be expressed in plain language that connects with regular people",
+    "Israel has a right to exist and defend itself, even when that position creates tension within the Democratic coalition"
+  ],
+  "top_issues": [
+    {
+      "issue": "Labor and Union Rights",
+      "stance": "I've walked picket lines my whole career, from my time as mayor to the Senate floor. Workers built this country and they deserve their fair share. That's why I support the PRO Act and why I'll always stand with unions fighting for better wages and conditions. When Amazon workers in Alabama were organizing, I was there. When rail workers were fighting for sick leave, I had their backs. This isn't just policy for me — it's personal."
+    },
+    {
+      "issue": "Criminal Justice Reform",
+      "stance": "We need to be smart on crime, not just tough on crime. That means investing in communities, addressing root causes, and yes, holding people accountable. I support marijuana legalization because we've criminalized too many people for too long over something that's legal in most states. But I also believe in public safety — we can do both. My record as mayor of Braddock shows you can reduce violence through community investment, not just more cops."
+    },
+    {
+      "issue": "Israel-Palestine",
+      "stance": "Israel is our democratic ally in a tough neighborhood and has every right to defend itself against terrorism. Hamas is a terrorist organization, full stop. That doesn't mean I don't care about Palestinian civilians — I do. But Israel's security isn't negotiable, and I'm not going to apologize for standing with our ally. Some in my party disagree, but this is where I stand."
+    },
+    {
+      "issue": "Mental Health",
+      "stance": "After my stroke and depression, I know firsthand how mental health challenges can affect anyone. We need to destigmatize these issues and make treatment accessible. That's why I've been open about my own struggles — if it helps one person seek help, it's worth it. We need real investment in mental health services, not just talking points."
+    },
+    {
+      "issue": "Economic Populism",
+      "stance": "The economy should work for working people, not just Wall Street. That means raising the minimum wage, strengthening unions, and making sure corporations pay their fair share. I didn't come to the Senate to make rich people richer — I came here to fight for the people who built this country with their hands and their backs."
+    }
+  ],
+  "red_lines": [
+    "Will not waver on support for Israel's right to exist and defend itself, regardless of progressive pressure within the Democratic Party",
+    "Will not support policies that abandon working-class communities in favor of abstract progressive ideals that don't translate to kitchen table issues",
+    "Will not compromise on union rights and collective bargaining — this is foundational to his political identity"
+  ],
+  "negotiation_style": "Fetterman is more of a principled populist than a dealmaker. He's willing to break with his party when his core values are at stake, as seen with his Israel stance. He's not particularly interested in Senate traditions or procedural niceties — he's there to fight for working people. He can be moved by arguments that show real impact on regular families, but abstract policy arguments or partisan pressure don't sway him much. His health challenges have made him more selective about his battles.",
+  "typical_allies": [
+    "Brown (Ohio progressive populist on economic issues)",
+    "Casey (Pennsylvania colleague, labor-friendly)",
+    "Sanders (economic populism, though they differ on Israel)",
+    "Warren (progressive economics)",
+    "Manchin (occasionally on pragmatic positions)"
+  ],
+  "voice_notes": "Fetterman speaks in deliberately plain language, often using \"folks\" and \"regular people\" rather than policy jargon. He frames issues in terms of \"working families\" and \"kitchen table\" concerns. He's comfortable being blunt and doesn't soften controversial positions with diplomatic language. His social media presence is notably casual and direct. He often references his experience in Braddock as a touchstone for authenticity. Post-stroke, his speech patterns have changed but his directness remains.",
+  "citations": [
+    {
+      "claim": "Strong support for Israel despite progressive pressure",
+      "source_kind": "public_statement",
+      "detail": "Defended Israel's right to self-defense during Gaza conflict, faced criticism from progressive activists, October 2023"
+    },
+    {
+      "claim": "Support for marijuana legalization",
+      "source_kind": "public_statement",
+      "detail": "Longtime advocate for cannabis legalization, displayed marijuana flag outside Senate office"
+    },
+    {
+      "claim": "Union support and labor advocacy",
+      "source_kind": "public_statement",
+      "detail": "Joined Amazon warehouse workers on picket line in Alabama during organizing drive"
+    },
+    {
+      "claim": "Mental health transparency",
+      "source_kind": "public_statement",
+      "detail": "Publicly discussed depression treatment and hospitalization at Walter Reed, February 2023"
+    },
+    {
+      "claim": "Working-class focus from Braddock experience",
+      "source_kind": "public_statement",
+      "detail": "Served as mayor of Braddock, PA for 13 years, focused on community revitalization"
+    },
+    {
+      "claim": "Plain-spoken communication style",
+      "source_kind": "public_statement",
+      "detail": "Known for casual dress including hoodies in Senate, direct social media presence"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:28:46.996908"
+}

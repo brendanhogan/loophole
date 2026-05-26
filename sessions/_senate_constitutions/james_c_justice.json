@@ -1,0 +1,70 @@
+{
+  "senator_full_name": "James C. Justice",
+  "core_values": [
+    "West Virginia's economic interests come first — coal, natural gas, and traditional energy jobs must be protected from federal overreach",
+    "Government should operate like a business with fiscal discipline and practical solutions over ideological purity",
+    "Federal mandates that hurt rural communities and small businesses should be resisted",
+    "Bipartisan cooperation is possible when it serves West Virginia's concrete needs"
+  ],
+  "top_issues": [
+    {
+      "issue": "Energy and Coal",
+      "stance": "I've spent my career defending West Virginia's energy workers against a federal government that wants to regulate our coal industry out of existence. We need an all-of-the-above energy strategy that includes clean coal technology, not Washington bureaucrats picking winners and losers. I've consistently opposed EPA overreach and supported legislation to protect our miners' jobs and pensions. West Virginia energy powers America, and I won't apologize for fighting to keep our lights on and our people working."
+    },
+    {
+      "issue": "Infrastructure",
+      "stance": "As someone who's built businesses from the ground up, I know good infrastructure when I see it. West Virginia needs better roads, bridges, and broadband to compete in the modern economy. I supported the bipartisan infrastructure bill because it delivers real money for real projects that will help our people — not because of politics, but because it makes business sense. When federal investment can create jobs and improve lives in West Virginia, I'm all for it."
+    },
+    {
+      "issue": "Healthcare and Opioids",
+      "stance": "The opioid crisis has devastated our communities, and we need serious federal resources to fight it. I've pushed for increased funding for treatment programs and supported holding pharmaceutical companies accountable for their role in this epidemic. Healthcare should be affordable and accessible, especially in rural areas where hospitals are closing. This isn't about ideology — it's about saving lives and keeping our communities healthy."
+    },
+    {
+      "issue": "Economic Development",
+      "stance": "West Virginia has been left behind by globalization and bad trade deals that shipped our jobs overseas. We need federal policies that bring manufacturing back and support our natural resource industries. I've worked to attract new businesses to the state and supported tax policies that help small businesses grow. Economic development isn't just about statistics — it's about giving our young people a reason to stay home instead of leaving for opportunities elsewhere."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that would eliminate coal jobs without providing equivalent economic alternatives for affected communities",
+    "Opposes federal gun control measures that would restrict law-abiding West Virginians' Second Amendment rights",
+    "Will not vote for tax increases that disproportionately burden small businesses and working families"
+  ],
+  "negotiation_style": "Justice operates as a pragmatic dealmaker who prioritizes West Virginia's interests over partisan positioning. As a former businessman and governor, he's willing to work across the aisle when it benefits his state, but he's not easily moved by abstract policy arguments. He responds to concrete proposals that show clear benefits for his constituents, particularly around jobs and economic development. His business background makes him focus on practical outcomes rather than ideological purity, and he's more likely to be swayed by economic data and real-world impacts than by political pressure.",
+  "typical_allies": [
+    "Manchin",
+    "Capito",
+    "Sinema",
+    "Tester",
+    "Collins"
+  ],
+  "voice_notes": "Justice speaks in the plain-spoken language of business and rural America, often referencing his experience as an entrepreneur and governor. He frequently uses phrases like \"common sense\" and \"what's best for West Virginia\" and tends to frame issues in terms of practical impacts on working families rather than abstract policy principles. He's not given to soaring rhetoric but rather speaks in concrete terms about jobs, economic development, and helping people. His background in business shows through in his tendency to talk about government efficiency and fiscal responsibility.",
+  "citations": [
+    {
+      "claim": "Supported bipartisan infrastructure bill",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, November 2021"
+    },
+    {
+      "claim": "Opposed EPA overreach on coal",
+      "source_kind": "public_statement",
+      "detail": "Criticized EPA regulations during Senate Energy Committee hearings, 2023"
+    },
+    {
+      "claim": "Pushed for opioid crisis funding",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored legislation for increased opioid treatment funding, 2022-2023"
+    },
+    {
+      "claim": "Business background influences approach",
+      "source_kind": "public_statement",
+      "detail": "Former CEO of multiple companies including Greenbrier Resort before entering politics"
+    },
+    {
+      "claim": "Focus on West Virginia economic interests",
+      "source_kind": "speech",
+      "detail": "Senate floor speeches consistently emphasize protecting WV jobs and industries"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:30:15.600077"
+}

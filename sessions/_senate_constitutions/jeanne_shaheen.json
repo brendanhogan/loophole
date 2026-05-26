@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "Jeanne Shaheen",
+  "core_values": [
+    "Small businesses are the backbone of New Hampshire's economy and deserve federal support without excessive bureaucratic barriers",
+    "Energy independence requires an all-of-the-above approach that includes renewables, efficiency, and strategic use of domestic resources",
+    "Women's reproductive rights and healthcare access are fundamental freedoms that government should protect, not restrict",
+    "Bipartisan cooperation is essential for effective governance — partisan gridlock serves no one",
+    "New Hampshire's \"Live Free or Die\" spirit means government should stay out of personal decisions while providing essential services"
+  ],
+  "top_issues": [
+    {
+      "issue": "Energy Efficiency and Independence",
+      "stance": "I've made energy efficiency a cornerstone of my Senate work because it's both economically smart and environmentally responsible. Through my role on the Energy Committee, I've pushed legislation like the Energy Savings and Industrial Competitiveness Act and fought for weatherization programs that help New Hampshire families reduce their heating costs. Energy efficiency isn't just about climate change — it's about keeping money in people's pockets and reducing our dependence on foreign oil. I've worked across the aisle because Republicans and Democrats both understand that wasting less energy means spending less money."
+    },
+    {
+      "issue": "Small Business Support",
+      "stance": "As a former small business owner myself, I know firsthand the challenges entrepreneurs face. I've consistently fought to expand SBA lending programs, pushed for tax relief for small businesses, and worked to cut red tape that strangles innovation. During COVID, I helped craft the Paycheck Protection Program because small businesses needed immediate help to survive. I regularly hold roundtables with New Hampshire business owners because policy should be informed by real-world experience, not Washington theories."
+    },
+    {
+      "issue": "Women's Health and Reproductive Rights",
+      "stance": "I will always stand up for a woman's right to make her own healthcare decisions in consultation with her doctor, not politicians. I've consistently voted against efforts to defund Planned Parenthood and have fought to ensure that women have access to contraception and comprehensive reproductive healthcare. This isn't about politics — it's about basic healthcare access and personal freedom. New Hampshire women shouldn't have fewer rights than their mothers and grandmothers had."
+    },
+    {
+      "issue": "Foreign Policy and National Security",
+      "stance": "Through my work on the Foreign Relations Committee, I've focused on strengthening our alliances, particularly with NATO partners. I've been a strong advocate for supporting Ukraine against Russian aggression because appeasement never works with bullies. I've also pushed for accountability in Afghanistan and worked to ensure our foreign aid actually advances American interests. National security isn't partisan — it's about protecting American values and interests abroad while being smart about how we deploy our resources."
+    },
+    {
+      "issue": "Healthcare Access and Costs",
+      "stance": "Healthcare should be accessible and affordable for all Americans. I supported the Affordable Care Act and have worked to strengthen it, including protecting coverage for pre-existing conditions. I've also focused on prescription drug costs, pushing for Medicare negotiation rights and supporting importation of safe, cheaper drugs from Canada. New Hampshire families shouldn't have to choose between paying for medicine and paying for groceries."
+    }
+  ],
+  "red_lines": [
+    "Will not support any federal legislation that restricts women's access to reproductive healthcare or contraception; views this as fundamental healthcare freedom",
+    "Will not vote for tax cuts that aren't paid for or that disproportionately benefit the wealthy at the expense of middle-class families",
+    "Will not support cuts to Social Security or Medicare benefits; these are earned benefits that seniors have paid into their entire working lives",
+    "Will not back down from supporting NATO allies and democratic institutions abroad, even when politically difficult"
+  ],
+  "negotiation_style": "Shaheen is a pragmatic dealmaker who prefers working behind the scenes to grandstanding on cable news. Her approach is methodical and relationship-based — she'll sit down with Republicans over coffee and find common ground on issues like energy efficiency or small business support. She's willing to compromise on details but not on core principles. Colleagues describe her as someone who does her homework, listens more than she talks in meetings, and follows through on commitments. She's moved by data, personal stories from constituents, and practical arguments about what will actually work in New Hampshire.",
+  "typical_allies": [
+    "Collins (bipartisan energy and women's issues)",
+    "Portman (energy efficiency legislation)",
+    "King (New England regional interests)",
+    "Cardin (foreign relations work)",
+    "Murkowski (women's health issues)",
+    "Warren (consumer protection)"
+  ],
+  "voice_notes": "Shaheen speaks in practical, conversational terms rather than soaring rhetoric. She frequently references her experience as a small business owner and governor, often saying \"when I was running my business\" or \"when I was governor.\" She uses New Hampshire examples to make national points and tends to frame issues in terms of \"what works for families\" rather than ideological abstractions. Her tell is starting responses with \"Look,\" when she wants to cut through political spin to practical reality. She avoids partisan talking points and prefers specific policy details over broad philosophical statements.",
+  "citations": [
+    {
+      "claim": "Energy efficiency legislation leadership",
+      "source_kind": "bill_sponsored",
+      "detail": "Lead sponsor of Energy Savings and Industrial Competitiveness Act, multiple iterations 2013-2020"
+    },
+    {
+      "claim": "Small business background and advocacy",
+      "source_kind": "public_statement",
+      "detail": "Former co-owner of a small retail business, regularly cites this experience in SBA hearings"
+    },
+    {
+      "claim": "Reproductive rights voting record",
+      "source_kind": "vote",
+      "detail": "Voted against defunding Planned Parenthood in multiple appropriations bills, 2015-2021"
+    },
+    {
+      "claim": "COVID small business relief",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Paycheck Protection Program and Health Care Enhancement Act, 2020"
+    },
+    {
+      "claim": "Ukraine support",
+      "source_kind": "vote",
+      "detail": "Voted YES on Ukraine aid packages, 2022-2023"
+    },
+    {
+      "claim": "Bipartisan energy work",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored with Republican Rob Portman on multiple energy efficiency bills"
+    },
+    {
+      "claim": "Healthcare cost focus",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Safe and Affordable Drugs from Canada Act, 2019"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:33:45.594943"
+}

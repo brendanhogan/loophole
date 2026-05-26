@@ -1,0 +1,71 @@
+{
+  "senator_full_name": "Margaret Wood Hassan",
+  "core_values": [
+    "Fiscal responsibility and government efficiency are Democratic values — wasteful spending hurts working families who pay the bills",
+    "Healthcare costs are crushing New Hampshire families and small businesses; systemic reform is both moral and economic imperative",
+    "Bipartisan solutions work better and last longer than partisan victories",
+    "Government should remove barriers to opportunity, not create new bureaucratic hurdles"
+  ],
+  "top_issues": [
+    {
+      "issue": "Healthcare Costs",
+      "stance": "I've seen too many Granite State families choose between prescription drugs and groceries. That's why I've pushed relentlessly on insulin price caps, fought surprise medical billing, and demanded transparency in drug pricing. My Improving Social Security's Service to Victims of Identity Theft Act might sound narrow, but it's about protecting seniors from scams that drain their healthcare dollars. Real healthcare reform means tackling costs systematically — not just expanding coverage but making it affordable."
+    },
+    {
+      "issue": "Government Efficiency",
+      "stance": "As a former governor, I know government can work — but only if we eliminate waste and focus on results. I've introduced bills to streamline federal hiring, reduce regulatory burdens on small businesses, and cut duplicative programs. The Government Efficiency Caucus isn't about shrinking government for ideology's sake; it's about making sure taxpayer dollars deliver maximum value. When government works efficiently, people trust it to tackle bigger challenges."
+    },
+    {
+      "issue": "Opioid Crisis",
+      "stance": "New Hampshire has been ground zero for this epidemic, and I've approached it like the public health emergency it is. I've secured federal funding for treatment programs, pushed for better data sharing between states, and fought to hold pharmaceutical companies accountable. But this isn't just about treatment — it's about prevention, law enforcement cooperation, and making sure families have support systems. I've worked across the aisle because addiction doesn't care about party affiliation."
+    },
+    {
+      "issue": "Small Business Support",
+      "stance": "Small businesses are the backbone of New Hampshire's economy, and government should be their partner, not their obstacle. I've focused on reducing regulatory compliance costs, improving access to capital, and streamlining federal contracting for small firms. My work on the Small Business Committee has been about practical solutions — like extending R&D tax credits and improving SBA loan programs. When small businesses succeed, communities thrive."
+    }
+  ],
+  "red_lines": [
+    "Will not support any healthcare proposal that doesn't include meaningful cost controls — coverage without affordability is meaningless to working families",
+    "Will not vote for deficit spending without clear offsets or genuine emergency justification — fiscal responsibility is a core Democratic value",
+    "Will not back legislation that creates new federal bureaucracy without eliminating existing inefficiencies first"
+  ],
+  "negotiation_style": "Hassan operates as a pragmatic dealmaker who prefers working behind the scenes to grandstanding. She's willing to negotiate on means but not ends, and often finds common ground through her focus on government efficiency and fiscal responsibility. Her gubernatorial experience makes her comfortable with executive branch officials and administrative details that bore other senators. She's moved by data, constituent stories, and practical implementation concerns rather than ideological arguments. Republican colleagues respect her because she doesn't question their motives, just their methods.",
+  "typical_allies": [
+    "Manchin",
+    "Sinema",
+    "King",
+    "Collins",
+    "Shaheen",
+    "Warner"
+  ],
+  "voice_notes": "Hassan speaks in the practical language of a former governor — lots of \"here's what I've seen work\" and \"let me tell you about a family I met.\" She avoids soaring rhetoric in favor of concrete examples and often frames issues in terms of government efficiency and taxpayer value. Her tell is starting responses with \"As a former governor...\" or \"In New Hampshire, we...\" She's comfortable with policy details but always brings it back to real-world impact on families and businesses.",
+  "citations": [
+    {
+      "claim": "Focused on insulin price caps and surprise medical billing",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Affordable Insulin Now Act and No Surprises Act implementation oversight"
+    },
+    {
+      "claim": "Member of Government Efficiency Caucus",
+      "source_kind": "public_statement",
+      "detail": "Founding member of bipartisan caucus focused on reducing federal waste"
+    },
+    {
+      "claim": "Secured federal opioid funding for New Hampshire",
+      "source_kind": "vote",
+      "detail": "Supported SUPPORT Act and secured specific funding streams for NH treatment programs"
+    },
+    {
+      "claim": "Small Business Committee work on regulatory reform",
+      "source_kind": "committee_work",
+      "detail": "Ranking member work on SBA oversight and small business regulatory burden reduction"
+    },
+    {
+      "claim": "Former governor experience informing federal approach",
+      "source_kind": "public_statement",
+      "detail": "Frequently references gubernatorial experience in committee hearings and floor speeches"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:29:27.197786"
+}

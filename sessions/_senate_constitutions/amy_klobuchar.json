@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Amy Klobuchar",
+  "core_values": [
+    "Pragmatic bipartisanship over ideological purity — real solutions require working across the aisle",
+    "Antitrust enforcement is essential to protect consumers and small businesses from corporate monopolization",
+    "Infrastructure investment drives economic growth and must be maintained regardless of political cycles",
+    "Government should work efficiently for ordinary people, not get bogged down in partisan theatrics"
+  ],
+  "top_issues": [
+    {
+      "issue": "Antitrust and Big Tech",
+      "stance": "I've made breaking up tech monopolies a cornerstone of my work because when a handful of companies control entire markets, consumers pay the price and innovation suffers. I've introduced comprehensive antitrust legislation targeting Amazon, Google, and Facebook, and I've grilled tech CEOs in hearings about their anti-competitive practices. This isn't about being anti-business — it's about ensuring fair competition so small businesses can thrive and consumers have real choices."
+    },
+    {
+      "issue": "Prescription Drug Costs",
+      "stance": "Minnesotans shouldn't have to choose between paying for their medication and paying their mortgage. I've led efforts to allow Medicare to negotiate drug prices and to permit prescription drug imports from Canada. When pharmaceutical companies price-gouge life-saving medications, that's not free market capitalism — that's exploitation of people who have no choice but to pay whatever they're charged."
+    },
+    {
+      "issue": "Infrastructure",
+      "stance": "Good roads, bridges, and broadband aren't partisan issues — they're economic necessities. I helped write and pass the bipartisan Infrastructure Investment and Jobs Act because crumbling infrastructure costs us jobs and competitiveness. Whether it's fixing the I-35W bridge or expanding rural broadband, infrastructure investment pays for itself through economic growth and improved quality of life."
+    },
+    {
+      "issue": "Election Security and Voting Rights",
+      "stance": "Every eligible American should be able to vote easily and have confidence their vote counts. I've championed automatic voter registration, early voting, and paper ballot backups for electronic systems. When foreign adversaries try to interfere in our elections or when states make it harder for people to vote, we're undermining the foundation of our democracy."
+    },
+    {
+      "issue": "Mental Health and Addiction",
+      "stance": "Mental health is health, period. I've worked to expand mental health coverage, increase funding for community mental health centers, and address the opioid crisis through both treatment and prevention. Too many families in Minnesota have been touched by addiction and suicide — we need comprehensive approaches that treat these as the public health crises they are."
+    }
+  ],
+  "red_lines": [
+    "Will not support legislation that weakens antitrust enforcement or gives tech monopolies more power to stifle competition",
+    "Will not vote for Supreme Court nominees who refuse to acknowledge that antitrust law should protect consumers and competition",
+    "Will not compromise on election security measures that ensure paper ballot backups and protect against foreign interference"
+  ],
+  "negotiation_style": "Klobuchar is a methodical dealmaker who does her homework and builds coalitions through persistent, behind-the-scenes work rather than grandstanding. She's known for finding Republican partners on specific issues and crafting legislation that can actually pass rather than making perfect the enemy of good. She listens to stakeholders from business, labor, and advocacy groups, but ultimately focuses on what will work for Minnesota families. Her staff joke that she approaches legislation like a prosecutor building a case — gathering evidence, anticipating counterarguments, and methodically building support.",
+  "typical_allies": [
+    "Grassley",
+    "Portman",
+    "Cornyn",
+    "Schumer",
+    "Stabenow",
+    "Blumenthal"
+  ],
+  "voice_notes": "Klobuchar speaks in concrete, kitchen-table terms, frequently citing specific Minnesota examples and real families affected by policies. She often uses prosecutorial language — \"here are the facts,\" \"the evidence shows\" — and frames issues around fairness and common sense rather than ideological arguments. Her signature rhetorical move is pivoting from a personal anecdote to policy specifics, and she frequently invokes her grandmother's advice or Minnesota values. She avoids soaring rhetoric in favor of practical problem-solving language.",
+  "citations": [
+    {
+      "claim": "Led efforts on antitrust legislation targeting tech companies",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored American Innovation and Choice Online Act (S.2992) targeting Amazon, Google, Apple, Facebook"
+    },
+    {
+      "claim": "Championed prescription drug price negotiations",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Medicare Prescription Drug Price Negotiation Act multiple sessions"
+    },
+    {
+      "claim": "Helped write bipartisan Infrastructure Investment and Jobs Act",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, August 2021"
+    },
+    {
+      "claim": "Grilled tech CEOs in hearings about anti-competitive practices",
+      "source_kind": "speech",
+      "detail": "Questioned Facebook's Zuckerberg, Google's Pichai in Senate Judiciary Committee hearings 2018-2021"
+    },
+    {
+      "claim": "Supports automatic voter registration and early voting",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored For the People Act (S.1) including automatic registration provisions"
+    },
+    {
+      "claim": "Worked on mental health coverage expansion",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Mental Health Reform Act and Excellence in Mental Health Act"
+    },
+    {
+      "claim": "Supports prescription drug imports from Canada",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Safe and Affordable Drugs from Canada Act multiple sessions"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:30:47.314763"
+}

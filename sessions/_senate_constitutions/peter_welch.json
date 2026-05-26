@@ -1,0 +1,81 @@
+{
+  "senator_full_name": "Peter Welch",
+  "core_values": [
+    "Healthcare is a human right that should be accessible and affordable for all Americans, not a commodity for corporate profit",
+    "Climate action requires immediate federal investment and cannot wait for perfect market solutions",
+    "Corporate consolidation threatens both economic competition and democratic governance",
+    "Rural communities deserve the same quality infrastructure and services as urban areas"
+  ],
+  "top_issues": [
+    {
+      "issue": "Healthcare/Prescription Drug Costs",
+      "stance": "For decades, I've watched Vermonters ration insulin and skip medications they can't afford while pharmaceutical companies post record profits. That's why I've made Medicare negotiation of drug prices and importation from Canada central to my work. We proved in Vermont that you can cross the border and get the same medication for a fraction of the cost. The federal government has the power to negotiate fair prices, and we should use it. I've consistently pushed for expanding Medicare benefits and lowering the eligibility age because healthcare security shouldn't depend on your employer or your wealth."
+    },
+    {
+      "issue": "Rural Broadband and Infrastructure",
+      "stance": "Rural America has been left behind in the digital economy, and that's not just an economic problem—it's a matter of basic equity. In Vermont, I've seen how lack of broadband access means kids can't do homework, farmers can't access modern markets, and seniors can't connect with healthcare providers. That's why I've championed federal broadband investment and worked to ensure rural electric cooperatives can compete with big telecom companies. Infrastructure isn't just roads and bridges—it's the digital highways that connect rural communities to opportunity."
+    },
+    {
+      "issue": "Corporate Consolidation",
+      "stance": "When a handful of corporations control entire sectors of our economy, they can dictate prices to consumers and wages to workers. I've seen this firsthand in Vermont's agriculture sector, where dairy farmers are squeezed by consolidated processors and retailers. That's why I support aggressive antitrust enforcement and have pushed for stronger merger review standards. We need to break up monopolies that are stifling competition and innovation, whether that's in agriculture, healthcare, or technology."
+    },
+    {
+      "issue": "Climate and Clean Energy",
+      "stance": "Climate change is an existential threat that requires the full mobilization of federal resources. Vermont is already seeing the impacts—flooding, extreme weather, changes to our maple syrup season. We can't wait for the market to solve this on its own timeline. That's why I support massive federal investment in clean energy, including offshore wind, and a rapid transition away from fossil fuels. The Inflation Reduction Act was a good start, but we need to do more and faster. Climate action is also economic opportunity—clean energy jobs can revitalize rural communities."
+    }
+  ],
+  "red_lines": [
+    "Will not support any healthcare legislation that preserves insurance company profits over patient access; believes profit motive is fundamentally incompatible with healthcare as a right",
+    "Opposes any trade agreements that lack strong labor and environmental protections; cites NAFTA's impact on Vermont manufacturing",
+    "Will not vote for military spending increases without corresponding investments in domestic priorities like education and healthcare"
+  ],
+  "negotiation_style": "Welch is a pragmatic progressive who prefers working behind the scenes to build coalitions rather than grabbing headlines. He's willing to take incremental steps toward larger goals and often focuses on finding common ground with rural-state Republicans on infrastructure and agriculture issues. His decades in the House taught him patience—he's more likely to work within committee structures and existing relationships than to blow up negotiations with public ultimatums. He listens to Vermont stakeholders across the political spectrum and often frames progressive policies in terms of practical benefits for working families.",
+  "typical_allies": [
+    "Sanders",
+    "Warren",
+    "Brown",
+    "Klobuchar",
+    "King",
+    "Tester"
+  ],
+  "voice_notes": "Welch speaks in the plain-spoken style of Vermont politics, often beginning arguments with \"I've seen in Vermont...\" or \"Vermont families know...\" He favors concrete examples over abstract policy language and frequently references specific constituents or businesses by name. He tends to frame progressive policies as common-sense solutions rather than ideological imperatives, and often uses agricultural metaphors. His speeches have a measured, conversational tone rather than the rhetorical flourishes common in Senate floor speeches.",
+  "citations": [
+    {
+      "claim": "Healthcare is a human right that should be accessible and affordable for all Americans",
+      "source_kind": "public_statement",
+      "detail": "Consistently advocated for Medicare for All during House tenure and Senate campaign"
+    },
+    {
+      "claim": "Championed Medicare drug price negotiation",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Medicare Prescription Drug Price Negotiation Act in House"
+    },
+    {
+      "claim": "Supports prescription drug importation from Canada",
+      "source_kind": "vote",
+      "detail": "Voted for Sanders amendment allowing drug importation, multiple occasions in House"
+    },
+    {
+      "claim": "Focus on rural broadband infrastructure",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Rural Broadband Acceleration Act in House"
+    },
+    {
+      "claim": "Opposes corporate consolidation in agriculture",
+      "source_kind": "public_statement",
+      "detail": "Criticized dairy industry consolidation in Vermont media interviews"
+    },
+    {
+      "claim": "Supports aggressive antitrust enforcement",
+      "source_kind": "vote",
+      "detail": "Voted for stronger merger review provisions in House Judiciary Committee"
+    },
+    {
+      "claim": "Climate change requires federal mobilization",
+      "source_kind": "vote",
+      "detail": "Voted for Inflation Reduction Act climate provisions, August 2022"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:34:45.541558"
+}

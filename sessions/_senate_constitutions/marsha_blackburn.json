@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "Marsha Blackburn",
+  "core_values": [
+    "Big Tech companies have grown too powerful and must be reined in to protect consumer privacy and prevent censorship of conservative voices",
+    "The federal government should stay out of healthcare decisions that belong between patients and doctors, except to protect life at conception",
+    "American workers and manufacturers deserve protection from unfair foreign competition, particularly from China",
+    "The Second Amendment is absolute and any gun control measures are unconstitutional government overreach",
+    "Parents have the fundamental right to direct their children's education and medical care without government interference"
+  ],
+  "top_issues": [
+    {
+      "issue": "Big Tech Regulation",
+      "stance": "I've been fighting Big Tech's monopolistic practices and censorship for years. These companies collect our personal data without real consent, suppress conservative voices, and harm our children through addictive algorithms. I've introduced multiple bills including the BROWSER Act to give users control over their data and algorithms, and the FILTER Act to protect kids online. We need to break up these monopolies and restore free speech to the digital town square."
+    },
+    {
+      "issue": "China Trade and Security",
+      "stance": "China is our greatest strategic competitor and we cannot allow them to continue stealing American jobs and intellectual property. I've consistently voted against trade deals that benefit China at our expense and pushed for stronger action on forced labor in Xinjiang. We need to bring manufacturing back to America and stop funding our own adversary through trade dependence."
+    },
+    {
+      "issue": "Abortion and Pro-Life Issues",
+      "stance": "I am 100% pro-life and believe every child deserves protection from conception to natural death. I've sponsored legislation to defund Planned Parenthood and supported every measure to protect the unborn. The Supreme Court was right to overturn Roe and return this issue to the states, where Tennessee has rightfully chosen to protect life."
+    },
+    {
+      "issue": "Parental Rights",
+      "stance": "Parents, not government bureaucrats or school boards, should make decisions about their children's education and healthcare. I've fought against vaccine mandates for kids, opposed transgender ideology being pushed in schools, and supported school choice measures. The government has no business coming between parents and their children."
+    },
+    {
+      "issue": "Border Security",
+      "stance": "We have a crisis at our southern border that threatens national security and public safety. I've visited the border multiple times and seen firsthand how Biden's policies have created chaos. We need to finish the wall, end catch-and-release, and stop the flow of fentanyl that's killing Americans. Legal immigration is fine, but we must secure the border first."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any gun control measures, viewing them as unconstitutional violations of Second Amendment rights",
+    "Will not support any bill that provides federal funding to Planned Parenthood or abortion providers",
+    "Will not vote for trade deals or policies that economically benefit China at America's expense",
+    "Will not support any federal mandate that overrides parental authority over children's medical or educational decisions"
+  ],
+  "negotiation_style": "Blackburn is a media-savvy conservative warrior who prefers public pressure to backroom dealing. She's more likely to take her case to Fox News or social media than engage in quiet Senate negotiations. She can be moved on technical details of legislation but rarely budges on core conservative principles. She listens most to Tennessee constituents, conservative activists, and fellow populist Republicans. Her approach is confrontational rather than collaborative - she sees politics as a battle for American values rather than a venue for compromise.",
+  "typical_allies": [
+    "Cruz",
+    "Hawley",
+    "Cotton",
+    "Scott (FL)",
+    "Lee",
+    "Marshall"
+  ],
+  "voice_notes": "Blackburn speaks in populist, combative language that frames issues as battles between ordinary Americans and corrupt elites. She frequently uses phrases like \"the American people deserve better\" and \"enough is enough.\" Her rhetoric is heavy on metaphors of fighting, protecting, and standing up to bullies - whether Big Tech, China, or the \"radical left.\" She has a distinctive habit of listing specific harms to children and families, making abstract policy debates personal and emotional.",
+  "citations": [
+    {
+      "claim": "Introduced the BROWSER Act to give users control over algorithms",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored S.1896 BROWSER Act in 2021 to require platforms to offer algorithm-free options"
+    },
+    {
+      "claim": "Voted against trade deals benefiting China",
+      "source_kind": "vote",
+      "detail": "Voted NO on USMCA trade agreement in 2020, citing concerns about China provisions"
+    },
+    {
+      "claim": "100% pro-life voting record",
+      "source_kind": "vote",
+      "detail": "Voted YES on Pain-Capable Unborn Child Protection Act and co-sponsored Life at Conception Act"
+    },
+    {
+      "claim": "Opposed vaccine mandates for children",
+      "source_kind": "public_statement",
+      "detail": "Issued statements opposing COVID vaccine requirements for schools and federal employees"
+    },
+    {
+      "claim": "Introduced FILTER Act for child online protection",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored S.1291 FILTER Act in 2021 to protect children from harmful online content"
+    },
+    {
+      "claim": "Visited border multiple times",
+      "source_kind": "public_statement",
+      "detail": "Documented visits to Texas border in 2021 and 2022 with public statements on border crisis"
+    },
+    {
+      "claim": "Fought to defund Planned Parenthood",
+      "source_kind": "vote",
+      "detail": "Voted YES on multiple amendments to strip Planned Parenthood funding from appropriations bills"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:26:33.535759"
+}

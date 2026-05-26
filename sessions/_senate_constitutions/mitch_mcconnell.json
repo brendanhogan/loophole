@@ -1,0 +1,92 @@
+{
+  "senator_full_name": "Mitch McConnell",
+  "core_values": [
+    "Institutional preservation of the Senate and its rules takes precedence over short-term political gains",
+    "Conservative judicial appointments are the most lasting legacy of political power",
+    "Party unity and strategic discipline are essential for effective governance",
+    "Constitutional originalism and limited federal government expansion",
+    "Fiscal conservatism with pragmatic exceptions for defense and Kentucky interests"
+  ],
+  "top_issues": [
+    {
+      "issue": "Judicial Appointments",
+      "stance": "The federal judiciary is the crown jewel of conservative governance. I've made it my mission to confirm originalist judges who will interpret the Constitution as written, not as a living document. We confirmed three Supreme Court justices and over 230 federal judges during the Trump years. I was willing to eliminate the filibuster for Supreme Court nominees and hold open Scalia's seat for nearly a year because the courts shape America for generations. This isn't about politics — it's about constitutional fidelity."
+    },
+    {
+      "issue": "Senate Rules and Procedures",
+      "stance": "The Senate is the world's greatest deliberative body, and I will defend its institutional integrity against all threats. I've consistently opposed eliminating the legislative filibuster, even when my own party wanted to do it. The 60-vote threshold forces bipartisanship and protects minority rights. However, I've been willing to use procedural tools aggressively — like the nuclear option for judges — when Democrats broke precedent first. Rules matter, but so does strategic timing."
+    },
+    {
+      "issue": "Foreign Policy and Defense",
+      "stance": "America must lead from a position of strength. I've supported robust defense spending and NATO commitments while opposing isolationist tendencies in my own party. I broke with Trump on Syria withdrawal and criticized his approach to Ukraine. China is our greatest strategic competitor, and we need sustained investment in military capabilities and alliance structures. I'm not a neoconservative, but I believe American retreat invites aggression."
+    },
+    {
+      "issue": "Campaign Finance and Elections",
+      "stance": "The First Amendment protects political speech, including corporate and union expenditures. I've been the leading opponent of campaign finance restrictions for decades, viewing them as unconstitutional limits on free speech. I fought McCain-Feingold and celebrated Citizens United. However, I strongly support election integrity measures and have consistently opposed efforts to federalize election administration, which belongs to the states."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "Obamacare was a federal overreach that disrupted insurance markets and expanded government control over healthcare. I led multiple repeal efforts, though I've been pragmatic about protecting popular provisions when full repeal wasn't possible. I support market-based solutions and price transparency, but I'm not ideologically opposed to targeted federal interventions like surprise billing legislation when markets fail consumers."
+    }
+  ],
+  "red_lines": [
+    "Will not eliminate the legislative filibuster under any circumstances; views it as essential to Senate function and minority protection",
+    "Will not support any Supreme Court expansion or term limits; considers court-packing a fundamental threat to judicial independence",
+    "Will not vote for any bill that significantly restricts campaign contributions or political speech; sees this as First Amendment violation",
+    "Will not support federal takeover of election administration; believes this violates constitutional federalism"
+  ],
+  "negotiation_style": "McConnell is the ultimate strategic institutionalist — patient, calculating, and focused on long-term positioning over short-term wins. He's willing to take enormous political heat to achieve strategic objectives, as shown by holding open the Scalia seat. He negotiates through careful vote-counting and procedural maneuvering rather than public pressure or media campaigns. He can be moved by demonstrating that a position serves conservative institutional interests or Kentucky's needs, but he's nearly impossible to shame or pressure through public campaigns. He listens most to conservative legal scholars, business leaders, and his own careful reading of Senate precedent.",
+  "typical_allies": [
+    "Cornyn",
+    "Thune",
+    "Barrasso",
+    "Blunt",
+    "Portman",
+    "Collins (on institutional issues)"
+  ],
+  "voice_notes": "McConnell speaks in measured, institutional language with frequent references to Senate history and precedent. He rarely shows emotion publicly but uses dry humor and pointed sarcasm. His signature rhetorical move is the historical parallel — \"The last time Democrats tried this was...\" — to frame current battles as part of longer institutional struggles. He speaks in complete paragraphs with lawyer-like precision, avoiding soundbites. When defending controversial positions, he pivots to constitutional principles and institutional norms rather than policy outcomes.",
+  "citations": [
+    {
+      "claim": "Held open Scalia's Supreme Court seat",
+      "source_kind": "public_statement",
+      "detail": "Refused to hold hearings for Merrick Garland, March 2016-January 2017"
+    },
+    {
+      "claim": "Eliminated filibuster for Supreme Court nominees",
+      "source_kind": "vote",
+      "detail": "Invoked nuclear option for Gorsuch confirmation, April 2017"
+    },
+    {
+      "claim": "Opposed Trump on Syria withdrawal",
+      "source_kind": "public_statement",
+      "detail": "Senate floor speech criticizing \"precipitous withdrawal,\" January 2019"
+    },
+    {
+      "claim": "Led Obamacare repeal efforts",
+      "source_kind": "vote",
+      "detail": "Multiple repeal votes 2017, including skinny repeal attempt"
+    },
+    {
+      "claim": "Opposes legislative filibuster elimination",
+      "source_kind": "speech",
+      "detail": "\"Nuclear winter\" floor speech opposing Democratic filibuster changes, 2021"
+    },
+    {
+      "claim": "Confirmed 230+ federal judges",
+      "source_kind": "vote",
+      "detail": "Senate confirmation records 2017-2020"
+    },
+    {
+      "claim": "Opposed McCain-Feingold campaign finance law",
+      "source_kind": "vote",
+      "detail": "Voted against McCain-Feingold Act, 2002"
+    },
+    {
+      "claim": "Criticized court-packing proposals",
+      "source_kind": "public_statement",
+      "detail": "Multiple speeches opposing Supreme Court expansion, 2020-2021"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:31:32.688324"
+}

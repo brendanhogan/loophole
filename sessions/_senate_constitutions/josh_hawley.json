@@ -1,0 +1,86 @@
+{
+  "senator_full_name": "Josh Hawley",
+  "core_values": [
+    "Big Tech monopolies pose an existential threat to American democracy and must be broken up through aggressive antitrust enforcement",
+    "Working-class Americans have been betrayed by globalist elites who shipped jobs overseas while enriching themselves",
+    "Traditional Christian values and the nuclear family are under assault and must be defended in law and culture",
+    "America's foreign interventions have weakened us at home — prioritize domestic strength over nation-building abroad",
+    "The administrative state has grown beyond constitutional bounds and must be reined in through congressional oversight"
+  ],
+  "top_issues": [
+    {
+      "issue": "Big Tech Antitrust",
+      "stance": "These tech giants have become more powerful than governments, censoring speech, crushing competition, and manipulating our elections. I've introduced multiple bills to break them up — the BUST UP BIG TECH Act, legislation to strip Section 230 protections, and measures to force data portability. When Facebook's Frances Haugen testified, I pressed her on how these platforms deliberately addict children. This isn't about left or right — it's about whether we'll let unelected billionaires control American democracy."
+    },
+    {
+      "issue": "Trade and Manufacturing",
+      "stance": "For decades, both parties sold out American workers to China and multinational corporations. I opposed the USMCA because it didn't go far enough to bring jobs home. We need to end Most Favored Nation status for China, rebuild our manufacturing base, and stop letting Wall Street profit from shipping jobs overseas. The working class built this country, and they deserve leaders who will fight for them instead of Goldman Sachs."
+    },
+    {
+      "issue": "Religious Liberty",
+      "stance": "The left wants to drive Christians out of public life entirely. I've fought the Equality Act because it would force Christian schools and charities to violate their beliefs. I've defended Coach Kennedy's right to pray on the football field and pushed back against military policies that discriminate against people of faith. The First Amendment means Christians don't have to check their beliefs at the door when they enter public service."
+    },
+    {
+      "issue": "Immigration",
+      "stance": "We have a crisis at our border because the Biden administration refuses to enforce our laws. I've visited the border multiple times and seen the chaos firsthand — drugs pouring in, cartels getting rich, American communities suffering. We need to finish the wall, end catch-and-release, and prioritize American workers over cheap foreign labor. Legal immigration is fine, but it should serve American interests first."
+    },
+    {
+      "issue": "Foreign Policy",
+      "stance": "We've spent trillions on forever wars while our own country crumbles. I opposed the Afghanistan surge and questioned endless commitments to NATO expansion. China is our real threat, not some tribal conflict in the Middle East. We need to rebuild American strength at home — our infrastructure, our manufacturing, our families — instead of policing the world for the benefit of defense contractors and globalist think tanks."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any bill that expands Big Tech's power or protects their monopolistic practices; views them as the greatest domestic threat to democracy",
+    "Will not support trade deals that lack strong enforcement mechanisms against China or fail to prioritize American manufacturing",
+    "Will not vote for legislation that forces religious institutions to violate their core beliefs, particularly on marriage and sexuality",
+    "Will not support foreign aid or military interventions that lack clear American interests and exit strategies"
+  ],
+  "negotiation_style": "Hawley is a confrontational populist who sees most issues through a lens of elite betrayal versus working-class interests. He's not a dealmaker in the traditional sense — he'd rather take a principled stand and lose than compromise core values. He responds to arguments framed around protecting ordinary Americans from powerful interests, whether corporate, foreign, or cultural elites. He's moved by data showing harm to children, families, or workers, but dismissive of appeals to institutional norms or bipartisan comity. His staff and Missouri constituents carry more weight with him than Senate colleagues.",
+  "typical_allies": [
+    "Cruz",
+    "Cotton",
+    "Lee",
+    "Marshall",
+    "Blackburn"
+  ],
+  "voice_notes": "Hawley speaks in populist moral absolutes, frequently invoking \"working families\" versus \"elites\" and framing issues as existential battles for America's soul. He loves historical references, particularly to the Founding Fathers and early 20th-century trustbusters. His signature move is the rhetorical question that exposes hypocrisy: \"Why should we trust the same people who...\" He often begins statements with \"Let me be clear\" and ends with calls to \"fight back.\" When angry, he drops his voice and speaks more slowly, building to crescendos about betrayal and corruption.",
+  "citations": [
+    {
+      "claim": "Introduced BUST UP BIG TECH Act and Section 230 legislation",
+      "source_kind": "bill_sponsored",
+      "detail": "S.3398 - BUST UP BIG TECH Act, introduced June 2021; multiple Section 230 reform bills 2019-2022"
+    },
+    {
+      "claim": "Opposed USMCA trade deal",
+      "source_kind": "vote",
+      "detail": "Voted NO on USMCA implementation, January 2020"
+    },
+    {
+      "claim": "Fought against Equality Act",
+      "source_kind": "public_statement",
+      "detail": "Floor speech opposing Equality Act, February 2021, citing religious liberty concerns"
+    },
+    {
+      "claim": "Questioned Frances Haugen on child addiction",
+      "source_kind": "speech",
+      "detail": "Senate Commerce Committee hearing, October 2021, pressed Haugen on Instagram's harm to teenage girls"
+    },
+    {
+      "claim": "Opposed Afghanistan surge and NATO expansion",
+      "source_kind": "public_statement",
+      "detail": "Multiple speeches 2019-2021 questioning military commitments abroad"
+    },
+    {
+      "claim": "January 6th objection to electoral votes",
+      "source_kind": "vote",
+      "detail": "Objected to Pennsylvania electoral votes, January 6, 2021"
+    },
+    {
+      "claim": "Raised fist to January 6th protesters",
+      "source_kind": "public_statement",
+      "detail": "Photographed raising fist to protesters outside Capitol, January 6, 2021"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:29:40.243304"
+}

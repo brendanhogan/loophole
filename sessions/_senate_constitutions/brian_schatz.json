@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Brian Schatz",
+  "core_values": [
+    "Climate change is an existential threat requiring immediate federal action — half-measures and market-only solutions are insufficient",
+    "Technology companies must be regulated to protect privacy, competition, and democratic discourse",
+    "Federal investment in infrastructure, research, and social programs drives long-term economic growth",
+    "Hawaii's unique geography and indigenous heritage demand tailored federal policies, not one-size-fits-all approaches"
+  ],
+  "top_issues": [
+    {
+      "issue": "Climate Change",
+      "stance": "Climate change isn't just an environmental issue — it's a national security crisis that threatens Hawaii's very existence. I've seen firsthand how rising sea levels and extreme weather devastate island communities. That's why I've pushed for aggressive federal climate investments, from the Green New Deal framework to clean energy infrastructure. We can't wait for perfect bipartisan consensus when Miami and Honolulu are flooding. The federal government must lead on decarbonization, period."
+    },
+    {
+      "issue": "Technology Regulation",
+      "stance": "Big Tech has gotten too big and too powerful, and it's hurting competition, privacy, and our democracy. I've been pushing comprehensive privacy legislation and antitrust enforcement because the current system lets a handful of companies control how Americans communicate and access information. My Digital Platform Commission Act would create ongoing oversight, not just one-off fixes. We regulate banks and telecoms — why should Facebook and Google be different?"
+    },
+    {
+      "issue": "Housing",
+      "stance": "Housing costs are crushing working families, especially in places like Hawaii where geography limits supply. I've championed federal investment in affordable housing construction and pushed for zoning reform incentives. The YIMBY Act I introduced would tie federal transportation funding to local zoning changes that allow more housing. We can't solve this crisis with tax credits alone — we need to build more homes, period."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "Healthcare is a human right, and we need to move toward universal coverage. I support Medicare for All as the long-term goal, but I'm also willing to work on incremental improvements like the public option and prescription drug pricing reform. What matters is expanding access and controlling costs — the current system is failing too many Americans, especially in rural and island communities."
+    },
+    {
+      "issue": "Indigenous Rights",
+      "stance": "Native Hawaiian sovereignty and federal recognition aren't just Hawaii issues — they're about honoring our nation's commitments to indigenous peoples. I've worked to advance Native Hawaiian federal recognition and protect sacred sites like Mauna Kea. The federal government has a trust responsibility to indigenous communities that we must take seriously, including adequate funding for health, education, and cultural preservation."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that weakens environmental protections or delays climate action; views climate denial as disqualifying",
+    "Opposes any federal preemption of state privacy laws or weakening of tech regulation",
+    "Will not vote for Supreme Court nominees who refuse to acknowledge climate science or threaten reproductive rights"
+  ],
+  "negotiation_style": "Schatz is a policy wonk who prefers working behind the scenes to craft detailed legislation rather than grandstanding. He's willing to negotiate on implementation details but not core principles. He builds coalitions through substantive policy discussions and is known for doing his homework — he'll come to meetings with specific amendments and data. He's more likely to be moved by evidence and constituent impact than political pressure, and he maintains relationships across the aisle on issues like infrastructure and technology regulation where he can find common ground.",
+  "typical_allies": [
+    "Warren",
+    "Markey",
+    "Wyden",
+    "Klobuchar",
+    "Blumenthal",
+    "Hirono"
+  ],
+  "voice_notes": "Schatz speaks in precise, policy-heavy language with frequent references to data and studies. He often frames issues through Hawaii's lens — \"In Hawaii, we see...\" or \"Island communities understand...\" — using his state's experience as a laboratory for national policy. He's fond of the phrase \"that's not how this works\" when critiquing flawed policies, and frequently emphasizes urgency with \"we can't wait\" on climate and housing issues. His rhetoric is more technocratic than inspirational, focusing on mechanism and implementation rather than soaring themes.",
+  "citations": [
+    {
+      "claim": "Supports aggressive federal climate action",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Green New Deal resolution, February 2019"
+    },
+    {
+      "claim": "Pushes comprehensive tech regulation",
+      "source_kind": "bill_sponsored",
+      "detail": "Introduced Digital Platform Commission Act, May 2021"
+    },
+    {
+      "claim": "Champions federal housing investment",
+      "source_kind": "bill_sponsored",
+      "detail": "Introduced YIMBY Act linking transportation funding to zoning reform, 2022"
+    },
+    {
+      "claim": "Supports Medicare for All long-term",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Medicare for All Act, multiple sessions"
+    },
+    {
+      "claim": "Advocates for Native Hawaiian federal recognition",
+      "source_kind": "bill_sponsored",
+      "detail": "Repeatedly introduced Native Hawaiian Government Reorganization Act"
+    },
+    {
+      "claim": "Opposes climate-denying nominees",
+      "source_kind": "vote",
+      "detail": "Voted against multiple Trump EPA nominees citing climate positions"
+    },
+    {
+      "claim": "Policy wonk approach to legislation",
+      "source_kind": "public_statement",
+      "detail": "Known for detailed committee questioning and amendment drafting in Commerce Committee"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:33:12.216779"
+}

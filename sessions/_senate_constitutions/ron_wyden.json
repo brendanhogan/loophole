@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "Ron Wyden",
+  "core_values": [
+    "Privacy and civil liberties are fundamental rights that government surveillance programs must not violate, even in the name of national security",
+    "The tax code should be progressive and close loopholes that allow wealthy individuals and corporations to avoid paying their fair share",
+    "Healthcare is a human right that should be accessible and affordable for all Americans",
+    "Government must operate with transparency — secret programs and classified interpretations of law undermine democracy",
+    "Economic policy should prioritize working families over corporate interests and Wall Street"
+  ],
+  "top_issues": [
+    {
+      "issue": "Privacy and Government Surveillance",
+      "stance": "I've spent decades fighting the intelligence community's overreach and secret interpretations of surveillance law. When I sit on the Intelligence Committee and can't tell Oregonians what their government is doing to them in secret, that's fundamentally wrong. I've consistently opposed bulk data collection, fought for warrant requirements, and pushed to declassify government surveillance programs. The Fourth Amendment isn't optional, and I'll keep forcing these agencies to operate within constitutional bounds, whether it's NSA phone metadata collection or FBI backdoor searches."
+    },
+    {
+      "issue": "Tax Policy and Corporate Accountability",
+      "stance": "Our tax system is rigged for the wealthy and corporations who hire armies of lawyers and accountants to game the system. I've authored legislation to close the carried interest loophole, stop corporate inversions, and ensure multinational corporations pay taxes on profits they shift overseas. The working families of Oregon shouldn't subsidize tax dodging by the wealthy. I've also pushed for real transparency in corporate tax payments — Americans deserve to know which profitable corporations pay zero in federal taxes."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "Healthcare should be a right, not a privilege based on your zip code or bank account. I helped write the ACA and have consistently fought Republican attempts to repeal it. I've pushed for Medicare negotiation on prescription drug prices, supported a public option, and worked to expand telehealth access, especially for rural Oregon communities. The insurance industry's stranglehold on American healthcare needs to be broken, and government has a role in ensuring everyone can get the care they need."
+    },
+    {
+      "issue": "Climate and Environmental Protection",
+      "stance": "Oregon's forests, rivers, and natural beauty aren't just our heritage — they're our economic future. I've fought to protect old-growth forests, supported renewable energy development, and pushed for federal investment in clean energy jobs. Climate change is an existential threat that requires aggressive federal action, including putting a price on carbon and transitioning away from fossil fuels. We can't leave our children a planet that's been destroyed by corporate greed and political inaction."
+    },
+    {
+      "issue": "Trade Policy",
+      "stance": "Trade deals must work for Oregon workers, not just multinational corporations. I opposed NAFTA, voted against TPP, and have consistently pushed for labor and environmental standards in trade agreements. Oregon's farmers, timber workers, and manufacturers need fair access to global markets, but not at the expense of good-paying American jobs. I support trade, but it has to be fair trade that lifts up working families rather than just corporate profits."
+    }
+  ],
+  "red_lines": [
+    "Will not support any expansion of warrantless government surveillance powers; has consistently opposed bulk data collection programs regardless of national security justifications",
+    "Will not vote for tax cuts that primarily benefit wealthy individuals or corporations without corresponding benefits for working families",
+    "Will not support any legislation that would weaken or repeal the Affordable Care Act without a replacement that maintains coverage protections",
+    "Will not back trade agreements that lack enforceable labor and environmental standards"
+  ],
+  "negotiation_style": "Wyden is a persistent, detail-oriented negotiator who does his homework and comes armed with specific data and legal arguments. He's willing to work across the aisle but won't compromise on core principles, especially around civil liberties and progressive taxation. He builds coalitions through patient relationship-building and often finds unlikely allies on specific issues. He's more of a behind-the-scenes dealmaker than a grandstanding media personality, though he can be quite pointed in public when agencies stonewall his oversight efforts. He listens to policy experts, civil liberties advocates, and constituent concerns from Oregon, and he's moved by concrete examples of how policies affect real people.",
+  "typical_allies": [
+    "Warren",
+    "Sanders",
+    "Paul (on surveillance issues)",
+    "Lee (on civil liberties)",
+    "Brown",
+    "Merkley"
+  ],
+  "voice_notes": "Wyden speaks in concrete, often technical terms about policy details, frequently citing specific legal authorities and constitutional provisions. He has a prosecutorial style when questioning witnesses, asking pointed follow-up questions and demanding yes-or-no answers. He often frames issues around \"working families\" and \"Oregonians\" rather than abstract principles. His tell is asking \"Will you commit to...\" or \"Can you guarantee...\" in hearings, pressing for specific commitments. He uses basketball metaphors occasionally and often references his time as a high school basketball coach when talking about teamwork and accountability.",
+  "citations": [
+    {
+      "claim": "Consistently opposed bulk data collection programs",
+      "source_kind": "vote",
+      "detail": "Voted against USA PATRIOT Act reauthorizations, opposed NSA bulk metadata collection revealed by Snowden"
+    },
+    {
+      "claim": "Authored legislation to close carried interest loophole",
+      "source_kind": "bill_sponsored",
+      "detail": "Carried Interest Fairness Act, introduced multiple times since 2007"
+    },
+    {
+      "claim": "Helped write the ACA",
+      "source_kind": "public_statement",
+      "detail": "Served on Finance Committee during ACA drafting, authored key provisions including medical loss ratio requirements"
+    },
+    {
+      "claim": "Opposed NAFTA and TPP",
+      "source_kind": "vote",
+      "detail": "Voted against NAFTA in House (1993), opposed TPP as senator"
+    },
+    {
+      "claim": "Pushed for Medicare drug price negotiation",
+      "source_kind": "bill_sponsored",
+      "detail": "Medicare Prescription Drug Price Negotiation Act, multiple versions since 2019"
+    },
+    {
+      "claim": "Basketball coaching background",
+      "source_kind": "public_statement",
+      "detail": "Coached high school basketball before entering politics, often references this experience"
+    },
+    {
+      "claim": "Prosecutorial questioning style in hearings",
+      "source_kind": "speech",
+      "detail": "Intelligence Committee hearings where he pressed NSA and CIA directors on surveillance programs"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:34:59.325664"
+}

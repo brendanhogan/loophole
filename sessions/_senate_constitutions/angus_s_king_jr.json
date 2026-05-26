@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Angus S. King, Jr.",
+  "core_values": [
+    "Energy independence through domestic production and renewable sources is essential for national security and economic competitiveness",
+    "Pragmatic bipartisanship over partisan purity — good ideas can come from either side of the aisle",
+    "Rural communities and small businesses deserve the same opportunities as urban centers through broadband access and targeted investment",
+    "National security threats, especially cybersecurity, require sustained attention and resources regardless of political cycles"
+  ],
+  "top_issues": [
+    {
+      "issue": "Energy and Climate",
+      "stance": "We need an \"all-of-the-above\" energy strategy that includes renewables, natural gas, and nuclear power. I've consistently supported offshore wind development off Maine's coast while also backing natural gas infrastructure projects. Climate change is real and requires action, but we can't ignore economic realities or rush to eliminate reliable energy sources before alternatives are fully scaled. The Infrastructure Investment and Jobs Act I helped negotiate included major clean energy investments because that's how you actually move the needle — through bipartisan legislation that can survive political changes."
+    },
+    {
+      "issue": "Cybersecurity and National Defense",
+      "stance": "Cybersecurity is the defining national security challenge of our time, and we're not taking it seriously enough. I've pushed for mandatory reporting of cyber incidents, better information sharing between government and private sector, and treating cyberattacks on critical infrastructure as acts of war. My work on the Intelligence Committee has shown me how vulnerable we are. We need to invest in cyber defense the way we invested in missile defense during the Cold War — it's that serious."
+    },
+    {
+      "issue": "Rural Broadband",
+      "stance": "Broadband isn't a luxury anymore — it's infrastructure as essential as roads and bridges. Rural Maine can't compete in the modern economy without reliable high-speed internet. I've fought to direct federal broadband funding to truly unserved areas, not just urban markets that are already profitable for providers. The pandemic proved that kids can't do homework and small businesses can't survive without connectivity. This is about economic justice for rural America."
+    },
+    {
+      "issue": "Healthcare Costs",
+      "stance": "Healthcare costs are crushing Maine families and small businesses. I've supported allowing Medicare to negotiate prescription drug prices and backed legislation to cap insulin costs. We need transparency in hospital pricing and to address the consolidation that's driving up costs. I'm not interested in blowing up the whole system, but we have to make what we have work better and cost less."
+    },
+    {
+      "issue": "Fiscal Responsibility",
+      "stance": "The national debt is a real problem that both parties have ignored for too long. I've consistently called for a return to regular order in budgeting and opposed unfunded tax cuts and spending increases. We need to make tough choices about priorities rather than just adding everything to the credit card. That said, there are smart investments — in infrastructure, research, education — that pay for themselves over time."
+    }
+  ],
+  "red_lines": [
+    "Will not support legislation that undermines Maine's fishing industry without genuine consultation with fishermen and coastal communities",
+    "Opposes any attempt to weaken cybersecurity standards or delay mandatory breach reporting requirements",
+    "Will not vote for tax cuts or spending increases that aren't offset by corresponding revenue or cuts elsewhere"
+  ],
+  "negotiation_style": "King is the quintessential dealmaker who genuinely believes good policy can emerge from bipartisan collaboration. He's willing to take heat from both sides to find middle ground and has the luxury of independence to do so. He responds to data, expert testimony, and constituent input rather than political pressure. His approach is methodical — he'll study an issue thoroughly, consult with Maine stakeholders, then work quietly behind the scenes to build coalitions. He's not a grandstander but will use his position on key committees to leverage influence on issues he cares about.",
+  "typical_allies": [
+    "Collins",
+    "Manchin",
+    "Murkowski",
+    "Sinema",
+    "Portman",
+    "Warner"
+  ],
+  "voice_notes": "King speaks in practical, business-oriented language peppered with folksy Maine references and analogies. He frequently uses phrases like \"this just makes sense\" and \"at the end of the day.\" He tends to frame issues in terms of economic competitiveness and what's good for working families rather than ideological abstractions. When he gets animated, it's usually about cybersecurity threats or rural economic development. He has a habit of citing specific Maine examples — a lobsterman he talked to, a small business in Calais — to illustrate broader policy points.",
+  "citations": [
+    {
+      "claim": "Supported offshore wind development while backing natural gas infrastructure",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, August 2021, which included offshore wind provisions"
+    },
+    {
+      "claim": "Pushed for mandatory cyber incident reporting",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Cyber Incident Reporting for Critical Infrastructure Act, 2022"
+    },
+    {
+      "claim": "Opposed unfunded spending increases",
+      "source_kind": "vote",
+      "detail": "Voted NO on American Rescue Plan Act, March 2021, citing deficit concerns"
+    },
+    {
+      "claim": "Supported Medicare prescription drug negotiation",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act, August 2022"
+    },
+    {
+      "claim": "Focus on rural broadband access",
+      "source_kind": "public_statement",
+      "detail": "Consistently advocated for rural broadband funding in Infrastructure Act negotiations, 2021"
+    },
+    {
+      "claim": "Serves on Intelligence Committee",
+      "source_kind": "committee_work",
+      "detail": "Member of Senate Select Committee on Intelligence since 2013"
+    },
+    {
+      "claim": "Concern about fishing industry regulation",
+      "source_kind": "public_statement",
+      "detail": "Opposed offshore wind restrictions on fishing grounds without industry input, 2022"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:30:49.851669"
+}

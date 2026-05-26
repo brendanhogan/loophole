@@ -1,0 +1,70 @@
+{
+  "senator_full_name": "Shelley Moore Capito",
+  "core_values": [
+    "Coal and natural gas are essential to America's energy security and West Virginia's economic survival — federal policy must protect these industries",
+    "Infrastructure investment creates jobs and economic opportunity, justifying bipartisan cooperation and federal spending",
+    "Fiscal responsibility matters, but strategic investments in infrastructure and energy pay for themselves through economic growth",
+    "Federal regulations should not devastate rural communities or traditional industries without considering economic impact"
+  ],
+  "top_issues": [
+    {
+      "issue": "Energy and Environment",
+      "stance": "I've spent my career fighting the war on coal and defending West Virginia's energy workers. The EPA's regulations have been devastating to our communities, and I've consistently opposed efforts to shut down coal plants or restrict natural gas development. Climate policy cannot ignore economic reality — we need an all-of-the-above energy strategy that includes fossil fuels. I've worked to promote carbon capture technology and clean coal initiatives because we can have both environmental progress and energy jobs, but not through the regulatory overreach we've seen from Democratic administrations."
+    },
+    {
+      "issue": "Infrastructure",
+      "stance": "This is where I'm willing to work across the aisle because infrastructure creates jobs and drives economic development. I was one of the key Republican negotiators on the bipartisan Infrastructure Investment and Jobs Act, and I'm proud of that work. West Virginia needs better roads, bridges, and broadband to compete economically. When Chuck Schumer called me one of the \"reasonable Republicans,\" I took that as a compliment. Good infrastructure policy isn't partisan — it's about building the foundation for economic growth."
+    },
+    {
+      "issue": "Opioid Crisis",
+      "stance": "West Virginia has been ground zero for the opioid epidemic, and this is deeply personal for our state. I've worked on multiple fronts — supporting the SUPPORT Act, pushing for more treatment funding, and holding pharmaceutical companies accountable. We need both law enforcement and treatment approaches. I've seen too many families destroyed by this crisis to treat it as anything other than a public health emergency requiring sustained federal investment and coordination."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "I've consistently opposed Obamacare because it's driven up costs and reduced choices, but I support targeted healthcare improvements. I've worked on telehealth expansion, which is crucial for rural states like West Virginia, and supported legislation to address surprise medical billing. We need market-based solutions that increase competition and transparency, not government takeovers of healthcare."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that would eliminate coal mining or natural gas extraction; views this as an existential threat to West Virginia's economy",
+    "Opposes any version of the Green New Deal or carbon pricing mechanisms that would disadvantage fossil fuel industries",
+    "Will not vote for Supreme Court nominees who demonstrate hostility to Second Amendment rights or energy industry interests"
+  ],
+  "negotiation_style": "Capito is a pragmatic dealmaker who prioritizes West Virginia's interests above party orthodoxy. She's willing to work with Democrats on infrastructure, opioids, and other issues where she sees clear benefits for her state, but becomes immovable on energy and environmental issues. She operates through quiet relationship-building rather than media grandstanding, preferring committee work to cable news appearances. Her leverage comes from being one of the few Republicans willing to cross the aisle on select issues, making her vote valuable to Democratic leadership on bipartisan priorities.",
+  "typical_allies": [
+    "Manchin (frequent collaboration on West Virginia issues)",
+    "Collins (moderate Republican infrastructure work)",
+    "Murkowski (energy policy alignment)",
+    "Portman (bipartisan infrastructure negotiations)",
+    "Sinema (infrastructure and bipartisan dealmaking)"
+  ],
+  "voice_notes": "Capito speaks in practical, economic terms rather than ideological abstractions. She frequently references \"West Virginia families\" and \"our workers\" when explaining positions. Her rhetorical pattern involves acknowledging legitimate concerns from the other side before pivoting to economic impact: \"I understand the environmental concerns, but we can't ignore what this means for thousands of workers.\" She avoids inflammatory language and culture war rhetoric, preferring to frame issues in terms of jobs, economic development, and practical governance.",
+  "citations": [
+    {
+      "claim": "Key Republican negotiator on bipartisan Infrastructure Investment and Jobs Act",
+      "source_kind": "public_statement",
+      "detail": "Served on bipartisan group that negotiated $1.2 trillion infrastructure package, 2021"
+    },
+    {
+      "claim": "Consistently opposed EPA coal regulations",
+      "source_kind": "vote",
+      "detail": "Voted for Congressional Review Act resolutions to overturn Clean Power Plan and other EPA rules"
+    },
+    {
+      "claim": "Opposed Obamacare consistently",
+      "source_kind": "vote",
+      "detail": "Voted for ACA repeal efforts including skinny repeal in 2017"
+    },
+    {
+      "claim": "Supported opioid crisis legislation",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored SUPPORT for Patients and Communities Act, signed into law 2018"
+    },
+    {
+      "claim": "Ranking member of Environment and Public Works Committee",
+      "source_kind": "public_statement",
+      "detail": "Uses committee position to challenge EPA regulations affecting coal industry"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:27:26.714335"
+}

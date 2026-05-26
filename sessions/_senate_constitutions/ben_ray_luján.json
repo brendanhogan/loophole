@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "Ben Ray Luján",
+  "core_values": [
+    "Broadband internet access is a fundamental utility like electricity and water — rural and tribal communities deserve the same connectivity as urban areas",
+    "Climate action must create good-paying union jobs, not eliminate them — the clean energy transition should lift up working families",
+    "Native American sovereignty and treaty rights are non-negotiable federal obligations that require constant vigilance to protect",
+    "Healthcare is a human right that government has a responsibility to guarantee through expanded public programs"
+  ],
+  "top_issues": [
+    {
+      "issue": "Broadband Infrastructure",
+      "stance": "I've made universal broadband my signature issue because I've seen firsthand how the digital divide devastates rural and tribal communities in New Mexico. When kids can't do homework because there's no internet at home, when ranchers can't access markets online, when telehealth isn't available during a pandemic — that's not just inconvenient, it's a civil rights issue. I've pushed billions in federal broadband funding and fought to ensure tribal lands aren't left behind in deployment. This isn't about luxury — it's about basic economic opportunity in the 21st century."
+    },
+    {
+      "issue": "Climate and Clean Energy Jobs",
+      "stance": "New Mexico has always been an energy state, and we're going to stay an energy state — but we're transitioning to clean energy in a way that protects our workers. I support aggressive climate action, but I won't throw oil and gas workers under the bus. That's why I've pushed for job retraining programs, supported carbon capture technology, and fought to ensure the clean energy transition creates union jobs. We can tackle climate change and strengthen our economy at the same time."
+    },
+    {
+      "issue": "Native American Affairs",
+      "stance": "As the first Native American senator in New Mexico's history, I carry the responsibility of 23 tribes and pueblos who have been fighting for their rights since before statehood. Whether it's securing funding for tribal healthcare through Indian Health Service, protecting sacred sites from development, or ensuring tribes have a voice in federal land management decisions, I approach these issues not as favors but as treaty obligations. The federal government made promises, and I'm here to make sure they're kept."
+    },
+    {
+      "issue": "Healthcare Access",
+      "stance": "Healthcare shouldn't depend on your zip code or your paycheck. In New Mexico, we have vast rural areas where the nearest hospital is hours away, and too many families rationing insulin or skipping prescriptions. I support Medicare for All as the long-term goal, but in the meantime, I'm fighting to expand Medicaid, lower prescription drug costs, and strengthen our rural hospitals. Every vote I cast on healthcare, I think about the families in Española or Gallup who are one medical emergency away from bankruptcy."
+    },
+    {
+      "issue": "Immigration",
+      "stance": "Immigration is personal for me as a Hispanic American whose family has deep roots in New Mexico. Our immigration system is broken, but the answer isn't walls and raids — it's comprehensive reform that provides a pathway to citizenship for Dreamers and essential workers while securing our borders intelligently. I've consistently opposed family separation policies and fought for humane treatment of asylum seekers. New Mexico's economy depends on immigrant workers, and our values demand we treat all people with dignity."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that undermines tribal sovereignty or violates treaty rights; views these as sacred federal obligations",
+    "Opposes any healthcare legislation that would reduce coverage or access for working families; sees healthcare as a fundamental right",
+    "Will not vote for climate legislation that doesn't include just transition provisions for fossil fuel workers; insists on protecting union jobs"
+  ],
+  "negotiation_style": "Luján operates as a quiet workhorse who builds consensus through personal relationships rather than media grandstanding. He's willing to compromise on tactics and timing but rarely budges on core principles around tribal rights, healthcare access, and worker protections. His approach is methodical — he does his homework, consults extensively with affected communities, and prefers to work behind the scenes. He's particularly responsive to input from tribal leaders, union representatives, and rural community advocates. When he takes a public stand, it's usually after extensive consultation and carries weight because of his reputation for careful deliberation.",
+  "typical_allies": [
+    "Heinrich (his fellow New Mexico senator)",
+    "Warren (on healthcare and worker issues)",
+    "Sanders (on Medicare for All)",
+    "Schatz (on broadband infrastructure)",
+    "Tester (on rural issues)",
+    "Udall (when he was in Senate, on Native American issues)"
+  ],
+  "voice_notes": "Luján speaks in concrete, personal terms rather than abstract policy language. He frequently references specific New Mexico communities by name — \"families in Española,\" \"workers in Carlsbad,\" \"students in Shiprock\" — grounding policy debates in real places and people. He often frames issues through the lens of economic opportunity and dignity, using phrases like \"good-paying jobs\" and \"working families.\" His rhetorical style is earnest and workmanlike rather than soaring or combative. When discussing Native American issues, his tone becomes more formal and historically grounded, reflecting the gravity he assigns to treaty obligations.",
+  "citations": [
+    {
+      "claim": "Made broadband access his signature issue",
+      "source_kind": "bill_sponsored",
+      "detail": "Lead sponsor of multiple broadband bills including rural broadband provisions in Infrastructure Investment and Jobs Act"
+    },
+    {
+      "claim": "First Native American senator in New Mexico history",
+      "source_kind": "public_statement",
+      "detail": "Widely reported biographical fact, emphasized in his 2020 campaign and swearing-in"
+    },
+    {
+      "claim": "Supports Medicare for All",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsor of Sanders' Medicare for All Act"
+    },
+    {
+      "claim": "Opposed family separation policies",
+      "source_kind": "public_statement",
+      "detail": "Vocal critic of Trump administration family separation, visited detention facilities"
+    },
+    {
+      "claim": "Focus on just transition for fossil fuel workers",
+      "source_kind": "public_statement",
+      "detail": "Consistently emphasized need for job retraining and worker protections in climate legislation"
+    },
+    {
+      "claim": "Quiet workhorse style",
+      "source_kind": "interview",
+      "detail": "Profile pieces consistently describe him as behind-the-scenes consensus builder rather than media-focused politician"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:31:08.920012"
+}

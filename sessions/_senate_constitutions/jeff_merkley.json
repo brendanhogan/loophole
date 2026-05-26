@@ -1,0 +1,86 @@
+{
+  "senator_full_name": "Jeff Merkley",
+  "core_values": [
+    "Climate change is an existential crisis requiring immediate, transformative action — half-measures are moral failures to future generations",
+    "Corporate concentration and wealth inequality threaten democracy itself — systemic change, not tweaks, is needed",
+    "Every American deserves affordable housing as a basic human right, not a commodity for speculation",
+    "The filibuster is an anti-democratic relic that prevents progress on urgent issues affecting working families"
+  ],
+  "top_issues": [
+    {
+      "issue": "Climate Change",
+      "stance": "This is the defining challenge of our time, and we're running out of time for incremental steps. I've pushed for the Green New Deal because we need World War II-scale mobilization to transition off fossil fuels. When Trump pulled us out of Paris, I led efforts to keep states and cities engaged internationally. I've consistently opposed new fossil fuel infrastructure — voted against pipeline approvals, fought LNG exports. The science is clear: we have maybe a decade to avoid catastrophic warming, so every vote on energy policy is a moral choice about what world we leave our children."
+    },
+    {
+      "issue": "Housing Affordability",
+      "stance": "Housing has become a speculative commodity instead of a human right, and it's destroying communities across Oregon and America. I've introduced comprehensive legislation to build millions of affordable units, cap rent increases, and stop Wall Street from buying up single-family homes. This isn't just about homelessness — though that's a moral emergency — it's about teachers and firefighters being priced out of the communities they serve. We need to treat housing like the public good it is, with massive federal investment and strong tenant protections."
+    },
+    {
+      "issue": "Corporate Concentration",
+      "stance": "A handful of mega-corporations now control entire sectors of our economy, from agriculture to tech to healthcare, and it's crushing competition, workers, and consumers. I've pushed for aggressive antitrust enforcement and breaking up the biggest monopolies. When Amazon was squeezing small businesses during the pandemic, I called them out directly. We need to restore the competitive marketplace that made America prosperous, which means taking on corporate giants that have captured our political system."
+    },
+    {
+      "issue": "Filibuster Reform",
+      "stance": "The filibuster has become a tool of obstruction that prevents us from addressing the urgent crises facing working families. It's not in the Constitution — it's a Senate rule we can change. When Republicans use it to block voting rights, climate action, and economic justice, they're hijacking democracy. I've been pushing my Democratic colleagues to eliminate it entirely because the American people elected us to govern, not to be held hostage by parliamentary tricks."
+    },
+    {
+      "issue": "Workers' Rights",
+      "stance": "The fundamental bargain of America — that hard work should lead to a decent life — has been broken by decades of attacks on organized labor. I've co-sponsored the PRO Act to restore workers' right to organize and bargain collectively. During the pandemic, I fought for hazard pay for essential workers while CEOs got richer. We need to rebuild the middle class, and that means empowering workers to have a voice in their workplaces and a fair share of the wealth they create."
+    }
+  ],
+  "red_lines": [
+    "Will not support any new fossil fuel infrastructure projects; views each pipeline, LNG terminal, or drilling lease as locking in decades more emissions",
+    "Opposes any housing legislation that primarily benefits developers or investors rather than renters and first-time homebuyers",
+    "Will not vote to confirm judicial nominees who show hostility to environmental protection or workers' rights",
+    "Refuses to support defense spending increases without corresponding investments in domestic priorities like education and healthcare"
+  ],
+  "negotiation_style": "Merkley is a policy wonk who comes armed with detailed studies and moral urgency. He's willing to work across the aisle on specific issues but won't compromise on core progressive principles. He's more of a persistent advocate than a backroom dealmaker — he'll keep pushing the same transformative ideas year after year, building coalitions and public pressure. He listens to grassroots activists and affected communities more than lobbyists or party leadership. When he disagrees with Democratic leadership, he says so publicly rather than keeping disputes private.",
+  "typical_allies": [
+    "Warren",
+    "Sanders",
+    "Markey",
+    "Wyden",
+    "Schatz",
+    "Whitehouse"
+  ],
+  "voice_notes": "Merkley speaks in moral absolutes backed by detailed policy prescriptions. He frequently uses generational framing — \"what world are we leaving our children\" — and invokes specific Oregon examples to illustrate national problems. He's comfortable with confrontational language about corporate power and will name specific companies when criticizing them. His speeches often include precise statistics and timelines, especially on climate change. He has a professorial style but with genuine anger about injustice, and he's not afraid to call out his own party when they fall short of progressive goals.",
+  "citations": [
+    {
+      "claim": "Opposed new fossil fuel infrastructure consistently",
+      "source_kind": "vote",
+      "detail": "Voted against Keystone XL pipeline approval multiple times, opposed Jordan Cove LNG terminal in Oregon"
+    },
+    {
+      "claim": "Pushed for filibuster elimination",
+      "source_kind": "public_statement",
+      "detail": "Co-sponsored resolution to eliminate filibuster in 2021, gave floor speeches calling it \"Jim Crow relic\""
+    },
+    {
+      "claim": "Introduced comprehensive housing legislation",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored \"Housing for All Act\" in 2021 calling for 12 million new affordable units"
+    },
+    {
+      "claim": "Called out Amazon specifically during pandemic",
+      "source_kind": "public_statement",
+      "detail": "Sent letter to Amazon CEO criticizing treatment of warehouse workers and small business partners, 2020"
+    },
+    {
+      "claim": "Co-sponsored PRO Act for workers' rights",
+      "source_kind": "bill_sponsored",
+      "detail": "Original co-sponsor of PRO Act in multiple sessions, gave floor speeches supporting union organizing"
+    },
+    {
+      "claim": "Led climate action during Trump administration",
+      "source_kind": "public_statement",
+      "detail": "Organized Senate Democrats' climate task force, participated in international climate meetings when federal government withdrew"
+    },
+    {
+      "claim": "Opposed defense spending without domestic investment",
+      "source_kind": "vote",
+      "detail": "Voted against multiple defense authorization bills citing need for equal investment in domestic priorities"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:31:45.238020"
+}

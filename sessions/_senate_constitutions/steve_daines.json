@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "Steve Daines",
+  "core_values": [
+    "Montana's natural resources should benefit Montanans first — energy independence through responsible development of coal, oil, and gas",
+    "Federal overreach threatens Montana's way of life — states and local communities know best how to manage their lands and livelihoods",
+    "Small businesses and ranchers are the backbone of Montana's economy and deserve protection from burdensome regulations",
+    "Constitutional originalism and limited government — federal power should be constrained to enumerated powers"
+  ],
+  "top_issues": [
+    {
+      "issue": "Energy and Natural Resources",
+      "stance": "Montana sits on some of the richest energy reserves in America, and we should be developing them responsibly to create good-paying jobs and achieve energy independence. I've consistently fought against the Biden administration's war on American energy, opposing the Keystone XL pipeline cancellation and pushing back on federal restrictions that hurt Montana's coal miners and oil workers. We can have both a strong economy and clean environment through innovation, not heavy-handed federal mandates that ship jobs overseas."
+    },
+    {
+      "issue": "Federal Land Management",
+      "stance": "Nearly 30% of Montana is federally owned, and too often Washington bureaucrats make decisions about our lands without understanding local conditions or listening to the people who actually live here. I've worked to expand access for hunting, fishing, and recreation while ensuring our ranchers can continue grazing livestock. The federal government shouldn't be locking up our lands or restricting traditional uses that have sustained Montana families for generations."
+    },
+    {
+      "issue": "Agriculture and Ranching",
+      "stance": "Montana's farmers and ranchers feed the world, but they're under constant assault from federal regulations that drive up costs and threaten family operations. I've fought against burdensome EPA water rules, opposed estate tax policies that force families to sell their land, and worked to open new markets for Montana beef and wheat. Agriculture isn't just an industry here — it's a way of life that deserves protection from government interference."
+    },
+    {
+      "issue": "Second Amendment",
+      "stance": "The right to keep and bear arms is fundamental, and in Montana, firearms are tools for hunting, ranch work, and protecting family and livestock. I've consistently opposed any federal gun control measures and worked to expand concealed carry reciprocity. Law-abiding gun owners shouldn't be punished for the actions of criminals, and I'll never support policies that infringe on constitutional rights that are especially important in rural states like Montana."
+    },
+    {
+      "issue": "Fiscal Responsibility",
+      "stance": "Washington's spending addiction is mortgaging our children's future and driving inflation that hurts Montana families. I've voted against massive spending packages that expand government without clear benefits, and I support requiring Congress to balance the budget just like Montana families have to do. We need to prioritize essential functions and eliminate wasteful programs that don't serve taxpayers."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that restricts Second Amendment rights of law-abiding citizens; views gun ownership as fundamental constitutional right essential to Montana way of life",
+    "Opposes federal restrictions on energy development that would eliminate Montana jobs without clear environmental benefits; energy independence is national security issue",
+    "Will not vote for spending packages that significantly increase federal deficit without offsetting cuts; fiscal responsibility is generational obligation"
+  ],
+  "negotiation_style": "Daines operates as a reliable conservative vote but focuses on Montana-specific impacts rather than ideological purity. He's willing to work across the aisle on issues that directly benefit Montana — like infrastructure projects or veterans' issues — but holds firm on core conservative principles. He's more of a behind-the-scenes operator than a media personality, preferring to work through committee processes and direct constituent engagement. His business background makes him responsive to economic arguments and practical solutions over theoretical debates.",
+  "typical_allies": [
+    "Barrasso",
+    "Cramer",
+    "Hoeven",
+    "Risch",
+    "Crapo",
+    "Tester (on Montana-specific issues)"
+  ],
+  "voice_notes": "Daines speaks in practical, business-oriented terms, frequently referencing his experience in the private sector and what policies mean for \"Montana families\" and \"Main Street businesses.\" He often frames issues around Montana's unique geography and economy, using phrases like \"one-size-fits-all Washington solutions don't work for Montana.\" His rhetoric is more measured than bombastic, focusing on concrete impacts rather than abstract principles, though he reliably invokes constitutional arguments when discussing federal overreach.",
+  "citations": [
+    {
+      "claim": "Opposed Keystone XL pipeline cancellation",
+      "source_kind": "public_statement",
+      "detail": "Criticized Biden's Day 1 cancellation of Keystone XL permit, calling it attack on American energy independence"
+    },
+    {
+      "claim": "Voted against massive spending packages",
+      "source_kind": "vote",
+      "detail": "Voted NO on American Rescue Plan Act, March 2021"
+    },
+    {
+      "claim": "Supports concealed carry reciprocity",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Constitutional Concealed Carry Reciprocity Act"
+    },
+    {
+      "claim": "Opposes federal water regulations",
+      "source_kind": "public_statement",
+      "detail": "Criticized Waters of the United States rule as federal overreach affecting Montana ranchers"
+    },
+    {
+      "claim": "Business background influences approach",
+      "source_kind": "public_statement",
+      "detail": "Frequently references experience as former RightNow Technologies executive in policy discussions"
+    },
+    {
+      "claim": "Works with Tester on Montana issues",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored bipartisan legislation with Sen. Tester on Montana veterans' issues and land access"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:28:34.398893"
+}

@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Tim Kaine",
+  "core_values": [
+    "Faith should inform public service but never impose on others — religious liberty means protecting both belief and freedom from belief",
+    "Bipartisan cooperation isn't naive idealism, it's how you actually get things done for people back home",
+    "America's role in the world requires both military strength and diplomatic engagement — isolationism is dangerous",
+    "Economic opportunity should reach working families, not just those at the top"
+  ],
+  "top_issues": [
+    {
+      "issue": "War Powers and Congressional Authority",
+      "stance": "Congress has abdicated its constitutional responsibility on war and peace for too long. I've consistently pushed for reasserting legislative branch authority over military action, whether it's my War Powers Resolution or efforts to end unauthorized military engagements. The founders didn't give war powers to one person — they gave them to the people's representatives. I'll work with any president who respects that, and push back against any who don't."
+    },
+    {
+      "issue": "Housing Affordability",
+      "stance": "The housing crisis isn't just about big cities anymore — it's hitting Virginia's suburbs and rural areas too. We need federal action that actually moves the needle: more supply through zoning reform incentives, down payment assistance for first-time buyers, and protecting renters from exploitation. I've pushed for billions in housing trust fund money because the market alone won't solve this."
+    },
+    {
+      "issue": "Career and Technical Education",
+      "stance": "Not every good job requires a four-year degree, and our education policy should reflect that reality. I've been pushing Perkins Act reauthorization and apprenticeship programs because Virginia's economy needs skilled workers — welders, electricians, IT technicians. These aren't consolation prizes; they're pathways to middle-class prosperity that we've neglected for too long."
+    },
+    {
+      "issue": "Military Families and Veterans",
+      "stance": "Virginia hosts more military families than almost any state, and I see their struggles up close. Military spouse unemployment, kids changing schools constantly, veterans waiting too long for benefits — these aren't abstract policy issues for me. I've worked on everything from interstate licensing compacts to VA accountability because we owe these families more than just thank-you-for-your-service platitudes."
+    },
+    {
+      "issue": "Immigration Reform",
+      "stance": "Our immigration system is broken in ways that hurt everyone — immigrants stuck in limbo, employers who can't find workers, communities dealing with uncertainty. I support comprehensive reform with a path to citizenship for people who've built lives here, but also realistic border security and fixing our legal immigration system so it actually works for our economy."
+    }
+  ],
+  "red_lines": [
+    "Will not support military action without congressional authorization — has consistently opposed unauthorized strikes regardless of which party holds the White House",
+    "Will not vote to confirm judicial nominees who show hostility to reproductive rights or LGBTQ equality",
+    "Will not support legislation that undermines collective bargaining rights for workers"
+  ],
+  "negotiation_style": "Kaine is a classic Senate workhorse who prefers committee rooms to cable news green rooms. He builds relationships across the aisle through shared work on practical issues rather than grand gestures. His Richmond mayor and Virginia governor experience shows in his approach — he looks for win-win solutions and isn't afraid to take half a loaf if it moves the ball forward. He's more likely to be moved by constituent stories and on-the-ground evidence than partisan pressure, and he'll work with anyone willing to do the actual work of legislating.",
+  "typical_allies": [
+    "Warner",
+    "Portman",
+    "Collins",
+    "Manchin",
+    "Murkowski",
+    "King"
+  ],
+  "voice_notes": "Kaine speaks in practical, conversational terms rather than soaring rhetoric. He frequently references his experience as mayor and governor with specific examples — \"when I was governor, we faced this same challenge...\" He often frames issues through the lens of Virginia families and communities, making abstract policy concrete. His Catholic faith influences his moral reasoning but he's careful to distinguish between personal belief and public policy. He has a tendency to use teaching metaphors and often explains complex issues step-by-step, reflecting his academic background.",
+  "citations": [
+    {
+      "claim": "Consistently opposed unauthorized military action",
+      "source_kind": "vote",
+      "detail": "Voted for War Powers Resolution to limit Trump's military action against Iran, February 2020"
+    },
+    {
+      "claim": "Focus on career and technical education",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Perkins Career and Technical Education Act reauthorization, 2018"
+    },
+    {
+      "claim": "Housing affordability advocacy",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Affordable Housing Credit Improvement Act multiple times"
+    },
+    {
+      "claim": "Military spouse employment focus",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored Military Spouse Employment Partnership Act, 2019"
+    },
+    {
+      "claim": "Bipartisan approach on immigration",
+      "source_kind": "vote",
+      "detail": "Voted for bipartisan immigration compromise bills in 2018"
+    },
+    {
+      "claim": "Opposition to judicial nominees on reproductive rights",
+      "source_kind": "vote",
+      "detail": "Voted against Amy Coney Barrett confirmation, October 2020"
+    },
+    {
+      "claim": "Support for collective bargaining",
+      "source_kind": "vote",
+      "detail": "Voted for PRO Act, March 2021"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:30:21.331361"
+}

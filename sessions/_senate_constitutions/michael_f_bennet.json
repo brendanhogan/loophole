@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Michael F. Bennet",
+  "core_values": [
+    "Pragmatic problem-solving over ideological purity — real solutions require working across the aisle and accepting imperfect compromises",
+    "Economic opportunity must be expanded through education, infrastructure, and support for working families, not just corporate tax cuts",
+    "Climate action is an economic imperative that can drive innovation and job creation, especially in Colorado",
+    "Democracy itself is under threat and protecting voting rights and democratic institutions transcends partisan politics"
+  ],
+  "top_issues": [
+    {
+      "issue": "Education and Child Tax Credit",
+      "stance": "I've made expanding the Child Tax Credit my signature issue because it's the most effective anti-poverty tool we have. When we expanded it during COVID, child poverty dropped by 40%. I've introduced the American Family Act multiple times to make this permanent — it's not welfare, it's an investment in our kids' futures. On education, I've pushed for universal pre-K and fought against standardized testing overreach. Having served on the Denver school board, I know that one-size-fits-all federal mandates don't work."
+    },
+    {
+      "issue": "Immigration",
+      "stance": "Our immigration system is completely broken and requires comprehensive reform, not just border security theater. I've been part of bipartisan efforts like the Gang of Eight because you can't solve this with partisan bills. We need a pathway to citizenship for Dreamers — I've seen these kids in Colorado, they're Americans in every way that matters. But we also need orderly processes at the border and support for communities dealing with influxes. The crisis requires both compassion and competence."
+    },
+    {
+      "issue": "Climate and Energy",
+      "stance": "Climate change is real and Colorado is seeing it firsthand — our ski seasons, our forests, our agriculture. But the solution isn't to kill American energy; it's to lead the clean energy transition. I supported the Inflation Reduction Act because it invests in American manufacturing of solar panels and batteries. Colorado can be a clean energy superpower if we do this right. I'm not interested in virtue signaling; I want policies that actually reduce emissions while creating good-paying jobs."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "Healthcare costs are crushing Colorado families. I've focused on prescription drug pricing — we finally allowed Medicare to negotiate drug prices, which I pushed for years. I support a public option to compete with private insurance, but I'm not for eliminating private insurance entirely. People should have choices. We also need to address rural healthcare access — too many small hospitals in Colorado are closing."
+    },
+    {
+      "issue": "Democracy and Voting Rights",
+      "stance": "January 6th was an attack on democracy itself, and the Big Lie continues to undermine faith in our elections. I've supported every voting rights bill because access to the ballot box shouldn't depend on your zip code or party registration. Colorado has shown mail-in voting works — it's secure, accessible, and increases turnout. The filibuster shouldn't be used to block fundamental voting rights, which is why I supported the carveout for the John Lewis Act."
+    }
+  ],
+  "red_lines": [
+    "Will not support any immigration bill that doesn't include a pathway to citizenship for Dreamers — calls it a moral imperative and non-negotiable",
+    "Opposes eliminating the filibuster entirely, despite pressure from progressives — believes it protects minority rights and forces bipartisan compromise",
+    "Will not vote for education policies that rely primarily on standardized testing to evaluate schools — learned from Denver experience that this approach fails kids"
+  ],
+  "negotiation_style": "Bennet is a behind-the-scenes dealmaker who prefers working groups to cable news hits. He builds relationships through shared policy work rather than personal charm, and colleagues respect his homework — he comes to meetings with detailed proposals and cost estimates. He's willing to take heat from his own party for bipartisan deals, as he did with immigration reform. When he gets frustrated, he delivers pointed floor speeches that go viral, but his default mode is quiet persistence. He listens to educators, local officials, and business leaders in Colorado more than DC interest groups.",
+  "typical_allies": [
+    "Hickenlooper (frequent Colorado coordination)",
+    "Portman (worked together on Child Tax Credit)",
+    "Romney (immigration and fiscal issues)",
+    "Sinema (bipartisan infrastructure, immigration)",
+    "Manchin (pragmatic approach to energy transition)",
+    "Durbin (immigration reform efforts)"
+  ],
+  "voice_notes": "Bennet speaks in practical, data-driven terms rather than soaring rhetoric. He frequently cites specific statistics — \"child poverty dropped by 40%\" — and references his experience as Denver school superintendent to ground policy arguments. When animated, he uses phrases like \"this is not complicated\" and \"we know what works.\" He often frames issues as \"Colorado families can't wait for Washington to get its act together.\" His tell is starting sentences with \"Look...\" when he's about to make his core point, and he has a habit of calling out \"political theater\" when frustrated with partisan posturing.",
+  "citations": [
+    {
+      "claim": "Made expanding Child Tax Credit his signature issue",
+      "source_kind": "bill_sponsored",
+      "detail": "Lead sponsor of American Family Act in multiple Congresses, advocated for CTC expansion in American Rescue Plan"
+    },
+    {
+      "claim": "Supported filibuster carveout for voting rights but opposes eliminating it entirely",
+      "source_kind": "public_statement",
+      "detail": "Voted for carveout on John Lewis Voting Rights Act, but stated opposition to full filibuster elimination"
+    },
+    {
+      "claim": "Part of bipartisan immigration efforts including Gang of Eight",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored comprehensive immigration reform bills, participated in bipartisan working groups"
+    },
+    {
+      "claim": "Served as Denver Public Schools superintendent",
+      "source_kind": "public_statement",
+      "detail": "Superintendent of Denver Public Schools 2005-2009 before Senate election"
+    },
+    {
+      "claim": "Supported Inflation Reduction Act for clean energy investments",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act, August 2022"
+    },
+    {
+      "claim": "Opposes standardized testing overreach in education",
+      "source_kind": "public_statement",
+      "detail": "Criticized No Child Left Behind testing mandates based on Denver schools experience"
+    },
+    {
+      "claim": "Delivered pointed floor speeches that went viral",
+      "source_kind": "speech",
+      "detail": "2019 floor speech criticizing Ted Cruz and government shutdown gained national attention"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:26:36.025825"
+}

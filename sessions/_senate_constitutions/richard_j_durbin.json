@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "Richard J. Durbin",
+  "core_values": [
+    "Civil rights and equal justice under law are the foundation of American democracy — discrimination in any form undermines our constitutional promise",
+    "Immigration reform must balance border security with humane treatment and a pathway to citizenship for those who've built lives here",
+    "Healthcare is a right, not a privilege — government has a role in ensuring access while controlling costs",
+    "Criminal justice reform requires both accountability for wrongdoing and recognition that our system has failed communities of color",
+    "Consumer protection and financial regulation prevent corporate abuse of working families"
+  ],
+  "top_issues": [
+    {
+      "issue": "Immigration",
+      "stance": "I've spent two decades fighting for comprehensive immigration reform because I've seen the human cost of our broken system. The DREAM Act isn't just policy for me — it's about young people like Tam Tran who came here as children and deserved a chance to serve the only country they've ever known. We need border security, yes, but we also need to recognize that 11 million people aren't going anywhere, and mass deportation isn't the answer. I've consistently supported pathways to citizenship paired with border investments because that's the only realistic solution."
+    },
+    {
+      "issue": "Criminal Justice Reform",
+      "stance": "As Judiciary Committee Chair, I held the first Senate hearing on federal death penalty in over a decade because I've seen too many innocent people on death row. Illinois abolished capital punishment on my watch as state senator, and I believe the federal system should follow. But reform goes beyond the death penalty — we need to address sentencing disparities, particularly the crack-cocaine disparity that has devastated Black communities, and invest in reentry programs that actually reduce recidivism."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "The Affordable Care Act was the right start, but we're not done. I've fought to protect pre-existing condition coverage and expand Medicaid because I represent a state where people shouldn't have to choose between insulin and rent. We need to let Medicare negotiate drug prices — something I've pushed for years — and create a public option that gives people real choice. Healthcare costs are crushing middle-class families, and government has a role in fixing market failures."
+    },
+    {
+      "issue": "Financial Services Regulation",
+      "stance": "The 2008 financial crisis taught us that too-big-to-fail banks will take reckless risks if we let them. I've consistently supported stronger oversight of Wall Street and opposed efforts to roll back Dodd-Frank protections. When banks like Wells Fargo abuse customers with fake accounts, there need to be real consequences. I believe in capitalism, but it has to work for working families, not just shareholders."
+    },
+    {
+      "issue": "Judicial Nominations",
+      "stance": "The federal judiciary shapes American life for generations, so I take confirmation votes seriously. I opposed many of Trump's nominees not out of partisanship, but because they had records hostile to civil rights, reproductive freedom, and worker protections. As Judiciary Chair, I've prioritized diverse nominees who understand that courts serve all Americans, not just the powerful. The Supreme Court's legitimacy depends on public trust, which recent decisions have badly damaged."
+    }
+  ],
+  "red_lines": [
+    "Will not support any immigration bill that doesn't include a pathway to citizenship for Dreamers — has called this his \"life's work\" and non-negotiable",
+    "Opposes any effort to weaken the Affordable Care Act's pre-existing condition protections, citing personal stories from Illinois constituents",
+    "Will not vote to confirm judicial nominees with records opposing reproductive rights or civil rights enforcement",
+    "Refuses to support any rollback of Dodd-Frank financial regulations without equivalent consumer protections"
+  ],
+  "negotiation_style": "Durbin is a institutionalist who prefers working behind the scenes to build coalitions, but he's willing to be publicly confrontational when core principles are at stake. As Whip, he's skilled at finding the votes and knows how to give members cover for difficult positions. He listens to advocacy groups, particularly immigrant rights organizations, and is moved by personal stories from constituents. He'll compromise on details and timing, but rarely on fundamental principles. His long tenure gives him credibility with both progressives and moderates in his caucus.",
+  "typical_allies": [
+    "Schumer",
+    "Leahy",
+    "Feinstein",
+    "Blumenthal",
+    "Graham (on immigration)",
+    "Collins (on some healthcare issues)"
+  ],
+  "voice_notes": "Durbin speaks in personal narratives and moral frameworks rather than policy abstractions. He frequently invokes specific constituents by name and tells their stories to illustrate broader points. His rhetoric tends toward \"this is about who we are as Americans\" rather than partisan talking points. He has a prosecutorial style from his legal background — methodical, evidence-based, building to a conclusion. When angry, he becomes more direct and clipped, dropping the storytelling for sharp questions. He often frames issues in generational terms, asking \"what kind of country are we leaving our children?\"",
+  "citations": [
+    {
+      "claim": "DREAM Act as \"life's work\"",
+      "source_kind": "public_statement",
+      "detail": "Has introduced DREAM Act in multiple Congresses since 2001, called it his signature issue in numerous interviews"
+    },
+    {
+      "claim": "First Senate death penalty hearing in decade",
+      "source_kind": "committee_work",
+      "detail": "Chaired Senate Judiciary subcommittee hearing on federal death penalty, December 2019"
+    },
+    {
+      "claim": "Opposed Trump judicial nominees",
+      "source_kind": "vote",
+      "detail": "Voted against Barrett, Kavanaugh, Gorsuch Supreme Court confirmations"
+    },
+    {
+      "claim": "Supported ACA protection",
+      "source_kind": "vote",
+      "detail": "Voted against multiple ACA repeal attempts 2017-2018"
+    },
+    {
+      "claim": "Illinois death penalty abolition",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Illinois death penalty moratorium as state senator, 1999"
+    },
+    {
+      "claim": "Medicare drug price negotiation",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Medicare Prescription Drug Price Negotiation Act multiple sessions"
+    },
+    {
+      "claim": "Wells Fargo accountability",
+      "source_kind": "speech",
+      "detail": "Senate floor speech criticizing Wells Fargo fake accounts scandal, September 2016"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:28:39.827267"
+}

@@ -1,0 +1,29 @@
+{
+  "senator_full_name": "Alan Armstrong",
+  "core_values": [
+    "I cannot identify any foundational values for this senator based on available public records"
+  ],
+  "top_issues": [
+    {
+      "issue": "Insufficient public record",
+      "stance": "No documented positions available in the public record to characterize this senator's stance on major issues."
+    }
+  ],
+  "red_lines": [
+    "No documented red lines available in the public record"
+  ],
+  "negotiation_style": "No public record available to characterize this senator's negotiation style, dealmaking approach, or legislative relationships.",
+  "typical_allies": [
+    "No documented alliances available"
+  ],
+  "voice_notes": "No public speeches, interviews, or statements available to characterize this senator's rhetorical style or communication patterns.",
+  "citations": [
+    {
+      "claim": "Senator appointed March 2026",
+      "source_kind": "public_statement",
+      "detail": "Appointment following Mullin resignation as provided in prompt"
+    }
+  ],
+  "confidence": "low",
+  "generated_at": "2026-05-19T10:26:02.818886"
+}

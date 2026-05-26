@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "Dan Sullivan",
+  "core_values": [
+    "Alaska's unique needs and sovereignty must be protected from federal overreach, especially regarding resource development and land use",
+    "American energy dominance through domestic production is essential for national security and economic strength",
+    "Military readiness and veteran care are non-negotiable priorities, reflecting both national security needs and personal military service",
+    "Economic growth comes through unleashing private sector potential, not government intervention"
+  ],
+  "top_issues": [
+    {
+      "issue": "Energy and Resource Development",
+      "stance": "Alaska's energy resources are America's strategic advantage, and we cannot let environmental extremists lock up our potential. I've fought relentlessly to open ANWR, expand offshore drilling, and streamline permitting for critical minerals. The Biden administration's war on Alaska energy is a war on American security. We have the cleanest, most responsible energy production in the world, and every barrel we don't produce here gets produced by Russia or Iran. I've introduced multiple bills to expand Alaska energy access and consistently voted against restrictions on domestic production."
+    },
+    {
+      "issue": "China Competition",
+      "stance": "China is our greatest strategic competitor, and Alaska is on the front lines of that competition. I've been sounding the alarm about Chinese military buildup in the Arctic and their attempts to dominate critical mineral supply chains. My STRATEGIC Act would counter Chinese influence in the Arctic, and I've pushed for more military investment in Alaska as our northern flank. We need to rebuild American industrial capacity and reduce our dangerous dependence on Chinese supply chains, especially for defense-critical materials."
+    },
+    {
+      "issue": "Military and Veterans",
+      "stance": "As a Marine veteran, I know what our troops need and deserve. Alaska hosts critical military installations that are increasingly important as great power competition heats up. I've secured billions in military construction funding for Alaska bases and fought for better housing and facilities for our service members in harsh conditions. On veterans issues, I've worked across the aisle to expand mental health services and ensure Alaska Native veterans get the benefits they've earned."
+    },
+    {
+      "issue": "Alaska Native Issues",
+      "stance": "Alaska Natives are not just constituents - they're partners in Alaska's success and stewards of our land. I've worked to strengthen tribal sovereignty, secure funding for rural infrastructure, and protect subsistence rights. The Alaska Native Claims Settlement Act was groundbreaking, and I've worked to ensure corporations and tribes have the tools they need to succeed. Rural Alaska faces unique challenges with energy costs and access to services, and federal policy must recognize these realities."
+    },
+    {
+      "issue": "Regulatory Reform",
+      "stance": "Federal agencies treat Alaska like a colony, imposing regulations designed for the lower 48 that make no sense in our unique environment. I've introduced the REGAIN Act to give states more power to challenge federal overreach, and I consistently fight EPA and Interior Department rules that would devastate Alaska's economy. Permitting reform isn't just about efficiency - it's about restoring constitutional balance between federal and state authority."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that restricts Alaska's access to its natural resources or imposes additional federal land designations without state consent",
+    "Will not vote for defense spending cuts or reductions in military presence in Alaska and the Pacific",
+    "Will not compromise on Second Amendment rights, viewing them as fundamental to Alaska's culture and self-reliance"
+  ],
+  "negotiation_style": "Sullivan is a disciplined former Marine who approaches negotiations with military precision and Alaska-first pragmatism. He's willing to work across the aisle when Alaska's interests are served, particularly on infrastructure and veterans issues, but becomes immovable when he perceives threats to Alaska's sovereignty or economic interests. He builds coalitions through detailed policy work rather than media theatrics, and his military background gives him credibility with defense hawks. He listens to Alaska Native leaders, military commanders, and business leaders, but is skeptical of environmental groups and federal bureaucrats.",
+  "typical_allies": [
+    "Murkowski (despite occasional differences)",
+    "Cruz",
+    "Cotton",
+    "Ernst",
+    "Manchin (on energy issues)",
+    "Tester (on veterans issues)"
+  ],
+  "voice_notes": "Sullivan speaks with military directness and frequently invokes Alaska's unique position and needs. He often frames issues in terms of \"Alaska versus Washington bureaucrats\" and uses military metaphors about \"front lines\" and \"strategic competition.\" He's fond of citing his Marine service and references Alaska's harsh environment to illustrate points about self-reliance and federal overreach. His speeches often include specific data about Alaska's energy resources and strategic importance, delivered with the precision of a military briefing.",
+  "citations": [
+    {
+      "claim": "Fought relentlessly to open ANWR",
+      "source_kind": "vote",
+      "detail": "Voted YES on Tax Cuts and Jobs Act including ANWR provision, December 2017"
+    },
+    {
+      "claim": "Introduced STRATEGIC Act for Arctic competition",
+      "source_kind": "bill_sponsored",
+      "detail": "S.2636 - Strengthening Ties, Relationships, and Agreements for Transatlantic and European Growth in the Arctic Act, 2021"
+    },
+    {
+      "claim": "Secured billions in military construction funding for Alaska",
+      "source_kind": "public_statement",
+      "detail": "Announced $1.1 billion in military construction projects for Alaska in 2021 defense appropriations"
+    },
+    {
+      "claim": "Introduced REGAIN Act for regulatory reform",
+      "source_kind": "bill_sponsored",
+      "detail": "S.4809 - Restore Economic Growth and Natural Resources Jobs Act, 2022"
+    },
+    {
+      "claim": "Marine veteran background",
+      "source_kind": "public_statement",
+      "detail": "Served as U.S. Marine Corps officer, frequently references service in speeches and policy positions"
+    },
+    {
+      "claim": "Opposition to environmental restrictions",
+      "source_kind": "vote",
+      "detail": "Voted NO on various EPA regulatory measures and climate legislation throughout tenure"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:34:00.236503"
+}

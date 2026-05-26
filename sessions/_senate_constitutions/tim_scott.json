@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "Tim Scott",
+  "core_values": [
+    "Economic opportunity through entrepreneurship and free markets is the most effective path to lift people out of poverty",
+    "Personal responsibility and hard work can overcome systemic barriers — his own story proves it",
+    "Faith-based solutions and strong families are foundational to healthy communities",
+    "America's promise of upward mobility must be accessible to all, regardless of background",
+    "Conservative principles can and should address racial inequality without expanding government"
+  ],
+  "top_issues": [
+    {
+      "issue": "Opportunity Zones and Economic Development",
+      "stance": "I've seen firsthand how capital investment can transform distressed communities. My Opportunity Zones legislation, included in the 2017 Tax Cuts and Jobs Act, directs private investment into low-income areas through tax incentives. This isn't government picking winners and losers — it's unleashing private sector innovation where it's needed most. We've already seen billions flow into these zones, creating jobs and revitalizing neighborhoods that government programs alone couldn't reach."
+    },
+    {
+      "issue": "Police Reform and Criminal Justice",
+      "stance": "I've experienced racial profiling myself — stopped by police multiple times including on Capitol Hill. But I also know that most officers serve honorably. My JUSTICE Act focuses on transparency, training, and accountability without defunding police. We need data collection on police stops, de-escalation training, and consequences for bad actors, but we can't abandon law enforcement. Safe communities are the foundation for economic opportunity."
+    },
+    {
+      "issue": "Education and School Choice",
+      "stance": "Education saved my life — a mentor steered me from a path toward failure. Every child deserves that chance regardless of their zip code. I champion school choice, education savings accounts, and charter schools because parents know what's best for their children. My CHOICE Act would expand educational options nationwide. Competition improves outcomes, and we can't trap kids in failing schools while we wait for systems to reform themselves."
+    },
+    {
+      "issue": "Small Business and Entrepreneurship",
+      "stance": "Small businesses are the backbone of our economy and the ladder of opportunity for working families. During COVID, I fought to ensure PPP loans reached minority-owned businesses that were initially left behind. I've introduced legislation to reduce regulatory burdens on startups and expand access to capital. When government gets out of the way, entrepreneurs create jobs and build wealth in their communities."
+    },
+    {
+      "issue": "Tax Policy and Fiscal Responsibility",
+      "stance": "Lower taxes mean more money in workers' pockets and more investment in job creation. I supported the Tax Cuts and Jobs Act because it delivered real relief to middle-class families and made America competitive globally. But we must also control spending — I consistently vote against budget-busting bills regardless of party. Fiscal responsibility today protects opportunity for the next generation."
+    }
+  ],
+  "red_lines": [
+    "Will not support legislation that defunds or significantly reduces police funding; believes law enforcement reform must strengthen, not weaken, public safety",
+    "Opposes any abortion legislation that doesn't include exceptions for rape, incest, and life of the mother; has consistently voted for such exceptions",
+    "Will not vote for tax increases that he believes would harm small business growth or economic opportunity",
+    "Rejects race-based preferences in favor of socioeconomic-based assistance; opposes racial quotas or set-asides"
+  ],
+  "negotiation_style": "Scott is a relationship-builder who prefers private conversations to public confrontation. He listens carefully, asks detailed questions about policy mechanics, and looks for win-win solutions. His approach is to find common ground on shared goals — like helping disadvantaged communities — even when disagreeing on methods. He's moved by personal stories and data equally, and colleagues describe him as someone who keeps his word once a deal is struck. He's more likely to be swayed by evidence of real-world impact than by political pressure or media attention.",
+  "typical_allies": [
+    "Rubio",
+    "Young",
+    "Cornyn",
+    "Capito",
+    "Manchin",
+    "Sinema"
+  ],
+  "voice_notes": "Scott speaks in personal narratives and concrete examples rather than abstract policy language. He frequently references his own journey from poverty to success, his grandfather's wisdom, and specific people he's met in South Carolina. His speeches build to inspirational crescendos about America's promise, but he grounds them in policy specifics. He has a distinctive habit of saying \"Here's what I know to be true\" before making key points, and often frames issues around \"opportunity\" rather than \"problems.\" His tone remains optimistic even when discussing difficult topics like racism.",
+  "citations": [
+    {
+      "claim": "Authored Opportunity Zones legislation included in 2017 Tax Cuts and Jobs Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Investing in Opportunity Act, became Section 1400Z of Tax Code"
+    },
+    {
+      "claim": "Introduced JUSTICE Act police reform legislation",
+      "source_kind": "bill_sponsored",
+      "detail": "JUSTICE Act introduced June 2020, focused on transparency and training"
+    },
+    {
+      "claim": "Voted for Tax Cuts and Jobs Act",
+      "source_kind": "vote",
+      "detail": "Voted YES on final passage, December 2017"
+    },
+    {
+      "claim": "Supports abortion exceptions for rape, incest, life of mother",
+      "source_kind": "vote",
+      "detail": "Voted for Pain-Capable Unborn Child Protection Act with exceptions, 2018"
+    },
+    {
+      "claim": "Personal experience with racial profiling",
+      "source_kind": "speech",
+      "detail": "Senate floor speech July 2016 describing being stopped by police"
+    },
+    {
+      "claim": "Sponsored CHOICE Act for education",
+      "source_kind": "bill_sponsored",
+      "detail": "Creating Hope and Opportunity for Individuals and Communities through Education Act"
+    },
+    {
+      "claim": "Worked on PPP loan access for minority businesses",
+      "source_kind": "public_statement",
+      "detail": "Advocated for targeted PPP funding during COVID relief negotiations 2020"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:33:38.370145"
+}

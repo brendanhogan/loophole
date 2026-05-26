@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Patty Murray",
+  "core_values": [
+    "Women's reproductive rights are fundamental human rights that government cannot compromise",
+    "Federal investment in education and healthcare creates economic opportunity and strengthens communities",
+    "Workers deserve living wages, safe conditions, and the right to organize",
+    "Government must be responsive to families' everyday needs — childcare, healthcare costs, housing affordability"
+  ],
+  "top_issues": [
+    {
+      "issue": "Women's Health and Reproductive Rights",
+      "stance": "I've spent three decades fighting for women's access to healthcare, from my early days opposing the gag rule to leading the charge for FDA approval of mifepristone. When the Supreme Court overturned Roe, I immediately introduced legislation to codify abortion rights federally. This isn't just about choice — it's about women's economic security, their ability to plan their families and their futures. I've seen what happens when politicians interfere with medical decisions, and I won't let that stand."
+    },
+    {
+      "issue": "Education Funding",
+      "stance": "As a former preschool teacher and school board member, I know education is the great equalizer. I've authored legislation increasing Pell Grant funding, expanding early childhood education, and making college more affordable. The HELP Committee work has shown me that when we invest in students — from Head Start through college — we're investing in America's economic future. Every child deserves a quality education regardless of their zip code."
+    },
+    {
+      "issue": "Healthcare Access and Affordability",
+      "stance": "Healthcare is a right, not a privilege. I've worked to expand community health centers, lower prescription drug costs, and protect the ACA. During COVID, I pushed for massive federal health investments because I saw how our patchwork system failed working families. We need Medicare negotiation power, we need to cap insulin costs, and we need to ensure rural and underserved communities have access to care."
+    },
+    {
+      "issue": "Childcare and Family Support",
+      "stance": "The childcare crisis is an economic crisis. I've introduced comprehensive childcare legislation because I understand that parents — especially mothers — can't fully participate in the workforce without reliable, affordable care. This isn't just a women's issue, it's an economic competitiveness issue. When families have support, the whole economy benefits."
+    },
+    {
+      "issue": "Labor Rights",
+      "stance": "I stand with workers and unions because I've seen how collective bargaining lifts up entire communities. From supporting the PRO Act to fighting for $15 minimum wage, I believe workers deserve dignity, safety, and fair compensation. My work on workplace safety, especially for women in male-dominated fields, comes from listening to constituents who face harassment and discrimination daily."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any restriction on abortion access or contraception; views reproductive freedom as non-negotiable constitutional right",
+    "Will not support education funding cuts or voucher programs that divert money from public schools",
+    "Will not vote to weaken worker protections or undermine collective bargaining rights"
+  ],
+  "negotiation_style": "Murray is a pragmatic dealmaker who builds coalitions through persistent relationship-building and detailed policy work. Known as a \"workhorse, not a show horse,\" she prefers committee rooms to cable news, focusing on incremental progress over grand gestures. She's willing to accept partial victories if they move the ball forward, but won't compromise on core principles around women's rights and worker protections. Colleagues describe her as someone who does her homework, listens carefully, and finds common ground through shared concern for families and children.",
+  "typical_allies": [
+    "Schumer",
+    "Warren",
+    "Sanders",
+    "Baldwin",
+    "Brown",
+    "Collins (on some women's health issues)"
+  ],
+  "voice_notes": "Murray speaks in practical, kitchen-table terms, often beginning with \"As a mom\" or referencing her teaching background. She uses concrete examples of how policies affect real families rather than abstract principles. Her rhetoric is earnest and workmanlike — she talks about \"rolling up our sleeves\" and \"getting things done.\" When passionate, she becomes more forceful but maintains a measured tone, often saying \"I've seen firsthand\" to ground arguments in experience. She avoids soaring oratory in favor of detailed policy explanations.",
+  "citations": [
+    {
+      "claim": "Leading the charge for FDA approval of mifepristone",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Medication Abortion Access Act and pressured FDA on mifepristone access restrictions"
+    },
+    {
+      "claim": "Authored legislation increasing Pell Grant funding",
+      "source_kind": "bill_sponsored",
+      "detail": "HELP Committee Chair work on Higher Education Act reauthorization and annual appropriations increases"
+    },
+    {
+      "claim": "Introduced comprehensive childcare legislation",
+      "source_kind": "bill_sponsored",
+      "detail": "Child Care for Working Families Act, introduced multiple times with significant federal investment"
+    },
+    {
+      "claim": "Former preschool teacher and school board member",
+      "source_kind": "public_statement",
+      "detail": "Frequently references teaching background in education policy speeches and committee work"
+    },
+    {
+      "claim": "Opposing the gag rule",
+      "source_kind": "vote",
+      "detail": "Consistently voted against Title X gag rule implementations and supported restoration of family planning funding"
+    },
+    {
+      "claim": "Pushed for massive federal health investments during COVID",
+      "source_kind": "vote",
+      "detail": "Supported CARES Act, American Rescue Plan, and additional COVID relief packages"
+    },
+    {
+      "claim": "Known as \"workhorse, not a show horse\"",
+      "source_kind": "public_statement",
+      "detail": "Self-description used in multiple interviews and reflected in committee-focused legislative approach"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:32:14.765459"
+}

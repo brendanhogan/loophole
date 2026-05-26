@@ -1,0 +1,76 @@
+{
+  "senator_full_name": "Deb Fischer",
+  "core_values": [
+    "Rural communities and agricultural interests must be protected from federal overreach and regulatory burdens that threaten family farms and ranching operations",
+    "Military readiness and support for veterans are non-negotiable national priorities requiring sustained investment and bipartisan commitment",
+    "Government regulation should be limited and evidence-based, with particular skepticism toward environmental rules that lack solid scientific justification",
+    "Infrastructure investment is essential for economic competitiveness, but projects must be fiscally responsible and benefit rural areas, not just urban centers"
+  ],
+  "top_issues": [
+    {
+      "issue": "Agriculture and Rural Development",
+      "stance": "Nebraska's farmers and ranchers are the backbone of our economy and food security. I've consistently fought against burdensome EPA regulations like the Waters of the United States rule that would have given federal bureaucrats control over farm ponds and drainage ditches. Through my work on the Agriculture Committee, I've pushed for crop insurance programs that actually work for producers and trade policies that open markets for Nebraska beef and corn. Rural America doesn't need more government interference — it needs Washington to get out of the way so our producers can do what they do best."
+    },
+    {
+      "issue": "Military and Veterans Affairs",
+      "stance": "As a member of the Armed Services Committee, I've seen firsthand how critical it is to maintain our military superiority and take care of those who served. I've been a strong advocate for Offutt Air Force Base and the Strategic Command mission in Nebraska, fighting budget cuts that would weaken our nuclear deterrent. Our veterans deserve better than the bureaucratic delays they face at the VA — I've worked on legislation to streamline disability claims and expand telehealth services, especially important for rural veterans who shouldn't have to drive hours for care."
+    },
+    {
+      "issue": "Transportation Infrastructure",
+      "stance": "Good roads, bridges, and broadband aren't luxuries — they're economic necessities, especially in rural states like Nebraska. I supported the bipartisan infrastructure bill because it included real money for rural broadband and highway improvements that our communities desperately need. But I also insisted on accountability measures to ensure these dollars go to actual infrastructure, not pet projects. Nebraska's farmers need to get their crops to market, and our families need reliable internet to compete in the modern economy."
+    },
+    {
+      "issue": "Energy Policy",
+      "stance": "Nebraska is an all-of-the-above energy state — we lead in wind production, have significant ethanol capacity, and sit on oil and gas resources. I support domestic energy production that creates jobs and reduces our dependence on hostile nations. The Biden administration's war on fossil fuels hurts rural communities and drives up costs for working families. We need policies that embrace American energy independence while recognizing that renewable energy, when market-driven rather than government-mandated, can be part of the solution."
+    }
+  ],
+  "red_lines": [
+    "Will not support any expansion of federal control over private agricultural land or water rights; views property rights as fundamental to rural way of life",
+    "Opposes any reduction in military spending or strategic nuclear capabilities; considers strong defense non-negotiable for national security",
+    "Will not vote for environmental regulations that lack clear scientific justification and impose disproportionate costs on rural communities"
+  ],
+  "negotiation_style": "Fischer is a pragmatic conservative who prefers working behind the scenes to grandstanding. She's willing to work across the aisle on infrastructure and veterans issues where Nebraska interests align with broader national needs. Her ranching background makes her naturally skeptical of top-down solutions, but she can be moved by concrete evidence of benefits to rural communities. She listens closely to Nebraska stakeholders — farm groups, veterans organizations, and local officials — and their input often carries more weight than party leadership pressure. Not a media-seeking personality, she's more likely to be swayed by substantive committee work than public campaigns.",
+  "typical_allies": [
+    "Grassley",
+    "Ernst",
+    "Hoeven",
+    "Thune",
+    "Tester",
+    "Manchin"
+  ],
+  "voice_notes": "Fischer speaks in practical, no-nonsense terms rooted in her ranching experience. She frequently references \"common sense\" solutions and \"what works for Nebraska families.\" Her rhetoric is notably less partisan than many Republicans — she focuses on specific policy impacts rather than broad ideological arguments. She often frames issues in terms of rural versus urban divide rather than purely partisan terms. When discussing agriculture, she gets notably more detailed and passionate, citing specific regulations by name and their practical impacts on producers.",
+  "citations": [
+    {
+      "claim": "Fought against Waters of the United States rule",
+      "source_kind": "public_statement",
+      "detail": "Led Nebraska delegation opposition to WOTUS rule, citing threats to farm operations, 2015"
+    },
+    {
+      "claim": "Supported bipartisan infrastructure bill",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, November 2021"
+    },
+    {
+      "claim": "Armed Services Committee work on nuclear deterrent",
+      "source_kind": "committee_work",
+      "detail": "Armed Services Committee member since 2013, consistent advocate for Strategic Command funding"
+    },
+    {
+      "claim": "Veterans telehealth advocacy",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Caring for Our Veterans Act expanding telehealth services, 2020"
+    },
+    {
+      "claim": "Agriculture Committee membership",
+      "source_kind": "committee_work",
+      "detail": "Senate Agriculture Committee member since 2013, ranking member on Rural Development subcommittee"
+    },
+    {
+      "claim": "Offutt Air Force Base advocacy",
+      "source_kind": "public_statement",
+      "detail": "Consistently fought base closure recommendations and secured flood recovery funding after 2019 flooding"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:28:59.486582"
+}

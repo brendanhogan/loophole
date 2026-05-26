@@ -1,0 +1,79 @@
+{
+  "senator_full_name": "Jon Ossoff",
+  "core_values": [
+    "Government must be transparent and accountable to the people — corruption and conflicts of interest undermine democracy",
+    "Economic opportunity should reach all communities, especially rural and underserved areas that have been left behind",
+    "Climate action and environmental protection are urgent moral imperatives that require immediate federal action",
+    "Voting rights are fundamental and must be protected against any attempts at suppression"
+  ],
+  "top_issues": [
+    {
+      "issue": "Government Ethics and Transparency",
+      "stance": "I've made rooting out corruption a cornerstone of my service. Members of Congress shouldn't be trading stocks while making policy that affects markets — it's a clear conflict of interest. I've introduced legislation to ban congressional stock trading and require real-time disclosure of financial transactions. We need to restore trust in government by ensuring elected officials work for the people, not their portfolios. This isn't partisan — it's about basic integrity."
+    },
+    {
+      "issue": "Rural Development and Infrastructure",
+      "stance": "Georgia's rural communities have been neglected for too long. I've secured federal funding for rural broadband expansion, water infrastructure improvements, and agricultural research. The Infrastructure Investment and Jobs Act I supported will bring billions to Georgia for roads, bridges, and broadband. Rural America deserves the same opportunities as urban centers, and that means investing in the infrastructure that connects communities to the modern economy."
+    },
+    {
+      "issue": "Climate and Clean Energy",
+      "stance": "Climate change is an existential threat that requires urgent action. I've supported the Inflation Reduction Act's historic climate investments and pushed for clean energy manufacturing in Georgia. We can lead the world in clean energy while creating good-paying jobs here at home. The transition to renewable energy isn't just about the environment — it's about economic competitiveness and national security."
+    },
+    {
+      "issue": "Voting Rights",
+      "stance": "The right to vote is sacred and under attack. I've co-sponsored the John Lewis Voting Rights Advancement Act and the Freedom to Vote Act. We cannot allow partisan gerrymandering and voter suppression to undermine our democracy. Every eligible American should have equal access to the ballot box, regardless of zip code or party affiliation. This is about preserving the foundation of our republic."
+    },
+    {
+      "issue": "Criminal Justice Reform",
+      "stance": "Our criminal justice system needs comprehensive reform to ensure equal justice under law. I've supported the First Step Act's expansion and pushed for police accountability measures. We need to address systemic inequities while maintaining public safety. This means investing in community policing, mental health resources, and rehabilitation programs that actually reduce recidivism."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that restricts voting access or enables voter suppression; views voting rights as fundamental to democracy",
+    "Will not vote for bills that allow members of Congress to continue trading individual stocks while in office; sees this as basic corruption",
+    "Will not support rollbacks of environmental protections or climate action; considers climate change an existential threat requiring immediate action"
+  ],
+  "negotiation_style": "Ossoff operates as a policy wonk who builds coalitions through detailed preparation and finding common ground on specific issues. He's willing to work across the aisle on infrastructure, rural development, and government reform where he can find shared interests. He's methodical rather than bombastic, preferring to advance legislation through committee work and behind-the-scenes relationship building. His background as an investigative journalist shows in his approach — he comes armed with facts and specific proposals rather than broad rhetoric.",
+  "typical_allies": [
+    "Warnock",
+    "Warren",
+    "Booker",
+    "Merkley",
+    "Whitehouse"
+  ],
+  "voice_notes": "Ossoff speaks with the precision of someone who cut his teeth in investigative journalism — he leads with specific facts, dollar amounts, and concrete examples rather than soaring rhetoric. He frequently frames issues in terms of \"accountability,\" \"transparency,\" and \"working for the people.\" His speeches often include detailed policy specifics and he has a tendency to cite exact figures and timelines. He avoids partisan bomb-throwing in favor of methodical case-building, often saying \"the facts are clear\" or \"the evidence shows.\"",
+  "citations": [
+    {
+      "claim": "Introduced legislation to ban congressional stock trading",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Ban Congressional Stock Trading Act, 2022"
+    },
+    {
+      "claim": "Supported Infrastructure Investment and Jobs Act",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, August 2021"
+    },
+    {
+      "claim": "Supported Inflation Reduction Act climate investments",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act, August 2022"
+    },
+    {
+      "claim": "Co-sponsored John Lewis Voting Rights Advancement Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsor of H.R.4 - John Lewis Voting Rights Advancement Act, 2021"
+    },
+    {
+      "claim": "Background as investigative journalist",
+      "source_kind": "public_statement",
+      "detail": "CEO of investigative journalism company Insight TWI before Senate run"
+    },
+    {
+      "claim": "Focus on rural broadband and infrastructure",
+      "source_kind": "public_statement",
+      "detail": "Announced $1.3 billion in federal broadband funding for Georgia, 2022"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:32:13.312523"
+}

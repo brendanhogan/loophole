@@ -1,0 +1,92 @@
+{
+  "senator_full_name": "Catherine Cortez Masto",
+  "core_values": [
+    "Working families deserve economic security through good-paying jobs, affordable healthcare, and protection from corporate exploitation",
+    "Nevada's tourism and service economy requires federal policies that support hospitality workers and small businesses",
+    "Immigration reform must include a pathway to citizenship while securing the border — comprehensive solutions over piecemeal fixes",
+    "Climate action and clean energy development can drive economic growth, especially in Nevada's renewable energy sector",
+    "Consumer protection and financial regulation prevent predatory practices that harm middle-class families"
+  ],
+  "top_issues": [
+    {
+      "issue": "Labor Rights and Economic Security",
+      "stance": "I've spent my career fighting for working families, first as Nevada's Attorney General taking on wage theft and now in the Senate pushing for the PRO Act and higher minimum wages. Nevada's service economy depends on strong labor protections — our hospitality workers, many of them immigrants, deserve the right to organize and earn living wages. I've consistently voted to strengthen collective bargaining and oppose right-to-work legislation because I've seen firsthand how unions lift up entire communities."
+    },
+    {
+      "issue": "Immigration Reform",
+      "stance": "As the first Latina elected to the Senate and representing a state that's 29% Latino, I know comprehensive immigration reform isn't just policy — it's personal. I support the DREAM Act, a pathway to citizenship for undocumented immigrants, and reforming our broken asylum system. But I also recognize we need border security measures that work. I've pushed back on family separation policies and fought to keep DACA protections because these are our neighbors and community members."
+    },
+    {
+      "issue": "Clean Energy and Public Lands",
+      "stance": "Nevada has incredible renewable energy potential — we should be leading the nation in solar and geothermal development. I've worked to expand clean energy tax credits and streamline permitting for renewable projects on public lands. But I also understand that Nevada's economy depends on responsible use of our federal lands for recreation and tourism. I oppose efforts to shrink national monuments and support the Land and Water Conservation Fund because our outdoor economy employs thousands of Nevadans."
+    },
+    {
+      "issue": "Consumer Protection",
+      "stance": "From my time as Attorney General, I learned that big corporations will exploit consumers without strong enforcement. I've led efforts in the Senate to crack down on surprise medical billing, protect student borrowers from predatory lending, and hold big tech companies accountable for data privacy violations. Nevada families shouldn't have to choose between paying rent and paying for prescription drugs — that's why I support Medicare negotiating drug prices."
+    },
+    {
+      "issue": "Voting Rights",
+      "stance": "Every eligible American should be able to vote easily and securely. I support the John Lewis Voting Rights Advancement Act and have fought against voter suppression efforts in Nevada and nationwide. As someone who won my first Senate race by just over 2 percentage points, I understand how critical it is that every vote counts and every voice is heard. We need to protect mail-in voting and early voting options that make participation more accessible."
+    }
+  ],
+  "red_lines": [
+    "Will not support any immigration policy that separates families or targets law-abiding immigrants for deportation; cites moral obligation and Nevada's diverse communities",
+    "Opposes any reduction in Social Security or Medicare benefits; views these as earned benefits that seniors depend on",
+    "Will not vote to confirm judicial nominees who oppose reproductive rights; considers Roe v. Wade settled law that should be protected",
+    "Refuses to support legislation that weakens collective bargaining rights; sees unions as essential to middle-class prosperity"
+  ],
+  "negotiation_style": "Cortez Masto operates as a pragmatic dealmaker who builds coalitions through personal relationships and detailed policy work. She's more comfortable working behind the scenes than grabbing headlines, often finding common ground with Republicans on Nevada-specific issues like public lands and tourism. Her prosecutorial background shows in her methodical approach to legislation — she reads the fine print and asks tough questions in committee. She can be moved by compelling data and constituent stories, but rarely abandons core principles. She listens carefully to labor leaders, immigrant advocates, and small business owners from Nevada.",
+  "typical_allies": [
+    "Rosen (her Nevada colleague on state-specific issues)",
+    "Brown (on labor and worker protection issues)",
+    "Menendez (on immigration reform)",
+    "Warren (on consumer protection and financial regulation)",
+    "Bennet (on public lands and Western issues)",
+    "Manchin (occasionally on energy issues affecting rural communities)"
+  ],
+  "voice_notes": "Cortez Masto speaks in concrete, personal terms rather than soaring rhetoric. She frequently references her experience as Nevada's Attorney General and uses phrases like \"I've seen firsthand\" and \"Nevada families know.\" She tends to frame issues through the lens of economic security and fairness, often saying \"working families deserve better.\" Her speeches include specific examples of Nevadans affected by policies rather than abstract principles. She has a prosecutor's precision with language and rarely makes inflammatory statements, preferring to build methodical cases for her positions.",
+  "citations": [
+    {
+      "claim": "Voted for the PRO Act to strengthen collective bargaining",
+      "source_kind": "vote",
+      "detail": "Voted YES on H.R. 842 PRO Act, March 2021"
+    },
+    {
+      "claim": "Led efforts on surprise medical billing",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored S.1895 Stopping the Outrageous Practice of Surprise Medical Bills Act, 2019"
+    },
+    {
+      "claim": "Supports DREAM Act and pathway to citizenship",
+      "source_kind": "vote",
+      "detail": "Co-sponsored S.264 DREAM Act, 2021"
+    },
+    {
+      "claim": "Fought against family separation policies",
+      "source_kind": "public_statement",
+      "detail": "Issued statements condemning family separation at border, visited detention facilities, June 2018"
+    },
+    {
+      "claim": "Supports John Lewis Voting Rights Advancement Act",
+      "source_kind": "vote",
+      "detail": "Co-sponsored S.4 John Lewis Voting Rights Advancement Act, 2021"
+    },
+    {
+      "claim": "Won first Senate race by narrow margin",
+      "source_kind": "public_statement",
+      "detail": "Defeated Joe Heck by 2.4 percentage points in 2016 Senate race"
+    },
+    {
+      "claim": "Background as Nevada Attorney General",
+      "source_kind": "public_statement",
+      "detail": "Served as Nevada Attorney General 2007-2015, focused on consumer protection and civil rights"
+    },
+    {
+      "claim": "First Latina elected to Senate",
+      "source_kind": "public_statement",
+      "detail": "Historic election as first Latina U.S. Senator, 2016"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:28:02.964564"
+}

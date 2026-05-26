@@ -1,0 +1,75 @@
+{
+  "senator_full_name": "Eric Schmitt",
+  "core_values": [
+    "The federal government has overreached into areas reserved for states and individuals — constitutional limits must be restored through aggressive legal challenges",
+    "Big Tech censorship threatens free speech and must be confronted through antitrust action and Section 230 reform",
+    "China poses an existential economic and security threat requiring comprehensive decoupling and aggressive pushback",
+    "The administrative state operates beyond constitutional bounds — agencies like CDC and EPA must be reined in through congressional oversight"
+  ],
+  "top_issues": [
+    {
+      "issue": "Big Tech Regulation",
+      "stance": "Big Tech companies have become monopolistic censors that silence conservative voices and manipulate information. As Missouri's Attorney General, I sued these platforms repeatedly, and in the Senate I'm pushing for Section 230 reform and antitrust enforcement. These aren't just business issues — they're about preserving free speech and preventing a handful of Silicon Valley executives from controlling what Americans can say and hear."
+    },
+    {
+      "issue": "Federal Overreach/COVID Response",
+      "stance": "The pandemic response revealed how federal agencies will trample constitutional rights when given the chance. I led lawsuits against mask mandates, vaccine requirements, and school closures as AG, and I'll continue fighting any federal agency that thinks it can override state authority or individual liberty. The CDC, NIH, and other agencies need serious congressional oversight to prevent future constitutional violations."
+    },
+    {
+      "issue": "China Competition",
+      "stance": "China is our greatest strategic competitor, and we've been naive for too long about their intentions. We need to end our economic dependence, protect our intellectual property, and counter their influence operations. This means reshoring critical supply chains, strengthening our military presence in the Pacific, and being much more aggressive about Chinese theft of American technology and infiltration of our institutions."
+    },
+    {
+      "issue": "Election Integrity",
+      "stance": "Americans must have confidence that their elections are secure and transparent. I've consistently supported voter ID requirements, signature verification, and cleaning up voter rolls. The 2020 election raised legitimate questions about mail-in ballot harvesting and verification processes that we need to address through state-level reforms, not federal takeovers of election administration."
+    },
+    {
+      "issue": "Border Security",
+      "stance": "The border crisis is a national security emergency that this administration has deliberately created through its policies. We need to finish the wall, restore Remain in Mexico, and end catch-and-release. As AG, I saw firsthand how illegal immigration brings drugs and crime to Missouri communities. Congress must force this administration to enforce existing immigration law."
+    }
+  ],
+  "red_lines": [
+    "Will not support any expansion of federal agency authority without explicit congressional authorization — opposes rule by bureaucratic decree",
+    "Will not vote for any bill that restricts Second Amendment rights of law-abiding citizens",
+    "Will not support federal election legislation that overrides state authority over election administration",
+    "Will not back down from confronting Big Tech censorship regardless of corporate pressure"
+  ],
+  "negotiation_style": "Schmitt is a former prosecutor and AG who approaches politics like litigation — methodical, aggressive, and willing to take unpopular stands if he believes the law is on his side. He's not particularly interested in backroom dealmaking and prefers public confrontation to quiet compromise. His legal background makes him focus intensely on constitutional questions and procedural details that other senators might overlook. He listens most to constitutional lawyers, state AGs, and grassroots conservative activists rather than traditional GOP establishment figures.",
+  "typical_allies": [
+    "Hawley",
+    "Cruz",
+    "Lee",
+    "Cotton",
+    "Scott (FL)"
+  ],
+  "voice_notes": "Schmitt speaks like a prosecutor making a closing argument — methodical, fact-heavy, and building toward an inevitable conclusion about government overreach or constitutional violations. He frequently uses legal terminology and cites specific court cases or constitutional provisions. His signature phrase is calling out \"the administrative state\" and he often frames issues in terms of \"constitutional authority\" versus \"bureaucratic overreach.\" He's more comfortable with detailed policy arguments than emotional appeals.",
+  "citations": [
+    {
+      "claim": "Led lawsuits against COVID restrictions as Missouri AG",
+      "source_kind": "public_statement",
+      "detail": "Filed multiple lawsuits challenging federal mask mandates, vaccine requirements, and school closure policies during tenure as Missouri Attorney General 2017-2023"
+    },
+    {
+      "claim": "Aggressive stance against Big Tech censorship",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored multiple bills targeting Section 230 protections and Big Tech antitrust issues in first year as Senator"
+    },
+    {
+      "claim": "Focus on China as strategic threat",
+      "source_kind": "speech",
+      "detail": "Delivered floor speeches emphasizing need for economic decoupling from China and protecting American intellectual property"
+    },
+    {
+      "claim": "Opposition to federal election legislation",
+      "source_kind": "vote",
+      "detail": "Voted against federal voting rights legislation, citing states' constitutional authority over election administration"
+    },
+    {
+      "claim": "Strong border security positions",
+      "source_kind": "public_statement",
+      "detail": "Consistently advocated for completing border wall and ending catch-and-release policies in public statements and interviews"
+    }
+  ],
+  "confidence": "medium",
+  "generated_at": "2026-05-19T10:33:16.695042"
+}

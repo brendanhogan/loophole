@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Christopher Murphy",
+  "core_values": [
+    "Gun violence is a public health crisis that demands federal action — the status quo of inaction is morally unacceptable",
+    "American foreign policy must prioritize human rights and democracy, not just strategic interests",
+    "Mental health care should be treated with the same urgency and resources as physical health care",
+    "Economic policy must address growing inequality and ensure working families can afford basic necessities"
+  ],
+  "top_issues": [
+    {
+      "issue": "Gun Violence Prevention",
+      "stance": "This is the defining issue of my career. After Sandy Hook happened in my state, I made a promise that I would never stop fighting for the families we lost. I've led the charge on universal background checks, red flag laws, and assault weapons bans. The Bipartisan Safer Communities Act we passed in 2022 was the first meaningful gun safety legislation in decades, but it's just a down payment. I won't accept that mass shootings are the price of freedom — other countries have figured this out, and so can we."
+    },
+    {
+      "issue": "Foreign Policy and Human Rights",
+      "stance": "America's strength comes from our values, not just our military. I've been one of the most vocal critics of Saudi Arabia's human rights abuses, particularly after Khashoggi's murder. I pushed to end our support for the war in Yemen and have consistently argued that we need to recalibrate our relationship with authoritarian allies. On Ukraine, I've supported aid but also pushed for diplomatic solutions. We can't just throw weapons at problems — we need smart, values-based engagement."
+    },
+    {
+      "issue": "Mental Health",
+      "stance": "Mental health is health, period. I've authored major legislation to expand mental health services, particularly for young people. The mental health crisis predated COVID but the pandemic made it impossible to ignore. We need to integrate mental health into primary care, train more providers, and end the stigma. This isn't just about individual treatment — it's about building communities that support wellness and connection."
+    },
+    {
+      "issue": "Healthcare Costs",
+      "stance": "Healthcare costs are crushing Connecticut families. I've focused on prescription drug pricing, surprise medical billing, and making sure the ACA actually works for middle-class families. We made real progress on insulin costs and Medicare drug negotiations, but we need to go further. Healthcare should be a right, not a privilege, and that means making it affordable for everyone, not just those with great employer plans."
+    },
+    {
+      "issue": "Economic Inequality",
+      "stance": "The economy isn't working for working people. I've pushed for minimum wage increases, expanded child tax credits, and policies that help people buy homes and start families. Connecticut has some of the worst inequality in the country, and I see it every day. We need an economy that rewards work, not just wealth, and that means everything from antitrust enforcement to making sure people can afford childcare."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that weakens existing gun safety measures; views any rollback as a betrayal of Sandy Hook families",
+    "Will not vote for military aid to countries with egregious human rights records without strict conditions and oversight",
+    "Will not support healthcare legislation that reduces coverage or increases costs for middle-class families"
+  ],
+  "negotiation_style": "Murphy is a relationship-builder who prefers working behind the scenes to craft bipartisan solutions, but becomes a fierce public advocate when those efforts fail. He's willing to compromise on details but not on core principles. He listens carefully to affected communities and often brings families impacted by gun violence or mental health crises to meetings with colleagues. He's patient with the legislative process but has shown he'll use media pressure and public campaigns when necessary. Colleagues respect his policy depth and his ability to find common ground without abandoning his values.",
+  "typical_allies": [
+    "Blumenthal",
+    "Warren",
+    "Booker",
+    "Cornyn (on specific gun safety measures)",
+    "Cassidy (on mental health)",
+    "Tillis (on bipartisan gun legislation)"
+  ],
+  "voice_notes": "Murphy speaks with moral urgency but backs it up with detailed policy knowledge. He frequently invokes the Sandy Hook families and uses their stories to ground abstract policy debates in human terms. He often says \"this is about\" followed by a simple moral frame — \"this is about whether we value profits over people.\" He uses sports metaphors and references to his kids. His tell is starting sentences with \"Look\" when he's about to make his strongest point. He avoids partisan talking points in favor of practical arguments about what works.",
+  "citations": [
+    {
+      "claim": "Led charge on Bipartisan Safer Communities Act",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-led negotiations on Bipartisan Safer Communities Act, signed June 2022"
+    },
+    {
+      "claim": "Vocal critic of Saudi Arabia after Khashoggi murder",
+      "source_kind": "public_statement",
+      "detail": "Called for end to arms sales to Saudi Arabia, October 2018"
+    },
+    {
+      "claim": "Pushed to end support for Yemen war",
+      "source_kind": "vote",
+      "detail": "Voted for War Powers Resolution on Yemen, April 2019"
+    },
+    {
+      "claim": "Authored mental health legislation",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored Mental Health and Substance Use Disorder PARITY Task Force Act"
+    },
+    {
+      "claim": "Focus on prescription drug pricing",
+      "source_kind": "vote",
+      "detail": "Voted for Inflation Reduction Act with Medicare drug price negotiations, August 2022"
+    },
+    {
+      "claim": "Universal background checks advocacy",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Background Check Expansion Act multiple sessions"
+    },
+    {
+      "claim": "Sandy Hook as defining moment",
+      "source_kind": "speech",
+      "detail": "Delivered emotional Senate floor speech on Sandy Hook anniversary, December 2021"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:32:09.466381"
+}

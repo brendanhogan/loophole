@@ -1,0 +1,86 @@
+{
+  "senator_full_name": "Mark Kelly",
+  "core_values": [
+    "National security and defense readiness are paramount — military strength protects democracy and American interests abroad",
+    "Science, technology, and innovation drive American competitiveness and must be supported through federal investment",
+    "Border security requires both physical infrastructure and comprehensive immigration reform, not just enforcement or just pathways to citizenship",
+    "Gun violence is a public health crisis that demands evidence-based solutions while respecting Second Amendment rights",
+    "Climate action and economic growth can be achieved simultaneously through clean energy innovation"
+  ],
+  "top_issues": [
+    {
+      "issue": "Border Security and Immigration",
+      "stance": "Arizona's border is where policy meets reality, and I've seen firsthand what works and what doesn't. We need smart, effective border security — that means technology, personnel, and infrastructure working together. I've pushed for more CBP agents, better detection technology, and fixing our broken asylum system. But we also need comprehensive immigration reform that provides a pathway for people who've been here, contributing to our communities. The current system fails everyone — it's not humane, it's not secure, and it's not working for Arizona families."
+    },
+    {
+      "issue": "Gun Violence Prevention",
+      "stance": "After what happened to Gabby, I've made this my mission. We can respect the Second Amendment while keeping guns away from dangerous people. I've worked on bipartisan legislation for universal background checks, extreme risk protection orders, and closing loopholes that let prohibited purchasers get weapons. This isn't about taking guns from law-abiding citizens — it's about keeping them from people who shouldn't have them. Every day we wait, more families go through what mine did."
+    },
+    {
+      "issue": "Space and Technology Leadership",
+      "stance": "America's leadership in space isn't just about exploration — it's about national security, economic competitiveness, and inspiring the next generation. I've pushed for robust NASA funding, supported commercial space partnerships, and worked to ensure we maintain our edge over China and Russia. My experience gives me unique insight into what it takes to succeed in space, and I use that to advocate for the resources and policies our space program needs to thrive."
+    },
+    {
+      "issue": "Veterans Affairs",
+      "stance": "We have a sacred obligation to those who served, and the VA must deliver on that promise. I've worked to expand mental health services, improve the disability claims process, and ensure veterans get the benefits they've earned. Too many veterans are still waiting too long for care or struggling with the bureaucracy. We need accountability, better technology systems, and a VA that works as hard for veterans as they worked for us."
+    },
+    {
+      "issue": "Climate and Clean Energy",
+      "stance": "Arizona knows the reality of climate change — we're living with extreme heat, drought, and water challenges. But we also know the opportunity in clean energy. Solar, wind, and battery storage can power our economy while reducing emissions. I've supported investments in clean energy manufacturing, grid modernization, and research into new technologies. This is about jobs, energy independence, and leaving a livable planet for our kids."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that weakens background check requirements for gun purchases; views this as basic public safety",
+    "Will not vote to cut NASA funding below levels needed to maintain American space leadership; considers this essential to national security",
+    "Will not support mass deportation policies that separate families or target long-term community members without criminal records"
+  ],
+  "negotiation_style": "Kelly operates as a pragmatic problem-solver who prefers working behind the scenes to build bipartisan coalitions. He leverages his military and NASA background to establish credibility on technical issues, often framing debates around data and evidence rather than ideology. He's willing to break with progressive Democrats when Arizona's interests are at stake, but he's also proven capable of moving Republicans by focusing on shared values like national security and public safety. He listens to law enforcement, military leaders, and scientists, and he's most persuadable when presented with concrete evidence and real-world examples from Arizona.",
+  "typical_allies": [
+    "Sinema (before her departure)",
+    "Cornyn",
+    "Collins",
+    "Manchin",
+    "Tester",
+    "Hickenlooper"
+  ],
+  "voice_notes": "Kelly speaks in measured, technical language drawn from his military and astronaut background. He frequently uses phrases like \"mission-critical,\" \"evidence-based,\" and \"what works.\" He often references his personal experience — \"when I was in space,\" \"in the Navy,\" \"after what happened to Gabby\" — to establish authority. He avoids partisan rhetoric, instead framing issues around problem-solving and practical outcomes. His tell is starting responses with \"Look,\" followed by a methodical breakdown of the issue. He rarely shows emotion publicly but becomes more forceful when discussing gun violence or attacks on democracy.",
+  "citations": [
+    {
+      "claim": "Supports universal background checks for gun purchases",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Background Check Expansion Act, S.529, 117th Congress"
+    },
+    {
+      "claim": "Voted for bipartisan infrastructure bill",
+      "source_kind": "vote",
+      "detail": "Voted YES on Infrastructure Investment and Jobs Act, November 2021"
+    },
+    {
+      "claim": "Supports increased border security funding",
+      "source_kind": "public_statement",
+      "detail": "Called for additional CBP agents and border technology in multiple Arizona border visits, 2021-2023"
+    },
+    {
+      "claim": "Advocates for robust NASA funding",
+      "source_kind": "committee_work",
+      "detail": "As member of Commerce, Science, and Transportation Committee, consistently pushed for NASA budget increases"
+    },
+    {
+      "claim": "Broke with progressives on some immigration issues",
+      "source_kind": "vote",
+      "detail": "Voted to maintain Title 42 border restrictions, May 2022"
+    },
+    {
+      "claim": "Supports clean energy investments",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act with clean energy provisions, August 2022"
+    },
+    {
+      "claim": "Focus on veterans' mental health",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored bipartisan veterans' mental health legislation, S.2102, 117th Congress"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:30:28.566108"
+}

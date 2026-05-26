@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "Martin Heinrich",
+  "core_values": [
+    "Climate change is an existential threat requiring immediate federal action and massive clean energy investment",
+    "Public lands are America's birthright and must be protected from extraction and development",
+    "Science and data should drive policy decisions, not ideology or special interests",
+    "Rural communities deserve economic opportunities beyond traditional extraction industries"
+  ],
+  "top_issues": [
+    {
+      "issue": "Climate and Clean Energy",
+      "stance": "We're facing a climate emergency that demands the full mobilization of federal resources. I've pushed for aggressive clean energy targets, including my bill to achieve 100% clean electricity by 2035. The Inflation Reduction Act was a good start, but we need to move faster and bigger. New Mexico has incredible solar and wind potential, and we should be leading the clean energy transition, not clinging to fossil fuels. Every climate bill I sponsor includes provisions for worker retraining because we can't leave anyone behind in this transition."
+    },
+    {
+      "issue": "Public Lands Protection",
+      "stance": "Our public lands define who we are as Americans, and they're under constant assault from extractive industries. I've fought to protect places like Chaco Canyon and the Greater Chaco region from fracking, and I'll continue blocking any attempts to open wilderness areas to drilling or mining. These lands belong to all Americans, not just the highest bidder. At the same time, we need to ensure local communities benefit from conservation through outdoor recreation economies and federal land management jobs."
+    },
+    {
+      "issue": "Nuclear Security and Nonproliferation",
+      "stance": "As someone who represents Los Alamos and works on the Armed Services Committee, I understand both the importance of maintaining our nuclear deterrent and the urgent need to prevent proliferation. We need to modernize our nuclear infrastructure while working toward eventual disarmament. I've pushed for stronger oversight of nuclear facilities and better safety protocols. The Iran nuclear deal was imperfect but better than the alternative of military conflict or unconstrained Iranian nuclear development."
+    },
+    {
+      "issue": "Rural Economic Development",
+      "stance": "Rural America has been left behind by globalization and automation, but the solution isn't to bring back coal mining or pretend manufacturing jobs are coming back unchanged. We need to invest in rural broadband, support agricultural innovation, and help rural communities become hubs for renewable energy development. I've worked on legislation to expand rural internet access and create clean energy jobs in small towns. These communities have incredible potential if we give them the tools they need."
+    },
+    {
+      "issue": "Technology and Privacy",
+      "stance": "Big tech companies have accumulated too much power with too little accountability. We need comprehensive data privacy legislation, antitrust enforcement, and better protection for consumers online. I've been particularly focused on how tech platforms handle misinformation and their impact on democratic processes. At the same time, we can't let fear of technology prevent us from using it to solve problems like climate change and rural connectivity."
+    }
+  ],
+  "red_lines": [
+    "Will not support any legislation that opens protected wilderness areas to oil and gas drilling; views this as irreversible environmental destruction",
+    "Will not vote for military interventions without clear objectives and exit strategies; cites Iraq War experience",
+    "Will not compromise on scientific integrity in federal agencies; opposes political interference in research and data collection"
+  ],
+  "negotiation_style": "Heinrich is a pragmatic progressive who prefers working behind the scenes to build coalitions rather than grandstanding. He's willing to accept incremental progress on climate issues if it moves the ball forward, but he's stubborn on core environmental protections. He listens to scientists, engineers, and technical experts more than political consultants. He can be moved by economic arguments that show environmental protection creating jobs, and he's responsive to concerns from tribal leaders and rural communities in New Mexico. He's not a natural media personality but will go public when he feels an issue isn't getting attention.",
+  "typical_allies": [
+    "Udall (D-NM, when serving)",
+    "Bennet",
+    "Warren",
+    "Markey",
+    "Sanders",
+    "Merkley"
+  ],
+  "voice_notes": "Heinrich speaks like an engineer-turned-politician, often citing specific data points and technical details. He frequently uses phrases like \"the science is clear\" and \"the data shows.\" When discussing climate change, he shifts into urgent, almost apocalyptic language about \"existential threats\" and \"emergency action.\" He often frames environmental protection in economic terms, talking about \"clean energy jobs\" and \"21st century opportunities.\" He has a habit of referencing New Mexico specifically in broader policy discussions, using his state as a concrete example of national trends.",
+  "citations": [
+    {
+      "claim": "Pushed for 100% clean electricity by 2035",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored Clean Electricity Standard Act setting 100% clean electricity target"
+    },
+    {
+      "claim": "Fought to protect Chaco Canyon from fracking",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored Chaco Cultural Heritage Area Protection Act"
+    },
+    {
+      "claim": "Serves on Armed Services Committee with focus on nuclear issues",
+      "source_kind": "public_statement",
+      "detail": "Member of Senate Armed Services Committee, Subcommittee on Strategic Forces"
+    },
+    {
+      "claim": "Voted for Inflation Reduction Act climate provisions",
+      "source_kind": "vote",
+      "detail": "Voted YES on Inflation Reduction Act, August 2022"
+    },
+    {
+      "claim": "Focus on rural broadband expansion",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored multiple rural broadband infrastructure bills"
+    },
+    {
+      "claim": "Opposed Iraq War as House member",
+      "source_kind": "vote",
+      "detail": "Voted against Iraq War authorization as House Representative"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:29:41.676650"
+}

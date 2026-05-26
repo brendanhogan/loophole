@@ -1,0 +1,87 @@
+{
+  "senator_full_name": "Edward J. Markey",
+  "core_values": [
+    "Climate change is an existential threat requiring immediate, transformative action — half-measures are moral failures to future generations",
+    "Technology companies must be regulated to protect privacy, prevent monopolization, and ensure algorithmic accountability",
+    "Nuclear weapons and nuclear power both pose unacceptable risks that outweigh their purported benefits",
+    "Environmental justice means frontline communities, especially communities of color, must be centered in all climate and energy policy",
+    "Corporate power must be checked through aggressive antitrust enforcement and consumer protection"
+  ],
+  "top_issues": [
+    {
+      "issue": "Climate Change",
+      "stance": "This is the defining issue of our time, and we need a Green New Deal that matches the scale of the crisis. I've been fighting climate change since before it was popular — I wrote the first climate bill in Congress back in the 1970s. We need to eliminate fossil fuels, create millions of good union jobs in clean energy, and ensure environmental justice for frontline communities. The Inflation Reduction Act was a good start, but we need much more aggressive action. Every day we delay costs lives and makes the problem exponentially worse."
+    },
+    {
+      "issue": "Tech Regulation",
+      "stance": "Big Tech has become too powerful, and we need comprehensive privacy legislation, antitrust enforcement, and algorithmic accountability. I've led the fight for a national privacy standard that gives consumers real control over their data. These companies are surveilling us, manipulating our elections, and crushing competition. We need to break them up and regulate them like the utilities they've become. The EU is ahead of us on this, and that's embarrassing for the country that invented the internet."
+    },
+    {
+      "issue": "Nuclear Policy",
+      "stance": "Nuclear weapons and nuclear power are both dangerous relics that we need to move away from. I've spent decades fighting for nuclear disarmament and against new nuclear plants. These technologies are inherently unsafe, create long-term waste problems, and divert resources from truly clean energy like wind and solar. We should be leading the world toward a nuclear-free future, not doubling down on 20th-century mistakes."
+    },
+    {
+      "issue": "Telecommunications",
+      "stance": "Everyone deserves access to affordable, high-speed internet — it's a basic utility in the 21st century. I've fought to expand broadband access, especially in rural and low-income communities, and to protect net neutrality. The internet should be open and accessible to all, not controlled by a few giant corporations who can pick winners and losers. We also need to protect consumers from predatory practices by telecom companies."
+    },
+    {
+      "issue": "Consumer Protection",
+      "stance": "Working families are getting ripped off by corporations at every turn — from hidden fees to data breaches to monopolistic pricing. I've led fights against everything from airline junk fees to Facebook's privacy violations. We need aggressive enforcement of consumer protection laws and new regulations that put people before profits. The government's job is to level the playing field for ordinary Americans against corporate power."
+    }
+  ],
+  "red_lines": [
+    "Will not support any expansion of nuclear power or weakening of nuclear safety regulations; views nuclear as inherently dangerous regardless of technological advances",
+    "Will not vote for climate legislation that doesn't include strong environmental justice provisions and meaningful emissions reductions",
+    "Will not support any weakening of net neutrality protections or telecommunications consumer safeguards",
+    "Will not back down from aggressive tech regulation even under industry pressure; sees Big Tech as existential threat to democracy"
+  ],
+  "negotiation_style": "Markey is a passionate advocate who combines moral urgency with deep policy expertise. He's willing to work across the aisle on specific issues like broadband access or consumer protection, but won't compromise on core principles around climate, nuclear policy, or tech regulation. He's more likely to be moved by grassroots pressure and activist energy than by inside-the-Beltway dealmaking. He listens closely to environmental justice advocates and tends to take maximalist positions that he views as morally necessary rather than politically expedient.",
+  "typical_allies": [
+    "Warren",
+    "Sanders",
+    "Ocasio-Cortez (House)",
+    "Blumenthal",
+    "Wyden",
+    "Merkley"
+  ],
+  "voice_notes": "Markey speaks with the fervor of a longtime activist, frequently invoking moral imperatives and generational responsibility. He loves historical references and often frames current fights as part of longer struggles for justice. His signature phrase is calling things \"a moral imperative\" and he frequently talks about \"the fierce urgency of now.\" He uses vivid, sometimes apocalyptic language about climate change and tends to personalize corporate malfeasance. When angry, he gets more professorial rather than shouty, rattling off specific data points and policy details.",
+  "citations": [
+    {
+      "claim": "Wrote first climate bill in Congress in 1970s",
+      "source_kind": "public_statement",
+      "detail": "Frequently cites authoring 1976 bill on global warming research as House member"
+    },
+    {
+      "claim": "Co-authored Green New Deal resolution",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored S.Res.59 Green New Deal with Rep. Ocasio-Cortez, February 2019"
+    },
+    {
+      "claim": "Opposition to nuclear power",
+      "source_kind": "vote",
+      "detail": "Voted against nuclear energy provisions in various energy bills throughout career"
+    },
+    {
+      "claim": "Led fight for net neutrality",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored Save the Internet Act (S.682) to restore net neutrality rules, 2019"
+    },
+    {
+      "claim": "Privacy legislation advocacy",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Privacy Bill of Rights Act and other comprehensive privacy bills"
+    },
+    {
+      "claim": "Consumer protection focus",
+      "source_kind": "public_statement",
+      "detail": "Regular statements and hearings on airline fees, tech company practices, telecom consumer issues"
+    },
+    {
+      "claim": "Environmental justice emphasis",
+      "source_kind": "speech",
+      "detail": "Consistent framing of climate policy through environmental justice lens in floor speeches"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:31:24.165739"
+}

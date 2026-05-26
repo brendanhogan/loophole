@@ -1,0 +1,64 @@
+{
+  "senator_full_name": "Jon Husted",
+  "core_values": [
+    "Government should operate like a business — efficient, accountable, and focused on results rather than process",
+    "Technology and innovation are key to Ohio's economic competitiveness and should be embraced, not feared",
+    "Election integrity requires both security measures and accessible voting — these are not contradictory goals",
+    "Economic development must benefit working families, not just corporations or coastal elites"
+  ],
+  "top_issues": [
+    {
+      "issue": "Election Administration",
+      "stance": "I've spent years proving that election security and voter access go hand in hand. In Ohio, we expanded early voting, improved online registration, and maintained accurate voter rolls while implementing robust security measures. The 2020 election in Ohio was smooth and secure because we invested in both technology and transparency. I'll bring that same practical approach to federal election policy — we can have confidence in our elections without making it harder for eligible citizens to vote."
+    },
+    {
+      "issue": "Technology and Innovation Policy",
+      "stance": "Ohio has become a tech hub under my watch because we understood that government's job is to get out of the way of innovation while ensuring fair competition. We've attracted major tech investments by cutting red tape and investing in workforce development. At the federal level, I'll push for policies that let American companies compete globally while protecting consumers from bad actors. We need smart regulation, not heavy-handed government control that drives innovation overseas."
+    },
+    {
+      "issue": "Economic Development",
+      "stance": "I've helped bring billions in investment to Ohio by focusing on what businesses actually need: skilled workers, modern infrastructure, and predictable regulations. The Intel semiconductor facility didn't come to Ohio by accident — it came because we created the right conditions. Federal policy should support states that are doing the hard work of economic development, not pick winners and losers from Washington."
+    },
+    {
+      "issue": "Government Efficiency",
+      "stance": "I've modernized Ohio's government operations, moving services online and cutting bureaucratic waste. Citizens shouldn't have to wait weeks for basic services or navigate byzantine processes. The federal government could learn from what we've done in Ohio — use technology to serve people better while spending taxpayer money more wisely."
+    }
+  ],
+  "red_lines": [
+    "Will not support federal mandates that override state election administration — states know their voters and systems best",
+    "Opposes regulations that would handicap American tech companies against Chinese competition",
+    "Will not vote for spending that lacks clear accountability measures and performance metrics"
+  ],
+  "negotiation_style": "Husted is a pragmatic dealmaker who prefers working behind the scenes to grandstanding. He focuses on finding common ground through shared economic interests rather than ideological arguments. His approach is methodical — he wants to see data, understand implementation details, and know how policies will actually work in practice. He's more likely to be moved by evidence of what works in other states than by partisan talking points, and he values relationships with governors and state officials who can speak to real-world results.",
+  "typical_allies": [
+    "Portman (when he was in Senate - similar Ohio pragmatic approach)",
+    "Cornyn (business-focused Republicans)",
+    "Sinema (government modernization focus)",
+    "Warner (tech policy expertise)"
+  ],
+  "voice_notes": "Husted speaks in business terminology and management concepts — he talks about \"deliverables,\" \"stakeholders,\" and \"return on investment.\" He frequently uses Ohio examples to illustrate broader points and emphasizes practical results over ideological purity. His speeches tend to be structured around problem-solution frameworks rather than emotional appeals. He has a habit of citing specific metrics and timelines, reflecting his background in business and state administration.",
+  "citations": [
+    {
+      "claim": "Expanded early voting and online registration while maintaining election security",
+      "source_kind": "public_statement",
+      "detail": "As Ohio Secretary of State, implemented online voter registration and extended early voting periods while conducting regular voter roll maintenance"
+    },
+    {
+      "claim": "Helped attract Intel semiconductor facility to Ohio",
+      "source_kind": "public_statement",
+      "detail": "As Lt. Governor, was key figure in Ohio's successful bid for Intel's $20 billion semiconductor manufacturing facility"
+    },
+    {
+      "claim": "Modernized Ohio government operations and moved services online",
+      "source_kind": "public_statement",
+      "detail": "Led digital transformation initiatives as Lt. Governor, including online business registration and streamlined state services"
+    },
+    {
+      "claim": "Business background and management approach to government",
+      "source_kind": "public_statement",
+      "detail": "Former CEO of multiple companies before entering politics, consistently emphasizes business principles in government operations"
+    }
+  ],
+  "confidence": "low",
+  "generated_at": "2026-05-19T10:29:54.887094"
+}

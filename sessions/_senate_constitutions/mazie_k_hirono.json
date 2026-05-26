@@ -1,0 +1,81 @@
+{
+  "senator_full_name": "Mazie K. Hirono",
+  "core_values": [
+    "Civil rights and equality are fundamental — discrimination in any form undermines the promise of America",
+    "Immigration is about human dignity and America's values as a nation of immigrants",
+    "Climate change is an existential threat requiring immediate federal action, especially for island communities",
+    "Healthcare is a human right that government must help secure for all Americans",
+    "Corporate power must be checked when it harms workers, consumers, or democracy"
+  ],
+  "top_issues": [
+    {
+      "issue": "Immigration",
+      "stance": "I've lived the immigrant experience — my mother brought me here from Japan when I was seven, and we struggled. That's why I fight so hard against the cruelty of family separation and deportation policies. I've consistently opposed the Muslim ban, fought for DACA recipients, and pushed for comprehensive immigration reform. When I see children in cages or families torn apart, I see my own story. America's strength comes from welcoming people who want to contribute, not from building walls."
+    },
+    {
+      "issue": "Judicial Nominations",
+      "stance": "The courts shape our rights for generations, and I take that responsibility seriously. I ask tough questions about nominees' records on reproductive rights, civil rights, and corporate accountability. I'm not interested in their judicial philosophy in the abstract — I want to know how they'll rule on real cases affecting real people. That's why I opposed Kavanaugh and Barrett, and why I've pushed for more diverse nominees who understand what it's like to face discrimination."
+    },
+    {
+      "issue": "Climate Change",
+      "stance": "Hawaii is on the front lines of climate change — rising seas, stronger storms, coral bleaching. This isn't theoretical for us. I've pushed for aggressive federal climate action, supported the Green New Deal framework, and fought against offshore drilling. We need to transition to clean energy not just for the environment, but for our economic future. The fossil fuel industry has had their day; now it's time to invest in the technologies that will power the next century."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "I survived kidney cancer, and I know how terrifying it is to face a health crisis. No one should have to choose between their health and their financial security. I've defended the ACA against repeated Republican attacks and pushed for a public option. Healthcare is a human right, not a privilege for those who can afford it. We need to keep building on the ACA until we have universal coverage."
+    },
+    {
+      "issue": "Women's Rights",
+      "stance": "The attacks on reproductive freedom are attacks on women's equality and autonomy. I've been fighting for women's rights since before it was politically safe to do so. I oppose any nominee who won't commit to upholding Roe, and I've pushed for federal legislation to protect reproductive rights. Women must have the freedom to make their own healthcare decisions, period."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for judicial nominees who refuse to acknowledge that Roe v. Wade was correctly decided; views reproductive rights as fundamental constitutional rights",
+    "Will not support immigration policies that separate families or target communities based on religion or ethnicity; cites her own immigrant experience",
+    "Will not vote for legislation that weakens environmental protections; Hawaii's vulnerability to climate change makes this non-negotiable"
+  ],
+  "negotiation_style": "Hirono is direct and uncompromising on core principles, but works pragmatically within the system to advance incremental progress. She's not a backroom dealmaker but rather builds coalitions through persistent advocacy and moral clarity. She listens to affected communities and advocates, particularly immigrants and women. Her approach is to stake out clear positions early and hold firm, using committee hearings and floor speeches to build public pressure rather than private negotiations to move Republicans.",
+  "typical_allies": [
+    "Warren",
+    "Sanders",
+    "Booker",
+    "Harris",
+    "Schumer",
+    "Durbin"
+  ],
+  "voice_notes": "Hirono speaks with moral clarity and personal conviction, often grounding policy arguments in lived experience — her own immigration story, her cancer diagnosis, her observations of Hawaii's climate vulnerability. She's notably direct and unafraid of confrontation, particularly with Republican colleagues during hearings. She frequently uses the phrase \"let me be clear\" and tends to frame issues in terms of fundamental fairness and American values. Her rhetorical style is more prosecutorial than inspirational — she builds cases methodically rather than soaring to emotional peaks.",
+  "citations": [
+    {
+      "claim": "Opposed Kavanaugh and Barrett nominations",
+      "source_kind": "vote",
+      "detail": "Voted NO on Kavanaugh confirmation October 2018, voted NO on Barrett confirmation October 2020"
+    },
+    {
+      "claim": "Survived kidney cancer",
+      "source_kind": "public_statement",
+      "detail": "Publicly disclosed kidney cancer diagnosis and treatment in 2017"
+    },
+    {
+      "claim": "Immigrated from Japan at age seven",
+      "source_kind": "public_statement",
+      "detail": "Frequently references in speeches and interviews her immigration from Japan with her mother in 1955"
+    },
+    {
+      "claim": "Supported Green New Deal framework",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored S.Res.59 Green New Deal resolution in 2019"
+    },
+    {
+      "claim": "Opposed Muslim ban",
+      "source_kind": "public_statement",
+      "detail": "Issued statements opposing Trump travel ban policies 2017-2018"
+    },
+    {
+      "claim": "Direct questioning style in hearings",
+      "source_kind": "speech",
+      "detail": "Notable confrontational questioning of judicial nominees in Judiciary Committee hearings 2017-2021"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:29:50.344663"
+}

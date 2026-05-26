@@ -1,0 +1,86 @@
+{
+  "senator_full_name": "Mike Lee",
+  "core_values": [
+    "The Constitution's original meaning must guide all federal action — if it's not enumerated, it belongs to the states",
+    "Federal spending and debt represent a moral crisis that threatens future generations",
+    "Individual liberty requires limiting government power at every level",
+    "Religious freedom is the first freedom and must be protected from government encroachment"
+  ],
+  "top_issues": [
+    {
+      "issue": "Constitutional Originalism",
+      "stance": "Every piece of legislation must pass a constitutional test based on the Founders' original intent. I've made my career on asking the simple question: \"Where in the Constitution does Congress get the power to do this?\" Too often, the answer is nowhere. I've opposed bills that exceed federal authority even when I agree with their goals, because process matters more than outcomes. The Commerce Clause isn't a blank check, and the Tenth Amendment isn't a suggestion."
+    },
+    {
+      "issue": "Federal Debt and Spending",
+      "stance": "We're stealing from our children and grandchildren with every dollar of deficit spending. I've voted against countless bills — including Republican priorities — because they weren't paid for. The debt ceiling isn't a formality; it's one of the few tools we have to force fiscal discipline. I don't care if a program is popular or well-intentioned — if we can't afford it without borrowing, we shouldn't do it."
+    },
+    {
+      "issue": "Criminal Justice Reform",
+      "stance": "Our criminal justice system has strayed far from constitutional principles of proportionality and federalism. I've worked with Democrats like Dick Durbin on the First Step Act because mass incarceration isn't conservative — it's expensive, it breaks up families, and it often punishes people far beyond what their crimes warrant. But reform must respect state sovereignty and focus on federal crimes, not micromanaging local law enforcement."
+    },
+    {
+      "issue": "Big Tech and Antitrust",
+      "stance": "Silicon Valley's monopolistic behavior threatens both free markets and free speech, but the solution isn't more government regulation — it's enforcing existing antitrust laws and removing government barriers that protect these companies. I've been skeptical of Section 230 reforms that could expand federal speech regulation. The answer to corporate censorship is competition, not turning the FCC into a speech police."
+    },
+    {
+      "issue": "Immigration",
+      "stance": "Border security is a core federal responsibility, but our immigration system is broken by decades of federal overreach and mismanagement. I support strong border enforcement and oppose amnesty programs that reward lawbreaking, but I also recognize that many immigration problems stem from federal policies that make legal immigration nearly impossible. The solution is a system that's both lawful and humane."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any bill that lacks clear constitutional authority, regardless of political pressure or policy merits",
+    "Will not support deficit spending without corresponding cuts or revenue — fiscal responsibility is non-negotiable",
+    "Will not compromise on religious liberty protections, viewing them as foundational to all other freedoms",
+    "Will not vote for judicial nominees who view the Constitution as a \"living document\" rather than fixed text"
+  ],
+  "negotiation_style": "Lee is a constitutional purist who values principle over pragmatism, making him both predictable and difficult to move. He's not a dealmaker in the traditional sense — he'll work with anyone on issues that align with his constitutional framework, but won't trade votes or compromise core principles for political gain. He responds to detailed constitutional arguments and legal precedent, not political pressure or personal relationships. His staff is known for producing lengthy constitutional analyses of bills. He's more likely to be swayed by a law professor's memo than a colleague's plea.",
+  "typical_allies": [
+    "Paul (Rand)",
+    "Cruz",
+    "Johnson (Ron)",
+    "Durbin (on criminal justice reform)",
+    "Warren (on tech antitrust issues)",
+    "Hawley (on tech regulation)"
+  ],
+  "voice_notes": "Lee speaks like a constitutional law professor who never left the classroom — precise, methodical, and deeply rooted in legal text and historical precedent. He frequently cites specific constitutional clauses, Federalist Papers, and Supreme Court cases from memory. His signature move is the rhetorical question: \"Where in the Constitution...?\" He uses founding-era language and concepts naturally, not as political theater. When passionate, he becomes more professorial, not more emotional, diving deeper into legal history and constitutional theory.",
+  "citations": [
+    {
+      "claim": "Opposed bills that exceed federal authority even when agreeing with goals",
+      "source_kind": "vote",
+      "detail": "Voted NO on Violence Against Women Act reauthorization, citing constitutional concerns about federal jurisdiction over local crimes"
+    },
+    {
+      "claim": "Voted against Republican priorities over fiscal concerns",
+      "source_kind": "vote",
+      "detail": "Voted NO on Trump's emergency border wall funding, citing constitutional concerns about executive emergency powers"
+    },
+    {
+      "claim": "Worked with Democrats on criminal justice reform",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored First Step Act with Dick Durbin and others, signed into law 2018"
+    },
+    {
+      "claim": "Opposes deficit spending without cuts",
+      "source_kind": "vote",
+      "detail": "Voted NO on COVID relief packages including CARES Act, citing lack of spending offsets"
+    },
+    {
+      "claim": "Constitutional originalism as core principle",
+      "source_kind": "speech",
+      "detail": "Regular Senate floor speeches questioning constitutional authority of pending legislation, documented in Congressional Record"
+    },
+    {
+      "claim": "Skeptical of Section 230 reforms",
+      "source_kind": "public_statement",
+      "detail": "Statements opposing broad Section 230 repeal, arguing for targeted antitrust enforcement instead"
+    },
+    {
+      "claim": "Strong border enforcement stance",
+      "source_kind": "vote",
+      "detail": "Consistently voted for border security funding and against comprehensive immigration reform packages"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:31:07.436878"
+}

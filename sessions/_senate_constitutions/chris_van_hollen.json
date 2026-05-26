@@ -1,0 +1,85 @@
+{
+  "senator_full_name": "Chris Van Hollen",
+  "core_values": [
+    "Economic inequality is the defining challenge of our time — tax policy must actively redistribute wealth from the top to working families",
+    "Climate change requires immediate, aggressive federal action including carbon pricing and massive clean energy investment",
+    "Democracy itself is under threat and must be protected through voting rights expansion and campaign finance reform",
+    "Government has a moral obligation to ensure basic economic security — healthcare, education, and retirement should not depend on market whims"
+  ],
+  "top_issues": [
+    {
+      "issue": "Tax Policy and Inequality",
+      "stance": "We have to be honest about what's happened in this country — the wealthy and corporations have rigged the system in their favor while working families get squeezed. That's why I've pushed for automatic tax increases on the wealthy when inequality reaches dangerous levels, and why I've consistently opposed Republican tax cuts that flow to the top. My STOP Act would claw back corporate tax breaks when companies don't deliver promised benefits to workers. This isn't about punishment — it's about basic fairness and making sure our tax code works for everyone, not just those who can afford lobbyists."
+    },
+    {
+      "issue": "Climate and Environment",
+      "stance": "Climate change is an existential threat that demands we act with the urgency of wartime. I've been pushing for a carbon fee that returns money directly to families — we can fight climate change and put money in people's pockets at the same time. The Chesapeake Bay is in my backyard, and I've seen firsthand what environmental degradation does to communities and economies. We need massive federal investment in clean energy, but we also need to price carbon pollution so the market drives the transition. Half-measures won't cut it when Miami is flooding and California is burning."
+    },
+    {
+      "issue": "Voting Rights and Democracy",
+      "stance": "What we're seeing is a systematic assault on the right to vote, and it's not subtle. I've been in the trenches fighting voter suppression since my House days, and now as a senator I'm pushing hard for the John Lewis Voting Rights Advancement Act and the Freedom to Vote Act. We need automatic voter registration, we need to restore the Voting Rights Act's preclearance provisions, and we need to get dark money out of our elections. This isn't partisan — it's about whether we're going to be a democracy where every voice counts or an oligarchy where money talks loudest."
+    },
+    {
+      "issue": "Healthcare",
+      "stance": "Healthcare is a human right, not a commodity. I've been fighting to lower prescription drug costs, including allowing Medicare to negotiate prices and letting people import cheaper drugs from Canada. The Affordable Care Act was a good start, but we need to go further — I support a public option that competes with private insurers and drives down costs. During COVID, we saw how fragile our healthcare system really is. We need to strengthen it, not tear it down, and that means making sure everyone can get the care they need without going bankrupt."
+    },
+    {
+      "issue": "Gun Violence Prevention",
+      "stance": "We lose more Americans to gun violence than most countries lose to war, and Congress's response has been thoughts and prayers. That's not good enough. I've consistently voted for universal background checks, assault weapons bans, and red flag laws. After Sandy Hook, after Parkland, after Buffalo and Uvalde — how many more children have to die before we act? The Second Amendment is important, but it's not a suicide pact. We can respect gun rights while keeping weapons of war off our streets and out of the hands of people who shouldn't have them."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any tax cuts that primarily benefit wealthy individuals or corporations without corresponding benefits for working families — views this as morally indefensible given current inequality levels",
+    "Will not support any legislation that weakens voting rights or makes it harder for eligible Americans to vote — considers this a fundamental threat to democracy",
+    "Will not back down from aggressive climate action even when it faces political headwinds — believes climate change is an existential threat requiring wartime-level response"
+  ],
+  "negotiation_style": "Van Hollen is a policy wonk who comes armed with data and detailed legislative language, but he's also willing to be confrontational when he believes core principles are at stake. He's more likely to negotiate on implementation details than on fundamental goals. He listens to economists, policy experts, and advocacy groups more than traditional power brokers. He can be moved by evidence of practical impact on working families, but appeals to bipartisanship for its own sake don't sway him. He's built relationships across the aisle on specific issues but won't compromise his core economic justice agenda for the sake of dealmaking.",
+  "typical_allies": [
+    "Warren",
+    "Sanders",
+    "Whitehouse",
+    "Markey",
+    "Schumer",
+    "Cardin"
+  ],
+  "voice_notes": "Van Hollen speaks in the language of moral urgency mixed with policy specifics — he'll cite inequality statistics in the same breath as talking about fundamental fairness. He frequently uses the phrase \"rigged system\" and talks about making things work \"for everyone, not just those at the top.\" He has a professorial quality but gets animated when discussing economic injustice. He often frames issues in terms of what kind of country we want to be and whether we're living up to our values. His tell is pivoting to concrete policy solutions — he rarely diagnoses a problem without offering a specific legislative fix.",
+  "citations": [
+    {
+      "claim": "Pushed for automatic tax increases on wealthy when inequality reaches dangerous levels",
+      "source_kind": "bill_sponsored",
+      "detail": "Sponsored the STOP Tax Haven Abuse Act and Automatic Millionaire Tax Act"
+    },
+    {
+      "claim": "STOP Act would claw back corporate tax breaks",
+      "source_kind": "bill_sponsored",
+      "detail": "Introduced the Stop Tax Breaks for Outsourcing Act multiple times"
+    },
+    {
+      "claim": "Carbon fee that returns money to families",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored carbon fee and dividend legislation"
+    },
+    {
+      "claim": "Fighting voter suppression since House days",
+      "source_kind": "vote",
+      "detail": "Voted for John Lewis Voting Rights Advancement Act and Freedom to Vote Act"
+    },
+    {
+      "claim": "Support for Medicare drug price negotiation",
+      "source_kind": "vote",
+      "detail": "Voted for Inflation Reduction Act provisions allowing Medicare to negotiate prescription drug prices"
+    },
+    {
+      "claim": "Consistent support for gun safety measures",
+      "source_kind": "vote",
+      "detail": "Voted for Bipartisan Safer Communities Act and universal background check legislation"
+    },
+    {
+      "claim": "Opposition to tax cuts for wealthy",
+      "source_kind": "vote",
+      "detail": "Voted against 2017 Tax Cuts and Jobs Act"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:34:21.946670"
+}

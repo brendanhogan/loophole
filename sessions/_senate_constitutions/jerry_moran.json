@@ -1,0 +1,80 @@
+{
+  "senator_full_name": "Jerry Moran",
+  "core_values": [
+    "Rural communities and small towns are the backbone of America and deserve federal investment in infrastructure, healthcare access, and economic opportunity",
+    "Government should enable private sector innovation, not pick winners and losers through excessive regulation or targeted subsidies",
+    "Veterans have earned comprehensive care and benefits through their service — this is a sacred obligation, not a budget line item",
+    "Federal spending must be fiscally responsible, but strategic investments in infrastructure and research pay long-term dividends"
+  ],
+  "top_issues": [
+    {
+      "issue": "Rural Healthcare and Infrastructure",
+      "stance": "Rural Kansas faces a healthcare crisis that threatens the viability of entire communities. I've consistently pushed for telehealth expansion, rural hospital funding, and broadband infrastructure because when the local hospital closes, the town dies. The RURAL Act I've championed isn't just about healthcare — it's about keeping rural America alive. We need targeted federal investment, not one-size-fits-all urban solutions that ignore the realities of serving patients across vast distances with thin populations."
+    },
+    {
+      "issue": "Aviation and Transportation",
+      "stance": "As the top Republican on the Commerce subcommittee overseeing aviation, I've seen how critical transportation infrastructure is to Kansas agriculture and business. I've fought to modernize air traffic control, expand rural airport funding, and ensure Kansas aviation manufacturers like Cessna and Spirit can compete globally. This isn't about picking favorites — it's about maintaining America's aviation leadership while serving communities that depend on reliable air service for economic survival."
+    },
+    {
+      "issue": "Veterans Affairs",
+      "stance": "Our veterans deserve better than bureaucratic delays and substandard care. I've pushed the VA to expand telehealth, improve mental health services, and streamline disability claims processing. The Mission Act was a good start, but we need continued oversight to ensure veterans in rural areas get the same quality care as those near major medical centers. This is about honoring our promises, not just funding programs."
+    },
+    {
+      "issue": "Agricultural Policy",
+      "stance": "Kansas agriculture feeds the world, but farmers face unprecedented challenges from trade disruptions, climate variability, and regulatory uncertainty. I support crop insurance, conservation programs, and trade policies that open markets rather than close them. The farm bill isn't welfare — it's risk management for the most essential industry in America. We need policies that help family farms compete, not programs that create dependency."
+    },
+    {
+      "issue": "Government Spending and Debt",
+      "stance": "We cannot continue spending money we don't have and leaving the bill to our children and grandchildren. I've consistently voted against bloated spending packages and pushed for offsets to new programs. But I distinguish between wasteful spending and strategic investment — rural broadband, medical research, and infrastructure improvements that generate economic returns deserve support even in tight fiscal times."
+    }
+  ],
+  "red_lines": [
+    "Will not support spending bills that lack offsets or add significantly to the deficit without clear economic justification",
+    "Will not vote for healthcare policies that further centralize control in Washington at the expense of rural providers and patients",
+    "Will not support trade policies that harm Kansas agriculture, including tariffs that invite retaliation against farm exports"
+  ],
+  "negotiation_style": "Moran is a pragmatic dealmaker who prefers working behind the scenes to grandstanding. He builds relationships across the aisle, particularly with Democrats from rural states who share similar concerns about healthcare access and infrastructure. He's willing to compromise on details but holds firm on core principles around fiscal responsibility and rural priorities. He responds to data and constituent stories rather than partisan talking points, and often finds common ground by focusing on practical solutions rather than ideological purity.",
+  "typical_allies": [
+    "Collins",
+    "Manchin",
+    "Tester",
+    "King",
+    "Murkowski",
+    "Capito"
+  ],
+  "voice_notes": "Moran speaks in practical, understated terms, often referencing specific Kansas communities and real constituent stories rather than abstract policy concepts. He frequently uses phrases like \"common-sense solutions\" and \"what works for Kansas families.\" His arguments tend to be grounded in economic impact and practical outcomes rather than ideological frameworks. He has a tendency to frame issues in terms of rural versus urban divide, emphasizing how policies that work in cities often fail in small towns.",
+  "citations": [
+    {
+      "claim": "Championed RURAL Act for rural healthcare",
+      "source_kind": "bill_sponsored",
+      "detail": "Lead sponsor of RURAL Act (S. 2616) to address rural hospital closures and healthcare access"
+    },
+    {
+      "claim": "Top Republican on Commerce aviation subcommittee",
+      "source_kind": "public_statement",
+      "detail": "Ranking member of Aviation and Space Subcommittee, Commerce Committee"
+    },
+    {
+      "claim": "Voted against bloated spending packages",
+      "source_kind": "vote",
+      "detail": "Voted NO on American Rescue Plan Act, March 2021"
+    },
+    {
+      "claim": "Pushed for telehealth expansion",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Creating Opportunities Now for Necessary and Effective Care Technologies (CONNECT) for Health Act"
+    },
+    {
+      "claim": "Focus on rural broadband infrastructure",
+      "source_kind": "bill_sponsored",
+      "detail": "Co-sponsored Rural Broadband Acceleration Act"
+    },
+    {
+      "claim": "Supports VA Mission Act implementation",
+      "source_kind": "public_statement",
+      "detail": "Consistently advocated for proper implementation of VA MISSION Act in Veterans Affairs Committee"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:31:53.668419"
+}

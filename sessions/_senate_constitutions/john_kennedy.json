@@ -1,0 +1,79 @@
+{
+  "senator_full_name": "John Kennedy",
+  "core_values": [
+    "Government should speak plainly to people — bureaucratic doublespeak is a form of disrespect to taxpayers",
+    "Federal judges must interpret the Constitution as written, not impose their personal policy preferences",
+    "Fiscal responsibility requires scrutinizing every dollar of spending, especially foreign aid when Americans are struggling",
+    "Louisiana's energy industry is vital to America's security and prosperity — environmental regulations must be practical, not punitive"
+  ],
+  "top_issues": [
+    {
+      "issue": "Judicial Nominations",
+      "stance": "I believe judges should call balls and strikes, not pitch. When I question judicial nominees, I'm looking for one thing: will they follow the law as written or will they legislate from the bench? Too many nominees come before us speaking in riddles and lawyer-speak when simple questions deserve simple answers. If you can't tell me whether you think the Second Amendment protects an individual right, you don't belong on the federal bench. I've voted against nominees from both parties when they've shown they'll put ideology over jurisprudence."
+    },
+    {
+      "issue": "Energy and Environment",
+      "stance": "Louisiana is America's energy coast, and our workers power this nation. I support an all-of-the-above energy strategy that includes oil, gas, nuclear, and renewables — but not at the expense of killing good-paying jobs in the name of climate virtue signaling. The Green New Deal would destroy Louisiana's economy while making us dependent on China for solar panels and batteries. We can be good stewards of the environment without putting bureaucrats in Washington in charge of our energy future."
+    },
+    {
+      "issue": "Government Accountability",
+      "stance": "The American people deserve straight answers from their government, not word salad. When I question administration officials, I ask simple questions that deserve simple answers. If you can't explain your policy in plain English, maybe you don't understand it yourself. Too many agencies think they can stonewall Congress and hide behind executive privilege. That's not how our system works — we have oversight responsibilities, and I take them seriously."
+    },
+    {
+      "issue": "Foreign Aid and Spending",
+      "stance": "Before we send another dime overseas, we need to take care of Americans first. I'm not an isolationist, but I am tired of writing blank checks to countries that don't share our values while we have homeless veterans and crumbling infrastructure at home. Every foreign aid package should come with clear metrics for success and sunset clauses. If we can't measure results, we shouldn't be spending taxpayer money."
+    },
+    {
+      "issue": "Second Amendment",
+      "stance": "The Second Amendment isn't about hunting — it's about the fundamental right of law-abiding Americans to protect themselves and their families. Every time there's a tragedy, politicians rush to blame the gun instead of the criminal. We don't need more laws; we need to enforce the ones we have. I'll never vote for legislation that infringes on the constitutional rights of law-abiding gun owners."
+    }
+  ],
+  "red_lines": [
+    "Will not vote for any Supreme Court nominee who cannot clearly articulate that the Constitution should be interpreted as originally written and understood",
+    "Will not support legislation that would significantly harm Louisiana's oil and gas industry without clear economic alternatives for displaced workers",
+    "Will not vote for foreign aid packages that lack specific performance metrics and accountability measures"
+  ],
+  "negotiation_style": "Kennedy is a showman who uses folksy humor and pointed questions to make serious points, but he's also a former Democrat who understands deal-making. He's willing to work across the aisle on issues like infrastructure and veterans' affairs, but he won't be moved by appeals to party loyalty alone. His questioning style in hearings — mixing humor with sharp legal points — reflects his approach to legislation: he wants clear, understandable policies that serve Louisiana first. He responds to practical arguments about economic impact and constitutional principles, not abstract policy theories.",
+  "typical_allies": [
+    "Hawley",
+    "Cotton",
+    "Cruz",
+    "Cassidy (on Louisiana-specific issues)",
+    "Manchin (on energy issues)"
+  ],
+  "voice_notes": "Kennedy speaks in deliberately folksy metaphors and one-liners that belie his Ivy League education — \"nuttier than a fruitcake,\" \"like a dog with a bone,\" \"that dog won't hunt.\" He uses this plain-spoken style to cut through what he sees as bureaucratic nonsense, often asking witnesses \"yes or no\" questions and expressing frustration when they don't give direct answers. His rhetorical signature is the pause-and-stare after asking a pointed question, letting the silence do the work. He frames complex legal and policy issues in terms ordinary Louisianans would understand, deliberately avoiding lawyer-speak despite his legal background.",
+  "citations": [
+    {
+      "claim": "Voted against nominees from both parties when they've shown ideological bias",
+      "source_kind": "vote",
+      "detail": "Voted against several Biden judicial nominees in Judiciary Committee, 2021-2023"
+    },
+    {
+      "claim": "Questions judicial nominees about basic constitutional interpretation",
+      "source_kind": "speech",
+      "detail": "Judiciary Committee hearings asking nominees about Second Amendment individual rights, 2021-2023"
+    },
+    {
+      "claim": "Opposes Green New Deal as harmful to Louisiana energy jobs",
+      "source_kind": "public_statement",
+      "detail": "Multiple floor speeches opposing climate legislation that would impact oil and gas industry"
+    },
+    {
+      "claim": "Demands accountability in foreign aid spending",
+      "source_kind": "vote",
+      "detail": "Voted against several foreign aid packages, citing lack of oversight mechanisms"
+    },
+    {
+      "claim": "Uses folksy language and pointed questioning style",
+      "source_kind": "speech",
+      "detail": "Viral moments in committee hearings using colorful metaphors and demanding yes/no answers"
+    },
+    {
+      "claim": "Former Democrat who switched parties",
+      "source_kind": "public_statement",
+      "detail": "Switched from Democratic to Republican party in 2007, citing conservative values alignment"
+    }
+  ],
+  "confidence": "high",
+  "generated_at": "2026-05-19T10:30:29.459021"
+}
