@@ -1,0 +1,59 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Loophole v2 run outputs (logs, checkpoints, reports)
+runs/
+
+# Session data (runtime)
+sessions/*/
+# But keep the cached senator constitutions — reference data needed to run iterate
+!sessions/_senate_constitutions/
+!sessions/_senate_constitutions/**
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Local drafts
+tweet*.md
+plan.md
+context.md
+
+# Notes
+notes/
+senate-site/
+_deploy_*/
+
+# --- loophole-v2 method repo: keep summary/working docs and v1 reference OUT of git ---
+ANALYSIS.md
+EXPERIMENT.md
+EXPERIMENT_FR.md
+QA.md
+writeup_raw.md
+writeup_tweet.md
+loophole/
+examples/
+config.yaml
+README_v2.md
+# exploratory scripts (only the headline experiment is published)
+scripts/experiment.py
+scripts/analyze.py
+scripts/robustness_eval.py
+scripts/plot_experiment.py
+scripts/plot_experiment_avg.py
+scripts/smoke_*.py
+scripts/diag_*.py
+sbatch/run.sbatch
+sbatch/experiment.sbatch
+# but DO keep the published plots:
+!docs/
+scripts/demo_round0.py
+sessions/

@@ -1,0 +1,44 @@
+[project]
+name = "loophole-v2"
+version = "0.2.0"
+description = "Adversarial classifier training: a GAN-style min-max game that mines decision-boundary data with construction-guaranteed labels."
+requires-python = ">=3.12"
+dependencies = [
+    # ML stack (hand-rolled GRPO — no trl needed)
+    "torch==2.7.0",
+    "transformers>=4.51",
+    "accelerate>=1.0",
+    "peft>=0.13",
+    "datasets>=3.0",
+    "numpy>=1.26",
+    "scikit-learn>=1.4",
+    "matplotlib>=3.8",
+    # Constitution / config / CLI
+    "pyyaml>=6.0",
+    "pydantic>=2.0",
+    "typer>=0.9",
+    "rich>=13.0",
+    # Verifier V reuses loophole/llm.py (multi-provider)
+    "anthropic>=0.50.0",
+    "openai>=1.0",
+]
+
+[project.scripts]
+loophole-v2 = "loophole_v2.main:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+# Keep the v1 `loophole` package importable (we reuse loophole/llm.py for the verifier).
+packages = ["loophole_v2"]
+
+# Pull torch from the cu126 wheel index (matches the cluster's CUDA 12.6 driver).
+[[tool.uv.index]]
+name = "pytorch-cu126"
+url = "https://download.pytorch.org/whl/cu126"
+explicit = true
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu126" }
