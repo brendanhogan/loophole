@@ -143,13 +143,16 @@ logger = JsonlLogger(run_dir)
 adversary = Adversary(cfg.adversary_model, device=cfg.device, lr=cfg.grpo_lr) if mode == "grpo" \
     else GreedyAdversary(max_stack=3)
 novelty = NoveltyTable()
+C = Bow()  # round 0: UNTRAINED (random/unfit) -> predicts a coin flip -> ~0.5 accuracy
+logger.log("rounds", {"round": 0, "phase": "untrained", "false_refusal": false_refusal_rate(C),
+                      "general_acc": general_accuracy(C), "trigger_rate": None, "categories": 0})
 buffer = raw_seed(cfg.easy_per_round, rng)
-C = Bow()
-C.train([e.prompt for e in buffer], [e.label for e in buffer])
-logger.log("rounds", {"round": 0, "false_refusal": false_refusal_rate(C), "general_acc": general_accuracy(C), "trigger_rate": None, "categories": 0})
-print(f"[{mode} s{seed}] round 0 false_refusal={false_refusal_rate(C):.3f}")
+C.train([e.prompt for e in buffer], [e.label for e in buffer])  # round 1: seed bootstrap (no adversary)
+logger.log("rounds", {"round": 1, "phase": "seeded", "false_refusal": false_refusal_rate(C),
+                      "general_acc": general_accuracy(C), "trigger_rate": None, "categories": 0})
+print(f"[{mode} s{seed}] untrained acc={general_accuracy(Bow()):.2f} | seeded acc={general_accuracy(C):.2f}")
 
-for rnd in range(1, ROUNDS + 1):
+for rnd in range(2, ROUNDS + 2):
     mined, n_tot = [], 0
     for _ in range(GROUPS):
         goal = fr_goal(rng)
